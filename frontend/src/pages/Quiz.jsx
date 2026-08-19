@@ -132,12 +132,18 @@ function Quiz() {
   const subject = searchParams.get("subject") || "Mathematics";
   const chapter = searchParams.get("chapter") || "1";
 
+  const classBank = questionBanks[classNumber]?.[subject];
+
+  const chapterQuestions = Array.isArray(classBank)
+    ? classBank[chapter]
+    : null;
+
   const generatedQuestions =
     getQuestionBank(classNumber)?.[subject] || [];
 
   const questions =
-    questionBanks[classNumber]?.[subject]?.[chapter]?.length
-      ? questionBanks[classNumber][subject][chapter]
+    Array.isArray(chapterQuestions) && chapterQuestions.length > 0
+      ? chapterQuestions
       : generatedQuestions;
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -149,7 +155,7 @@ function Quiz() {
       <div className="container py-5">
         <button
           type="button"
-          className="btn btn-secondary mb-3"
+          className="btn btn-outline-secondary mb-4"
           onClick={() => navigate(-1)}
         >
           ← Back
@@ -251,9 +257,17 @@ function Quiz() {
   return (
     <div className="container py-5">
 
+      {/* Back Button */}
+      <button
+        type="button"
+        className="btn btn-outline-secondary mb-4"
+        onClick={() => navigate(-1)}
+      >
+        ← Back
+      </button>
+
       {/* Header */}
       <div className="text-center mb-4">
-
         <h1 className="fw-bold">
           🏆 Olympiad Quiz
         </h1>
@@ -261,15 +275,6 @@ function Quiz() {
         <p className="text-muted">
           Class {classNumber} • {subject} • Chapter {chapter}
         </p>
-
-        <button
-          type="button"
-          className="btn btn-secondary mb-3"
-          onClick={() => navigate(-1)}
-        >
-          ← Back
-        </button>
-
       </div>
 
       {/* Quiz Card */}
@@ -277,7 +282,6 @@ function Quiz() {
 
         {/* Question Info */}
         <div className="d-flex justify-content-between mb-4">
-
           <strong>
             Question {currentQuestion + 1} / {questions.length}
           </strong>
@@ -285,7 +289,6 @@ function Quiz() {
           <strong className="text-success">
             Score: {score}
           </strong>
-
         </div>
 
         {/* Question */}
@@ -297,22 +300,16 @@ function Quiz() {
         <div className="d-grid gap-3">
 
           {question.options.map((option, index) => {
-
             let buttonClass =
               "btn btn-outline-primary text-start";
 
             if (selectedAnswer !== null) {
-
               if (index === question.answer) {
-
                 buttonClass =
                   "btn btn-success text-start";
-
               } else if (index === selectedAnswer) {
-
                 buttonClass =
                   "btn btn-danger text-start";
-
               }
             }
 
@@ -333,23 +330,18 @@ function Quiz() {
 
         {/* Next / Finish */}
         {selectedAnswer !== null && (
-
           <button
             type="button"
             className="btn btn-primary mt-4"
             onClick={nextQuestion}
           >
-
             {currentQuestion === questions.length - 1
               ? "🏁 Finish Quiz"
               : "➡️ Next Question"}
-
           </button>
-
         )}
 
       </div>
-
     </div>
   );
 }
