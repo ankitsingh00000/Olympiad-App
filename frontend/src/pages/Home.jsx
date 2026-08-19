@@ -47,9 +47,8 @@ function Home() {
 
           <div className="col-md-5 text-center mt-4 mt-md-0">
 
-            <div
-              className="card shadow border-0 p-5"
-            >
+            <div className="card shadow border-0 p-5">
+
               <div className="display-1">
                 🧠
               </div>
@@ -61,6 +60,7 @@ function Home() {
               <p className="text-muted mb-0">
                 Classes 1–10
               </p>
+
             </div>
 
           </div>
@@ -74,53 +74,101 @@ function Home() {
 
         <h2 className="text-center fw-bold mb-4">
           Why Practice With Us?
-
-          <div className="text-center mt-5">
-  <Link
-    to="/dashboard"
-    className="btn btn-primary btn-lg"
-  >
-    📊 View My Progress
-  </Link>
-</div>
         </h2>
+
+        <div className="text-center mb-5">
+          <Link
+            to="/dashboard"
+            className="btn btn-primary btn-lg"
+          >
+            📊 View My Progress
+          </Link>
+        </div>
 
         <div className="row g-4">
 
+          {/* Chapter-wise Questions */}
           <div className="col-md-4">
-            <div className="card shadow-sm border-0 p-4 text-center h-100">
-              <div className="fs-1">📚</div>
-              <h5 className="fw-bold mt-3">
-                Chapter-wise Questions
-              </h5>
-              <p className="text-muted">
-                Practice questions topic by topic.
-              </p>
-            </div>
+            <Link
+              to="/classes"
+              className="text-decoration-none text-dark"
+            >
+              <div className="card shadow-sm border-0 p-4 text-center h-100">
+
+                <div className="fs-1">
+                  📚
+                </div>
+
+                <h5 className="fw-bold mt-3">
+                  Chapter-wise Questions
+                </h5>
+
+                <p className="text-muted">
+                  Practice questions topic by topic.
+                </p>
+
+                <span className="btn btn-primary">
+                  📚 Start Chapters →
+                </span>
+
+              </div>
+            </Link>
           </div>
 
+          {/* Practice Tests */}
           <div className="col-md-4">
-            <div className="card shadow-sm border-0 p-4 text-center h-100">
-              <div className="fs-1">🎯</div>
-              <h5 className="fw-bold mt-3">
-                Practice Tests
-              </h5>
-              <p className="text-muted">
-                Test your knowledge with quizzes.
-              </p>
-            </div>
+            <Link
+              to="/practice-tests"
+              className="text-decoration-none text-dark"
+            >
+              <div className="card shadow-sm border-0 p-4 text-center h-100">
+
+                <div className="fs-1">
+                  🎯
+                </div>
+
+                <h5 className="fw-bold mt-3">
+                  Practice Tests
+                </h5>
+
+                <p className="text-muted">
+                  Test your knowledge with quizzes.
+                </p>
+
+                <span className="btn btn-primary">
+                  🎯 Choose Class →
+                </span>
+
+              </div>
+            </Link>
           </div>
 
+          {/* Track Progress */}
           <div className="col-md-4">
-            <div className="card shadow-sm border-0 p-4 text-center h-100">
-              <div className="fs-1">📊</div>
-              <h5 className="fw-bold mt-3">
-                Track Progress
-              </h5>
-              <p className="text-muted">
-                See your scores and improvement.
-              </p>
-            </div>
+            <Link
+              to="/dashboard"
+              className="text-decoration-none text-dark"
+            >
+              <div className="card shadow-sm border-0 p-4 text-center h-100">
+
+                <div className="fs-1">
+                  📊
+                </div>
+
+                <h5 className="fw-bold mt-3">
+                  Track Progress
+                </h5>
+
+                <p className="text-muted">
+                  See your scores and improvement.
+                </p>
+
+                <span className="btn btn-primary">
+                  📊 View Progress →
+                </span>
+
+              </div>
+            </Link>
           </div>
 
         </div>

@@ -53,6 +53,10 @@ function Result() {
     }
   };
 
+  const handleProgress = () => {
+    navigate("/dashboard");
+  };
+
   return (
     <div className="container py-5">
 
@@ -67,6 +71,7 @@ function Result() {
           <p className="text-muted">
             Class {result.classNumber}
             {result.subject ? ` • ${result.subject}` : ""}
+            {result.chapter ? ` • Chapter ${result.chapter}` : ""}
           </p>
         )}
 
@@ -82,7 +87,7 @@ function Result() {
             {performanceIcon}
           </div>
 
-          {/* Title */}
+          {/* Performance Title */}
           <h1 className="fw-bold">
             {performanceTitle}
           </h1>
@@ -104,19 +109,23 @@ function Result() {
 
           </div>
 
-          {/* Progress */}
+          {/* Progress Bar */}
           <div
             className="progress mt-4"
-            style={{ height: "12px" }}
+            style={{ height: "14px" }}
           >
+
             <div
               className="progress-bar bg-success"
               role="progressbar"
-              style={{ width: `${percentage}%` }}
+              style={{
+                width: `${percentage}%`,
+              }}
               aria-valuenow={percentage}
               aria-valuemin="0"
               aria-valuemax="100"
             />
+
           </div>
 
           {/* Statistics */}
@@ -212,7 +221,15 @@ function Result() {
 
             <button
               type="button"
-              className="btn btn-primary btn-lg mb-2"
+              className="btn btn-primary btn-lg me-2 mb-2"
+              onClick={handleProgress}
+            >
+              📈 My Progress
+            </button>
+
+            <button
+              type="button"
+              className="btn btn-outline-primary btn-lg mb-2"
               onClick={handleBack}
             >
               📚 Back to Subjects

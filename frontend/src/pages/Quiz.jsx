@@ -74,7 +74,7 @@ const questionBanks = {
     "General Knowledge": gkClass3,
   },
 
-    4: {
+  4: {
     Mathematics: mathematicsClass4,
     Science: scienceClass4,
     English: englishClass4,
@@ -88,14 +88,14 @@ const questionBanks = {
     "General Knowledge": gkClass5,
   },
 
-    6: {
+  6: {
     Mathematics: mathematicsClass6,
     Science: scienceClass6,
     English: englishClass6,
     "General Knowledge": gkClass6,
   },
 
-    7: {
+  7: {
     Mathematics: mathematicsClass7,
     Science: scienceClass7,
     English: englishClass7,
@@ -122,7 +122,6 @@ const questionBanks = {
     English: englishClass10,
     "General Knowledge": gkClass10,
   },
-
 };
 
 function Quiz() {
@@ -134,7 +133,7 @@ function Quiz() {
   const chapter = searchParams.get("chapter") || "1";
 
   const generatedQuestions =
-  getQuestionBank(classNumber)?.[subject] || [];
+    getQuestionBank(classNumber)?.[subject] || [];
 
   const questions =
     questionBanks[classNumber]?.[subject]?.[chapter]?.length
@@ -144,13 +143,13 @@ function Quiz() {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [score, setScore] = useState(0);
-  const [finished, setFinished] = useState(false);
 
   if (questions.length === 0) {
     return (
       <div className="container py-5">
         <div className="alert alert-warning text-center">
           <h4>📚 Questions Coming Soon</h4>
+
           <p>
             Questions for {subject}, Chapter {chapter} are not available yet.
           </p>
@@ -171,83 +170,85 @@ function Quiz() {
     }
   };
 
- const nextQuestion = () => {
-  if (currentQuestion === questions.length - 1) {
-    const finalScore = score;
+  const nextQuestion = () => {
+    const isLastQuestion =
+      currentQuestion === questions.length - 1;
 
-    const percentage =
-      questions.length > 0
-        ? Math.round((finalScore / questions.length) * 100)
-        : 0;
+    if (isLastQuestion) {
+      const finalScore =
+        score + (selectedAnswer === question.answer ? 1 : 0);
 
-    const oldProgress = JSON.parse(
-      localStorage.getItem("olympiadProgress") || "[]"
-    );
+      const total = questions.length;
 
-    const newResult = {
-      classNumber,
-      subject,
-      chapter,
-      score: finalScore,
-      total: questions.length,
-      percentage,
-      date: new Date().toLocaleDateString(),
-    };
+      const percentage =
+        total > 0
+          ? Math.round((finalScore / total) * 100)
+          : 0;
 
-    localStorage.setItem(
-      "olympiadProgress",
-      JSON.stringify([...oldProgress, newResult])
-    );
+      // Existing progress
+      const oldProgress = JSON.parse(
+        localStorage.getItem("olympiadProgress") || "[]"
+      );
 
-    navigate(
-      `/result?score=${finalScore}&total=${questions.length}&class=${classNumber}&subject=${encodeURIComponent(
-        subject
-      )}&chapter=${chapter}`
-    );
+      // New result
+      const newResult = {
+        id: Date.now(),
 
-    return;
-  }
+        classNumber,
+        subject,
+        chapter,
 
-  setCurrentQuestion((prev) => prev + 1);
-  setSelectedAnswer(null);
-};
+        score: finalScore,
+        total,
 
-  const restartQuiz = () => {
-    setCurrentQuestion(0);
+        correct: finalScore,
+        wrong: total - finalScore,
+
+        percentage,
+
+        date: new Date().toLocaleDateString(),
+        timestamp: new Date().toISOString(),
+      };
+
+      localStorage.setItem(
+        "olympiadProgress",
+        JSON.stringify([
+          ...oldProgress,
+          newResult,
+        ])
+      );
+
+      // Send complete result to Result page
+      navigate("/result", {
+        state: {
+          score: finalScore,
+          total,
+
+          classNumber,
+          subject,
+          chapter,
+
+          percentage,
+
+          retryPath: `/quiz?class=${classNumber}&subject=${encodeURIComponent(
+            subject
+          )}&chapter=${chapter}`,
+        },
+      });
+
+      return;
+    }
+
+    setCurrentQuestion((prev) => prev + 1);
     setSelectedAnswer(null);
-    setScore(0);
-    setFinished(false);
   };
-
-  if (finished) {
-    return (
-      <div className="container py-5">
-        <div className="card shadow border-0 p-5 text-center">
-          <h1>🎉 Quiz Completed!</h1>
-
-          <p className="text-muted">
-            Class {classNumber} • {subject} • Chapter {chapter}
-          </p>
-
-          <h2 className="text-success">
-            Score: {score} / {questions.length}
-          </h2>
-
-          <button
-            className="btn btn-primary mt-4"
-            onClick={restartQuiz}
-          >
-            🔄 Try Again
-          </button>
-        </div>
-      </div>
-    );
-  }
 
   return (
     <div className="container py-5">
 
+      {/* Header */}
       <div className="text-center mb-4">
+
         <h1 className="fw-bold">
           🏆 Olympiad Quiz
         </h1>
@@ -255,11 +256,15 @@ function Quiz() {
         <p className="text-muted">
           Class {classNumber} • {subject} • Chapter {chapter}
         </p>
+
       </div>
 
+      {/* Quiz Card */}
       <div className="card shadow border-0 p-4">
 
+        {/* Question Info */}
         <div className="d-flex justify-content-between mb-4">
+
           <strong>
             Question {currentQuestion + 1} / {questions.length}
           </strong>
@@ -267,12 +272,15 @@ function Quiz() {
           <strong className="text-success">
             Score: {score}
           </strong>
+
         </div>
 
+        {/* Question */}
         <h3 className="fw-bold mb-4">
           {question.question}
         </h3>
 
+        {/* Options */}
         <div className="d-grid gap-3">
 
           {question.options.map((option, index) => {
@@ -281,18 +289,24 @@ function Quiz() {
               "btn btn-outline-primary text-start";
 
             if (selectedAnswer !== null) {
+
               if (index === question.answer) {
+
                 buttonClass =
                   "btn btn-success text-start";
+
               } else if (index === selectedAnswer) {
+
                 buttonClass =
                   "btn btn-danger text-start";
+
               }
             }
 
             return (
               <button
                 key={index}
+                type="button"
                 className={buttonClass}
                 onClick={() => handleAnswer(index)}
                 disabled={selectedAnswer !== null}
@@ -304,15 +318,21 @@ function Quiz() {
 
         </div>
 
+        {/* Next / Finish */}
         {selectedAnswer !== null && (
+
           <button
+            type="button"
             className="btn btn-primary mt-4"
             onClick={nextQuestion}
           >
+
             {currentQuestion === questions.length - 1
               ? "🏁 Finish Quiz"
               : "➡️ Next Question"}
+
           </button>
+
         )}
 
       </div>

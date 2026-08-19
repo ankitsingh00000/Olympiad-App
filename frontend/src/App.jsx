@@ -8,6 +8,7 @@ import Quiz from "./pages/Quiz.jsx";
 import Result from "./pages/Result.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import OverallPractice from "./pages/OverallPractice.jsx";
+import PracticeTests from "./pages/PracticeTests.jsx";
 
 // Overall Practice Question Banks
 import class1OverallPractice from "./data/questions/class1/class1overallpractice.js";
@@ -24,6 +25,7 @@ import class10OverallPractice from "./data/questions/class10/class10overallpract
 function App() {
   return (
     <BrowserRouter>
+
       <Routes>
 
         {/* Home */}
@@ -66,6 +68,12 @@ function App() {
         <Route
           path="/dashboard"
           element={<Dashboard />}
+        />
+
+        {/* Practice Tests */}
+        <Route
+          path="/practice-tests"
+          element={<PracticeTests />}
         />
 
         {/* ============================= */}
@@ -183,6 +191,7 @@ function App() {
         />
 
       </Routes>
+
     </BrowserRouter>
   );
 }
