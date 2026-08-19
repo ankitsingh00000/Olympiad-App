@@ -1,4 +1,6 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { useEffect } from "react";
+import { BrowserRouter, Routes, Route, useNavigate, useLocation } from "react-router-dom";
+import { App as CapacitorApp } from "@capacitor/app";
 
 import Home from "./pages/Home.jsx";
 import Classes from "./pages/Classes.jsx";
@@ -22,9 +24,34 @@ import class8OverallPractice from "./data/questions/class8/class8overallpractice
 import class9OverallPractice from "./data/questions/class9/class9overallpractice.js";
 import class10OverallPractice from "./data/questions/class10/class10overallpractice.js";
 
+function AppBackHandler() {
+  const navigate = useNavigate();
+  const location = useLocation();
+
+  useEffect(() => {
+    const backButtonListener = CapacitorApp.addListener(
+      "backButton",
+      ({ canGoBack }) => {
+        if (location.pathname !== "/") {
+          navigate(-1);
+        } else {
+          CapacitorApp.exitApp();
+        }
+      }
+    );
+
+    return () => {
+      backButtonListener.then((listener) => listener.remove());
+    };
+  }, [location.pathname, navigate]);
+
+  return null;
+}
+
 function App() {
   return (
     <BrowserRouter>
+      <AppBackHandler />
 
       <Routes>
 
@@ -76,11 +103,7 @@ function App() {
           element={<PracticeTests />}
         />
 
-        {/* ============================= */}
-        {/*       OVERALL PRACTICE         */}
-        {/* ============================= */}
-
-        {/* Class 1 */}
+        {/* Overall Practice - Class 1 */}
         <Route
           path="/overall-practice/1"
           element={
@@ -91,7 +114,7 @@ function App() {
           }
         />
 
-        {/* Class 2 */}
+        {/* Overall Practice - Class 2 */}
         <Route
           path="/overall-practice/2"
           element={
@@ -102,7 +125,7 @@ function App() {
           }
         />
 
-        {/* Class 3 */}
+        {/* Overall Practice - Class 3 */}
         <Route
           path="/overall-practice/3"
           element={
@@ -113,7 +136,7 @@ function App() {
           }
         />
 
-        {/* Class 4 */}
+        {/* Overall Practice - Class 4 */}
         <Route
           path="/overall-practice/4"
           element={
@@ -124,7 +147,7 @@ function App() {
           }
         />
 
-        {/* Class 5 */}
+        {/* Overall Practice - Class 5 */}
         <Route
           path="/overall-practice/5"
           element={
@@ -135,7 +158,7 @@ function App() {
           }
         />
 
-        {/* Class 6 */}
+        {/* Overall Practice - Class 6 */}
         <Route
           path="/overall-practice/6"
           element={
@@ -146,7 +169,7 @@ function App() {
           }
         />
 
-        {/* Class 7 */}
+        {/* Overall Practice - Class 7 */}
         <Route
           path="/overall-practice/7"
           element={
@@ -157,7 +180,7 @@ function App() {
           }
         />
 
-        {/* Class 8 */}
+        {/* Overall Practice - Class 8 */}
         <Route
           path="/overall-practice/8"
           element={
@@ -168,7 +191,7 @@ function App() {
           }
         />
 
-        {/* Class 9 */}
+        {/* Overall Practice - Class 9 */}
         <Route
           path="/overall-practice/9"
           element={
@@ -179,7 +202,7 @@ function App() {
           }
         />
 
-        {/* Class 10 */}
+        {/* Overall Practice - Class 10 */}
         <Route
           path="/overall-practice/10"
           element={
@@ -191,7 +214,6 @@ function App() {
         />
 
       </Routes>
-
     </BrowserRouter>
   );
 }

@@ -2334,7 +2334,7 @@ const class7OverallPractice = {
   {
     question: "What is the value of 5/9 × 18?",
     options: ["8", "9", "10", "12"],
-    answer: 1,
+    answer: 2,
   },
   {
     question: "Which type of blood cells are mainly responsible for fighting germs?",
