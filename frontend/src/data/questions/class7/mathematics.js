@@ -17204,6 +17204,21817 @@ const mathematicsClass7 = {
   },
 ],
 
+2: [
+  {
+    question: "A line segment AB is 12 cm long. Point C is exactly midway between A and B. What is AC?",
+    options: ["4 cm", "5 cm", "6 cm", "8 cm"],
+    answer: 2
+  },
+  {
+    question: "Which figure has exactly one endpoint and extends endlessly in one direction?",
+    options: ["Line", "Ray", "Line segment", "Angle"],
+    answer: 1
+  },
+  {
+    question: "An angle measuring 47° is classified as:",
+    options: ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+    answer: 0
+  },
+  {
+    question: "Which angle measures exactly 90°?",
+    options: ["Acute angle", "Obtuse angle", "Reflex angle", "Right angle"],
+    answer: 3
+  },
+  {
+    question: "An angle measuring 156° is:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 2
+  },
+  {
+    question: "What is the measure of a straight angle?",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 1
+  },
+  {
+    question: "Two angles form a right angle. If one angle is 34°, the other is:",
+    options: ["46°", "56°", "66°", "76°"],
+    answer: 1
+  },
+  {
+    question: "Two adjacent angles form a straight angle. If one is 72°, the other is:",
+    options: ["98°", "108°", "118°", "128°"],
+    answer: 1
+  },
+  {
+    question: "Which pair of angles has a sum of 90°?",
+    options: ["28° and 62°", "35° and 65°", "42° and 58°", "50° and 50°"],
+    answer: 0
+  },
+  {
+    question: "Which pair of angles has a sum of 180°?",
+    options: ["75° and 95°", "65° and 115°", "80° and 90°", "55° and 115°"],
+    answer: 1
+  },
+  {
+    question: "How many right angles make a straight angle?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "How many right angles make a complete angle?",
+    options: ["2", "3", "4", "6"],
+    answer: 2
+  },
+  {
+    question: "Which of the following is a reflex angle?",
+    options: ["75°", "135°", "180°", "225°"],
+    answer: 3
+  },
+  {
+    question: "An angle measuring 360° is called:",
+    options: ["Complete angle", "Straight angle", "Reflex angle", "Right angle"],
+    answer: 0
+  },
+  {
+    question: "Which angle is exactly half of a straight angle?",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "An angle is 25° less than a right angle. What is its measure?",
+    options: ["55°", "65°", "75°", "85°"],
+    answer: 2
+  },
+  {
+    question: "An angle is 35° more than a right angle. What is its measure?",
+    options: ["115°", "125°", "135°", "145°"],
+    answer: 1
+  },
+  {
+    question: "An angle is 40° less than a straight angle. Its measure is:",
+    options: ["120°", "130°", "140°", "150°"],
+    answer: 2
+  },
+  {
+    question: "An angle is 20° more than 90°. Its measure is:",
+    options: ["100°", "110°", "120°", "130°"],
+    answer: 1
+  },
+  {
+    question: "If two complementary angles are equal, each angle measures:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If two supplementary angles are equal, each angle measures:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "A line segment has:",
+    options: ["No endpoints", "One endpoint", "Two endpoints", "Three endpoints"],
+    answer: 2
+  },
+  {
+    question: "A line has:",
+    options: ["No endpoints", "One endpoint", "Two endpoints", "Four endpoints"],
+    answer: 0
+  },
+  {
+    question: "A ray has:",
+    options: ["No endpoints", "One endpoint", "Two endpoints", "Three endpoints"],
+    answer: 1
+  },
+  {
+    question: "How many lines can pass through two distinct points?",
+    options: ["One", "Two", "Three", "Infinitely many"],
+    answer: 0
+  },
+  {
+    question: "How many lines can pass through one point?",
+    options: ["One", "Two", "Ten", "Infinitely many"],
+    answer: 3
+  },
+  {
+    question: "Points lying on the same straight line are called:",
+    options: ["Parallel points", "Collinear points", "Equal points", "Adjacent points"],
+    answer: 1
+  },
+  {
+    question: "Two lines that never meet, even when extended, are called:",
+    options: ["Intersecting lines", "Perpendicular lines", "Parallel lines", "Curved lines"],
+    answer: 2
+  },
+  {
+    question: "Two lines that meet at one point are called:",
+    options: ["Parallel lines", "Intersecting lines", "Equal lines", "Horizontal lines"],
+    answer: 1
+  },
+  {
+    question: "Two perpendicular lines form:",
+    options: ["Acute angles", "Obtuse angles", "Right angles", "Straight angles"],
+    answer: 2
+  },
+  {
+    question: "Which symbol represents perpendicular lines?",
+    options: ["∥", "=", "⊥", "≠"],
+    answer: 2
+  },
+  {
+    question: "Which symbol represents parallel lines?",
+    options: ["⊥", "∠", "∥", "≠"],
+    answer: 2
+  },
+  {
+    question: "If two lines intersect at 90°, they are:",
+    options: ["Parallel", "Perpendicular", "Curved", "Collinear"],
+    answer: 1
+  },
+  {
+    question: "Which pair of lines can never intersect?",
+    options: ["Perpendicular lines", "Intersecting lines", "Parallel lines", "Crossing lines"],
+    answer: 2
+  },
+  {
+    question: "A pair of railway tracks is an example of:",
+    options: ["Parallel lines", "Perpendicular lines", "Intersecting lines", "Curved lines"],
+    answer: 0
+  },
+  {
+    question: "The opposite sides of a rectangle are:",
+    options: ["Always perpendicular", "Parallel", "Always curved", "Intersecting"],
+    answer: 1
+  },
+  {
+    question: "The adjacent sides of a square are:",
+    options: ["Parallel", "Perpendicular", "Curved", "Collinear"],
+    answer: 1
+  },
+  {
+    question: "If two lines are parallel, the distance between them is:",
+    options: ["Constant", "Always increasing", "Always decreasing", "Zero"],
+    answer: 0
+  },
+  {
+    question: "Which object represents a line segment most closely?",
+    options: ["A ruler", "A ray of light", "A complete road", "A circular track"],
+    answer: 0
+  },
+  {
+    question: "Which object represents a ray most closely?",
+    options: ["A pencil", "A ray of sunlight", "A closed circle", "A ruler"],
+    answer: 1
+  },
+  {
+    question: "If angle A = 38° and angle B = 52°, then A + B equals:",
+    options: ["80°", "90°", "100°", "110°"],
+    answer: 1
+  },
+  {
+    question: "If angle P = 117° and angle Q forms a straight angle with P, Q equals:",
+    options: ["53°", "63°", "73°", "83°"],
+    answer: 1
+  },
+  {
+    question: "An angle of 89° is:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 0
+  },
+  {
+    question: "An angle of 179° is:",
+    options: ["Acute", "Right", "Obtuse", "Reflex"],
+    answer: 2
+  },
+  {
+    question: "An angle of 181° is:",
+    options: ["Acute", "Obtuse", "Straight", "Reflex"],
+    answer: 3
+  },
+  {
+    question: "If an angle is 3 times 30°, its measure is:",
+    options: ["60°", "90°", "120°", "150°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 2 times 45°, its measure is:",
+    options: ["45°", "60°", "90°", "135°"],
+    answer: 2
+  },
+  {
+    question: "If one angle is 4 times another and their sum is 90°, the smaller angle is:",
+    options: ["18°", "20°", "22°", "24°"],
+    answer: 1
+  },
+  {
+    question: "If one angle is twice another and their sum is 90°, the smaller angle is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If one angle is three times another and their sum is 180°, the smaller angle is:",
+    options: ["45°", "50°", "60°", "90°"],
+    answer: 2
+  },
+  {
+    question: "Two adjacent angles are 65° and x°. If they form a straight angle, x is:",
+    options: ["105°", "115°", "125°", "135°"],
+    answer: 1
+  },
+  {
+    question: "Two adjacent angles are 48° and x°. If they form a right angle, x is:",
+    options: ["32°", "42°", "52°", "62°"],
+    answer: 1
+  },
+  {
+    question: "Three angles around a point are 80°, 120° and x°. Find x.",
+    options: ["140°", "150°", "160°", "170°"],
+    answer: 2
+  },
+  {
+    question: "Four angles around a point are 90°, 80°, 70° and x°. Find x.",
+    options: ["100°", "110°", "120°", "130°"],
+    answer: 1
+  },
+  {
+    question: "Angles around a point add up to:",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 3
+  },
+  {
+    question: "If three angles around a point are 90°, 90° and 60°, the fourth angle is:",
+    options: ["100°", "110°", "120°", "130°"],
+    answer: 2
+  },
+  {
+    question: "A full turn of a clock hand represents:",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 3
+  },
+  {
+    question: "A half turn represents:",
+    options: ["45°", "90°", "180°", "360°"],
+    answer: 2
+  },
+  {
+    question: "A quarter turn represents:",
+    options: ["45°", "90°", "180°", "270°"],
+    answer: 1
+  },
+  {
+    question: "A clock hand moving from 12 to 3 makes an angle of:",
+    options: ["45°", "90°", "120°", "180°"],
+    answer: 1
+  },
+  {
+    question: "A clock hand moving from 12 to 6 makes an angle of:",
+    options: ["90°", "120°", "180°", "270°"],
+    answer: 2
+  },
+  {
+    question: "A clock hand moving from 12 to 9 makes a smaller angle of:",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 0
+  },
+  {
+    question: "The smaller angle between clock hands at 3 o'clock is:",
+    options: ["45°", "90°", "180°", "270°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is smaller than 90°?",
+    options: ["91°", "100°", "89°", "180°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is greater than 180° but less than 360°?",
+    options: ["150°", "180°", "240°", "90°"],
+    answer: 2
+  },
+  {
+    question: "Which of these cannot be an acute angle?",
+    options: ["1°", "45°", "89°", "90°"],
+    answer: 3
+  },
+  {
+    question: "Which of these cannot be an obtuse angle?",
+    options: ["100°", "120°", "179°", "90°"],
+    answer: 3
+  },
+  {
+    question: "Which of these cannot be a reflex angle?",
+    options: ["181°", "250°", "359°", "180°"],
+    answer: 3
+  },
+  {
+    question: "An angle of 0° represents:",
+    options: ["No opening", "A right angle", "A straight angle", "A complete angle"],
+    answer: 0
+  },
+  {
+    question: "If two rays have the same endpoint but point in exactly opposite directions, they form:",
+    options: ["A right angle", "A straight angle", "An acute angle", "A reflex angle"],
+    answer: 1
+  },
+  {
+    question: "The common endpoint of the two rays forming an angle is called:",
+    options: ["Arm", "Vertex", "Line", "Midpoint"],
+    answer: 1
+  },
+  {
+    question: "The two rays forming an angle are called its:",
+    options: ["Vertices", "Centers", "Arms", "Midpoints"],
+    answer: 2
+  },
+  {
+    question: "In ∠ABC, which point is the vertex?",
+    options: ["A", "B", "C", "All three"],
+    answer: 1
+  },
+  {
+    question: "In ∠PQR, the arms are:",
+    options: ["PQ and QR", "PQ and PR", "QP and QR", "PR and QR"],
+    answer: 2
+  },
+  {
+    question: "Which notation correctly names an angle with vertex B?",
+    options: ["∠ABC", "∠BAC", "∠ACB", "∠A"],
+    answer: 0
+  },
+  {
+    question: "If ∠ABC = 60°, then ∠CBA is:",
+    options: ["30°", "60°", "120°", "180°"],
+    answer: 1
+  },
+  {
+    question: "A line segment can be measured because it has:",
+    options: ["No endpoints", "A fixed length", "Infinite length", "Only one point"],
+    answer: 1
+  },
+  {
+    question: "A line extends:",
+    options: ["In one direction only", "In both directions endlessly", "Only between two points", "In no direction"],
+    answer: 1
+  },
+  {
+    question: "A ray extends endlessly:",
+    options: ["In both directions", "In one direction", "In no direction", "Only between two endpoints"],
+    answer: 1
+  },
+  {
+    question: "If AB = 15 cm and AC = 9 cm, with C between A and B, then CB is:",
+    options: ["4 cm", "5 cm", "6 cm", "7 cm"],
+    answer: 2
+  },
+  {
+    question: "A segment is 20 cm long. A point divides it into parts of 7 cm and x cm. Find x.",
+    options: ["11 cm", "12 cm", "13 cm", "14 cm"],
+    answer: 2
+  },
+  {
+    question: "A 24 cm segment is divided into three equal parts. Each part is:",
+    options: ["6 cm", "8 cm", "10 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "A 30 cm segment is divided into five equal parts. Each part measures:",
+    options: ["5 cm", "6 cm", "7 cm", "8 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = BC and AB = 7 cm, then AC, when B lies between A and C, is:",
+    options: ["7 cm", "10 cm", "14 cm", "21 cm"],
+    answer: 2
+  },
+  {
+    question: "Which statement is true for a line segment?",
+    options: ["It has no endpoints", "It has exactly two endpoints", "It has one endpoint", "It has infinitely many endpoints"],
+    answer: 1
+  },
+  {
+    question: "Which statement is true for parallel lines?",
+    options: ["They always meet", "They meet at 90°", "They never meet", "They have only one common point"],
+    answer: 2
+  },
+  {
+    question: "Which statement is true for perpendicular lines?",
+    options: ["They meet at 90°", "They never meet", "They are always curved", "They meet at 180°"],
+    answer: 0
+  },
+  {
+    question: "If two lines intersect, how many common points do they have?",
+    options: ["None", "Exactly one", "Exactly two", "Infinitely many"],
+    answer: 1
+  },
+  {
+    question: "Two distinct parallel lines have how many common points?",
+    options: ["0", "1", "2", "Infinitely many"],
+    answer: 0
+  },
+  {
+    question: "Which pair of lines can form four right angles when they intersect?",
+    options: ["Parallel lines", "Perpendicular lines", "Curved lines", "Collinear lines"],
+    answer: 1
+  },
+  {
+    question: "If two perpendicular lines intersect, the four angles formed are:",
+    options: ["All acute", "All obtuse", "All right angles", "Two acute and two obtuse"],
+    answer: 2
+  },
+  {
+    question: "A square has how many pairs of parallel sides?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has how many right angles?",
+    options: ["1", "2", "3", "4"],
+    answer: 3
+  },
+  {
+    question: "How many right angles are formed at the intersection of two perpendicular lines?",
+    options: ["1", "2", "3", "4"],
+    answer: 3
+  },
+  {
+    question: "If an angle is 15° and another is 75°, together they form:",
+    options: ["An acute angle", "A right angle", "An obtuse angle", "A straight angle"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 110° and another is 70°, together they form:",
+    options: ["A right angle", "An acute angle", "A straight angle", "A reflex angle"],
+    answer: 2
+  },
+  {
+    question: "Two angles are complementary. If one is 3 times the other, the smaller angle is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "Two angles are supplementary. If one is 3 times the other, the smaller angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 2
+  },
+  {
+    question: "An angle of 72° is split into two equal angles. Each part is:",
+    options: ["24°", "30°", "36°", "42°"],
+    answer: 2
+  },
+  {
+    question: "An angle of 150° is split into two equal angles. Each part is:",
+    options: ["65°", "70°", "75°", "80°"],
+    answer: 2
+  },
+  {
+    question: "An angle of 120° is split into three equal angles. Each part is:",
+    options: ["30°", "40°", "50°", "60°"],
+    answer: 1
+  },
+  {
+    question: "An angle of 180° is divided into three equal angles. Each angle is:",
+    options: ["45°", "50°", "60°", "90°"],
+    answer: 2
+  },
+  {
+    question: "An angle of 90° is divided into five equal parts. Each part is:",
+    options: ["15°", "18°", "20°", "25°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is closest to but less than 90°?",
+    options: ["89°", "91°", "88°", "85°"],
+    answer: 0
+  },
+  {
+    question: "Which angle is closest to but greater than 90°?",
+    options: ["89°", "90°", "91°", "95°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is closest to but less than 180°?",
+    options: ["170°", "175°", "179°", "181°"],
+    answer: 2
+  },
+  {
+    question: "If the measure of an angle doubles from 35°, the new angle is:",
+    options: ["60°", "65°", "70°", "75°"],
+    answer: 2
+  },
+  {
+    question: "If an angle of 120° is reduced by 35°, the new angle is:",
+    options: ["75°", "85°", "95°", "105°"],
+    answer: 1
+  },
+  {
+    question: "If an angle of 55° is increased by 40°, the new angle is:",
+    options: ["85°", "90°", "95°", "105°"],
+    answer: 2
+  },
+  {
+    question: "An angle is 5 times 18°. What type of angle is it?",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 3
+  },
+  {
+    question: "An angle is 2 times 75°. What type of angle is it?",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 3
+  },
+  {
+    question: "An angle is 3 times 40°. What type of angle is it?",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 3
+  },
+  {
+    question: "Which of the following pairs can form a right angle?",
+    options: ["22° and 68°", "25° and 75°", "35° and 65°", "40° and 60°"],
+    answer: 0
+  },
+  {
+    question: "Which pair cannot form a straight angle?",
+    options: ["90° and 90°", "100° and 80°", "120° and 60°", "110° and 60°"],
+    answer: 3
+  },
+  {
+    question: "If one angle is 10° smaller than another and their sum is 90°, the smaller angle is:",
+    options: ["35°", "40°", "45°", "50°"],
+    answer: 1
+  },
+  {
+    question: "If one angle is 20° larger than another and their sum is 180°, the smaller angle is:",
+    options: ["70°", "80°", "90°", "100°"],
+    answer: 1
+  },
+  {
+    question: "Two adjacent angles differ by 30° and form a right angle. The smaller angle is:",
+    options: ["20°", "30°", "40°", "50°"],
+    answer: 1
+  },
+  {
+    question: "Two adjacent angles differ by 40° and form a straight angle. The smaller angle is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "Three angles form a straight angle. They are 30°, 50° and x°. Find x.",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 1
+  },
+  {
+    question: "Four angles around a point are equal. Each angle measures:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Six equal angles around a point each measure:",
+    options: ["45°", "60°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "Eight equal angles around a point each measure:",
+    options: ["30°", "40°", "45°", "50°"],
+    answer: 2
+  },
+  {
+    question: "If a ray divides a 180° angle into two equal parts, each part is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "A right angle is divided into angles of 20° and x°. Find x.",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "A straight angle is divided into angles of 45°, 65° and x°. Find x.",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 2
+  },
+  {
+    question: "A complete angle is divided into four angles of 80°, 90°, 100° and x°. Find x.",
+    options: ["80°", "90°", "100°", "110°"],
+    answer: 0
+  },
+  {
+    question: "Which statement about a ray is correct?",
+    options: ["It has two endpoints", "It has one endpoint and extends endlessly", "It has no endpoint and finite length", "It always forms a right angle"],
+    answer: 1
+  },
+  {
+    question: "Which statement about a line is correct?",
+    options: ["It has two endpoints", "It has one endpoint", "It extends endlessly in both directions", "It always has length 1 cm"],
+    answer: 2
+  },
+  {
+    question: "Which statement about an angle is correct?",
+    options: ["It is formed by two rays with a common endpoint", "It always measures 90°", "It has no vertex", "It must be a straight line"],
+    answer: 0
+  },
+  {
+    question: "If two rays have a common endpoint and form 90°, the angle is:",
+    options: ["Acute", "Right", "Obtuse", "Reflex"],
+    answer: 1
+  },
+  {
+    question: "If two rays form an angle of 135°, the angle is:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 2
+  },
+  {
+    question: "If two rays form an angle of 30°, the angle is:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 0
+  },
+  {
+    question: "If two rays form an angle of 200°, the angle is:",
+    options: ["Acute", "Obtuse", "Straight", "Reflex"],
+    answer: 3
+  },
+  {
+    question: "Which angle is the greatest?",
+    options: ["89°", "179°", "269°", "359°"],
+    answer: 3
+  },
+  {
+    question: "Which angle is the smallest?",
+    options: ["15°", "45°", "90°", "180°"],
+    answer: 0
+  },
+  {
+    question: "The complement of 28° is:",
+    options: ["52°", "62°", "72°", "82°"],
+    answer: 1
+  },
+  {
+    question: "The complement of 64° is:",
+    options: ["16°", "26°", "36°", "46°"],
+    answer: 1
+  },
+  {
+    question: "The supplement of 47° is:",
+    options: ["123°", "133°", "143°", "153°"],
+    answer: 2
+  },
+  {
+    question: "The supplement of 118° is:",
+    options: ["52°", "62°", "72°", "82°"],
+    answer: 0
+  },
+  {
+    question: "If an angle has complement 35°, the angle is:",
+    options: ["45°", "55°", "65°", "75°"],
+    answer: 1
+  },
+  {
+    question: "If an angle has supplement 75°, the angle is:",
+    options: ["95°", "105°", "115°", "125°"],
+    answer: 1
+  },
+  {
+    question: "An angle and its complement are in the ratio 2:1. The larger angle is:",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2
+  },
+  {
+    question: "Two supplementary angles are in the ratio 2:1. The larger angle is:",
+    options: ["90°", "100°", "120°", "135°"],
+    answer: 2
+  },
+  {
+    question: "Two complementary angles are in the ratio 1:2. The smaller angle is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "Two supplementary angles are in the ratio 1:5. The smaller angle is:",
+    options: ["20°", "30°", "40°", "50°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 72°, its complement is:",
+    options: ["8°", "18°", "28°", "38°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 72°, its supplement is:",
+    options: ["98°", "108°", "118°", "128°"],
+    answer: 1
+  },
+  {
+    question: "Which pair contains one acute and one obtuse angle whose sum is 180°?",
+    options: ["45° and 135°", "90° and 90°", "60° and 60°", "30° and 30°"],
+    answer: 0
+  },
+  {
+    question: "Which pair contains two acute angles whose sum is 90°?",
+    options: ["20° and 70°", "30° and 80°", "40° and 60°", "50° and 50°"],
+    answer: 0
+  },
+  {
+    question: "A 360° turn is divided into 12 equal parts. Each part is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "A 360° turn is divided into 9 equal parts. Each part is:",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 1
+  },
+  {
+    question: "A 180° turn is divided into 6 equal parts. Each part is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "A 90° turn is divided into 3 equal parts. Each part is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If a line is divided by two points into three segments, how many points are marked on the line?",
+    options: ["2", "3", "4", "5"],
+    answer: 0
+  },
+  {
+    question: "Three distinct collinear points A, B and C can form how many different line segments?",
+    options: ["2", "3", "4", "6"],
+    answer: 1
+  },
+  {
+    question: "Four distinct collinear points can form how many different line segments?",
+    options: ["4", "5", "6", "8"],
+    answer: 2
+  },
+  {
+    question: "Five distinct collinear points can form how many different line segments?",
+    options: ["5", "10", "15", "20"],
+    answer: 2
+  },
+  {
+    question: "Three rays with the same endpoint can form how many different pairs of rays?",
+    options: ["2", "3", "4", "6"],
+    answer: 1
+  },
+  {
+    question: "If two perpendicular lines intersect, how many rays are formed from the intersection point?",
+    options: ["2", "3", "4", "6"],
+    answer: 2
+  },
+  {
+    question: "If two opposite rays form a straight line, how many right angles are formed by adding a perpendicular ray at their common endpoint?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "Which pair of lines appears on the opposite sides of a ladder's rungs when the ladder is drawn normally?",
+    options: ["Parallel lines", "Perpendicular lines", "Intersecting lines", "Curved lines"],
+    answer: 0
+  },
+  {
+    question: "The hands of a clock at 6 o'clock form:",
+    options: ["An acute angle", "A right angle", "A straight angle", "A reflex angle"],
+    answer: 2
+  },
+  {
+    question: "The hands of a clock at 9 o'clock form:",
+    options: ["An acute angle", "A right angle", "An obtuse angle", "A straight angle"],
+    answer: 1
+  },
+  {
+    question: "At 12 o'clock, the angle between the two clock hands is:",
+    options: ["0°", "45°", "90°", "180°"],
+    answer: 0
+  },
+  {
+    question: "A road running exactly north-south and another running exactly east-west meet at:",
+    options: ["45°", "60°", "90°", "180°"],
+    answer: 2
+  },
+  {
+    question: "If a 100° angle is divided into two equal angles, each angle is:",
+    options: ["40°", "50°", "60°", "70°"],
+    answer: 1
+  },
+  {
+    question: "If a 144° angle is divided into four equal angles, each angle is:",
+    options: ["24°", "36°", "48°", "54°"],
+    answer: 1
+  },
+  {
+    question: "If a 210° reflex angle is divided into three equal parts, each part is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "An angle is increased from 75° to 135°. By how many degrees did it increase?",
+    options: ["50°", "60°", "70°", "80°"],
+    answer: 1
+  },
+  {
+    question: "An angle is decreased from 165° to 95°. By how many degrees did it decrease?",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is exactly 3/4 of a straight angle?",
+    options: ["90°", "120°", "135°", "150°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is exactly 1/3 of a complete angle?",
+    options: ["90°", "120°", "150°", "180°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is exactly 1/6 of a complete angle?",
+    options: ["45°", "60°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is exactly 2/3 of a straight angle?",
+    options: ["90°", "100°", "120°", "150°"],
+    answer: 2
+  },
+  {
+    question: "If one angle is 72° and another is its complement, their average is:",
+    options: ["45°", "50°", "54°", "60°"],
+    answer: 0
+  },
+  {
+    question: "If two supplementary angles differ by 40°, the smaller angle is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If two complementary angles differ by 20°, the smaller angle is:",
+    options: ["25°", "30°", "35°", "40°"],
+    answer: 2
+  },
+  {
+    question: "If two angles are equal and together form 180°, each angle is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "If two angles are equal and together form 90°, each angle is:",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 1
+  },
+  {
+    question: "Which of the following is NOT a type of angle based on its measure?",
+    options: ["Acute", "Right", "Parallel", "Obtuse"],
+    answer: 2
+  },
+  {
+    question: "Which angle has the largest opening?",
+    options: ["45°", "90°", "135°", "180°"],
+    answer: 3
+  },
+  {
+    question: "Which angle has the smallest opening?",
+    options: ["20°", "40°", "60°", "80°"],
+    answer: 0
+  },
+  {
+    question: "If two lines are perpendicular, each angle formed at their intersection is:",
+    options: ["45°", "60°", "90°", "180°"],
+    answer: 2
+  },
+  {
+    question: "If two lines intersect but are not perpendicular, the angles formed need not all be:",
+    options: ["Equal", "Angles", "At a point", "Measured"],
+    answer: 0
+  },
+  {
+    question: "A square has four sides. How many pairs of opposite sides are parallel?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has four vertices. The angle at each vertex is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which shape has opposite sides parallel and all four angles right angles?",
+    options: ["Triangle", "Rectangle", "Circle", "Line"],
+    answer: 1
+  },
+  {
+    question: "If a line segment is 18 cm and is divided into two equal parts, each part is:",
+    options: ["6 cm", "8 cm", "9 cm", "12 cm"],
+    answer: 2
+  },
+  {
+    question: "If AB = 10 cm, BC = 7 cm and B lies between A and C, then AC is:",
+    options: ["3 cm", "13 cm", "17 cm", "70 cm"],
+    answer: 1
+  },
+  {
+    question: "If AC = 20 cm and AB = 8 cm, with B between A and C, then BC is:",
+    options: ["10 cm", "12 cm", "14 cm", "16 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = 6 cm, BC = 9 cm and C lies between A and B, then AC cannot be:",
+    options: ["3 cm", "15 cm", "6 cm", "9 cm"],
+    answer: 1
+  },
+  {
+    question: "Which measurement can represent a line segment?",
+    options: ["5 cm", "Infinite cm", "No length", "−3 cm"],
+    answer: 0
+  },
+  {
+    question: "If a ray starts at P and passes through Q, which point is definitely on the ray?",
+    options: ["P", "Only a point behind P", "No point", "A point not connected to P"],
+    answer: 0
+  },
+  {
+    question: "If A, B and C are collinear and B lies between A and C, which relation is correct?",
+    options: ["AB + BC = AC", "AB + AC = BC", "AC + BC = AB", "AB = BC = AC always"],
+    answer: 0
+  },
+  {
+    question: "If AB = 5 cm and BC = 11 cm, with B between A and C, AC is:",
+    options: ["6 cm", "16 cm", "55 cm", "11 cm"],
+    answer: 1
+  },
+  {
+    question: "If AC = 25 cm and AB = 14 cm, with B between A and C, BC is:",
+    options: ["9 cm", "10 cm", "11 cm", "12 cm"],
+    answer: 2
+  },
+  {
+    question: "Which statement is always true?",
+    options: ["Every ray has two endpoints", "Every line segment has two endpoints", "Every line has one endpoint", "Every angle is 180°"],
+    answer: 1
+  },
+  {
+    question: "Which statement is false?",
+    options: ["A ray has one endpoint", "A line has no endpoints", "A segment has two endpoints", "Parallel lines always intersect"],
+    answer: 3
+  },
+  {
+    question: "A straight angle can also be described as:",
+    options: ["A half turn", "A quarter turn", "A full turn", "A zero turn"],
+    answer: 0
+  },
+  {
+    question: "A right angle can also be described as:",
+    options: ["A half turn", "A quarter turn", "A full turn", "A three-quarter turn"],
+    answer: 1
+  },
+  {
+    question: "A reflex angle of 270° is equal to how many right angles?",
+    options: ["2", "3", "4", "6"],
+    answer: 1
+  },
+  {
+    question: "A complete angle is equal to how many straight angles?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "A straight angle is equal to how many half-right-angle units?",
+    options: ["2", "3", "4", "6"],
+    answer: 2
+  },
+  {
+    question: "If a 360° angle is divided into 6 equal angles, each angle is:",
+    options: ["45°", "60°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If a 360° angle is divided into 4 equal angles, each angle is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "If a 360° angle is divided into 3 equal angles, each angle is:",
+    options: ["90°", "100°", "120°", "150°"],
+    answer: 2
+  },
+  {
+    question: "If a 180° angle is divided into 4 equal angles, each angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If a 90° angle is divided into 2 equal angles, each angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is both acute and less than 90°?",
+    options: ["89°", "90°", "100°", "180°"],
+    answer: 0
+  },
+  {
+    question: "Which angle is both obtuse and greater than 90°?",
+    options: ["45°", "90°", "135°", "180°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is straight but not obtuse?",
+    options: ["45°", "90°", "135°", "180°"],
+    answer: 3
+  },
+  {
+    question: "Which angle is reflex but not straight?",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 2
+  },
+  {
+    question: "An angle measures 90° + 45°. What type is it?",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 2
+  },
+  {
+    question: "An angle measures 180° + 45°. What type is it?",
+    options: ["Acute", "Obtuse", "Straight", "Reflex"],
+    answer: 3
+  },
+  {
+    question: "An angle measures 90° − 35°. What type is it?",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 0
+  },
+  {
+    question: "An angle measures 180° − 90°. What type is it?",
+    options: ["Acute", "Right", "Obtuse", "Reflex"],
+    answer: 1
+  },
+  {
+    question: "If one angle is 30° and the other is 150°, their sum represents:",
+    options: ["A right angle", "A straight angle", "A complete angle", "A reflex angle"],
+    answer: 1
+  },
+  {
+    question: "If four angles around a point are 70°, 80°, 100° and x°, find x.",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 2
+  },
+  {
+    question: "If three angles around a point are 45°, 135° and 90°, the remaining angle is:",
+    options: ["60°", "90°", "120°", "180°"],
+    answer: 1
+  },
+  {
+    question: "Two adjacent angles are 80° and 100°. Their common arms form:",
+    options: ["A right angle", "A straight angle", "A complete angle", "An acute angle"],
+    answer: 1
+  },
+  {
+    question: "Two adjacent angles are 35° and 55°. Together they form:",
+    options: ["An acute angle", "A right angle", "An obtuse angle", "A straight angle"],
+    answer: 1
+  },
+  {
+    question: "Which pair of angles cannot be complementary?",
+    options: ["10° and 80°", "25° and 65°", "45° and 45°", "50° and 50°"],
+    answer: 3
+  },
+  {
+    question: "Which pair of angles cannot be supplementary?",
+    options: ["90° and 90°", "120° and 60°", "150° and 30°", "100° and 70°"],
+    answer: 3
+  },
+  {
+    question: "If two lines are parallel, they remain:",
+    options: ["Equally separated", "Perpendicular", "Intersecting", "Curved"],
+    answer: 0
+  },
+  {
+    question: "Which everyday object best represents parallel lines?",
+    options: ["Scissors blades crossing", "Railway tracks", "Clock hands", "Corner of a book"],
+    answer: 1
+  },
+  {
+    question: "Which everyday object best represents perpendicular lines?",
+    options: ["Railway tracks", "Corner of a square book", "Two opposite edges", "A circular wheel"],
+    answer: 1
+  },
+  {
+    question: "Which everyday object can represent intersecting lines?",
+    options: ["Crossroads", "Railway tracks", "Opposite edges of a ruler", "Parallel notebook lines"],
+    answer: 0
+  },
+  {
+    question: "If two lines intersect at an angle other than 90°, they are:",
+    options: ["Perpendicular", "Parallel", "Intersecting but not perpendicular", "Collinear"],
+    answer: 2
+  },
+  {
+    question: "A line and a line segment are different because:",
+    options: ["A line has no endpoints while a segment has two", "A line has two endpoints", "A segment extends endlessly", "Both always have one endpoint"],
+    answer: 0
+  },
+  {
+    question: "A ray and a line segment differ because:",
+    options: ["Both have two endpoints", "A ray extends endlessly in one direction", "A segment extends endlessly", "A ray has no endpoint"],
+    answer: 1
+  },
+  {
+    question: "Which of these can be extended endlessly in both directions?",
+    options: ["Ray", "Line segment", "Line", "Angle"],
+    answer: 2
+  },
+  {
+    question: "Which of these has a fixed length?",
+    options: ["Line", "Ray", "Line segment", "Straight path extending forever"],
+    answer: 2
+  },
+  {
+    question: "If ∠XYZ = 125°, the angle is:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 2
+  },
+  {
+    question: "If ∠ABC = 90°, then AB and BC are:",
+    options: ["Parallel", "Perpendicular", "Collinear", "Curved"],
+    answer: 1
+  },
+  {
+    question: "If ∠PQR = 180°, rays QP and QR are:",
+    options: ["Perpendicular", "Opposite rays", "Parallel", "Equal segments"],
+    answer: 1
+  },
+  {
+    question: "If two rays are opposite rays, the angle between them is:",
+    options: ["45°", "90°", "135°", "180°"],
+    answer: 3
+  },
+  {
+    question: "Which angle is exactly 1/4 of a complete angle?",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is exactly 1/2 of a complete angle?",
+    options: ["90°", "120°", "180°", "270°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is exactly 3/4 of a complete angle?",
+    options: ["180°", "225°", "270°", "315°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 270°, what fraction of a complete angle is it?",
+    options: ["1/4", "1/2", "2/3", "3/4"],
+    answer: 3
+  },
+  {
+    question: "If an angle is 120°, what fraction of a complete angle is it?",
+    options: ["1/3", "1/2", "2/3", "3/4"],
+    answer: 0
+  },
+  {
+    question: "If an angle is 45°, what fraction of a right angle is it?",
+    options: ["1/2", "1/3", "1/4", "3/4"],
+    answer: 0
+  },
+  {
+    question: "If an angle is 30°, what fraction of a right angle is it?",
+    options: ["1/2", "1/3", "1/4", "2/3"],
+    answer: 1
+  },
+  {
+    question: "If two complementary angles are 2x and x, then x is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If two supplementary angles are 2x and x, then x is:",
+    options: ["45°", "60°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If three equal angles make a straight angle, each angle is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If four equal angles make a complete angle, each angle is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "If five equal angles make a complete angle, each angle is:",
+    options: ["60°", "72°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If ten equal angles make a complete angle, each angle is:",
+    options: ["30°", "36°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If twelve equal angles make a complete angle, each angle is:",
+    options: ["20°", "30°", "36°", "45°"],
+    answer: 1
+  },
+  {
+    question: "Which angle would be formed by a 2-hour movement of a clock's minute hand?",
+    options: ["60°", "90°", "120°", "180°"],
+    answer: 2
+  },
+  {
+    question: "A minute hand moves from 12 to 1. The angle turned is:",
+    options: ["15°", "30°", "45°", "60°"],
+    answer: 1
+  },
+  {
+    question: "A minute hand moves from 12 to 4. The angle turned is:",
+    options: ["90°", "100°", "120°", "150°"],
+    answer: 2
+  },
+  {
+    question: "A minute hand moves from 12 to 8. The smaller angle is:",
+    options: ["120°", "180°", "240°", "60°"],
+    answer: 0
+  },
+  {
+    question: "At 3 o'clock, the two hands form a:",
+    options: ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+    answer: 1
+  },
+  {
+    question: "At 6 o'clock, the two hands form a:",
+    options: ["Right angle", "Straight angle", "Reflex angle", "Acute angle"],
+    answer: 1
+  },
+  {
+    question: "At 12 o'clock, the two hands overlap. The angle is:",
+    options: ["0°", "90°", "180°", "360°"],
+    answer: 0
+  },
+  {
+    question: "If an angle is 10° less than 180°, it is:",
+    options: ["Acute", "Right", "Obtuse", "Reflex"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 10° more than 180°, it is:",
+    options: ["Acute", "Obtuse", "Straight", "Reflex"],
+    answer: 3
+  },
+  {
+    question: "Which of the following angles has the same measure as its supplement?",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which of the following angles has the same measure as its complement?",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If an angle and its complement are equal, the angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If an angle and its supplement are equal, the angle is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "A straight line is divided into two angles in the ratio 1:3. The smaller angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "A right angle is divided into two angles in the ratio 1:2. The smaller angle is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "A straight angle is divided into two angles in the ratio 2:7. The smaller angle is:",
+    options: ["30°", "40°", "45°", "50°"],
+    answer: 2
+  },
+  {
+    question: "A complete angle is divided into two angles in the ratio 1:3. The smaller angle is:",
+    options: ["60°", "90°", "120°", "180°"],
+    answer: 1
+  },
+  {
+    question: "An angle of 150° is divided into two angles differing by 30°. The smaller angle is:",
+    options: ["50°", "60°", "70°", "80°"],
+    answer: 1
+  },
+  {
+    question: "An angle of 90° is divided into two angles differing by 10°. The smaller angle is:",
+    options: ["35°", "40°", "45°", "50°"],
+    answer: 1
+  },
+  {
+    question: "Two angles around a point are 110° and 80°. What is the third angle?",
+    options: ["160°", "170°", "180°", "190°"],
+    answer: 1
+  },
+  {
+    question: "Four angles around a point are 45°, 75°, 100° and x°. Find x.",
+    options: ["120°", "130°", "140°", "150°"],
+    answer: 1
+  },
+  {
+    question: "Five equal angles around a point each measure:",
+    options: ["60°", "72°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "Nine equal angles around a point each measure:",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 1
+  },
+  {
+    question: "If two lines intersect and one of the angles is 65°, an adjacent angle is:",
+    options: ["65°", "105°", "115°", "125°"],
+    answer: 2
+  },
+  {
+    question: "If two intersecting lines form one angle of 120°, the angle opposite to it is:",
+    options: ["60°", "90°", "120°", "240°"],
+    answer: 2
+  },
+  {
+    question: "If two intersecting lines form one angle of 70°, the adjacent angle is:",
+    options: ["70°", "90°", "110°", "290°"],
+    answer: 2
+  },
+  {
+    question: "When two straight lines intersect, the vertically opposite angles are:",
+    options: ["Always equal", "Always supplementary", "Always complementary", "Always 90°"],
+    answer: 0
+  },
+  {
+    question: "If one angle formed by two intersecting lines is 55°, its vertically opposite angle is:",
+    options: ["35°", "55°", "125°", "145°"],
+    answer: 1
+  },
+  {
+    question: "If one angle formed by two intersecting lines is 130°, its adjacent angle is:",
+    options: ["40°", "50°", "60°", "70°"],
+    answer: 1
+  },
+  {
+    question: "Two lines intersect. If one pair of opposite angles is 80° each, the other pair is:",
+    options: ["80° each", "90° each", "100° each", "180° each"],
+    answer: 2
+  },
+  {
+    question: "Two lines intersect. If one angle is 40°, how many of the four angles are 40°?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "Two lines intersect. If one angle is 40°, how many of the four angles are 140°?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "If two intersecting lines form equal adjacent angles, each angle must be:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which pair of lines intersects to form four equal angles?",
+    options: ["Parallel lines", "Perpendicular lines", "Random lines", "Curved lines"],
+    answer: 1
+  },
+  {
+    question: "If a line is perpendicular to another line, the four angles around their intersection are:",
+    options: ["45°, 135°, 45°, 135°", "90°, 90°, 90°, 90°", "60°, 120°, 60°, 120°", "30°, 150°, 30°, 150°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is formed between the hands of a clock at 9 and 3?",
+    options: ["90°", "120°", "180°", "270°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is formed by the smaller path from 3 to 9 on a clock?",
+    options: ["90°", "120°", "180°", "270°"],
+    answer: 2
+  },
+  {
+    question: "A 360° turn minus 90° gives:",
+    options: ["180°", "225°", "270°", "300°"],
+    answer: 2
+  },
+  {
+    question: "A 360° turn minus 120° gives:",
+    options: ["200°", "220°", "240°", "260°"],
+    answer: 2
+  },
+  {
+    question: "A 180° turn plus 90° gives:",
+    options: ["180°", "240°", "270°", "360°"],
+    answer: 2
+  },
+  {
+    question: "A 90° turn plus 45° gives:",
+    options: ["105°", "125°", "135°", "145°"],
+    answer: 2
+  },
+  {
+    question: "A 180° turn minus 45° gives:",
+    options: ["125°", "135°", "145°", "155°"],
+    answer: 1
+  },
+  {
+    question: "A 90° turn minus 15° gives:",
+    options: ["65°", "75°", "85°", "95°"],
+    answer: 1
+  },
+  {
+    question: "If a 120° angle is increased by 60°, it becomes:",
+    options: ["An acute angle", "A right angle", "A straight angle", "A reflex angle"],
+    answer: 2
+  },
+  {
+    question: "If a 200° angle is decreased by 20°, it becomes:",
+    options: ["A straight angle", "An obtuse angle", "A right angle", "An acute angle"],
+    answer: 0
+  },
+  {
+    question: "If a 250° reflex angle is decreased by 70°, it becomes:",
+    options: ["160°", "170°", "180°", "190°"],
+    answer: 3
+  },
+  {
+    question: "If a 170° angle is increased by 20°, it becomes:",
+    options: ["A right angle", "A straight angle", "A reflex angle", "An acute angle"],
+    answer: 1
+  },
+  {
+    question: "If a 95° angle is decreased by 5°, it becomes:",
+    options: ["An acute angle", "A right angle", "An obtuse angle", "A reflex angle"],
+    answer: 1
+  },
+  {
+    question: "Which angle is exactly 2.5 times a right angle?",
+    options: ["180°", "200°", "225°", "250°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is exactly 1.5 times a right angle?",
+    options: ["120°", "135°", "150°", "180°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is exactly 2.5 times a straight angle?",
+    options: ["360°", "400°", "450°", "540°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 1/5 of a straight angle, it measures:",
+    options: ["18°", "30°", "36°", "45°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 1/5 of a complete angle, it measures:",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 1/8 of a complete angle, it measures:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 5/6 of a complete angle, it measures:",
+    options: ["270°", "300°", "330°", "350°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 7/12 of a complete angle, it measures:",
+    options: ["180°", "200°", "210°", "240°"],
+    answer: 2
+  },
+  {
+    question: "A line segment has length 16 cm. A point divides it in the ratio 1:3. The shorter part is:",
+    options: ["4 cm", "5 cm", "6 cm", "8 cm"],
+    answer: 0
+  },
+  {
+    question: "A 20 cm segment is divided in the ratio 2:3. The longer part is:",
+    options: ["8 cm", "10 cm", "12 cm", "15 cm"],
+    answer: 2
+  },
+  {
+    question: "A 30 cm segment is divided into parts in the ratio 2:1. The longer part is:",
+    options: ["10 cm", "15 cm", "20 cm", "25 cm"],
+    answer: 2
+  },
+  {
+    question: "A 36 cm segment is divided into three equal parts. The distance from the first endpoint to the second division point is:",
+    options: ["12 cm", "18 cm", "24 cm", "30 cm"],
+    answer: 2
+  },
+  {
+    question: "Four points A, B, C and D lie in order on a line. If AB = 4 cm, BC = 6 cm and CD = 5 cm, then AD is:",
+    options: ["10 cm", "12 cm", "15 cm", "20 cm"],
+    answer: 2
+  },
+  {
+    question: "Five points lie in order on a line with consecutive distances 2 cm, 3 cm, 4 cm and 5 cm. Distance between the first and last point is:",
+    options: ["12 cm", "14 cm", "15 cm", "16 cm"],
+    answer: 3
+  },
+  {
+    question: "A 25 cm segment is divided at two points into three equal parts. Distance between the first and last division points is:",
+    options: ["15 cm", "16⅔ cm", "20 cm", "25 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = BC = CD = 5 cm and A, B, C, D are collinear in order, AD is:",
+    options: ["10 cm", "15 cm", "20 cm", "25 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = 8 cm, BC = 5 cm and CD = 7 cm, then AD is:",
+    options: ["18 cm", "20 cm", "22 cm", "24 cm"],
+    answer: 1
+  },
+  {
+    question: "Which of the following can be the measure of an acute angle?",
+    options: ["0°", "90°", "120°", "75°"],
+    answer: 3
+  },
+  {
+    question: "Which of the following can be the measure of an obtuse angle?",
+    options: ["45°", "89°", "135°", "180°"],
+    answer: 2
+  },
+  {
+    question: "Which of the following can be the measure of a reflex angle?",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 2
+  },
+  {
+    question: "Which of the following is neither acute nor obtuse?",
+    options: ["60°", "90°", "120°", "150°"],
+    answer: 1
+  },
+  {
+    question: "Which of the following is neither acute, right, nor obtuse?",
+    options: ["45°", "90°", "180°", "270°"],
+    answer: 3
+  },
+  {
+    question: "An angle of 180° is also the boundary between:",
+    options: ["Acute and right", "Right and obtuse", "Obtuse and reflex", "Reflex and complete"],
+    answer: 2
+  },
+  {
+    question: "Which statement is correct about a complete angle?",
+    options: ["It is less than 180°", "It equals 180°", "It equals 270°", "It equals 360°"],
+    answer: 3
+  },
+  {
+    question: "If a complete angle is divided into 24 equal parts, each part measures:",
+    options: ["10°", "15°", "20°", "24°"],
+    answer: 1
+  },
+  {
+    question: "If a straight angle is divided into 12 equal parts, each part measures:",
+    options: ["10°", "12°", "15°", "20°"],
+    answer: 0
+  },
+  {
+    question: "If a right angle is divided into 9 equal parts, each part measures:",
+    options: ["5°", "10°", "15°", "20°"],
+    answer: 1
+  },
+  {
+    question: "Which pair of angles has a difference of 90°?",
+    options: ["30° and 120°", "40° and 100°", "50° and 120°", "60° and 130°"],
+    answer: 0
+  },
+  {
+    question: "Which pair of angles has a difference of 45°?",
+    options: ["45° and 90°", "60° and 100°", "75° and 110°", "80° and 130°"],
+    answer: 0
+  },
+  {
+    question: "If the sum of two angles is 100° and one is 35°, the other is:",
+    options: ["55°", "65°", "75°", "85°"],
+    answer: 1
+  },
+  {
+    question: "If the sum of two angles is 150° and one is 85°, the other is:",
+    options: ["55°", "65°", "75°", "85°"],
+    answer: 1
+  },
+  {
+    question: "If the sum of three angles is 180° and two are 40° and 55°, the third is:",
+    options: ["75°", "85°", "95°", "105°"],
+    answer: 1
+  },
+  {
+    question: "If four angles on a straight line arrangement total 180° and three are 20°, 40° and 50°, the fourth is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If five angles around a point are 50°, 60°, 70°, 80° and x°, x is:",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If six angles around a point are five equal angles of 50° and one angle x°, x is:",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Two adjacent angles are in the ratio 1:2 and form a straight angle. The larger angle is:",
+    options: ["60°", "90°", "120°", "150°"],
+    answer: 2
+  },
+  {
+    question: "Two adjacent angles are in the ratio 2:3 and form a right angle. The larger angle is:",
+    options: ["36°", "45°", "54°", "60°"],
+    answer: 2
+  },
+  {
+    question: "Two adjacent angles are in the ratio 3:7 and form a straight angle. The smaller angle is:",
+    options: ["45°", "54°", "60°", "72°"],
+    answer: 1
+  },
+  {
+    question: "Two complementary angles are in the ratio 4:5. The larger angle is:",
+    options: ["40°", "45°", "50°", "55°"],
+    answer: 2
+  },
+  {
+    question: "Two supplementary angles are in the ratio 4:5. The larger angle is:",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 2/3 of a right angle, its measure is:",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 3/4 of a right angle, its measure is:",
+    options: ["45°", "60°", "67.5°", "75°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 2/3 of a straight angle, its measure is:",
+    options: ["90°", "100°", "120°", "150°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 5/6 of a straight angle, its measure is:",
+    options: ["120°", "135°", "150°", "165°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is 30° greater than its complement?",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is 60° greater than its complement?",
+    options: ["60°", "75°", "90°", "105°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is 40° greater than its supplement?",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is 20° smaller than its supplement?",
+    options: ["70°", "80°", "90°", "100°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is twice its complement, the angle is:",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is three times its complement, the angle is:",
+    options: ["45°", "60°", "67.5°", "75°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is twice its supplement, the angle is:",
+    options: ["90°", "100°", "120°", "135°"],
+    answer: 2
+  },
+  {
+    question: "If the supplement of an angle is twice the angle, the angle is:",
+    options: ["45°", "60°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "A line segment has midpoint M. If AM = 11 cm, then AB is:",
+    options: ["11 cm", "22 cm", "33 cm", "44 cm"],
+    answer: 1
+  },
+  {
+    question: "A segment AB is 30 cm. M is its midpoint. What is MB?",
+    options: ["10 cm", "15 cm", "20 cm", "25 cm"],
+    answer: 1
+  },
+  {
+    question: "If M is the midpoint of AB and AB = 2x cm, then AM equals:",
+    options: ["x cm", "2x cm", "3x cm", "4x cm"],
+    answer: 0
+  },
+  {
+    question: "If AB = 18 cm and M is the midpoint, then AM + MB equals:",
+    options: ["9 cm", "18 cm", "27 cm", "36 cm"],
+    answer: 1
+  },
+  {
+    question: "A 40 cm segment is divided into four equal parts. The distance from the first endpoint to the third division point is:",
+    options: ["10 cm", "20 cm", "30 cm", "40 cm"],
+    answer: 2
+  },
+  {
+    question: "Six equally spaced points divide a line segment into five equal parts. If the total length is 50 cm, the distance between adjacent points is:",
+    options: ["5 cm", "10 cm", "15 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "If 7 equally spaced points lie on a 36 cm segment, the distance between consecutive points is:",
+    options: ["5 cm", "6 cm", "7 cm", "8 cm"],
+    answer: 1
+  },
+  {
+    question: "If 4 equally spaced points lie on a segment of length 21 cm, the distance between consecutive points is:",
+    options: ["5 cm", "6 cm", "7 cm", "8 cm"],
+    answer: 2
+  },
+  {
+    question: "Which of the following sets of points is definitely collinear?",
+    options: ["Points on the same straight line", "Points on a circle", "Points at the corners of a triangle", "Any three points"],
+    answer: 0
+  },
+  {
+    question: "How many line segments can be formed by joining every pair of 4 points when no three are collinear?",
+    options: ["4", "5", "6", "8"],
+    answer: 2
+  },
+  {
+    question: "How many line segments can be formed by joining every pair of 5 points when no three are collinear?",
+    options: ["8", "10", "12", "15"],
+    answer: 1
+  },
+  {
+    question: "How many rays are determined by two distinct points if each point can be the starting point toward the other?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "Which of the following is impossible for two distinct straight lines?",
+    options: ["They intersect once", "They are parallel", "They overlap completely", "They are perpendicular"],
+    answer: 2
+  },
+  {
+    question: "If two lines overlap completely, they have:",
+    options: ["No common points", "One common point", "Two common points", "Infinitely many common points"],
+    answer: 3
+  },
+  {
+    question: "Which statement about perpendicular lines is always true?",
+    options: ["They never meet", "They meet at a right angle", "They meet at a straight angle", "They are always horizontal"],
+    answer: 1
+  },
+  {
+    question: "Which statement about parallel lines is always true?",
+    options: ["They meet at 90°", "They meet once", "They do not meet", "They overlap"],
+    answer: 2
+  },
+  {
+    question: "If one of two perpendicular lines is horizontal, the other is:",
+    options: ["Horizontal", "Vertical", "Curved", "Parallel to it"],
+    answer: 1
+  },
+  {
+    question: "If two horizontal lines are drawn on a page, they are usually:",
+    options: ["Perpendicular", "Parallel", "Intersecting", "Collinear"],
+    answer: 1
+  },
+  {
+    question: "A vertical line and a horizontal line intersect to form:",
+    options: ["Acute angles", "Obtuse angles", "Right angles", "Reflex angles"],
+    answer: 2
+  },
+  {
+    question: "Which of these is an example of intersecting lines but not perpendicular lines?",
+    options: ["The arms of an exact right-angle corner", "Two roads crossing at 60°", "Railway tracks", "Opposite sides of a rectangle"],
+    answer: 1
+  },
+  {
+    question: "If an angle measures 135°, its smaller adjacent angle on a straight line is:",
+    options: ["35°", "45°", "55°", "65°"],
+    answer: 1
+  },
+  {
+    question: "If an angle measures 145°, its adjacent angle on a straight line is:",
+    options: ["25°", "35°", "45°", "55°"],
+    answer: 1
+  },
+  {
+    question: "If one angle at an intersection is 75°, the two angles adjacent to it each measure:",
+    options: ["75°", "90°", "105°", "115°"],
+    answer: 2
+  },
+  {
+    question: "If one angle at an intersection is 110°, its vertically opposite angle measures:",
+    options: ["70°", "90°", "110°", "250°"],
+    answer: 2
+  },
+  {
+    question: "If one angle at an intersection is 110°, each adjacent angle measures:",
+    options: ["60°", "70°", "80°", "110°"],
+    answer: 1
+  },
+  {
+    question: "The sum of all four angles formed by two intersecting lines is:",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 3
+  },
+  {
+    question: "If two intersecting lines form angles x, 2x, x and 2x around a point, x is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If two adjacent angles are x and 3x and form a straight angle, x is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If two adjacent angles are x and 2x and form a right angle, x is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If two adjacent angles are 2x and 4x and form a straight angle, x is:",
+    options: ["20°", "30°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If three angles around a point are x, 2x and 3x, x equals:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 2
+  },
+  {
+    question: "If four equal angles around a point are each x, then x equals:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "If five equal angles around a point are each x, then x equals:",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If six equal angles around a point are each x, then x equals:",
+    options: ["45°", "60°", "72°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If eight equal angles around a point are each x, then x equals:",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 2
+  },
+  {
+    question: "If nine equal angles around a point are each x, then x equals:",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 1
+  },
+  {
+    question: "If ten equal angles around a point are each x, then x equals:",
+    options: ["30°", "36°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If twelve equal angles around a point are each x, then x equals:",
+    options: ["20°", "30°", "36°", "45°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is formed when one ray is turned through three right angles?",
+    options: ["180°", "225°", "270°", "360°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is formed when one ray is turned through two right angles?",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is formed when one ray is turned through one and a half right angles?",
+    options: ["90°", "120°", "135°", "150°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is formed when one ray is turned through two and a half right angles?",
+    options: ["180°", "225°", "270°", "315°"],
+    answer: 1
+  },
+  {
+    question: "If a ray turns 45° clockwise and then 45° anticlockwise, its final direction makes what angle with its original direction?",
+    options: ["0°", "45°", "90°", "180°"],
+    answer: 0
+  },
+  {
+    question: "If a ray turns 90° clockwise and then another 90° clockwise, the total turn is:",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 1
+  },
+  {
+    question: "If a ray turns 120° clockwise and then 60° clockwise, the total turn is:",
+    options: ["120°", "150°", "180°", "240°"],
+    answer: 2
+  },
+  {
+    question: "If a ray turns 270° and then 90° in the same direction, the total turn is:",
+    options: ["270°", "360°", "450°", "540°"],
+    answer: 1
+  },
+  {
+    question: "Which is the smaller angle between two directions separated by 300°?",
+    options: ["30°", "60°", "120°", "300°"],
+    answer: 1
+  },
+  {
+    question: "Which is the smaller angle between two directions separated by 270°?",
+    options: ["45°", "90°", "180°", "270°"],
+    answer: 1
+  },
+  {
+    question: "Which is the smaller angle between two directions separated by 225°?",
+    options: ["45°", "90°", "135°", "225°"],
+    answer: 0
+  },
+  {
+    question: "If two rays form a reflex angle of 300°, the smaller angle between them is:",
+    options: ["30°", "60°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If two rays form a reflex angle of 250°, the smaller angle between them is:",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 2
+  },
+  {
+    question: "If two rays form a reflex angle of 210°, the smaller angle between them is:",
+    options: ["120°", "130°", "140°", "150°"],
+    answer: 3
+  },
+  {
+    question: "The sum of a 130° angle and its smaller complementary-related remaining part to 180° is:",
+    options: ["150°", "160°", "170°", "180°"],
+    answer: 3
+  },
+  {
+    question: "If an angle is 125°, how much more is needed to make a straight angle?",
+    options: ["45°", "55°", "65°", "75°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 65°, how much more is needed to make a right angle?",
+    options: ["15°", "25°", "35°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 275°, how many degrees must be subtracted to get a straight angle?",
+    options: ["85°", "95°", "105°", "115°"],
+    answer: 0
+  },
+  {
+    question: "If an angle is 275°, how many degrees must be added to reach a complete angle?",
+    options: ["65°", "75°", "85°", "95°"],
+    answer: 0
+  },
+  {
+    question: "An angle is 15° more than 3/4 of a right angle. Its measure is:",
+    options: ["75°", "82.5°", "90°", "95°"],
+    answer: 1
+  },
+  {
+    question: "An angle is 15° less than 3/4 of a straight angle. Its measure is:",
+    options: ["110°", "120°", "120°", "125°"],
+    answer: 1
+  },
+  {
+    question: "If 20% of a right angle is taken, the angle measure is:",
+    options: ["18°", "20°", "24°", "30°"],
+    answer: 0
+  },
+  {
+    question: "If half of an obtuse angle measuring 140° is taken, the result is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If a 160° angle is divided into four equal parts, each part is:",
+    options: ["30°", "40°", "50°", "60°"],
+    answer: 1
+  },
+  {
+    question: "If a 240° reflex angle is divided into six equal parts, each part is:",
+    options: ["30°", "40°", "50°", "60°"],
+    answer: 1
+  },
+  {
+    question: "If a 300° reflex angle is divided into five equal parts, each part is:",
+    options: ["50°", "60°", "70°", "75°"],
+    answer: 1
+  },
+  {
+    question: "If an angle of 80° is divided into two parts in the ratio 1:3, the smaller part is:",
+    options: ["10°", "20°", "30°", "40°"],
+    answer: 1
+  },
+  {
+    question: "If an angle of 120° is divided into two parts in the ratio 1:3, the larger part is:",
+    options: ["60°", "80°", "90°", "100°"],
+    answer: 1
+  },
+  {
+    question: "If a straight angle is divided into two parts in the ratio 2:7, the larger part is:",
+    options: ["120°", "130°", "140°", "150°"],
+    answer: 2
+  },
+  {
+    question: "If a right angle is divided into two parts in the ratio 2:3, the smaller part is:",
+    options: ["30°", "36°", "40°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If a complete angle is divided into two parts in the ratio 2:7, the smaller part is:",
+    options: ["60°", "80°", "90°", "100°"],
+    answer: 2
+  },
+  {
+    question: "If two angles differ by 30° and their sum is 150°, the smaller angle is:",
+    options: ["50°", "60°", "70°", "80°"],
+    answer: 1
+  },
+  {
+    question: "If two angles differ by 50° and their sum is 180°, the smaller angle is:",
+    options: ["55°", "60°", "65°", "70°"],
+    answer: 2
+  },
+  {
+    question: "If two angles differ by 15° and their sum is 90°, the smaller angle is:",
+    options: ["32.5°", "35°", "37.5°", "40°"],
+    answer: 2
+  },
+  {
+    question: "If two angles differ by 25° and their sum is 180°, the larger angle is:",
+    options: ["95°", "100°", "102.5°", "105°"],
+    answer: 2
+  },
+  {
+    question: "Which statement best describes adjacent angles?",
+    options: ["They have a common vertex and common arm", "They are always equal", "They are always 90°", "They never share a side"],
+    answer: 0
+  },
+  {
+    question: "Two adjacent angles share:",
+    options: ["Only a vertex", "A common arm and a common vertex", "No common point", "Two separate lines"],
+    answer: 1
+  },
+  {
+    question: "Two angles that have the same vertex but no common interior points are often called:",
+    options: ["Adjacent angles", "Overlapping angles", "Separate angles", "Parallel angles"],
+    answer: 0
+  },
+  {
+    question: "Which is NOT necessary for two angles to be adjacent?",
+    options: ["Same vertex", "Common arm", "Non-overlapping interiors", "Equal measures"],
+    answer: 3
+  },
+  {
+    question: "If adjacent angles form a right angle, their sum is:",
+    options: ["45°", "90°", "180°", "360°"],
+    answer: 1
+  },
+  {
+    question: "If adjacent angles form a straight angle, their sum is:",
+    options: ["90°", "120°", "180°", "360°"],
+    answer: 2
+  },
+  {
+    question: "If three adjacent angles lie on a straight line and are 25°, 75° and x°, x is:",
+    options: ["70°", "80°", "90°", "100°"],
+    answer: 2
+  },
+  {
+    question: "If three adjacent angles form a right angle and are 20°, 30° and x°, x is:",
+    options: ["30°", "40°", "50°", "60°"],
+    answer: 1
+  },
+  {
+    question: "If four adjacent angles form a straight angle and three are 20°, 40° and 50°, the fourth is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If four angles around a point are 50°, 70°, 110° and x°, x is:",
+    options: ["110°", "120°", "130°", "140°"],
+    answer: 0
+  },
+  {
+    question: "If five angles around a point are 40°, 50°, 60°, 70° and x°, x is:",
+    options: ["120°", "130°", "140°", "150°"],
+    answer: 1
+  },
+  {
+    question: "If six angles around a point are 30°, 40°, 50°, 60°, 70° and x°, x is:",
+    options: ["100°", "110°", "120°", "130°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 5° more than 90°, it is:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 5° less than 180°, it is:",
+    options: ["Acute", "Right", "Obtuse", "Reflex"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 5° more than 180°, it is:",
+    options: ["Acute", "Obtuse", "Straight", "Reflex"],
+    answer: 3
+  },
+  {
+    question: "If an angle is 5° less than 90°, it is:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 0
+  },
+  {
+    question: "Which angle is closest to a complete angle but still less than it?",
+    options: ["270°", "300°", "350°", "359°"],
+    answer: 3
+  },
+  {
+    question: "Which angle is closest to a straight angle but greater than it?",
+    options: ["181°", "190°", "200°", "225°"],
+    answer: 0
+  },
+  {
+    question: "Which angle is closest to a right angle but less than it?",
+    options: ["80°", "85°", "89°", "90°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is closest to a right angle but greater than it?",
+    options: ["91°", "95°", "100°", "105°"],
+    answer: 0
+  },
+  {
+    question: "If one angle is 85° and another is 5°, together they form:",
+    options: ["An acute angle", "A right angle", "An obtuse angle", "A straight angle"],
+    answer: 1
+  },
+  {
+    question: "If one angle is 175° and another is 5°, together they form:",
+    options: ["A right angle", "An obtuse angle", "A straight angle", "A complete angle"],
+    answer: 2
+  },
+  {
+    question: "If one angle is 270° and another is 90°, together they make:",
+    options: ["270°", "300°", "360°", "450°"],
+    answer: 2
+  },
+  {
+    question: "Which pair of angles adds to a complete angle?",
+    options: ["90° and 270°", "100° and 200°", "120° and 180°", "150° and 150°"],
+    answer: 0
+  },
+  {
+    question: "Which pair of angles adds to a straight angle?",
+    options: ["80° and 110°", "75° and 105°", "60° and 100°", "45° and 120°"],
+    answer: 1
+  },
+  {
+    question: "Which pair of angles adds to a right angle?",
+    options: ["25° and 65°", "35° and 75°", "40° and 60°", "50° and 55°"],
+    answer: 0
+  },
+  {
+    question: "A 90° angle is rotated without changing its measure. It remains:",
+    options: ["Acute", "Right", "Obtuse", "Straight"],
+    answer: 1
+  },
+  {
+    question: "A 135° angle is rotated without changing its measure. It remains:",
+    options: ["Acute", "Right", "Obtuse", "Reflex"],
+    answer: 2
+  },
+  {
+    question: "A 225° angle is rotated without changing its measure. It remains:",
+    options: ["Acute", "Obtuse", "Straight", "Reflex"],
+    answer: 3
+  },
+  {
+    question: "Which property depends only on the measure of an angle?",
+    options: ["Its classification as acute, right or obtuse", "The color used to draw it", "The length of its arms", "The size of the paper"],
+    answer: 0
+  },
+  {
+    question: "If the arms of an angle are extended without changing their directions, the angle measure:",
+    options: ["Doubles", "Becomes zero", "Remains the same", "Becomes 180°"],
+    answer: 2
+  },
+  {
+    question: "If the two arms of an angle are shortened without changing their directions, the angle measure:",
+    options: ["Remains the same", "Becomes half", "Doubles", "Becomes zero"],
+    answer: 0
+  },
+  {
+    question: "Which statement is correct about the size of an angle?",
+    options: ["It depends on the length of its arms", "It depends on the amount of turn between its arms", "It depends on the thickness of the arms", "It depends on the color of the arms"],
+    answer: 1
+  },
+  {
+    question: "If two angles have equal measures, they are:",
+    options: ["Always the same size of arms", "Equal angles", "Always adjacent", "Always supplementary"],
+    answer: 1
+  },
+  {
+    question: "Which pair of angles is equal?",
+    options: ["40° and 50°", "60° and 60°", "70° and 80°", "90° and 100°"],
+    answer: 1
+  },
+  {
+    question: "If ∠A = 2∠B and ∠A + ∠B = 90°, then ∠A is:",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2
+  },
+  {
+    question: "If ∠A = 2∠B and ∠A + ∠B = 180°, then ∠A is:",
+    options: ["60°", "90°", "120°", "135°"],
+    answer: 2
+  },
+  {
+    question: "If ∠A = 3∠B and ∠A + ∠B = 90°, then ∠A is:",
+    options: ["45°", "60°", "67.5°", "75°"],
+    answer: 1
+  },
+  {
+    question: "If ∠A = 3∠B and ∠A + ∠B = 180°, then ∠A is:",
+    options: ["90°", "120°", "135°", "150°"],
+    answer: 1
+  },
+  {
+    question: "If ∠A = 4∠B and ∠A + ∠B = 90°, then ∠B is:",
+    options: ["15°", "18°", "20°", "25°"],
+    answer: 2
+  },
+  {
+    question: "If ∠A = 5∠B and ∠A + ∠B = 180°, then ∠B is:",
+    options: ["20°", "25°", "30°", "36°"],
+    answer: 3
+  },
+  {
+    question: "If ∠A = 4∠B and ∠A + ∠B = 180°, then ∠A is:",
+    options: ["120°", "135°", "144°", "150°"],
+    answer: 2
+  },
+  {
+    question: "If ∠A = 5∠B and ∠A + ∠B = 90°, then ∠A is:",
+    options: ["60°", "70°", "75°", "80°"],
+    answer: 3
+  },
+  {
+    question: "If a line segment is 48 cm and is divided into 8 equal parts, each part is:",
+    options: ["4 cm", "6 cm", "8 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "If a 60 cm segment is divided into 10 equal parts, each part is:",
+    options: ["5 cm", "6 cm", "8 cm", "10 cm"],
+    answer: 1
+  },
+  {
+    question: "If a 72 cm segment is divided into 9 equal parts, each part is:",
+    options: ["6 cm", "8 cm", "9 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "If a 100 cm segment is divided into 20 equal parts, each part is:",
+    options: ["4 cm", "5 cm", "10 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "A segment has length 42 cm. A point divides it into parts of 17 cm and x cm. Find x.",
+    options: ["15 cm", "20 cm", "25 cm", "30 cm"],
+    answer: 1
+  },
+  {
+    question: "A segment has length 55 cm. A point divides it into parts of 23 cm and x cm. Find x.",
+    options: ["22 cm", "32 cm", "42 cm", "48 cm"],
+    answer: 1
+  },
+  {
+    question: "A segment has length 80 cm. A point divides it in the ratio 3:5. The shorter part is:",
+    options: ["20 cm", "30 cm", "40 cm", "50 cm"],
+    answer: 1
+  },
+  {
+    question: "A segment has length 90 cm. A point divides it in the ratio 2:7. The longer part is:",
+    options: ["60 cm", "70 cm", "75 cm", "80 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = 12 cm, BC = 8 cm and CD = 10 cm, with points in order, AC is:",
+    options: ["18 cm", "20 cm", "22 cm", "30 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = 12 cm, BC = 8 cm and CD = 10 cm, with points in order, BD is:",
+    options: ["16 cm", "18 cm", "20 cm", "30 cm"],
+    answer: 0
+  },
+  {
+    question: "If A, B, C, D are in order and AD = 50 cm, AB = 15 cm and CD = 12 cm, then BC is:",
+    options: ["20 cm", "23 cm", "25 cm", "27 cm"],
+    answer: 1
+  },
+  {
+    question: "If A, B, C, D, E are in order, AB = 5 cm, BC = 7 cm, CD = 9 cm and DE = 11 cm, then AE is:",
+    options: ["30 cm", "31 cm", "32 cm", "33 cm"],
+    answer: 2
+  },
+  {
+    question: "If a segment is divided into 5 equal parts of 7 cm each, its total length is:",
+    options: ["30 cm", "35 cm", "40 cm", "45 cm"],
+    answer: 1
+  },
+  {
+    question: "If a segment is divided into 6 equal parts of 9 cm each, its total length is:",
+    options: ["45 cm", "54 cm", "63 cm", "72 cm"],
+    answer: 1
+  },
+  {
+    question: "If a 45 cm segment is divided into 3 equal parts, the distance from one endpoint to the second division point is:",
+    options: ["15 cm", "20 cm", "30 cm", "45 cm"],
+    answer: 2
+  },
+  {
+    question: "If a 64 cm segment is divided into 4 equal parts, the distance from one endpoint to the third division point is:",
+    options: ["16 cm", "32 cm", "48 cm", "64 cm"],
+    answer: 2
+  },
+  {
+    question: "If two parallel lines are cut conceptually by a perpendicular line, the angles formed at each intersection are:",
+    options: ["Right angles", "Acute angles only", "Obtuse angles only", "Straight angles"],
+    answer: 0
+  },
+  {
+    question: "Which pair of lines has exactly one common point?",
+    options: ["Parallel lines", "Intersecting lines", "Coincident lines", "Distinct horizontal lines"],
+    answer: 1
+  },
+  {
+    question: "Which pair of lines has no common point?",
+    options: ["Intersecting lines", "Perpendicular lines", "Parallel lines", "Coincident lines"],
+    answer: 2
+  },
+  {
+    question: "Which pair of lines has infinitely many common points when they overlap?",
+    options: ["Parallel distinct lines", "Coincident lines", "Perpendicular lines", "Intersecting lines"],
+    answer: 1
+  },
+  {
+    question: "If two lines meet at a point and form four right angles, the lines are:",
+    options: ["Parallel", "Perpendicular", "Collinear", "Coincident"],
+    answer: 1
+  },
+  {
+    question: "A pair of opposite sides of a rectangle are:",
+    options: ["Perpendicular", "Parallel", "Intersecting", "Collinear"],
+    answer: 1
+  },
+  {
+    question: "At every corner of a square, the two sides are:",
+    options: ["Parallel", "Perpendicular", "Collinear", "Curved"],
+    answer: 1
+  },
+  {
+    question: "A book's adjacent edges meet at approximately:",
+    options: ["45°", "60°", "90°", "180°"],
+    answer: 2
+  },
+  {
+    question: "Which of the following is an example of two perpendicular directions?",
+    options: ["North and East", "North and South", "East and West", "Northeast and Southwest"],
+    answer: 0
+  },
+  {
+    question: "Which pair represents opposite directions on a straight line?",
+    options: ["North and East", "North and South", "East and North", "Northeast and East"],
+    answer: 1
+  },
+  {
+    question: "If a person turns from East to North, the turn is:",
+    options: ["45°", "60°", "90°", "180°"],
+    answer: 2
+  },
+  {
+    question: "If a person turns from North to South by the smaller turn, the angle is:",
+    options: ["90°", "120°", "180°", "270°"],
+    answer: 2
+  },
+  {
+    question: "If a person turns from East to West by the smaller turn, the angle is:",
+    options: ["90°", "120°", "180°", "270°"],
+    answer: 2
+  },
+  {
+    question: "If a person turns from North to West, the turn is:",
+    options: ["45°", "90°", "135°", "180°"],
+    answer: 1
+  },
+  {
+    question: "If a person turns from North to Southeast by the smaller angle, the turn is:",
+    options: ["90°", "135°", "180°", "225°"],
+    answer: 1
+  },
+  {
+    question: "A compass divides a complete turn into how many main right-angle directions?",
+    options: ["2", "3", "4", "8"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 30° and is increased by three times itself, the new angle is:",
+    options: ["60°", "90°", "120°", "150°"],
+    answer: 3
+  },
+  {
+    question: "If an angle measures 40° and is doubled, the result is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 25° and is tripled, the result is:",
+    options: ["50°", "65°", "75°", "90°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 20° and is multiplied by 4, the result is:",
+    options: ["60°", "80°", "100°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If an angle measures 35° and is multiplied by 5, the result is:",
+    options: ["150°", "165°", "175°", "180°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 40° and is multiplied by 4, the result is:",
+    options: ["120°", "140°", "160°", "180°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 45° and is multiplied by 4, the result is:",
+    options: ["90°", "135°", "180°", "225°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 60° and is multiplied by 3, the result is:",
+    options: ["120°", "150°", "180°", "240°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 75° and is doubled, the result is:",
+    options: ["120°", "135°", "150°", "180°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 80° and is increased by 10°, it becomes:",
+    options: ["An acute angle", "A right angle", "An obtuse angle", "A straight angle"],
+    answer: 1
+  },
+  {
+    question: "If an angle measures 170° and is increased by 10°, it becomes:",
+    options: ["An acute angle", "A right angle", "An obtuse angle", "A straight angle"],
+    answer: 3
+  },
+  {
+    question: "If an angle measures 350° and is increased by 10°, it becomes:",
+    options: ["A straight angle", "A reflex angle", "A complete angle", "A right angle"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 270° and is decreased by 180°, it becomes:",
+    options: ["45°", "90°", "120°", "180°"],
+    answer: 1
+  },
+  {
+    question: "If an angle measures 225° and is decreased by 135°, it becomes:",
+    options: ["60°", "75°", "90°", "100°"],
+    answer: 2
+  },
+  {
+    question: "If an angle measures 300° and is decreased by 120°, it becomes:",
+    options: ["160°", "170°", "180°", "200°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is exactly 10° greater than 3/4 of a straight angle?",
+    options: ["135°", "145°", "150°", "160°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is exactly 20° less than 2/3 of a straight angle?",
+    options: ["90°", "100°", "110°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is exactly 30° more than half a straight angle?",
+    options: ["100°", "110°", "120°", "130°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is exactly 15° less than a quarter of a complete angle?",
+    options: ["65°", "75°", "85°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If the sum of two angles is 180° and one is 3 times the other, their difference is:",
+    options: ["60°", "90°", "100°", "120°"],
+    answer: 3
+  },
+  {
+    question: "If the sum of two angles is 90° and one is twice the other, their difference is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 2
+  },
+  {
+    question: "If the sum of two angles is 180° and one is twice the other, their difference is:",
+    options: ["30°", "60°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If the sum of two angles is 90° and one is four times the other, their difference is:",
+    options: ["45°", "50°", "54°", "60°"],
+    answer: 2
+  },
+  {
+    question: "If the sum of two angles is 180° and one is four times the other, their difference is:",
+    options: ["90°", "108°", "120°", "126°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 1/3 of its supplement, the angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 0
+  },
+  {
+    question: "If an angle is 1/2 of its supplement, the angle is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 1/3 of its complement, the angle is:",
+    options: ["20°", "22.5°", "30°", "45°"],
+    answer: 1
+  },
+  {
+    question: "If an angle is 2/3 of its complement, the angle is:",
+    options: ["30°", "36°", "45°", "60°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 3/2 of its complement, the angle is:",
+    options: ["45°", "54°", "60°", "72°"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 3/2 of its supplement, the angle is:",
+    options: ["90°", "108°", "120°", "135°"],
+    answer: 1
+  },
+  {
+    question: "Which angle has a complement of 0°?",
+    options: ["0°", "45°", "90°", "180°"],
+    answer: 2
+  },
+  {
+    question: "Which angle has a supplement of 0°?",
+    options: ["0°", "90°", "180°", "360°"],
+    answer: 2
+  },
+  {
+    question: "Which angle has a supplement of 90°?",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "Which angle has a complement of 30°?",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2
+  },
+  {
+    question: "Which angle has a supplement of 30°?",
+    options: ["120°", "135°", "150°", "160°"],
+    answer: 2
+  },
+  {
+    question: "If two angles are complementary and one is 10° more than the other, the larger is:",
+    options: ["40°", "45°", "50°", "55°"],
+    answer: 2
+  },
+  {
+    question: "If two angles are supplementary and one is 10° more than the other, the larger is:",
+    options: ["85°", "90°", "95°", "100°"],
+    answer: 2
+  },
+  {
+    question: "If two angles are complementary and one is 30° more than the other, the smaller is:",
+    options: ["20°", "30°", "40°", "50°"],
+    answer: 2
+  },
+  {
+    question: "If two angles are supplementary and one is 30° more than the other, the smaller is:",
+    options: ["60°", "70°", "75°", "80°"],
+    answer: 1
+  },
+  {
+    question: "If two angles are complementary and one is 50° more than the other, the larger is:",
+    options: ["65°", "70°", "75°", "80°"],
+    answer: 2
+  },
+  {
+    question: "If two angles are supplementary and one is 50° more than the other, the larger is:",
+    options: ["105°", "110°", "115°", "120°"],
+    answer: 2
+  },
+  {
+    question: "A 90° angle is divided into three angles in the ratio 2:3:4. The largest angle is:",
+    options: ["30°", "35°", "40°", "45°"],
+    answer: 2
+  },
+  {
+    question: "A 180° angle is divided into three angles in the ratio 2:3:4. The largest angle is:",
+    options: ["60°", "70°", "80°", "90°"],
+    answer: 2
+  },
+  {
+    question: "A 360° angle is divided into three angles in the ratio 2:3:4. The largest angle is:",
+    options: ["120°", "140°", "160°", "180°"],
+    answer: 2
+  },
+  {
+    question: "A right angle is divided into four equal parts. How many of these parts make 60°?",
+    options: ["1", "2", "3", "4"],
+    answer: 3
+  },
+  {
+    question: "A straight angle is divided into six equal parts. How many parts make 120°?",
+    options: ["2", "3", "4", "5"],
+    answer: 1
+  },
+  {
+    question: "A complete angle is divided into twelve equal parts. How many parts make 180°?",
+    options: ["4", "5", "6", "8"],
+    answer: 2
+  },
+  {
+    question: "A complete angle is divided into eight equal parts. How many parts make 135°?",
+    options: ["2", "3", "4", "5"],
+    answer: 3
+  },
+  {
+    question: "A straight angle is divided into four equal parts. How many parts make 135°?",
+    options: ["2", "3", "4", "5"],
+    answer: 2
+  },
+  {
+    question: "A right angle is divided into six equal parts. How many parts make 30°?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "If each of 4 equal angles is 45°, their total is:",
+    options: ["90°", "135°", "180°", "360°"],
+    answer: 2
+  },
+  {
+    question: "If each of 6 equal angles is 60°, their total is:",
+    options: ["180°", "270°", "360°", "540°"],
+    answer: 2
+  },
+  {
+    question: "If each of 8 equal angles is 45°, their total is:",
+    options: ["180°", "270°", "360°", "450°"],
+    answer: 2
+  },
+  {
+    question: "If each of 12 equal angles is 30°, their total is:",
+    options: ["180°", "270°", "360°", "450°"],
+    answer: 2
+  },
+  {
+    question: "If each of 10 equal angles is 18°, their total is:",
+    options: ["90°", "180°", "270°", "360°"],
+    answer: 3
+  },
+],
+
+3: [
+  {
+    question: "Which number should replace the box? 7 × □ = 56",
+    options: ["6", "7", "8", "9"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number that is divisible by both 6 and 8?",
+    options: ["12", "18", "24", "48"],
+    answer: 2
+  },
+  {
+    question: "Which of the following numbers is a factor of 84?",
+    options: ["9", "11", "12", "13"],
+    answer: 2
+  },
+  {
+    question: "What is the remainder when 157 is divided by 12?",
+    options: ["1", "5", "11", "13"],
+    answer: 1
+  },
+  {
+    question: "Which number is both a multiple of 5 and a factor of 100?",
+    options: ["20", "25", "30", "40"],
+    answer: 1
+  },
+  {
+    question: "The sum of two consecutive numbers is 57. What is the smaller number?",
+    options: ["27", "28", "29", "30"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly 3 factors?",
+    options: ["4", "6", "8", "10"],
+    answer: 0
+  },
+  {
+    question: "What is the greatest 2-digit number divisible by 7?",
+    options: ["91", "98", "97", "84"],
+    answer: 1
+  },
+  {
+    question: "Which of these is a prime number?",
+    options: ["51", "57", "61", "69"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest 3-digit number divisible by 9?",
+    options: ["108", "101", "109", "117"],
+    answer: 0
+  },
+  {
+    question: "If a number is divisible by 2 and 3, it must also be divisible by:",
+    options: ["5", "6", "9", "12"],
+    answer: 1
+  },
+  {
+    question: "What is 25 × 16?",
+    options: ["350", "400", "425", "450"],
+    answer: 1
+  },
+  {
+    question: "Which number is NOT a factor of 72?",
+    options: ["6", "8", "9", "10"],
+    answer: 3
+  },
+  {
+    question: "The product of two prime numbers is 77. What are the primes?",
+    options: ["5 and 15", "7 and 11", "3 and 25", "1 and 77"],
+    answer: 1
+  },
+  {
+    question: "What is the next number in the pattern 3, 6, 12, 24, ___?",
+    options: ["36", "42", "48", "54"],
+    answer: 2
+  },
+  {
+    question: "Which number is divisible by 11?",
+    options: ["121", "123", "125", "127"],
+    answer: 0
+  },
+  {
+    question: "What is the HCF of 18 and 30?",
+    options: ["3", "6", "9", "12"],
+    answer: 1
+  },
+  {
+    question: "What is the LCM of 4 and 6?",
+    options: ["8", "10", "12", "24"],
+    answer: 2
+  },
+  {
+    question: "A number has factors 1, 2, 4, 8 and 16. What is the number?",
+    options: ["8", "12", "16", "32"],
+    answer: 2
+  },
+  {
+    question: "Which number is divisible by both 4 and 9?",
+    options: ["18", "27", "36", "45"],
+    answer: 2
+  },
+  {
+    question: "What is the difference between the greatest and smallest 3-digit numbers?",
+    options: ["899", "900", "998", "999"],
+    answer: 1
+  },
+  {
+    question: "If 8 × 7 = 56, then 56 ÷ 8 equals:",
+    options: ["6", "7", "8", "9"],
+    answer: 1
+  },
+  {
+    question: "Which number is divisible by 3 but not by 9?",
+    options: ["27", "36", "45", "54"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number that must be added to 48 to make it divisible by 7?",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number that must be subtracted from 100 to make it divisible by 9?",
+    options: ["1", "2", "3", "4"],
+    answer: 0
+  },
+  {
+    question: "How many factors does 12 have?",
+    options: ["4", "5", "6", "7"],
+    answer: 2
+  },
+  {
+    question: "Which pair contains two co-prime numbers?",
+    options: ["8, 12", "9, 15", "14, 25", "18, 24"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest prime number greater than 50?",
+    options: ["51", "53", "55", "57"],
+    answer: 1
+  },
+  {
+    question: "Which number is a perfect square?",
+    options: ["48", "49", "50", "51"],
+    answer: 1
+  },
+  {
+    question: "What is 15 × 15?",
+    options: ["215", "225", "235", "250"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly two factors?",
+    options: ["1", "9", "13", "15"],
+    answer: 2
+  },
+  {
+    question: "What is the greatest factor of 45 other than 45 itself?",
+    options: ["5", "9", "15", "20"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest multiple of 13 greater than 50?",
+    options: ["52", "56", "60", "65"],
+    answer: 0
+  },
+  {
+    question: "Which number is divisible by 5?",
+    options: ["234", "345", "472", "581"],
+    answer: 1
+  },
+  {
+    question: "What is 999 + 1?",
+    options: ["100", "1000", "1001", "9990"],
+    answer: 1
+  },
+  {
+    question: "What is the remainder when 245 is divided by 10?",
+    options: ["0", "2", "5", "9"],
+    answer: 2
+  },
+  {
+    question: "Which number is divisible by 6?",
+    options: ["25", "32", "42", "55"],
+    answer: 2
+  },
+  {
+    question: "If 3 consecutive numbers have a sum of 72, what is the middle number?",
+    options: ["22", "23", "24", "25"],
+    answer: 2
+  },
+  {
+    question: "Which is the smallest number divisible by 2, 3 and 5?",
+    options: ["15", "20", "30", "60"],
+    answer: 2
+  },
+  {
+    question: "What is 144 ÷ 12?",
+    options: ["10", "11", "12", "13"],
+    answer: 2
+  },
+  {
+    question: "Which number is NOT prime?",
+    options: ["17", "19", "21", "23"],
+    answer: 2
+  },
+  {
+    question: "What is the sum of the first five odd numbers?",
+    options: ["15", "20", "25", "30"],
+    answer: 2
+  },
+  {
+    question: "What is the sum of the first four even numbers?",
+    options: ["10", "12", "16", "20"],
+    answer: 1
+  },
+  {
+    question: "Which number comes next? 2, 5, 10, 17, 26, ___",
+    options: ["35", "36", "37", "38"],
+    answer: 2
+  },
+  {
+    question: "A number is divisible by 10. Which digit must be in its ones place?",
+    options: ["0", "2", "5", "8"],
+    answer: 0
+  },
+  {
+    question: "Which is the largest 3-digit multiple of 8?",
+    options: ["984", "992", "996", "998"],
+    answer: 1
+  },
+  {
+    question: "What is the HCF of 24 and 36?",
+    options: ["6", "8", "12", "18"],
+    answer: 2
+  },
+  {
+    question: "What is the LCM of 8 and 12?",
+    options: ["16", "20", "24", "48"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly four factors?",
+    options: ["6", "8", "9", "12"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number divisible by 7 and 9?",
+    options: ["49", "56", "63", "72"],
+    answer: 2
+  },
+  {
+    question: "If 5 consecutive numbers start with 18, what is their sum?",
+    options: ["90", "95", "100", "105"],
+    answer: 2
+  },
+  {
+    question: "Which number is 3 less than a multiple of 10?",
+    options: ["27", "28", "29", "30"],
+    answer: 2
+  },
+  {
+    question: "What is the greatest 2-digit prime number?",
+    options: ["89", "91", "97", "99"],
+    answer: 2
+  },
+  {
+    question: "Which number is both even and prime?",
+    options: ["1", "2", "4", "6"],
+    answer: 1
+  },
+  {
+    question: "What is 7² + 3²?",
+    options: ["49", "52", "58", "64"],
+    answer: 2
+  },
+  {
+    question: "Which number is divisible by 4?",
+    options: ["318", "324", "326", "330"],
+    answer: 1
+  },
+  {
+    question: "What is the remainder when 89 is divided by 7?",
+    options: ["3", "4", "5", "6"],
+    answer: 1
+  },
+  {
+    question: "Which number has the greatest number of factors?",
+    options: ["16", "18", "20", "24"],
+    answer: 3
+  },
+  {
+    question: "If a number is divisible by 2 and 5, it must be divisible by:",
+    options: ["7", "8", "10", "12"],
+    answer: 2
+  },
+  {
+    question: "What is the next multiple of 12 after 95?",
+    options: ["96", "102", "108", "110"],
+    answer: 0
+  },
+  {
+    question: "Which number is a factor of both 48 and 60?",
+    options: ["7", "8", "11", "13"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number having exactly five factors?",
+    options: ["12", "16", "20", "25"],
+    answer: 3
+  },
+  {
+    question: "Which number is divisible by 8?",
+    options: ["216", "218", "220", "222"],
+    answer: 0
+  },
+  {
+    question: "What is 125 × 8?",
+    options: ["800", "900", "1000", "1100"],
+    answer: 2
+  },
+  {
+    question: "Which number is NOT divisible by 3?",
+    options: ["123", "234", "345", "347"],
+    answer: 3
+  },
+  {
+    question: "The product of three consecutive numbers is 120. Which numbers are they?",
+    options: ["3, 4, 5", "4, 5, 6", "5, 6, 7", "2, 5, 12"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number that is a multiple of both 8 and 15?",
+    options: ["40", "60", "120", "240"],
+    answer: 2
+  },
+  {
+    question: "Which number is closest to 500 and divisible by 7?",
+    options: ["497", "498", "499", "504"],
+    answer: 0
+  },
+  {
+    question: "What is the sum of all factors of 10?",
+    options: ["12", "18", "20", "24"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly six factors?",
+    options: ["10", "12", "16", "18"],
+    answer: 1
+  },
+  {
+    question: "If 4 × 9 = 36, then 36 is a multiple of:",
+    options: ["4 and 9", "4 only", "9 only", "Neither"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number greater than 100 divisible by 11?",
+    options: ["101", "110", "111", "121"],
+    answer: 1
+  },
+  {
+    question: "Which number is both a square number and even?",
+    options: ["25", "36", "49", "81"],
+    answer: 1
+  },
+  {
+    question: "What is 2 × 3 × 4 × 5?",
+    options: ["60", "100", "120", "140"],
+    answer: 2
+  },
+  {
+    question: "Which number is a common multiple of 6 and 8?",
+    options: ["18", "24", "30", "36"],
+    answer: 1
+  },
+  {
+    question: "What is the greatest common factor of 16 and 24?",
+    options: ["4", "6", "8", "12"],
+    answer: 2
+  },
+  {
+    question: "What is the least common multiple of 5 and 12?",
+    options: ["30", "40", "50", "60"],
+    answer: 3
+  },
+  {
+    question: "Which number should replace □? 4, 9, 16, 25, □",
+    options: ["30", "32", "36", "40"],
+    answer: 2
+  },
+  {
+    question: "Which number should come next? 1, 4, 9, 16, 25, ___",
+    options: ["30", "32", "36", "49"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest odd multiple of 6?",
+    options: ["3", "6", "9", "12"],
+    answer: 2
+  },
+  {
+    question: "Which number is divisible by 9?",
+    options: ["234", "243", "245", "247"],
+    answer: 1
+  },
+  {
+    question: "What is the sum of the digits of 987?",
+    options: ["21", "22", "24", "25"],
+    answer: 2
+  },
+  {
+    question: "A number has digit sum 18. Which number could it be?",
+    options: ["245", "369", "451", "523"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest 4-digit number divisible by 25?",
+    options: ["1000", "1025", "1050", "1075"],
+    answer: 0
+  },
+  {
+    question: "Which number is divisible by both 3 and 4?",
+    options: ["18", "24", "30", "34"],
+    answer: 1
+  },
+  {
+    question: "What is the remainder when 999 is divided by 8?",
+    options: ["5", "6", "7", "8"],
+    answer: 2
+  },
+  {
+    question: "Which is the only even prime number?",
+    options: ["0", "1", "2", "4"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number that has 1, 2, 3, 4, 6 and 12 as factors?",
+    options: ["12", "18", "24", "36"],
+    answer: 0
+  },
+  {
+    question: "If 72 sweets are divided equally among 8 children, how many sweets does each child get?",
+    options: ["8", "9", "10", "12"],
+    answer: 1
+  },
+  {
+    question: "Which number is 5 times 17?",
+    options: ["75", "80", "85", "90"],
+    answer: 2
+  },
+  {
+    question: "What is 360 ÷ 15?",
+    options: ["20", "22", "24", "26"],
+    answer: 2
+  },
+  {
+    question: "Which number is a multiple of 7 but not a multiple of 14?",
+    options: ["14", "21", "28", "42"],
+    answer: 1
+  },
+  {
+    question: "What is the next number? 5, 10, 20, 40, 80, ___",
+    options: ["120", "140", "160", "180"],
+    answer: 2
+  },
+  {
+    question: "Which number is the product of 9 and 11?",
+    options: ["90", "99", "108", "110"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number that leaves remainder 1 when divided by both 2 and 3?",
+    options: ["5", "6", "7", "8"],
+    answer: 2
+  },
+  {
+    question: "Which number is greater than 60, less than 70 and divisible by 9?",
+    options: ["63", "64", "66", "68"],
+    answer: 0
+  },
+  {
+    question: "What is the difference between 3 × 25 and 2 × 30?",
+    options: ["10", "15", "20", "25"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly eight factors?",
+    options: ["12", "18", "24", "30"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number that can be divided exactly by 3, 4 and 5?",
+    options: ["30", "40", "50", "60"],
+    answer: 3
+  },
+  {
+    question: "A number is divisible by 2, 3 and 5. Which could be the number?",
+    options: ["25", "45", "60", "75"],
+    answer: 2
+  },
+  {
+    question: "What is 9999 rounded down to the nearest thousand?",
+    options: ["9000", "9500", "9900", "9990"],
+    answer: 0
+  },
+  {
+    question: "Which number is exactly halfway between 40 and 80?",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "What is the greatest common factor of 45 and 75?",
+    options: ["5", "10", "15", "25"],
+    answer: 2
+  },
+  {
+    question: "What is the least common multiple of 9 and 12?",
+    options: ["18", "24", "36", "48"],
+    answer: 2
+  },
+  {
+    question: "Which number should replace □? 2 × □ + 5 = 19",
+    options: ["5", "6", "7", "8"],
+    answer: 2
+  },
+  {
+    question: "If a number is multiplied by 6 and the result is 78, what is the number?",
+    options: ["11", "12", "13", "14"],
+    answer: 2
+  },
+  {
+    question: "Which number is the sum of three consecutive odd numbers 17, 19 and 21?",
+    options: ["55", "56", "57", "58"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number greater than 50 that is divisible by both 6 and 9?",
+    options: ["54", "60", "63", "72"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly three factors?",
+    options: ["9", "10", "12", "15"],
+    answer: 0
+  },
+  {
+    question: "What is the value of 1000 − 375?",
+    options: ["525", "625", "675", "725"],
+    answer: 1
+  },
+  {
+    question: "Which number is closest to 100 and divisible by 6?",
+    options: ["96", "98", "102", "104"],
+    answer: 0
+  },
+  {
+    question: "If 5 notebooks cost ₹125, what is the cost of one notebook?",
+    options: ["₹20", "₹25", "₹30", "₹35"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number that must be added to 73 to make it divisible by 8?",
+    options: ["5", "6", "7", "8"],
+    answer: 0
+  },
+  {
+    question: "Which number is a common factor of 36 and 54?",
+    options: ["5", "6", "7", "8"],
+    answer: 1
+  },
+  {
+    question: "What is 18 × 11?",
+    options: ["188", "198", "208", "218"],
+    answer: 1
+  },
+  {
+    question: "Which number is neither prime nor composite?",
+    options: ["0", "1", "2", "3"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number that has exactly six factors?",
+    options: ["10", "12", "15", "18"],
+    answer: 1
+  },
+  {
+    question: "A number is 4 more than 5 times 9. What is the number?",
+    options: ["45", "47", "49", "50"],
+    answer: 2
+  },
+  {
+    question: "What is 2³ + 3²?",
+    options: ["15", "17", "18", "20"],
+    answer: 1
+  },
+  {
+    question: "Which number is divisible by 12?",
+    options: ["132", "134", "138", "142"],
+    answer: 0
+  },
+],
+
+4: [
+  {
+    question: "A survey records the number of books read by five students as 4, 7, 5, 7, 9. What is the most common number?",
+    options: ["4", "5", "7", "9"],
+    answer: 2
+  },
+  {
+    question: "Which type of graph is most suitable for comparing the number of students in different classes?",
+    options: ["Bar graph", "Line graph", "Circle", "Number line"],
+    answer: 0
+  },
+  {
+    question: "The marks of five students are 12, 15, 18, 15, 20. What is the highest mark?",
+    options: ["12", "15", "18", "20"],
+    answer: 3
+  },
+  {
+    question: "A pictograph uses one ★ to represent 5 books. If there are 7 stars, how many books are represented?",
+    options: ["25", "30", "35", "40"],
+    answer: 2
+  },
+  {
+    question: "The number of cars passing a gate in five hours is 12, 18, 15, 21, 14. During which hour were the most cars recorded?",
+    options: ["First", "Second", "Third", "Fourth"],
+    answer: 3
+  },
+  {
+    question: "A bar graph has a scale of 1 unit = 10 students. A bar reaches 6 units. How many students does it represent?",
+    options: ["50", "60", "70", "80"],
+    answer: 1
+  },
+  {
+    question: "Which of the following is data?",
+    options: ["A guess", "A collection of recorded information", "A drawing", "A rule"],
+    answer: 1
+  },
+  {
+    question: "The number of goals scored by a team in five matches is 2, 4, 1, 3, 5. What is the total number of goals?",
+    options: ["12", "13", "14", "15"],
+    answer: 3
+  },
+  {
+    question: "A pictograph shows 1 ● = 4 children. If there are 9 ● symbols, how many children are represented?",
+    options: ["32", "36", "40", "44"],
+    answer: 1
+  },
+  {
+    question: "The data 3, 5, 5, 6, 8, 5, 9 has which number occurring most often?",
+    options: ["3", "5", "6", "9"],
+    answer: 1
+  },
+  {
+    question: "Which graph is generally used to show how a quantity changes over time?",
+    options: ["Bar graph", "Line graph", "Pictograph", "Table"],
+    answer: 1
+  },
+  {
+    question: "A class has 12 boys and 18 girls. What is the difference between the number of girls and boys?",
+    options: ["4", "5", "6", "8"],
+    answer: 2
+  },
+  {
+    question: "In a survey, 25 students like cricket, 18 like football and 7 like both. If the groups are counted separately, what is the total?",
+    options: ["43", "45", "50", "52"],
+    answer: 2
+  },
+  {
+    question: "The temperatures recorded over four days are 31°C, 34°C, 29°C and 36°C. Which day had the lowest temperature?",
+    options: ["Day 1", "Day 2", "Day 3", "Day 4"],
+    answer: 2
+  },
+  {
+    question: "A bar graph shows values 20, 35, 25 and 40. What is the difference between the greatest and smallest values?",
+    options: ["15", "20", "25", "30"],
+    answer: 2
+  },
+  {
+    question: "A pictograph has 1 ★ = 8 students. If a category has 5 ★, how many students are there?",
+    options: ["35", "40", "45", "48"],
+    answer: 1
+  },
+  {
+    question: "The number of trees planted by four groups is 24, 31, 19 and 26. Which group planted the second-highest number?",
+    options: ["First", "Second", "Third", "Fourth"],
+    answer: 3
+  },
+  {
+    question: "What should be done first when collecting data through a survey?",
+    options: ["Draw a graph", "Decide what information is needed", "Colour the bars", "Calculate the answer"],
+    answer: 1
+  },
+  {
+    question: "A table shows 8, 12, 15 and 10 students choosing four different sports. How many students were surveyed altogether?",
+    options: ["35", "40", "45", "50"],
+    answer: 1
+  },
+  {
+    question: "A bar graph uses a scale where each square represents 5 units. A bar is 9 squares high. What is its value?",
+    options: ["40", "45", "50", "55"],
+    answer: 1
+  },
+  {
+    question: "The number of pencils owned by five children is 3, 6, 4, 8, 4. What is the difference between the maximum and minimum?",
+    options: ["4", "5", "6", "7"],
+    answer: 2
+  },
+  {
+    question: "Which representation makes it easiest to see the exact number for each category?",
+    options: ["Data table", "Picture only", "Random drawing", "Story"],
+    answer: 0
+  },
+  {
+    question: "A pictograph uses 1 🍎 = 3 apples. If 12 apples are represented, how many symbols are needed?",
+    options: ["3", "4", "5", "6"],
+    answer: 1
+  },
+  {
+    question: "The scores in four rounds are 18, 24, 21 and 27. What is the total score?",
+    options: ["80", "85", "90", "95"],
+    answer: 2
+  },
+  {
+    question: "If a bar graph has equal-width bars and one bar is twice as high as another, what does this usually mean?",
+    options: ["Half the value", "Double the value", "Same value", "No relation"],
+    answer: 1
+  },
+  {
+    question: "The number of visitors to a park on five days is 120, 150, 90, 180 and 160. On which day were there 180 visitors?",
+    options: ["Monday", "Tuesday", "Wednesday", "Thursday"],
+    answer: 3
+  },
+  {
+    question: "What is the mode of 2, 4, 6, 4, 8, 4, 9?",
+    options: ["2", "4", "6", "9"],
+    answer: 1
+  },
+  {
+    question: "A survey records favourite fruits: Mango 12, Apple 8, Banana 15, Orange 5. Which fruit is least popular?",
+    options: ["Mango", "Apple", "Banana", "Orange"],
+    answer: 3
+  },
+  {
+    question: "If 1 symbol in a pictograph represents 10 books, how many books do 8 symbols represent?",
+    options: ["60", "70", "80", "90"],
+    answer: 2
+  },
+  {
+    question: "A class collected 45 kg of paper in Week 1 and 62 kg in Week 2. How much more was collected in Week 2?",
+    options: ["15 kg", "17 kg", "19 kg", "21 kg"],
+    answer: 1
+  },
+  {
+    question: "The data 11, 15, 19, 15, 21, 15, 18 has how many occurrences of 15?",
+    options: ["2", "3", "4", "5"],
+    answer: 1
+  },
+  {
+    question: "A graph has categories A, B, C and D with values 16, 24, 20 and 28. What is the total of B and C?",
+    options: ["40", "42", "44", "48"],
+    answer: 0
+  },
+  {
+    question: "A pictograph shows 1 🚌 = 6 buses. If a row has 4 full symbols and one half symbol, how many buses are represented?",
+    options: ["24", "27", "30", "36"],
+    answer: 1
+  },
+  {
+    question: "Which scale is most suitable for a graph representing values from 0 to 100?",
+    options: ["1 unit = 1", "1 unit = 5", "1 unit = 10", "1 unit = 1000"],
+    answer: 2
+  },
+  {
+    question: "A shop records sales of 35, 42, 28 and 45 items over four days. What is the average number of items per day?",
+    options: ["35", "37.5", "40", "42.5"],
+    answer: 1
+  },
+  {
+    question: "Which value is the median of 3, 5, 7, 9, 11?",
+    options: ["5", "7", "9", "11"],
+    answer: 1
+  },
+  {
+    question: "Which value is the median of 4, 8, 10, 12, 15, 18, 20?",
+    options: ["10", "12", "15", "18"],
+    answer: 1
+  },
+  {
+    question: "A table records 14, 17, 21 and 8 votes. How many votes were recorded altogether?",
+    options: ["50", "55", "60", "65"],
+    answer: 0
+  },
+  {
+    question: "If one bar represents 25 students, what does 4 bars represent?",
+    options: ["75", "90", "100", "125"],
+    answer: 2
+  },
+  {
+    question: "The number of rainy days in four months is 6, 9, 4 and 11. Which month had the greatest number of rainy days?",
+    options: ["First", "Second", "Third", "Fourth"],
+    answer: 3
+  },
+  {
+    question: "A pictograph has 1 star = 5 toys. If there are 6 stars, how many toys are shown?",
+    options: ["25", "30", "35", "40"],
+    answer: 1
+  },
+  {
+    question: "A bar graph shows 48 students in Class A and 36 in Class B. How many more students are in Class A?",
+    options: ["10", "12", "14", "16"],
+    answer: 1
+  },
+  {
+    question: "The data 5, 7, 9, 11, 13 has how many numbers?",
+    options: ["3", "4", "5", "6"],
+    answer: 2
+  },
+  {
+    question: "A survey asks 100 students about their favourite sport. 35 choose cricket, 25 football, 20 badminton and the rest tennis. How many choose tennis?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "A graph shows sales of 15, 25, 35 and 45 items. What is the increase from the first to the last category?",
+    options: ["20", "25", "30", "35"],
+    answer: 2
+  },
+  {
+    question: "What is the range of the data 12, 18, 25, 9, 21?",
+    options: ["14", "15", "16", "17"],
+    answer: 2
+  },
+  {
+    question: "A student's weekly study hours are 4, 6, 5, 8 and 7. How many hours were studied altogether?",
+    options: ["28", "30", "32", "35"],
+    answer: 1
+  },
+  {
+    question: "Which graph would be most useful for showing the number of books read by different students?",
+    options: ["Bar graph", "Line graph", "Number line", "Clock"],
+    answer: 0
+  },
+  {
+    question: "A pictograph represents 1 bicycle with 4 students. If 7 bicycles are shown, how many students are represented?",
+    options: ["24", "28", "32", "36"],
+    answer: 1
+  },
+  {
+    question: "The values in a table are 22, 18, 30 and 25. What is the smallest value?",
+    options: ["18", "22", "25", "30"],
+    answer: 0
+  },
+  {
+    question: "A class has 15 students who like Hindi, 12 who like English and 9 who like both. If counted separately, what is the total number of choices?",
+    options: ["27", "30", "36", "40"],
+    answer: 2
+  },
+  {
+    question: "What is the difference between the largest and smallest numbers in 17, 29, 11, 35, 24?",
+    options: ["20", "22", "24", "26"],
+    answer: 2
+  },
+  {
+    question: "A bar graph has scale 1 unit = 4 children. A bar reaches 8 units. How many children does it represent?",
+    options: ["24", "28", "32", "36"],
+    answer: 2
+  },
+  {
+    question: "The number of fruits sold is Mango 20, Apple 15, Banana 25 and Orange 10. What is the total?",
+    options: ["60", "65", "70", "75"],
+    answer: 2
+  },
+  {
+    question: "Which number occurs most frequently in 6, 8, 6, 9, 10, 8, 6?",
+    options: ["6", "8", "9", "10"],
+    answer: 0
+  },
+  {
+    question: "A survey has 48 responses. If 18 are for option A and 15 for option B, how many are for the remaining options?",
+    options: ["12", "15", "18", "20"],
+    answer: 1
+  },
+  {
+    question: "A bar graph shows 75 books sold on Monday and 50 on Tuesday. What fraction of Monday's sales were Tuesday's sales?",
+    options: ["1/2", "2/3", "3/4", "4/5"],
+    answer: 1
+  },
+  {
+    question: "The temperatures are 28°C, 31°C, 29°C, 35°C and 27°C. What is the range?",
+    options: ["6°C", "7°C", "8°C", "9°C"],
+    answer: 1
+  },
+  {
+    question: "If 1 picture represents 12 students, how many students are represented by 3 pictures?",
+    options: ["24", "30", "36", "42"],
+    answer: 2
+  },
+  {
+    question: "A shop sold 24 pens, 36 pencils and 18 erasers. How many items were sold?",
+    options: ["68", "72", "78", "82"],
+    answer: 2
+  },
+  {
+    question: "Which statement about a bar graph is correct?",
+    options: ["Bars must always have different widths", "Bar heights represent values", "Bars cannot be compared", "Bars must always be circular"],
+    answer: 1
+  },
+  {
+    question: "The number of students absent on five days is 3, 5, 2, 7 and 4. What is the total number absent?",
+    options: ["19", "20", "21", "22"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 triangle = 5 cars. If 9 triangles are shown, how many cars are represented?",
+    options: ["40", "45", "50", "55"],
+    answer: 1
+  },
+  {
+    question: "A class survey gives 10, 15, 20 and 5 students for four choices. Which choice has twice as many students as the first?",
+    options: ["First", "Second", "Third", "Fourth"],
+    answer: 1
+  },
+  {
+    question: "What is the median of 6, 2, 9, 4, 7 after arranging the data?",
+    options: ["4", "6", "7", "9"],
+    answer: 1
+  },
+  {
+    question: "A graph records 40, 55, 45 and 60 visitors. What is the total number of visitors?",
+    options: ["190", "195", "200", "205"],
+    answer: 2
+  },
+  {
+    question: "A pictograph shows 1 book = 2 students. If 15 books are shown, how many students are represented?",
+    options: ["20", "25", "30", "35"],
+    answer: 2
+  },
+  {
+    question: "Which data set has the greatest range?",
+    options: ["2, 5, 7", "10, 15, 20", "21, 25, 29", "40, 42, 45"],
+    answer: 1
+  },
+  {
+    question: "A survey records 32 boys and 28 girls. What percentage of the total students are girls?",
+    options: ["40%", "45%", "50%", "55%"],
+    answer: 1
+  },
+  {
+    question: "If a bar represents 30 units and the scale is 1 unit = 5, how many scale units high is the bar?",
+    options: ["5", "6", "7", "8"],
+    answer: 1
+  },
+  {
+    question: "The number of books read by four students is 6, 9, 12 and 15. What is the difference between the highest and lowest?",
+    options: ["6", "8", "9", "10"],
+    answer: 2
+  },
+  {
+    question: "A table has values 18, 24, 30 and 36. What is the difference between consecutive values?",
+    options: ["4", "5", "6", "8"],
+    answer: 2
+  },
+  {
+    question: "Which data is categorical rather than numerical?",
+    options: ["Heights of students", "Number of books", "Favourite colours", "Marks scored"],
+    answer: 2
+  },
+  {
+    question: "A survey of 80 students shows 35 like cricket, 25 football and the rest hockey. How many like hockey?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "A pictograph has 1 symbol = 7 objects. If there are 8 symbols, how many objects are represented?",
+    options: ["49", "54", "56", "63"],
+    answer: 2
+  },
+  {
+    question: "The values in a graph are 12, 18, 24, 30. What is the total of the two middle values?",
+    options: ["36", "40", "42", "48"],
+    answer: 2
+  },
+  {
+    question: "A class has 20 students. 8 prefer cricket, 7 football and 5 badminton. Which sport is most preferred?",
+    options: ["Cricket", "Football", "Badminton", "All equal"],
+    answer: 0
+  },
+  {
+    question: "What is the mode of 4, 7, 4, 9, 7, 4, 8, 7, 4?",
+    options: ["4", "7", "8", "9"],
+    answer: 0
+  },
+  {
+    question: "The number of visitors increases from 120 to 180. By how many visitors did it increase?",
+    options: ["50", "60", "70", "80"],
+    answer: 1
+  },
+  {
+    question: "If each bar unit represents 20 students, what does a 7-unit bar represent?",
+    options: ["120", "130", "140", "150"],
+    answer: 2
+  },
+  {
+    question: "A data set has 8 values. After arranging them, which positions contain the two middle values?",
+    options: ["3rd and 4th", "4th and 5th", "5th and 6th", "2nd and 7th"],
+    answer: 1
+  },
+  {
+    question: "A shop records 25, 35, 40 and 50 sales. What percentage of the total sales occurred in the last category?",
+    options: ["25%", "30%", "33.33%", "40%"],
+    answer: 2
+  },
+  {
+    question: "The numbers of students in four groups are 18, 22, 26 and 34. Which group has 8 more students than the second group?",
+    options: ["First", "Second", "Third", "Fourth"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 symbol = 4 kg. If a farmer's produce is shown by 11 symbols, how much produce is there?",
+    options: ["40 kg", "44 kg", "48 kg", "52 kg"],
+    answer: 1
+  },
+  {
+    question: "The average of 10, 20 and 30 is:",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "Which graph would be best to compare rainfall in different months?",
+    options: ["Bar graph", "Number line", "Clock", "Shape diagram"],
+    answer: 0
+  },
+  {
+    question: "A data set contains 5, 5, 7, 8, 10, 5, 12. What is the mode?",
+    options: ["5", "7", "8", "10"],
+    answer: 0
+  },
+  {
+    question: "A survey has 120 students. 45 choose A, 35 choose B and 20 choose C. How many choose other options?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "If 1 picture represents 15 people, what do 6 pictures represent?",
+    options: ["75", "80", "90", "100"],
+    answer: 2
+  },
+  {
+    question: "A graph has values 16, 24, 32 and 40. What is the ratio of the smallest to largest value?",
+    options: ["1:2", "2:5", "2:3", "3:5"],
+    answer: 1
+  },
+  {
+    question: "The daily sales are 10, 20, 30, 40 and 50. What is the total sales?",
+    options: ["120", "140", "150", "160"],
+    answer: 2
+  },
+  {
+    question: "Which statement is true about a pictograph?",
+    options: ["Every symbol must always represent one object", "A key explains what each symbol represents", "It cannot represent large quantities", "It never uses pictures"],
+    answer: 1
+  },
+  {
+    question: "A bar graph shows 80 students in Class A and 120 in Class B. Class B has how many more students?",
+    options: ["20", "30", "40", "50"],
+    answer: 2
+  },
+  {
+    question: "The range of 15, 22, 31, 18 and 27 is:",
+    options: ["14", "15", "16", "17"],
+    answer: 2
+  },
+  {
+    question: "A survey records 24, 18, 12 and 6 votes. What is the total number of votes?",
+    options: ["54", "60", "66", "72"],
+    answer: 1
+  },
+  {
+    question: "If one bar represents 8 units, what does 12 bars represent?",
+    options: ["80", "88", "96", "104"],
+    answer: 2
+  },
+  {
+    question: "A pictograph shows 10 symbols, each representing 3 books. If 4 books are removed, how many books remain?",
+    options: ["24", "26", "28", "30"],
+    answer: 1
+  },
+  {
+    question: "The number of students choosing four activities is 12, 16, 20 and 24. How many more chose the last activity than the first?",
+    options: ["8", "10", "12", "14"],
+    answer: 2
+  },
+  {
+    question: "A data set is 8, 12, 15, 12, 20, 12, 25. What is its mode?",
+    options: ["8", "12", "15", "25"],
+    answer: 1
+  },
+  {
+    question: "A class collected 35 bottles on Monday and 48 on Tuesday. What is the total?",
+    options: ["73", "78", "83", "88"],
+    answer: 0
+  },
+  {
+    question: "Which value is the largest in the data 45, 54, 39, 62, 51?",
+    options: ["45", "54", "51", "62"],
+    answer: 3
+  },
+  {
+    question: "A bar graph uses a scale of 1 unit = 25. A bar reaches 4 units. What is its value?",
+    options: ["75", "100", "125", "150"],
+    answer: 1
+  },
+  {
+    question: "A survey has 50 students. 30 prefer tea and the rest prefer juice. How many prefer juice?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "The data 2, 4, 6, 8, 10 has what range?",
+    options: ["6", "7", "8", "9"],
+    answer: 2
+  },
+  {
+    question: "A pictograph has 1 symbol = 9 animals. If there are 7 symbols, how many animals are shown?",
+    options: ["54", "63", "72", "81"],
+    answer: 1
+  },
+  {
+    question: "Which is the best reason for organizing collected data in a table?",
+    options: ["To make it harder to read", "To make comparison easier", "To remove information", "To change the data"],
+    answer: 1
+  },
+  {
+    question: "The values 20, 30, 40, 50 and 60 have what average?",
+    options: ["30", "35", "40", "45"],
+    answer: 2
+  },
+  {
+    question: "A shop sold 15, 20, 25 and 30 notebooks over four days. What is the total number sold?",
+    options: ["80", "85", "90", "95"],
+    answer: 2
+  },
+  {
+    question: "If a graph's scale is 1 square = 10 units, what does 7 squares represent?",
+    options: ["60", "70", "80", "90"],
+    answer: 1
+  },
+  {
+    question: "A survey records 18 students liking apples, 24 bananas and 12 oranges. How many more like bananas than oranges?",
+    options: ["8", "10", "12", "14"],
+    answer: 2
+  },
+  {
+    question: "The data 9, 13, 17, 21, 25 is arranged in increasing order. What is the middle value?",
+    options: ["13", "17", "21", "25"],
+    answer: 1
+  },
+  {
+    question: "A pictograph represents 1 symbol as 20 people. If 5 symbols are shown, how many people are represented?",
+    options: ["80", "90", "100", "120"],
+    answer: 2
+  },
+  {
+    question: "A graph shows 25, 35, 45 and 55. What is the difference between the second and fourth values?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "Which of the following could be a valid scale for a bar graph showing values up to 500?",
+    options: ["1 unit = 10", "1 unit = 0.1", "1 unit = 1000", "1 unit = 0"],
+    answer: 0
+  },
+  {
+    question: "A class records 9, 11, 13, 15 and 17 books read. What is the total number of books?",
+    options: ["55", "60", "65", "70"],
+    answer: 2
+  },
+  {
+    question: "If 2 symbols represent 14 objects, how many objects does 5 symbols represent?",
+    options: ["28", "30", "35", "40"],
+    answer: 2
+  },
+  {
+    question: "The number of visitors on four days is 75, 125, 100 and 150. What is the average?",
+    options: ["100", "110", "112.5", "125"],
+    answer: 2
+  },
+  {
+    question: "A survey records 40 boys and 35 girls. What is the total number of children?",
+    options: ["65", "70", "75", "80"],
+    answer: 2
+  },
+  {
+    question: "Which data set has mode 8?",
+    options: ["6, 7, 8, 9", "8, 8, 9, 10", "7, 9, 10, 11", "5, 6, 7, 8"],
+    answer: 1
+  },
+  {
+    question: "A bar represents 45 items using a scale of 5 items per unit. How many units high is the bar?",
+    options: ["7", "8", "9", "10"],
+    answer: 2
+  },
+  {
+    question: "A pictograph shows 8 symbols, each representing 6 kg. What is the total weight?",
+    options: ["42 kg", "48 kg", "54 kg", "56 kg"],
+    answer: 1
+  },
+  {
+    question: "The numbers of books in four shelves are 32, 45, 28 and 50. Which shelf has the second-highest number?",
+    options: ["First", "Second", "Third", "Fourth"],
+    answer: 1
+  },
+  {
+    question: "A survey has 90 students. 40 choose cricket, 30 football and the rest badminton. How many choose badminton?",
+    options: ["10", "15", "20", "25"],
+    answer: 2
+  },
+  {
+    question: "What is the range of 25, 40, 18, 32 and 50?",
+    options: ["30", "32", "35", "38"],
+    answer: 2
+  },
+  {
+    question: "If 3 pictograph symbols represent 21 objects, one symbol represents:",
+    options: ["5", "6", "7", "8"],
+    answer: 2
+  },
+  {
+    question: "A shop's weekly sales are 100, 120, 80, 150 and 50. Which day had exactly half the sales of the highest day?",
+    options: ["First", "Second", "Fourth", "Fifth"],
+    answer: 3
+  },
+  {
+    question: "Which is the correct order from smallest to largest: 42, 24, 36, 18?",
+    options: ["18, 24, 36, 42", "24, 18, 36, 42", "18, 36, 24, 42", "42, 36, 24, 18"],
+    answer: 0
+  },
+  {
+    question: "A data set contains 6, 8, 8, 10, 12, 8, 14. What is the mode?",
+    options: ["6", "8", "10", "14"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 16 students in one group and 24 in another. The second group has what percentage more than the first?",
+    options: ["25%", "40%", "50%", "60%"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 symbol = 4 books. If 3 full symbols and 1 half symbol are shown, how many books are represented?",
+    options: ["12", "14", "16", "18"],
+    answer: 1
+  },
+  {
+    question: "A survey records 12, 18, 24, 30 and 36. What is the difference between the total of the first two and the last two?",
+    options: ["24", "30", "36", "42"],
+    answer: 2
+  },
+  {
+    question: "The average of 5 numbers is 12. What is their total?",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "A class has 24 students. If 1/3 of them choose chess, how many students choose chess?",
+    options: ["6", "8", "10", "12"],
+    answer: 1
+  },
+  {
+    question: "A bar graph shows values 10, 20, 30 and 40. If each value increases by 5, what is the new total?",
+    options: ["110", "120", "125", "130"],
+    answer: 2
+  },
+  {
+    question: "A pictograph represents 1 symbol as 8 tickets. If 12 symbols are shown, how many tickets are there?",
+    options: ["88", "96", "104", "108"],
+    answer: 1
+  },
+  {
+    question: "Which value is the median of 5, 12, 7, 9, 15?",
+    options: ["7", "9", "12", "15"],
+    answer: 1
+  },
+  {
+    question: "A survey of 60 students shows 24 like science, 18 mathematics and 10 English. How many like other subjects?",
+    options: ["6", "8", "10", "12"],
+    answer: 1
+  },
+  {
+    question: "If a bar graph scale is 1 unit = 15, what does a bar of 6 units represent?",
+    options: ["75", "80", "90", "100"],
+    answer: 2
+  },
+  {
+    question: "The number of fruits sold on five days is 20, 30, 25, 35 and 40. What is the total?",
+    options: ["140", "145", "150", "155"],
+    answer: 2
+  },
+  {
+    question: "A data set has values 14, 18, 22, 26 and 30. What is the difference between the average and the largest value?",
+    options: ["6", "8", "10", "12"],
+    answer: 2
+  },
+  {
+    question: "A pictograph has 1 symbol = 5 students. If 2 symbols are missing from a total of 10 symbols, how many students are represented?",
+    options: ["35", "40", "45", "50"],
+    answer: 1
+  },
+  {
+    question: "A shop sold 125 items in Week 1 and 175 in Week 2. What is the percentage increase?",
+    options: ["25%", "30%", "40%", "50%"],
+    answer: 2
+  },
+  {
+    question: "Which statement is NOT correct about a bar graph?",
+    options: ["It compares categories", "It uses bars", "Its scale should be clear", "The bars must always be circular"],
+    answer: 3
+  },
+  {
+    question: "The values 12, 15, 18, 21 and 24 have an average of:",
+    options: ["15", "18", "20", "21"],
+    answer: 1
+  },
+  {
+    question: "A pictograph uses 1 symbol = 12 students. If 2.5 symbols are shown, how many students are represented?",
+    options: ["24", "30", "36", "42"],
+    answer: 1
+  },
+  {
+    question: "A survey gives 15, 20, 25 and 40 responses. What percentage of responses belong to the last category?",
+    options: ["30%", "35%", "40%", "45%"],
+    answer: 2
+  },
+  {
+    question: "The range of 100, 125, 90, 140 and 110 is:",
+    options: ["40", "45", "50", "55"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 18, 27, 36 and 45. What is the ratio of the first value to the last value?",
+    options: ["2:5", "1:2", "3:5", "4:5"],
+    answer: 0
+  },
+  {
+    question: "A class survey records 16 students for A, 24 for B and 20 for C. What is the total?",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "If 4 symbols represent 28 objects, how many objects does 9 symbols represent?",
+    options: ["56", "63", "70", "72"],
+    answer: 1
+  },
+  {
+    question: "The average of 8, 12, 16 and 20 is:",
+    options: ["12", "14", "16", "18"],
+    answer: 1
+  },
+  {
+    question: "A survey has 100 students. 45 like cricket, 30 football and 15 badminton. How many like none of these three?",
+    options: ["5", "10", "15", "20"],
+    answer: 1
+  },
+  {
+    question: "A bar graph's values are 25, 50, 75 and 100. What is the difference between the highest and lowest?",
+    options: ["50", "60", "75", "80"],
+    answer: 2
+  },
+  {
+    question: "A pictograph represents 1 symbol as 10 litres. If 7 full symbols and half a symbol are shown, how many litres are represented?",
+    options: ["70", "75", "80", "85"],
+    answer: 1
+  },
+  {
+    question: "The data 4, 6, 8, 6, 10, 6, 12 has what mode?",
+    options: ["4", "6", "8", "12"],
+    answer: 1
+  },
+  {
+    question: "A class collected 18, 22, 25 and 35 kg of recyclable material. What is the total?",
+    options: ["90", "95", "100", "105"],
+    answer: 2
+  },
+  {
+    question: "Which is the best graph to show the number of students joining a club over several months?",
+    options: ["Line graph", "Pictograph", "Number line", "Table only"],
+    answer: 0
+  },
+  {
+    question: "A data set has maximum 85 and minimum 37. What is its range?",
+    options: ["42", "48", "52", "58"],
+    answer: 1
+  },
+  {
+    question: "A pictograph shows 6 symbols, each representing 15 books. How many books are shown?",
+    options: ["75", "80", "90", "105"],
+    answer: 2
+  },
+  {
+    question: "A survey records 25, 30, 20 and 15 votes. What fraction of the total votes is for the first option?",
+    options: ["1/4", "1/3", "1/2", "2/5"],
+    answer: 0
+  },
+  {
+    question: "The average of 15, 20, 25 and 30 is:",
+    options: ["20", "22.5", "25", "27.5"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 60 students in Class A and 90 in Class B. How many percent of Class B is Class A?",
+    options: ["50%", "60%", "66.67%", "75%"],
+    answer: 2
+  },
+  {
+    question: "If 1 pictograph symbol represents 6 birds, how many birds are represented by 4.5 symbols?",
+    options: ["24", "27", "30", "36"],
+    answer: 1
+  },
+  {
+    question: "A survey has 75 students. 25 choose A, 30 choose B and the rest choose C. How many choose C?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "Which of these is an example of numerical data?",
+    options: ["Favourite colour", "Type of fruit", "Number of siblings", "Favourite sport"],
+    answer: 2
+  },
+  {
+    question: "The values 10, 15, 20, 25 and 30 have a range of:",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "A bar graph uses 1 unit = 25. If a bar is 8 units high, what value does it show?",
+    options: ["150", "175", "200", "225"],
+    answer: 2
+  },
+  {
+    question: "A pictograph shows 1 symbol = 4 tickets. If 13 symbols are shown, how many tickets are represented?",
+    options: ["48", "52", "56", "60"],
+    answer: 1
+  },
+  {
+    question: "A survey records 18, 24, 30, 36 and 42. What is the average?",
+    options: ["28", "30", "32", "34"],
+    answer: 1
+  },
+  {
+    question: "A shop sold 45 items on Monday and 60 on Tuesday. What is the ratio of Monday sales to Tuesday sales in simplest form?",
+    options: ["2:3", "3:4", "4:5", "5:6"],
+    answer: 0
+  },
+  {
+    question: "A class has 40 students. If 60% are girls, how many girls are there?",
+    options: ["20", "22", "24", "26"],
+    answer: 2
+  },
+  {
+    question: "The data 3, 7, 7, 9, 12, 7, 15 has mode:",
+    options: ["3", "7", "9", "15"],
+    answer: 1
+  },
+  {
+    question: "A pictograph uses 1 symbol = 8 kg. If 6 symbols are shown, what is the total weight?",
+    options: ["40 kg", "48 kg", "54 kg", "56 kg"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 25, 40, 55 and 70. What is the increase from the first to the last value?",
+    options: ["35", "40", "45", "50"],
+    answer: 2
+  },
+  {
+    question: "A survey has 120 responses. If 30% choose option A, how many responses are for A?",
+    options: ["30", "36", "40", "42"],
+    answer: 1
+  },
+  {
+    question: "The average of five numbers is 18. What is their total?",
+    options: ["80", "85", "90", "95"],
+    answer: 2
+  },
+  {
+    question: "Which data set has a range of 20?",
+    options: ["5, 15, 25", "10, 20, 30", "12, 22, 32", "8, 18, 28"],
+    answer: 0
+  },
+  {
+    question: "A pictograph has 1 symbol = 5 children. If 4 full symbols and 1 half symbol are shown, how many children are represented?",
+    options: ["20", "22", "23", "25"],
+    answer: 1
+  },
+  {
+    question: "A class survey records 20, 25, 30 and 35 students. What is the total?",
+    options: ["100", "105", "110", "115"],
+    answer: 2
+  },
+  {
+    question: "A bar graph has values 32, 48, 64 and 80. What is the difference between the third and first values?",
+    options: ["24", "28", "32", "36"],
+    answer: 2
+  },
+  {
+    question: "If 5 symbols represent 45 objects, how many objects does 1 symbol represent?",
+    options: ["7", "8", "9", "10"],
+    answer: 2
+  },
+  {
+    question: "A survey of 200 students shows 80 prefer cricket. What percentage prefer cricket?",
+    options: ["20%", "30%", "40%", "50%"],
+    answer: 2
+  },
+  {
+    question: "The values 14, 21, 28, 35 and 42 have an average of:",
+    options: ["24", "26", "28", "30"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 symbol = 12 books. If 3 symbols are removed from 10 symbols, how many books remain?",
+    options: ["72", "84", "96", "108"],
+    answer: 2
+  },
+  {
+    question: "A graph records 120, 150, 180 and 210 visitors. What is the difference between the second and fourth values?",
+    options: ["50", "60", "70", "80"],
+    answer: 1
+  },
+  {
+    question: "Which of the following is the best way to avoid misunderstanding a bar graph?",
+    options: ["Ignore the scale", "Check the title and scale", "Look only at colours", "Ignore the labels"],
+    answer: 1
+  },
+  {
+    question: "A survey records 40, 35, 25 and 20 votes. What percentage of the total is the first category?",
+    options: ["25%", "30%", "33.33%", "40%"],
+    answer: 3
+  },
+  {
+    question: "The average of 12, 18, 24, 30 and 36 is:",
+    options: ["22", "24", "26", "28"],
+    answer: 1
+  },
+  {
+    question: "A pictograph has 1 symbol = 10 students. If 7.5 symbols are shown, how many students are represented?",
+    options: ["65", "70", "75", "80"],
+    answer: 2
+  },
+  {
+    question: "A bar graph shows 75 books in January and 125 in February. What is the increase?",
+    options: ["40", "50", "60", "70"],
+    answer: 1
+  },
+  {
+    question: "A data set has values 20, 30, 40, 50 and 60. What is the median?",
+    options: ["30", "40", "45", "50"],
+    answer: 1
+  },
+  {
+    question: "A class has 50 students. 18 like mathematics, 12 science and 10 English. How many like other subjects?",
+    options: ["8", "10", "12", "15"],
+    answer: 1
+  },
+  {
+    question: "If 1 bar unit represents 12 students, how many students are represented by 9 units?",
+    options: ["96", "108", "112", "120"],
+    answer: 1
+  },
+  {
+    question: "A pictograph shows 1 symbol = 6 flowers. If 4 symbols and 1 half symbol are shown, how many flowers are represented?",
+    options: ["24", "27", "30", "36"],
+    answer: 1
+  },
+  {
+    question: "The range of 32, 45, 28, 51 and 39 is:",
+    options: ["21", "22", "23", "24"],
+    answer: 1
+  },
+  {
+    question: "A survey has 150 students. 45 choose cricket, 60 football and 30 badminton. How many choose other sports?",
+    options: ["10", "15", "20", "25"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 20, 30, 40 and 50. What is the ratio of the smallest to largest value?",
+    options: ["1:2", "2:5", "1:3", "3:5"],
+    answer: 1
+  },
+  {
+    question: "The average of 25, 35, 45 and 55 is:",
+    options: ["35", "40", "45", "50"],
+    answer: 1
+  },
+  {
+    question: "If 6 pictograph symbols represent 42 objects, how many objects do 10 symbols represent?",
+    options: ["60", "70", "72", "84"],
+    answer: 1
+  },
+  {
+    question: "A shop sold 80 items in Week 1 and 100 in Week 2. What is the percentage increase?",
+    options: ["20%", "25%", "30%", "40%"],
+    answer: 1
+  },
+  {
+    question: "A data set is 11, 15, 19, 23, 27. What is the median?",
+    options: ["15", "19", "23", "27"],
+    answer: 1
+  },
+  {
+    question: "A survey of 80 students shows 32 prefer cricket. What fraction of students prefer cricket?",
+    options: ["1/4", "2/5", "1/2", "3/5"],
+    answer: 1
+  },
+  {
+    question: "A bar graph has a scale of 1 unit = 20. A bar reaches 7 units. What is the value?",
+    options: ["120", "140", "160", "180"],
+    answer: 1
+  },
+  {
+    question: "A pictograph has 1 symbol = 5 books. If 12 symbols are shown, but 3 books are damaged, how many usable books remain?",
+    options: ["55", "57", "60", "63"],
+    answer: 1
+  },
+  {
+    question: "A survey records 24, 36 and 60 students for three activities. What percentage chose the last activity?",
+    options: ["40%", "50%", "60%", "75%"],
+    answer: 1
+  },
+  {
+    question: "The values 18, 24, 30, 36 and 42 have a range of:",
+    options: ["18", "20", "24", "26"],
+    answer: 2
+  },
+  {
+    question: "A class has 60 students. If 25% are absent, how many students are absent?",
+    options: ["10", "12", "15", "20"],
+    answer: 2
+  },
+  {
+    question: "Which representation is best for showing exact numerical values in rows and columns?",
+    options: ["Table", "Pictograph", "Line graph", "Picture"],
+    answer: 0
+  },
+  {
+    question: "A pictograph shows 1 symbol = 8 toys. If 5 symbols and one-half symbol are shown, how many toys are represented?",
+    options: ["40", "42", "44", "48"],
+    answer: 2
+  },
+  {
+    question: "A graph has values 30, 45, 60 and 75. What is the total?",
+    options: ["180", "195", "210", "225"],
+    answer: 2
+  },
+  {
+    question: "A survey records 90 students. 27 choose A. What percentage is this?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 2
+  },
+  {
+    question: "The average of 16, 20, 24, 28 and 32 is:",
+    options: ["20", "22", "24", "26"],
+    answer: 2
+  },
+  {
+    question: "A bar graph shows 45, 60, 75 and 90. How much greater is the last value than the first?",
+    options: ["35", "40", "45", "50"],
+    answer: 2
+  },
+  {
+    question: "If 8 symbols represent 64 students, how many students does each symbol represent?",
+    options: ["6", "7", "8", "9"],
+    answer: 2
+  },
+  {
+    question: "A data set contains 4, 6, 8, 8, 10, 12, 8. What is the mode?",
+    options: ["4", "6", "8", "12"],
+    answer: 2
+  },
+  {
+    question: "A survey of 100 students shows 55 like A and 25 like B. How many like neither A nor B?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "The range of 45, 52, 61, 39 and 70 is:",
+    options: ["29", "31", "32", "35"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 symbol = 15 books. If 4 symbols are shown, how many books are represented?",
+    options: ["45", "50", "60", "75"],
+    answer: 2
+  },
+  {
+    question: "A graph records 15, 25, 35, 45 and 55. What is the average?",
+    options: ["30", "35", "40", "45"],
+    answer: 1
+  },
+  {
+    question: "A class has 72 students. One-third choose science. How many students is that?",
+    options: ["18", "24", "30", "36"],
+    answer: 1
+  },
+  {
+    question: "A bar graph scale is 1 unit = 25. What does 10 units represent?",
+    options: ["200", "225", "250", "275"],
+    answer: 2
+  },
+  {
+    question: "A pictograph shows 1 symbol = 20 litres. If 3.5 symbols are shown, how many litres are represented?",
+    options: ["60", "70", "80", "90"],
+    answer: 1
+  },
+  {
+    question: "A survey records 40, 30, 20 and 10. What fraction of the total is the largest category?",
+    options: ["1/4", "2/5", "1/2", "3/5"],
+    answer: 1
+  },
+  {
+    question: "The median of 14, 8, 20, 12 and 18 is:",
+    options: ["12", "14", "18", "20"],
+    answer: 1
+  },
+  {
+    question: "A data set has maximum 96 and minimum 24. What is the range?",
+    options: ["62", "70", "72", "74"],
+    answer: 2
+  },
+  {
+    question: "A shop sold 120 items on Monday and 150 on Tuesday. What is the percentage increase?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 1
+  },
+  {
+    question: "If 5 symbols represent 35 students, how many students do 12 symbols represent?",
+    options: ["70", "84", "90", "96"],
+    answer: 1
+  },
+  {
+    question: "A survey has 200 people. 80 choose tea, 70 coffee and 30 juice. How many choose something else?",
+    options: ["10", "20", "30", "40"],
+    answer: 1
+  },
+  {
+    question: "The average of 10, 15, 20, 25 and 30 is:",
+    options: ["18", "20", "22", "25"],
+    answer: 1
+  },
+  {
+    question: "A bar graph shows 25, 50, 75 and 100. What percentage of the total is the last value?",
+    options: ["30%", "35%", "40%", "50%"],
+    answer: 2
+  },
+  {
+    question: "A pictograph has 1 symbol = 4 students. If 9 symbols are shown, how many students are represented?",
+    options: ["32", "36", "40", "44"],
+    answer: 1
+  },
+  {
+    question: "A data set contains 12, 18, 24, 30 and 36. What is the difference between the largest and median?",
+    options: ["6", "8", "12", "18"],
+    answer: 2
+  },
+  {
+    question: "A class survey has 90 students. 36 choose mathematics. What percentage is this?",
+    options: ["30%", "35%", "40%", "45%"],
+    answer: 2
+  },
+  {
+    question: "Which value is the mode of 2, 3, 3, 4, 5, 3, 6?",
+    options: ["2", "3", "4", "6"],
+    answer: 1
+  },
+  {
+    question: "A bar graph scale is 1 unit = 10. If two bars are 7 and 11 units high, what is their difference?",
+    options: ["30", "40", "50", "60"],
+    answer: 1
+  },
+  {
+    question: "A pictograph shows 1 symbol = 6 books. If 8 symbols are shown, how many books are represented?",
+    options: ["42", "48", "54", "56"],
+    answer: 1
+  },
+  {
+    question: "A survey records 15, 20, 25 and 40. What is the difference between the largest and smallest?",
+    options: ["20", "25", "30", "35"],
+    answer: 2
+  },
+  {
+    question: "The average of 18, 22, 26 and 30 is:",
+    options: ["22", "24", "26", "28"],
+    answer: 1
+  },
+  {
+    question: "A class has 80 students. 50% choose cricket. How many students choose cricket?",
+    options: ["30", "35", "40", "45"],
+    answer: 2
+  },
+  {
+    question: "A pictograph represents 1 symbol as 10 kg. If 6.5 symbols are shown, what is the total weight?",
+    options: ["55 kg", "60 kg", "65 kg", "70 kg"],
+    answer: 2
+  },
+  {
+    question: "A graph has values 20, 40, 60 and 80. What is the average?",
+    options: ["40", "45", "50", "60"],
+    answer: 2
+  },
+  {
+    question: "A survey has 150 responses. 60 choose option A. What percentage is this?",
+    options: ["30%", "35%", "40%", "45%"],
+    answer: 2
+  },
+  {
+    question: "The range of 15, 28, 42, 19 and 35 is:",
+    options: ["23", "25", "27", "29"],
+    answer: 2
+  },
+  {
+    question: "If 4 pictograph symbols represent 32 objects, how many objects do 7 symbols represent?",
+    options: ["48", "52", "56", "64"],
+    answer: 2
+  },
+  {
+    question: "A shop sold 200 items in Week 1 and 250 in Week 2. What was the percentage increase?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 1
+  },
+  {
+    question: "The median of 5, 15, 10, 20 and 25 is:",
+    options: ["10", "15", "20", "25"],
+    answer: 1
+  },
+  {
+    question: "A survey of 100 students shows 35 like A, 25 like B and 20 like C. How many like other choices?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "A bar graph uses a scale of 1 unit = 30. What does a 5-unit bar represent?",
+    options: ["120", "150", "180", "200"],
+    answer: 1
+  },
+  {
+    question: "A pictograph shows 1 symbol = 12 objects. If 5 symbols are shown, how many objects are represented?",
+    options: ["48", "50", "60", "72"],
+    answer: 2
+  },
+  {
+    question: "The average of 20, 30, 40, 50 and 60 is:",
+    options: ["35", "40", "45", "50"],
+    answer: 1
+  },
+  {
+    question: "A graph records 40, 50, 60 and 70. What is the total?",
+    options: ["200", "210", "220", "230"],
+    answer: 2
+  },
+  {
+    question: "Which of the following is most important when interpreting a bar graph?",
+    options: ["The paper size", "The scale and labels", "The colour only", "The font style"],
+    answer: 1
+  },
+  {
+    question: "A class has 50 students. 30 are present. What percentage is present?",
+    options: ["50%", "60%", "70%", "80%"],
+    answer: 1
+  },
+  {
+    question: "The range of 22, 35, 18, 40 and 27 is:",
+    options: ["18", "20", "22", "24"],
+    answer: 1
+  },
+  {
+    question: "If 3 symbols represent 18 books, how many books do 8 symbols represent?",
+    options: ["42", "48", "54", "60"],
+    answer: 1
+  },
+  {
+    question: "A survey records 25, 30, 35 and 40. What is the median?",
+    options: ["25", "30", "32.5", "35"],
+    answer: 2
+  },
+  {
+    question: "A shop sold 80, 100, 120 and 140 items. What is the difference between the highest and lowest sales?",
+    options: ["40", "50", "60", "70"],
+    answer: 2
+  },
+  {
+    question: "A pictograph has 1 symbol = 7 children. If 6 symbols are shown, how many children are represented?",
+    options: ["35", "42", "49", "56"],
+    answer: 1
+  },
+  {
+    question: "A survey of 200 students shows 50 choose science. What percentage choose science?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 1
+  },
+  {
+    question: "The average of 6, 12, 18, 24 and 30 is:",
+    options: ["15", "18", "20", "24"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 15, 30, 45 and 60. What is the ratio of the second value to the fourth value?",
+    options: ["1:2", "2:3", "3:4", "1:3"],
+    answer: 0
+  },
+  {
+    question: "Which data set has mode 10?",
+    options: ["8, 9, 10, 11", "10, 10, 12, 13", "9, 11, 12, 14", "7, 8, 9, 10"],
+    answer: 1
+  },
+  {
+    question: "A pictograph shows 1 symbol = 9 books. If 10 symbols are shown, how many books are represented?",
+    options: ["81", "90", "99", "108"],
+    answer: 1
+  },
+  {
+    question: "A class collected 25, 35, 45 and 55 bottles. What is the total?",
+    options: ["140", "150", "160", "170"],
+    answer: 1
+  },
+  {
+    question: "A survey has 120 students. 30 choose A, 40 choose B and 20 choose C. How many choose other options?",
+    options: ["20", "30", "40", "50"],
+    answer: 1
+  },
+  {
+    question: "The range of 60, 75, 90, 105 and 120 is:",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "If 1 bar unit represents 15 students, what does 8 units represent?",
+    options: ["100", "110", "120", "130"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 symbol = 5 kg. If 9 symbols are shown, what is the total weight?",
+    options: ["40 kg", "45 kg", "50 kg", "55 kg"],
+    answer: 1
+  },
+  {
+    question: "The average of 11, 16, 21, 26 and 31 is:",
+    options: ["20", "21", "22", "23"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 24, 36, 48 and 60. What is the difference between the last two values?",
+    options: ["10", "12", "14", "16"],
+    answer: 1
+  },
+  {
+    question: "A survey of 80 students shows 20 choose art. What percentage is this?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 1
+  },
+  {
+    question: "Which is the best representation for comparing four categories at one point in time?",
+    options: ["Bar graph", "Line graph", "Calendar", "Clock"],
+    answer: 0
+  },
+  {
+    question: "A pictograph has 1 symbol = 4 books. If 15 symbols are shown, how many books are represented?",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "The median of 9, 15, 12, 18 and 21 is:",
+    options: ["12", "15", "18", "21"],
+    answer: 1
+  },
+  {
+    question: "A shop sold 50, 75, 100 and 125 items. What is the total?",
+    options: ["300", "325", "350", "375"],
+    answer: 1
+  },
+  {
+    question: "A survey records 45, 30 and 25 votes. What percentage is the first category?",
+    options: ["40%", "45%", "50%", "55%"],
+    answer: 1
+  },
+  {
+    question: "The range of 12, 25, 37, 49 and 61 is:",
+    options: ["45", "49", "50", "52"],
+    answer: 1
+  },
+  {
+    question: "If 5 symbols represent 40 objects, how many objects do 9 symbols represent?",
+    options: ["64", "72", "80", "90"],
+    answer: 1
+  },
+  {
+    question: "A class has 100 students. 45 are boys. What percentage are girls?",
+    options: ["45%", "50%", "55%", "60%"],
+    answer: 2
+  },
+  {
+    question: "The average of 14, 18, 22, 26 and 30 is:",
+    options: ["20", "22", "24", "26"],
+    answer: 1
+  },
+  {
+    question: "A bar graph scale is 1 unit = 40. What does 6 units represent?",
+    options: ["200", "220", "240", "260"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 symbol = 10 students. If 8 symbols and one-half symbol are shown, how many students are represented?",
+    options: ["80", "85", "90", "95"],
+    answer: 1
+  },
+  {
+    question: "A survey has 160 students. 64 choose cricket. What percentage is this?",
+    options: ["30%", "35%", "40%", "45%"],
+    answer: 2
+  },
+  {
+    question: "The median of 6, 14, 10, 18 and 22 is:",
+    options: ["10", "14", "18", "22"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 35, 45, 55 and 65. What is the difference between the largest and smallest?",
+    options: ["20", "25", "30", "35"],
+    answer: 2
+  },
+  {
+    question: "Which value occurs most often in 5, 8, 5, 9, 8, 5, 10?",
+    options: ["5", "8", "9", "10"],
+    answer: 0
+  },
+  {
+    question: "A pictograph shows 1 symbol = 3 books. If 14 symbols are shown, how many books are represented?",
+    options: ["36", "39", "42", "45"],
+    answer: 2
+  },
+  {
+    question: "A survey records 20, 25, 30 and 35. What is the average?",
+    options: ["25", "27.5", "30", "32.5"],
+    answer: 1
+  },
+  {
+    question: "A class collected 12, 18, 24, 30 and 36 bottles. What is the total?",
+    options: ["110", "120", "130", "140"],
+    answer: 1
+  },
+  {
+    question: "A bar graph shows 40 students in A and 70 in B. How many more students are in B?",
+    options: ["20", "25", "30", "35"],
+    answer: 2
+  },
+  {
+    question: "If 4 symbols represent 20 objects, how many objects do 11 symbols represent?",
+    options: ["50", "55", "60", "65"],
+    answer: 1
+  },
+  {
+    question: "A survey has 100 students. 20 choose A, 30 B, 25 C. How many choose other options?",
+    options: ["20", "25", "30", "35"],
+    answer: 1
+  },
+  {
+    question: "The range of 18, 29, 41, 53 and 65 is:",
+    options: ["43", "45", "47", "49"],
+    answer: 0
+  },
+  {
+    question: "The average of 12, 24, 36, 48 and 60 is:",
+    options: ["30", "36", "40", "42"],
+    answer: 1
+  },
+  {
+    question: "A pictograph uses 1 symbol = 8 students. If 7 symbols are shown, how many students are represented?",
+    options: ["48", "56", "64", "72"],
+    answer: 1
+  },
+  {
+    question: "A graph records 10, 20, 30, 40 and 50. What is the total?",
+    options: ["120", "130", "140", "150"],
+    answer: 3
+  },
+  {
+    question: "A survey of 120 students shows 36 choose music. What percentage is this?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 2
+  },
+  {
+    question: "The median of 7, 11, 15, 19 and 23 is:",
+    options: ["11", "15", "19", "23"],
+    answer: 1
+  },
+  {
+    question: "A bar graph scale is 1 unit = 10. If a bar is 13 units high, what value does it represent?",
+    options: ["120", "130", "140", "150"],
+    answer: 1
+  },
+  {
+    question: "A pictograph has 1 symbol = 6 kg. If 12 symbols are shown, what is the total weight?",
+    options: ["60 kg", "66 kg", "72 kg", "78 kg"],
+    answer: 2
+  },
+  {
+    question: "A survey records 50, 40 and 30 votes. What is the total?",
+    options: ["110", "120", "130", "140"],
+    answer: 1
+  },
+  {
+    question: "Which value is the mode of 4, 6, 8, 6, 9, 6, 10?",
+    options: ["4", "6", "8", "10"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 25, 35, 45 and 55. What is the average?",
+    options: ["35", "40", "45", "50"],
+    answer: 1
+  },
+  {
+    question: "A class has 90 students. 27 are absent. What percentage are absent?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 2
+  },
+  {
+    question: "If 3 symbols represent 24 books, how many books do 10 symbols represent?",
+    options: ["72", "80", "84", "90"],
+    answer: 1
+  },
+  {
+    question: "The range of 30, 45, 60, 75 and 90 is:",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "A survey has 200 students. 80 choose football. What percentage is this?",
+    options: ["30%", "35%", "40%", "45%"],
+    answer: 2
+  },
+  {
+    question: "The average of 15, 25, 35, 45 and 55 is:",
+    options: ["30", "35", "40", "45"],
+    answer: 1
+  },
+  {
+    question: "A pictograph uses 1 symbol = 5 students. If 16 symbols are shown, how many students are represented?",
+    options: ["70", "75", "80", "85"],
+    answer: 2
+  },
+  {
+    question: "A bar graph shows 60, 80, 100 and 120. What is the difference between the largest and smallest?",
+    options: ["40", "50", "60", "70"],
+    answer: 2
+  },
+  {
+    question: "A survey records 24, 30, 36 and 42. What is the average?",
+    options: ["30", "33", "36", "39"],
+    answer: 1
+  },
+  {
+    question: "Which is the mode of 12, 15, 12, 18, 20, 12, 25?",
+    options: ["12", "15", "18", "20"],
+    answer: 0
+  },
+  {
+    question: "A pictograph shows 1 symbol = 9 objects. If 11 symbols are shown, how many objects are represented?",
+    options: ["90", "99", "108", "110"],
+    answer: 1
+  },
+  {
+    question: "A class collected 20, 30, 40 and 50 kg of paper. What is the total?",
+    options: ["120 kg", "130 kg", "140 kg", "150 kg"],
+    answer: 2
+  },
+  {
+    question: "A survey of 150 students shows 45 choose art. What percentage is this?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 2
+  },
+  {
+    question: "The median of 8, 16, 12, 20 and 24 is:",
+    options: ["12", "16", "20", "24"],
+    answer: 1
+  },
+  {
+    question: "A graph has values 15, 30, 45 and 60. What is the total?",
+    options: ["135", "140", "145", "150"],
+    answer: 0
+  },
+  {
+    question: "A bar graph scale is 1 unit = 20. What does 9 units represent?",
+    options: ["160", "180", "200", "220"],
+    answer: 1
+  },
+  {
+    question: "If 5 pictograph symbols represent 50 books, how many books does each symbol represent?",
+    options: ["5", "8", "10", "12"],
+    answer: 2
+  },
+  {
+    question: "A survey has 100 students. 40 choose A, 35 B and 15 C. How many choose other options?",
+    options: ["5", "10", "15", "20"],
+    answer: 1
+  },
+  {
+    question: "The range of 20, 35, 50, 65 and 80 is:",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "The average of 10, 20, 30, 40 and 50 is:",
+    options: ["25", "30", "35", "40"],
+    answer: 1
+  },
+  {
+    question: "A pictograph uses 1 symbol = 4 students. If 12 symbols are shown, how many students are represented?",
+    options: ["36", "40", "48", "52"],
+    answer: 2
+  },
+  {
+    question: "A graph shows 20, 35, 50 and 65. What is the difference between the second and fourth values?",
+    options: ["20", "25", "30", "35"],
+    answer: 2
+  },
+  {
+    question: "A class has 80 students and 32 choose science. What percentage choose science?",
+    options: ["30%", "35%", "40%", "45%"],
+    answer: 2
+  },
+  {
+    question: "Which is the median of 5, 9, 13, 17 and 21?",
+    options: ["9", "13", "17", "21"],
+    answer: 1
+  },
+  {
+    question: "If 4 symbols represent 36 objects, how many objects do 7 symbols represent?",
+    options: ["54", "63", "72", "81"],
+    answer: 1
+  },
+  {
+    question: "A bar graph shows 30, 45, 60 and 75. What is the average?",
+    options: ["45", "50", "52.5", "55"],
+    answer: 2
+  },
+  {
+    question: "A survey records 25, 35, 45 and 55. What is the total number of responses?",
+    options: ["150", "160", "170", "180"],
+    answer: 0
+  },
+  {
+    question: "The range of 14, 22, 31, 40 and 49 is:",
+    options: ["30", "35", "36", "40"],
+    answer: 2
+  },
+  {
+    question: "A pictograph shows 1 symbol = 7 books. If 9 symbols are shown, how many books are represented?",
+    options: ["56", "63", "70", "72"],
+    answer: 1
+  },
+  {
+    question: "A survey of 200 students shows 50 choose mathematics. What percentage is this?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 1
+  },
+  {
+    question: "The average of 18, 24, 30, 36 and 42 is:",
+    options: ["28", "30", "32", "34"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 40, 60, 80 and 100. What is the ratio of the first value to the last value?",
+    options: ["1:2", "2:5", "2:3", "3:5"],
+    answer: 0
+  },
+  {
+    question: "Which number occurs most often in 3, 6, 6, 8, 10, 6, 12?",
+    options: ["3", "6", "8", "12"],
+    answer: 1
+  },
+  {
+    question: "A pictograph has 1 symbol = 8 students. If 10 symbols are shown, how many students are represented?",
+    options: ["64", "72", "80", "88"],
+    answer: 2
+  },
+  {
+    question: "A class collected 15, 25, 35 and 45 kg of waste. What is the total?",
+    options: ["110 kg", "120 kg", "130 kg", "140 kg"],
+    answer: 1
+  },
+  {
+    question: "A survey has 120 students. 48 choose cricket. What percentage is this?",
+    options: ["30%", "35%", "40%", "45%"],
+    answer: 2
+  },
+  {
+    question: "The median of 10, 18, 14, 22 and 26 is:",
+    options: ["14", "18", "22", "26"],
+    answer: 1
+  },
+  {
+    question: "A bar graph has values 25, 50, 75 and 100. What is the average?",
+    options: ["50", "60", "62.5", "75"],
+    answer: 2
+  },
+  {
+    question: "If 6 symbols represent 54 objects, how many objects does 11 symbols represent?",
+    options: ["90", "99", "108", "110"],
+    answer: 1
+  },
+  {
+    question: "A survey records 30, 40, 50 and 60 votes. What is the total?",
+    options: ["160", "170", "180", "190"],
+    answer: 2
+  },
+  {
+    question: "The range of 25, 40, 55, 70 and 85 is:",
+    options: ["50", "55", "60", "65"],
+    answer: 2
+  },
+  {
+    question: "A class has 100 students. 65 are present. What percentage are absent?",
+    options: ["25%", "30%", "35%", "40%"],
+    answer: 2
+  },
+  {
+    question: "A pictograph uses 1 symbol = 5 books. If 18 symbols are shown, how many books are represented?",
+    options: ["80", "85", "90", "95"],
+    answer: 2
+  },
+  {
+    question: "The average of 12, 18, 24, 30 and 36 is:",
+    options: ["22", "24", "26", "28"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 20, 40, 60 and 80. What is the difference between the second and third values?",
+    options: ["10", "20", "30", "40"],
+    answer: 1
+  },
+  {
+    question: "Which data set has the smallest range?",
+    options: ["10, 20, 30", "40, 42, 45", "60, 70, 80", "5, 15, 25"],
+    answer: 1
+  },
+  {
+    question: "A survey has 150 students. 30 choose music. What percentage is this?",
+    options: ["15%", "20%", "25%", "30%"],
+    answer: 1
+  },
+  {
+    question: "A pictograph shows 1 symbol = 6 objects. If 15 symbols are shown, how many objects are represented?",
+    options: ["80", "90", "96", "100"],
+    answer: 1
+  },
+  {
+    question: "A bar graph records 35, 45, 55 and 65. What is the total?",
+    options: ["180", "190", "200", "210"],
+    answer: 2
+  },
+  {
+    question: "The median of 6, 12, 18, 24 and 30 is:",
+    options: ["12", "18", "24", "30"],
+    answer: 1
+  },
+  {
+    question: "The range of 18, 27, 36, 45 and 54 is:",
+    options: ["30", "36", "40", "45"],
+    answer: 1
+  },
+  {
+    question: "A survey of 80 students shows 24 choose art. What percentage is this?",
+    options: ["20%", "25%", "30%", "35%"],
+    answer: 2
+  },
+  {
+    question: "If 5 symbols represent 45 books, how many books do 8 symbols represent?",
+    options: ["64", "72", "80", "90"],
+    answer: 1
+  },
+  {
+    question: "A graph shows 15, 25, 35, 45 and 55. What is the median?",
+    options: ["25", "35", "45", "55"],
+    answer: 1
+  },
+  {
+    question: "A class collected 22, 28, 34 and 40 bottles. What is the total?",
+    options: ["114", "124", "134", "144"],
+    answer: 1
+  },
+  {
+    question: "A bar graph scale is 1 unit = 12. What does 5 units represent?",
+    options: ["48", "60", "72", "84"],
+    answer: 1
+  },
+  {
+    question: "A pictograph has 1 symbol = 10 students. If 4 symbols and half a symbol are shown, how many students are represented?",
+    options: ["40", "45", "50", "55"],
+    answer: 1
+  },
+  {
+    question: "A survey records 50, 30 and 20 responses. What fraction of the total is the second category?",
+    options: ["1/5", "3/10", "1/3", "1/2"],
+    answer: 1
+  },
+  {
+    question: "The average of 20, 25, 30, 35 and 40 is:",
+    options: ["25", "30", "32", "35"],
+    answer: 1
+  },
+  {
+    question: "Which statement is true about data presentation?",
+    options: ["A graph can never have a scale", "Labels help explain data", "Tables cannot contain numbers", "Pictographs cannot use keys"],
+    answer: 1
+  },
+],
+
+5: [
+  {
+    question: "Which of the following is a prime number?",
+    options: ["91", "97", "99", "121"],
+    answer: 1
+  },
+  {
+    question: "The product of two prime numbers is 143. What are the two primes?",
+    options: ["7 and 19", "11 and 13", "5 and 29", "3 and 47"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three factors?",
+    options: ["16", "18", "25", "27"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest prime number greater than 50?",
+    options: ["51", "52", "53", "55"],
+    answer: 2
+  },
+  {
+    question: "Which of these is NOT a prime number?",
+    options: ["67", "71", "73", "77"],
+    answer: 3
+  },
+  {
+    question: "How many prime numbers are there between 20 and 40?",
+    options: ["4", "5", "6", "7"],
+    answer: 1
+  },
+  {
+    question: "The prime factorisation of 84 is:",
+    options: ["2 × 3 × 14", "2² × 3 × 7", "4 × 21", "6 × 14"],
+    answer: 1
+  },
+  {
+    question: "Which pair contains twin primes?",
+    options: ["11 and 13", "15 and 17", "21 and 23", "27 and 29"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly four factors?",
+    options: ["8", "16", "17", "23"],
+    answer: 0
+  },
+  {
+    question: "What is the greatest prime factor of 180?",
+    options: ["3", "5", "7", "11"],
+    answer: 1
+  },
+  {
+    question: "Which number is the product of three different prime numbers?",
+    options: ["30", "42", "36", "48"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest composite number?",
+    options: ["1", "2", "3", "4"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly two factors?",
+    options: ["39", "41", "49", "51"],
+    answer: 1
+  },
+  {
+    question: "The prime factorisation of 72 is:",
+    options: ["2³ × 3²", "2² × 3³", "6 × 12", "8 × 9"],
+    answer: 0
+  },
+  {
+    question: "Which number is neither prime nor composite?",
+    options: ["0", "1", "2", "3"],
+    answer: 1
+  },
+  {
+    question: "Which is the smallest prime factor of 221?",
+    options: ["7", "11", "13", "17"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly six factors?",
+    options: ["16", "18", "19", "23"],
+    answer: 1
+  },
+  {
+    question: "Which pair consists of two prime numbers whose sum is 30?",
+    options: ["7 and 23", "11 and 19", "13 and 17", "All of these"],
+    answer: 3
+  },
+  {
+    question: "What is the greatest prime number less than 50?",
+    options: ["43", "47", "49", "41"],
+    answer: 1
+  },
+  {
+    question: "Which number has prime factors 2, 3 and 5 only?",
+    options: ["60", "70", "77", "91"],
+    answer: 0
+  },
+  {
+    question: "How many factors does 49 have?",
+    options: ["2", "3", "4", "5"],
+    answer: 1
+  },
+  {
+    question: "Which number is divisible by 2 and is also prime?",
+    options: ["2", "4", "6", "8"],
+    answer: 0
+  },
+  {
+    question: "What is the prime factorisation of 100?",
+    options: ["2² × 5²", "2 × 5³", "4 × 25", "10 × 10"],
+    answer: 0
+  },
+  {
+    question: "Which of the following is a composite number?",
+    options: ["31", "37", "41", "45"],
+    answer: 3
+  },
+  {
+    question: "If p is a prime number greater than 2, which statement is always true?",
+    options: ["p is even", "p is odd", "p is divisible by 3", "p ends in 5"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly five factors?",
+    options: ["16", "20", "25", "27"],
+    answer: 2
+  },
+  {
+    question: "The prime factors of 90 are:",
+    options: ["2, 3 and 5", "2, 5 and 9", "3, 6 and 5", "2, 3 and 15"],
+    answer: 0
+  },
+  {
+    question: "Which number is divisible by 7 and is a product of two equal prime factors?",
+    options: ["14", "21", "49", "77"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest prime factor of 143?",
+    options: ["7", "11", "13", "17"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly eight factors?",
+    options: ["24", "25", "27", "29"],
+    answer: 0
+  },
+  {
+    question: "What is the product of the first three prime numbers?",
+    options: ["24", "30", "36", "42"],
+    answer: 1
+  },
+  {
+    question: "Which pair is NOT a pair of twin primes?",
+    options: ["3 and 5", "5 and 7", "11 and 13", "17 and 21"],
+    answer: 3
+  },
+  {
+    question: "Which number has the greatest number of factors among these?",
+    options: ["12", "16", "18", "19"],
+    answer: 2
+  },
+  {
+    question: "What is the prime factorisation of 126?",
+    options: ["2 × 3² × 7", "2² × 3 × 7", "3 × 42", "6 × 21"],
+    answer: 0
+  },
+  {
+    question: "Which number is a product of exactly two different primes?",
+    options: ["27", "35", "49", "64"],
+    answer: 1
+  },
+  {
+    question: "How many prime numbers are there between 1 and 20?",
+    options: ["7", "8", "9", "10"],
+    answer: 1
+  },
+  {
+    question: "Which of these numbers has the prime factorisation 2 × 2 × 2 × 3?",
+    options: ["18", "24", "36", "48"],
+    answer: 1
+  },
+  {
+    question: "Which prime number comes immediately after 89?",
+    options: ["91", "93", "97", "99"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly three distinct prime factors?",
+    options: ["30", "36", "45", "49"],
+    answer: 0
+  },
+  {
+    question: "The smallest prime factor of every even number greater than 2 is:",
+    options: ["1", "2", "3", "4"],
+    answer: 1
+  },
+  {
+    question: "Which number is divisible by 3 and has exactly four factors?",
+    options: ["9", "15", "21", "27"],
+    answer: 1
+  },
+  {
+    question: "What is the greatest prime factor of 154?",
+    options: ["7", "11", "13", "14"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly seven factors?",
+    options: ["36", "49", "64", "81"],
+    answer: 1
+  },
+  {
+    question: "Which number is the square of a prime number?",
+    options: ["36", "49", "64", "81"],
+    answer: 1
+  },
+  {
+    question: "If 2 × 3 × 5 × p = 210, what is p?",
+    options: ["5", "7", "11", "13"],
+    answer: 1
+  },
+  {
+    question: "Which number is NOT a factor of 120?",
+    options: ["8", "12", "15", "18"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly nine factors?",
+    options: ["36", "40", "42", "49"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number having exactly three distinct prime factors?",
+    options: ["24", "30", "36", "42"],
+    answer: 1
+  },
+  {
+    question: "Which number is a multiple of 11 and has exactly four factors?",
+    options: ["22", "33", "44", "55"],
+    answer: 0
+  },
+  {
+    question: "Which of the following is a prime factor of 231?",
+    options: ["4", "7", "9", "11"],
+    answer: 1
+  },
+  {
+    question: "What is the sum of the first four prime numbers?",
+    options: ["15", "17", "18", "20"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly ten factors?",
+    options: ["32", "36", "40", "49"],
+    answer: 2
+  },
+  {
+    question: "The product of the smallest prime number and the smallest odd prime number is:",
+    options: ["5", "6", "8", "10"],
+    answer: 1
+  },
+  {
+    question: "Which number has prime factorisation 3² × 5?",
+    options: ["45", "60", "75", "90"],
+    answer: 0
+  },
+  {
+    question: "Which number is divisible by 5 and has exactly four factors?",
+    options: ["15", "20", "25", "30"],
+    answer: 0
+  },
+  {
+    question: "How many prime factors does 210 have?",
+    options: ["2", "3", "4", "5"],
+    answer: 2
+  },
+  {
+    question: "Which number has the prime factorisation 2 × 7²?",
+    options: ["49", "84", "98", "126"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly two distinct prime factors and is less than 30?",
+    options: ["16", "21", "25", "27"],
+    answer: 1
+  },
+  {
+    question: "Which pair has a product of 77?",
+    options: ["7 and 11", "5 and 15", "3 and 25", "2 and 39"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest prime factor of 169?",
+    options: ["11", "13", "17", "19"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly four distinct factors?",
+    options: ["12", "18", "30", "36"],
+    answer: 2
+  },
+  {
+    question: "Which number is both a perfect square and has exactly three factors?",
+    options: ["16", "25", "36", "49"],
+    answer: 1
+  },
+  {
+    question: "What is the greatest common prime factor of 36 and 60?",
+    options: ["2", "3", "5", "7"],
+    answer: 1
+  },
+  {
+    question: "Which number has prime factors 2 and 3, with 2 occurring three times?",
+    options: ["24", "36", "48", "72"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly twelve factors?",
+    options: ["48", "49", "53", "64"],
+    answer: 0
+  },
+  {
+    question: "Which is the smallest prime number greater than 100?",
+    options: ["101", "103", "105", "107"],
+    answer: 0
+  },
+  {
+    question: "Which number is divisible by 2, 3 and 5 but not by 4?",
+    options: ["30", "60", "90", "120"],
+    answer: 0
+  },
+  {
+    question: "What is the prime factorisation of 150?",
+    options: ["2 × 3 × 5²", "2² × 3 × 5", "3 × 50", "5 × 30"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly four factors and is greater than 20?",
+    options: ["23", "27", "29", "31"],
+    answer: 1
+  },
+  {
+    question: "If a number has exactly two factors, it must be:",
+    options: ["Composite", "Prime", "Even", "Odd"],
+    answer: 1
+  },
+  {
+    question: "Which number is the product of two consecutive prime numbers?",
+    options: ["15", "21", "35", "55"],
+    answer: 0
+  },
+  {
+    question: "Which number has the greatest prime factor?",
+    options: ["42", "55", "63", "75"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number divisible by both 2 and 3 and having exactly four factors?",
+    options: ["6", "12", "18", "24"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly five distinct factors including 1 and itself?",
+    options: ["16", "24", "32", "36"],
+    answer: 0
+  },
+  {
+    question: "Which number is NOT divisible by any prime number less than 5?",
+    options: ["25", "35", "49", "77"],
+    answer: 2
+  },
+  {
+    question: "The prime factorisation of 96 is:",
+    options: ["2⁵ × 3", "2⁴ × 3", "2³ × 3²", "2⁶ × 3"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly three distinct prime factors?",
+    options: ["42", "54", "66", "70"],
+    answer: 0
+  },
+  {
+    question: "What is the difference between the 10th and 5th prime numbers?",
+    options: ["11", "12", "13", "14"],
+    answer: 2
+  },
+  {
+    question: "Which number has 2, 3 and 7 as its only prime factors?",
+    options: ["42", "63", "84", "126"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly eight factors?",
+    options: ["18", "20", "24", "27"],
+    answer: 2
+  },
+  {
+    question: "Which prime number is a factor of 391?",
+    options: ["7", "11", "17", "19"],
+    answer: 2
+  },
+  {
+    question: "Which number is the product of two equal prime numbers?",
+    options: ["18", "27", "49", "63"],
+    answer: 2
+  },
+  {
+    question: "If 2 × 2 × 3 × p = 60, what is p?",
+    options: ["3", "5", "7", "11"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly six factors and is a perfect square?",
+    options: ["16", "25", "36", "49"],
+    answer: 2
+  },
+  {
+    question: "Which of the following pairs are both composite?",
+    options: ["21 and 25", "23 and 25", "29 and 35", "31 and 33"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number having prime factors 2, 3 and 5?",
+    options: ["15", "20", "30", "60"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly three factors and is greater than 50?",
+    options: ["51", "53", "55", "121"],
+    answer: 3
+  },
+  {
+    question: "What is the greatest prime factor of 315?",
+    options: ["3", "5", "7", "9"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly twelve factors?",
+    options: ["60", "64", "81", "97"],
+    answer: 0
+  },
+  {
+    question: "Which of these is a pair of co-prime numbers?",
+    options: ["14 and 21", "18 and 27", "25 and 36", "24 and 30"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number that has 2, 3, 5 and 7 as prime factors?",
+    options: ["105", "210", "420", "840"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly seven factors?",
+    options: ["36", "49", "64", "81"],
+    answer: 1
+  },
+  {
+    question: "The prime factorisation of 210 is:",
+    options: ["2 × 3 × 5 × 7", "2 × 5 × 21", "3 × 7 × 10", "6 × 35"],
+    answer: 0
+  },
+  {
+    question: "Which number is divisible by 11 but has no factor 2, 3 or 5?",
+    options: ["55", "77", "121", "143"],
+    answer: 2
+  },
+  {
+    question: "If two prime numbers have a difference of 2, they are called:",
+    options: ["Co-primes", "Twin primes", "Composite primes", "Perfect primes"],
+    answer: 1
+  },
+  {
+    question: "Which number has the greatest number of distinct prime factors?",
+    options: ["30", "42", "60", "70"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest prime factor of 299?",
+    options: ["7", "13", "17", "23"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly four factors and is odd?",
+    options: ["15", "21", "25", "27"],
+    answer: 0
+  },
+  {
+    question: "Which number is the product of the first four prime numbers?",
+    options: ["180", "210", "220", "240"],
+    answer: 1
+  },
+  {
+    question: "How many distinct prime factors does 180 have?",
+    options: ["2", "3", "4", "5"],
+    answer: 1
+  },
+  {
+    question: "Which number is divisible by 2 and 3 but has no factor 5?",
+    options: ["24", "30", "60", "90"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly nine factors?",
+    options: ["36", "40", "45", "64"],
+    answer: 0
+  },
+  {
+    question: "Which number is both a multiple of 7 and a square of a prime?",
+    options: ["14", "28", "49", "77"],
+    answer: 2
+  },
+  {
+    question: "What is the sum of the prime factors of 42?",
+    options: ["10", "11", "12", "13"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly two distinct prime factors and exactly six factors?",
+    options: ["10", "12", "18", "20"],
+    answer: 2
+  },
+  {
+    question: "If a number is divisible by 2, 3 and 5, which of these could be its smallest value greater than 50?",
+    options: ["54", "60", "65", "75"],
+    answer: 1
+  },
+  {
+    question: "Which number has prime factors 3 and 5, with 3 occurring twice?",
+    options: ["45", "75", "90", "135"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly ten factors?",
+    options: ["32", "40", "48", "54"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest prime number that divides 1001?",
+    options: ["5", "7", "11", "13"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three factors and is divisible by 11?",
+    options: ["22", "33", "121", "143"],
+    answer: 2
+  },
+  {
+    question: "Which pair of numbers are both prime and differ by 6?",
+    options: ["11 and 17", "13 and 19", "17 and 23", "All of these"],
+    answer: 3
+  },
+  {
+    question: "What is the greatest prime factor of 420?",
+    options: ["5", "6", "7", "11"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly eight factors and is odd?",
+    options: ["27", "45", "63", "81"],
+    answer: 0
+  },
+  {
+    question: "Which number has prime factorisation 2² × 3 × 5?",
+    options: ["30", "45", "60", "90"],
+    answer: 2
+  },
+  {
+    question: "If n is a prime number greater than 5, which digit can n NOT end with?",
+    options: ["1", "3", "5", "7"],
+    answer: 2
+  },
+  {
+    question: "Which number is a product of three prime numbers, counting repetition?",
+    options: ["18", "20", "25", "49"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number greater than 100 that is divisible by 2, 3 and 5?",
+    options: ["105", "110", "120", "125"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly six factors and is odd?",
+    options: ["27", "45", "49", "63"],
+    answer: 1
+  },
+  {
+    question: "Which number has the prime factorisation 2 × 3 × 3 × 5?",
+    options: ["60", "90", "120", "180"],
+    answer: 1
+  },
+  {
+    question: "If the product of two prime numbers is even, one of the primes must be:",
+    options: ["3", "5", "7", "2"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly four distinct prime factors?",
+    options: ["60", "90", "105", "210"],
+    answer: 3
+  },
+  {
+    question: "What is the smallest number that has exactly 10 factors?",
+    options: ["24", "30", "36", "40"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three factors and is between 30 and 50?",
+    options: ["36", "39", "41", "49"],
+    answer: 3
+  },
+  {
+    question: "Which of the following is divisible by exactly three different prime numbers?",
+    options: ["42", "54", "64", "81"],
+    answer: 0
+  },
+  {
+    question: "The product of all prime numbers less than 10 is:",
+    options: ["210", "420", "840", "630"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly 12 factors and is the smallest among these?",
+    options: ["48", "60", "72", "84"],
+    answer: 0
+  },
+  {
+    question: "If 84 = 2² × 3 × 7, how many distinct prime factors does 84 have?",
+    options: ["2", "3", "4", "5"],
+    answer: 1
+  },
+  {
+    question: "Which number is NOT a product of two prime numbers?",
+    options: ["15", "21", "35", "45"],
+    answer: 3
+  },
+  {
+    question: "Which prime number lies between 60 and 70?",
+    options: ["61", "63", "65", "69"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest composite number that is odd?",
+    options: ["1", "3", "5", "9"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly 16 factors?",
+    options: ["24", "36", "48", "60"],
+    answer: 2
+  },
+  {
+    question: "Which number is a product of two different prime numbers and is also divisible by 3?",
+    options: ["22", "26", "33", "35"],
+    answer: 2
+  },
+  {
+    question: "What is the greatest prime factor of 252?",
+    options: ["3", "5", "7", "11"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly three factors and is even?",
+    options: ["4", "8", "16", "32"],
+    answer: 0
+  },
+  {
+    question: "Which number has prime factors 2 and 7 only?",
+    options: ["28", "45", "63", "75"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number having exactly three distinct prime factors and divisible by 4?",
+    options: ["30", "40", "60", "90"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly six factors?",
+    options: ["25", "27", "28", "31"],
+    answer: 2
+  },
+  {
+    question: "If 2 × 3 × 5 × 7 = 210, which number is NOT a prime factor of 210?",
+    options: ["2", "3", "5", "11"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly two factors greater than 1?",
+    options: ["12", "15", "17", "18"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number greater than 1 having exactly four distinct factors?",
+    options: ["6", "10", "12", "18"],
+    answer: 2
+  },
+  {
+    question: "Which number has the prime factorisation 3 × 5 × 7?",
+    options: ["95", "105", "115", "125"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly five factors?",
+    options: ["16", "32", "36", "40"],
+    answer: 0
+  },
+  {
+    question: "If a number is prime and greater than 2, it cannot be divisible by:",
+    options: ["1", "2", "Itself", "A prime greater than itself"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three distinct prime factors and is less than 50?",
+    options: ["30", "36", "42", "48"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest prime factor of 391?",
+    options: ["17", "19", "23", "29"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly 15 factors?",
+    options: ["81", "100", "120", "144"],
+    answer: 1
+  },
+  {
+    question: "Which number is both a multiple of 5 and a product of two distinct primes?",
+    options: ["20", "25", "35", "45"],
+    answer: 2
+  },
+  {
+    question: "What is the sum of the distinct prime factors of 60?",
+    options: ["8", "9", "10", "12"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly eight factors and is divisible by 3?",
+    options: ["18", "20", "24", "25"],
+    answer: 0
+  },
+  {
+    question: "Which number is the product of the first five prime numbers?",
+    options: ["210", "2310", "2520", "2730"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three factors and is greater than 100?",
+    options: ["121", "125", "127", "129"],
+    answer: 0
+  },
+  {
+    question: "What is the greatest prime factor of 990?",
+    options: ["9", "10", "11", "13"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly twelve factors?",
+    options: ["72", "81", "97", "121"],
+    answer: 0
+  },
+  {
+    question: "Which pair contains one prime and one composite number?",
+    options: ["11 and 13", "17 and 19", "23 and 25", "29 and 31"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number divisible by 2, 3, 5 and 7?",
+    options: ["105", "210", "420", "840"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly four factors and is divisible by 7?",
+    options: ["14", "21", "28", "49"],
+    answer: 0
+  },
+  {
+    question: "Which number has prime factors 2, 3 and 7, with 2 occurring twice?",
+    options: ["42", "84", "126", "168"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number with exactly six factors that is divisible by 5?",
+    options: ["10", "15", "20", "25"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly nine factors and is a perfect square?",
+    options: ["36", "49", "64", "81"],
+    answer: 0
+  },
+  {
+    question: "Which number is divisible by 7 but has no prime factor 2, 3 or 5?",
+    options: ["35", "49", "77", "91"],
+    answer: 1
+  },
+  {
+    question: "What is the sum of the first six prime numbers?",
+    options: ["39", "40", "41", "42"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly four distinct prime factors?",
+    options: ["105", "150", "210", "330"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly ten factors and is odd?",
+    options: ["45", "75", "81", "99"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number that has 2, 3 and 5 as prime factors and is a perfect square?",
+    options: ["30", "60", "90", "900"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly six distinct factors greater than 1?",
+    options: ["12", "18", "24", "30"],
+    answer: 2
+  },
+  {
+    question: "Which prime number is a factor of 527?",
+    options: ["17", "19", "23", "29"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly two distinct prime factors and is a perfect square?",
+    options: ["36", "49", "100", "121"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number greater than 200 that is divisible by 2, 3 and 7?",
+    options: ["204", "210", "216", "224"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly 18 factors?",
+    options: ["72", "81", "90", "100"],
+    answer: 2
+  },
+  {
+    question: "If n = 2² × 3² × 5, how many distinct prime factors does n have?",
+    options: ["2", "3", "4", "5"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three factors and is a square of a prime?",
+    options: ["16", "25", "36", "64"],
+    answer: 1
+  },
+  {
+    question: "Which of these is a prime number between 100 and 110?",
+    options: ["101", "103", "107", "All of these"],
+    answer: 3
+  },
+  {
+    question: "What is the smallest number with exactly eight factors?",
+    options: ["18", "20", "24", "27"],
+    answer: 1
+  },
+  {
+    question: "Which number has prime factorisation 2 × 3 × 5 × 5?",
+    options: ["75", "100", "150", "225"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly five distinct prime factors?",
+    options: ["210", "420", "2310", "2730"],
+    answer: 2
+  },
+  {
+    question: "What is the greatest prime factor of 693?",
+    options: ["3", "7", "11", "21"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly 20 factors?",
+    options: ["36", "48", "60", "72"],
+    answer: 2
+  },
+  {
+    question: "Which number is divisible by 2, 3 and 7 but not by 5?",
+    options: ["42", "70", "105", "210"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number having exactly three distinct prime factors and exactly eight factors?",
+    options: ["24", "30", "40", "42"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly three factors and is greater than 200?",
+    options: ["211", "221", "225", "229"],
+    answer: 2
+  },
+  {
+    question: "Which of the following is the prime factorisation of 360?",
+    options: ["2³ × 3² × 5", "2² × 3³ × 5", "2³ × 3 × 5²", "2 × 3² × 5³"],
+    answer: 0
+  },
+  {
+    question: "How many distinct prime factors does 360 have?",
+    options: ["2", "3", "4", "5"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly 24 factors?",
+    options: ["72", "84", "90", "96"],
+    answer: 3
+  },
+  {
+    question: "Which number is the smallest product of three distinct odd primes?",
+    options: ["105", "135", "165", "175"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest prime factor of 1009?",
+    options: ["7", "11", "13", "17"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly four factors and is a multiple of 11?",
+    options: ["22", "33", "44", "55"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly six factors and is a multiple of 7?",
+    options: ["14", "21", "28", "35"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly eight factors and is a multiple of 5?",
+    options: ["20", "30", "40", "45"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number having exactly four distinct prime factors?",
+    options: ["105", "210", "420", "630"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly ten factors and is divisible by 3?",
+    options: ["18", "30", "45", "60"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly twelve factors and is odd?",
+    options: ["45", "63", "72", "105"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number greater than 50 having exactly three factors?",
+    options: ["53", "55", "61", "64"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly two distinct prime factors and exactly eight factors?",
+    options: ["20", "24", "30", "36"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three distinct prime factors and exactly twelve factors?",
+    options: ["30", "42", "60", "90"],
+    answer: 2
+  },
+  {
+    question: "What is the smallest number with exactly five distinct prime factors?",
+    options: ["210", "420", "840", "2310"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly sixteen factors?",
+    options: ["36", "48", "60", "72"],
+    answer: 1
+  },
+  {
+    question: "Which number is a prime factor of 1430?",
+    options: ["11", "13", "17", "19"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly three factors and is divisible by 13?",
+    options: ["26", "39", "52", "169"],
+    answer: 3
+  },
+  {
+    question: "What is the smallest number divisible by 2, 3, 5 and 7 and greater than 500?",
+    options: ["510", "525", "560", "630"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly 18 factors and is odd?",
+    options: ["81", "90", "105", "135"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly four distinct prime factors and is less than 250?",
+    options: ["180", "210", "220", "240"],
+    answer: 1
+  },
+  {
+    question: "What is the sum of all distinct prime factors of 210?",
+    options: ["15", "16", "17", "18"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly 12 factors and is divisible by 7?",
+    options: ["42", "56", "63", "70"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly six factors and is a perfect square?",
+    options: ["25", "36", "49", "64"],
+    answer: 1
+  },
+  {
+    question: "If a number has prime factorisation 2³ × 3², how many factors does it have?",
+    options: ["10", "12", "15", "18"],
+    answer: 1
+  },
+  {
+    question: "If a number has prime factorisation 2² × 3 × 5², how many factors does it have?",
+    options: ["12", "15", "18", "20"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly 30 factors?",
+    options: ["120", "150", "180", "210"],
+    answer: 3
+  },
+  {
+    question: "What is the smallest number whose prime factorisation contains exactly four 2s and one 3?",
+    options: ["36", "48", "72", "96"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly three distinct prime factors and is a multiple of 5?",
+    options: ["30", "42", "56", "77"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly two distinct prime factors and is divisible by 11?",
+    options: ["22", "33", "44", "55"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number with exactly 12 factors that is divisible by 5?",
+    options: ["30", "40", "60", "80"],
+    answer: 2
+  },
+  {
+    question: "Which number has exactly 16 factors and is divisible by 3?",
+    options: ["48", "54", "72", "80"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly 24 factors and is divisible by 5?",
+    options: ["120", "150", "180", "200"],
+    answer: 0
+  },
+  {
+    question: "What is the smallest number that has exactly three factors and is divisible by 17?",
+    options: ["34", "51", "68", "289"],
+    answer: 3
+  },
+  {
+    question: "Which number has exactly eight factors and is a perfect square?",
+    options: ["36", "49", "64", "81"],
+    answer: 2
+  },
+  {
+    question: "If p and q are distinct prime numbers, which number must have at least four factors?",
+    options: ["p + q", "p × q", "p - q", "p ÷ q"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly 12 factors and is the smallest among these?",
+    options: ["36", "48", "60", "72"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly 15 factors?",
+    options: ["81", "100", "120", "144"],
+    answer: 1
+  },
+  {
+    question: "What is the smallest number having exactly 20 factors?",
+    options: ["120", "180", "240", "360"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly 24 factors and is the smallest among these?",
+    options: ["72", "84", "90", "96"],
+    answer: 0
+  },
+  {
+    question: "Which number has exactly 30 factors and is the smallest among these?",
+    options: ["120", "180", "240", "360"],
+    answer: 1
+  },
+  {
+    question: "Which number has exactly 36 factors and is the smallest among these?",
+    options: ["180", "240", "360", "420"],
+    answer: 2
+  },
+],
+
+6: [
+  {
+    question: "A rectangle has length 18 cm and breadth 7 cm. What is its perimeter?",
+    options: ["46 cm", "50 cm", "52 cm", "56 cm"],
+    answer: 0
+  },
+  {
+    question: "A square has a perimeter of 64 cm. What is its area?",
+    options: ["128 cm²", "256 cm²", "196 cm²", "64 cm²"],
+    answer: 1
+  },
+  {
+    question: "The area of a rectangle is 144 cm² and its length is 16 cm. What is its breadth?",
+    options: ["8 cm", "9 cm", "10 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular garden is 25 m long and 14 m wide. How much fencing is needed to surround it once?",
+    options: ["78 m", "80 m", "82 m", "86 m"],
+    answer: 2
+  },
+  {
+    question: "The side of a square is increased from 8 cm to 12 cm. By how much does its area increase?",
+    options: ["64 cm²", "72 cm²", "80 cm²", "144 cm²"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has perimeter 50 cm and length 15 cm. What is its area?",
+    options: ["120 cm²", "140 cm²", "150 cm²", "160 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square and a rectangle have the same perimeter of 40 cm. If the rectangle has length 12 cm, what is its area?",
+    options: ["96 cm²", "100 cm²", "120 cm²", "128 cm²"],
+    answer: 0
+  },
+  {
+    question: "A rectangular field measures 32 m by 18 m. What is the difference between its perimeter and its area numerically?",
+    options: ["524", "560", "592", "628"],
+    answer: 0
+  },
+  {
+    question: "A square has an area of 225 cm². What is its perimeter?",
+    options: ["50 cm", "60 cm", "75 cm", "90 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 180 cm² and breadth 12 cm. What is its perimeter?",
+    options: ["48 cm", "54 cm", "60 cm", "66 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular playground is 45 m long and 30 m wide. A runner completes 3 rounds around it. What distance does the runner cover?",
+    options: ["225 m", "400 m", "450 m", "500 m"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 25 m. A path is marked all around its boundary. What is the total boundary length?",
+    options: ["50 m", "75 m", "100 m", "125 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length twice its breadth. If its perimeter is 54 cm, what is its area?",
+    options: ["144 cm²", "162 cm²", "180 cm²", "216 cm²"],
+    answer: 1
+  },
+  {
+    question: "The length of a rectangle is 5 cm more than its breadth. Its perimeter is 50 cm. What is its area?",
+    options: ["120 cm²", "140 cm²", "150 cm²", "160 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square and a rectangle have equal areas of 144 cm². If the rectangle's length is 18 cm, what is its perimeter?",
+    options: ["44 cm", "48 cm", "50 cm", "52 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangular sheet is 20 cm by 15 cm. A square of side 5 cm is cut from it. What area remains?",
+    options: ["250 cm²", "275 cm²", "300 cm²", "325 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square of side 14 cm is divided into four equal squares. What is the perimeter of each small square?",
+    options: ["14 cm", "21 cm", "28 cm", "56 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 24 cm long and 10 cm wide. If its length is increased by 6 cm while breadth remains unchanged, by how much does its area increase?",
+    options: ["50 cm²", "60 cm²", "70 cm²", "80 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square's side is doubled. How many times does its area become?",
+    options: ["2 times", "3 times", "4 times", "8 times"],
+    answer: 2
+  },
+  {
+    question: "A rectangle's length is doubled while its breadth remains unchanged. Its original area was 72 cm². What is the new area?",
+    options: ["108 cm²", "124 cm²", "144 cm²", "216 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 36 cm. What is the area of the square?",
+    options: ["72 cm²", "81 cm²", "90 cm²", "108 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular floor is 12 m long and 8 m wide. Each square metre requires 4 tiles. How many tiles are needed?",
+    options: ["96", "192", "384", "420"],
+    answer: 2
+  },
+  {
+    question: "A rectangular park has area 600 m² and length 30 m. What is its perimeter?",
+    options: ["80 m", "90 m", "100 m", "110 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 18 cm. A rectangle has the same perimeter and length 20 cm. What is the rectangle's breadth?",
+    options: ["14 cm", "16 cm", "18 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 16 cm × 9 cm. If both dimensions are increased by 1 cm, by how much does its area increase?",
+    options: ["24 cm²", "25 cm²", "26 cm²", "27 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 10 cm. A rectangle has the same area and breadth 5 cm. What is the rectangle's length?",
+    options: ["15 cm", "20 cm", "25 cm", "30 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 50 m by 35 m. A fence is placed around it, leaving a 2 m wide entrance. What length of fence is required?",
+    options: ["166 m", "168 m", "170 m", "172 m"],
+    answer: 0
+  },
+  {
+    question: "A square has side 20 cm. Its side is decreased by 5 cm. What is the decrease in area?",
+    options: ["125 cm²", "150 cm²", "175 cm²", "200 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 240 cm². Which pair could be its length and breadth?",
+    options: ["24 cm and 10 cm", "20 cm and 14 cm", "30 cm and 9 cm", "16 cm and 12 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has perimeter 72 cm. If its length is 22 cm, what is its area?",
+    options: ["264 cm²", "286 cm²", "308 cm²", "320 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square and a rectangle both have perimeter 48 cm. The rectangle is 16 cm long. What is the difference between their areas?",
+    options: ["8 cm²", "12 cm²", "16 cm²", "20 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular sheet of 30 cm × 20 cm is divided into 6 equal rectangles by dividing only along its length. What is the area of each part?",
+    options: ["50 cm²", "75 cm²", "100 cm²", "120 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has area 400 cm². A rectangle has the same area and length 25 cm. What is its perimeter?",
+    options: ["82 cm", "84 cm", "90 cm", "100 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle's length is 3 times its breadth. If its area is 147 cm², what is its perimeter?",
+    options: ["42 cm", "49 cm", "56 cm", "64 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular garden is 28 m × 16 m. A square pond of side 6 m is built inside it. What area of the garden remains?",
+    options: ["412 m²", "420 m²", "448 m²", "456 m²"],
+    answer: 0
+  },
+  {
+    question: "A square has perimeter 100 m. What is its area?",
+    options: ["400 m²", "500 m²", "625 m²", "1000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 40 m and breadth 25 m. If both are reduced by 5 m, what is the new area?",
+    options: ["600 m²", "650 m²", "700 m²", "750 m²"],
+    answer: 3
+  },
+  {
+    question: "A rectangular field is 60 m long and 40 m wide. A path of length equal to the perimeter is walked 5 times. What distance is covered?",
+    options: ["800 m", "900 m", "1000 m", "1200 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 324 cm². What is its side?",
+    options: ["16 cm", "18 cm", "20 cm", "22 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 288 cm² and length 24 cm. What is its perimeter?",
+    options: ["60 cm", "64 cm", "68 cm", "72 cm"],
+    answer: 1
+  },
+  {
+    question: "A square of side 15 cm and a rectangle of dimensions 20 cm × 10 cm are compared. Which has the greater area and by how much?",
+    options: ["Square by 25 cm²", "Rectangle by 25 cm²", "Square by 50 cm²", "Same area"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 25 cm × 16 cm. If its breadth is increased by 4 cm, what is the new area?",
+    options: ["450 cm²", "500 cm²", "525 cm²", "600 cm²"],
+    answer: 3
+  },
+  {
+    question: "A square has side 13 cm. What is its perimeter plus area numerically?",
+    options: ["195", "208", "221", "234"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 100 cm. If its length is 30 cm, what is its area?",
+    options: ["500 cm²", "600 cm²", "700 cm²", "800 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square of side 24 cm is divided into 16 equal smaller squares. What is the perimeter of each smaller square?",
+    options: ["6 cm", "12 cm", "18 cm", "24 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 36 cm long and 14 cm wide. If the length is reduced by 6 cm, what percentage of the original area is removed?",
+    options: ["10%", "15%", "16⅔%", "20%"],
+    answer: 2
+  },
+  {
+    question: "A square's perimeter is equal to the perimeter of a rectangle measuring 18 cm × 10 cm. What is the area of the square?",
+    options: ["144 cm²", "169 cm²", "196 cm²", "225 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular board is 32 cm × 18 cm. A border 1 cm wide is removed from each side. What is the area of the remaining inner rectangle?",
+    options: ["480 cm²", "510 cm²", "528 cm²", "540 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 40 m. A rectangular field has the same area and length 50 m. What is its breadth?",
+    options: ["24 m", "30 m", "32 m", "36 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 5 times its breadth and perimeter 72 cm. What is its area?",
+    options: ["120 cm²", "135 cm²", "144 cm²", "180 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square of side 30 cm is divided into 9 equal squares. What is the total perimeter of all 9 small squares?",
+    options: ["120 cm", "180 cm", "360 cm", "540 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 80 m × 50 m. A square field has the same perimeter. What is the side of the square?",
+    options: ["55 m", "60 m", "65 m", "70 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 450 cm². If its length is 25 cm, what is its perimeter?",
+    options: ["70 cm", "76 cm", "86 cm", "90 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 16 cm. A rectangle has the same area and length 32 cm. What is its perimeter?",
+    options: ["56 cm", "60 cm", "64 cm", "72 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular floor is 18 m × 12 m. Tiles are square-shaped with side 3 m. How many tiles are needed to cover the floor?",
+    options: ["18", "24", "36", "48"],
+    answer: 1
+  },
+  {
+    question: "A rectangle's area is 360 cm². Its length is 24 cm. If the length is increased to 30 cm while the area is kept the same, what must the new breadth be?",
+    options: ["10 cm", "12 cm", "14 cm", "15 cm"],
+    answer: 1
+  },
+  {
+    question: "A square and a rectangle have equal areas of 196 cm². If the rectangle's breadth is 7 cm, what is its perimeter?",
+    options: ["42 cm", "56 cm", "70 cm", "84 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular garden has length 45 m and breadth 25 m. A 2 m wide path is made inside along the entire boundary. What is the area left inside the path?",
+    options: ["741 m²", "820 m²", "861 m²", "900 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 25 cm. If its side is increased by 20%, what is the new area?",
+    options: ["625 cm²", "750 cm²", "900 cm²", "1000 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 20 cm and breadth 15 cm. If both are doubled, what happens to its area?",
+    options: ["It becomes 2 times", "It becomes 3 times", "It becomes 4 times", "It becomes 8 times"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field has perimeter 180 m and length 55 m. What is its area?",
+    options: ["1925 m²", "1980 m²", "2100 m²", "2200 m²"],
+    answer: 0
+  },
+  {
+    question: "A square has area 625 m². A rectangle has the same area and breadth 25 m. What is the rectangle's perimeter?",
+    options: ["90 m", "100 m", "110 m", "120 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 30 cm × 18 cm. A square of maximum possible side is cut from it. What is the area left?",
+    options: ["216 cm²", "240 cm²", "270 cm²", "324 cm²"],
+    answer: 0
+  },
+  {
+    question: "A square of side 20 m is surrounded by a path 2 m wide outside it. What is the area of the path?",
+    options: ["160 m²", "176 m²", "192 m²", "208 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle measures 28 cm × 20 cm. A square of side 14 cm is removed from one corner. What is the remaining area?",
+    options: ["364 cm²", "392 cm²", "420 cm²", "448 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has perimeter 80 cm. A rectangle has the same area and length 40 cm. What is the rectangle's perimeter?",
+    options: ["72 cm", "76 cm", "80 cm", "84 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 75 m × 45 m. If fencing costs ₹12 per metre, what is the total fencing cost?",
+    options: ["₹2400", "₹2640", "₹2880", "₹3000"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 35 m. If fencing costs ₹8 per metre, what is the total cost?",
+    options: ["₹960", "₹1040", "₹1120", "₹1200"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 525 m² and breadth 15 m. What is its length?",
+    options: ["30 m", "35 m", "40 m", "45 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 86 cm and length 25 cm. What is its area?",
+    options: ["360 cm²", "400 cm²", "450 cm²", "500 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 9 cm. A rectangle has the same perimeter and breadth 5 cm. What is its area?",
+    options: ["45 cm²", "50 cm²", "55 cm²", "60 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular sheet is 40 cm × 25 cm. A square hole of side 10 cm is cut out. What percentage of the sheet remains?",
+    options: ["80%", "85%", "90%", "95%"],
+    answer: 2
+  },
+  {
+    question: "A square has side 12 cm. If four such squares are arranged in a row, what is the perimeter of the resulting rectangle?",
+    options: ["72 cm", "96 cm", "120 cm", "144 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 10 cm. Four squares are joined in a 2 × 2 arrangement. What is the perimeter of the resulting square?",
+    options: ["40 cm", "60 cm", "80 cm", "100 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle 24 cm × 16 cm is divided into 8 equal rectangles by dividing its length equally. What is the perimeter of each small rectangle?",
+    options: ["28 cm", "32 cm", "36 cm", "40 cm"],
+    answer: 0
+  },
+  {
+    question: "A square has area 256 cm². A rectangle has the same perimeter and length 20 cm. What is the rectangle's breadth?",
+    options: ["10 cm", "12 cm", "16 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular park has length 100 m and breadth 60 m. A path is constructed around the outside with width 5 m. What is the area of the path?",
+    options: ["1600 m²", "1700 m²", "1750 m²", "1800 m²"],
+    answer: 3
+  },
+  {
+    question: "A square has side 50 m. A path of width 5 m is built inside along all four sides. What area remains for the field?",
+    options: ["1200 m²", "1400 m²", "1600 m²", "2025 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 48 cm and breadth 18 cm. If its perimeter is divided equally among 6 identical sides, what is the length of each part?",
+    options: ["18 cm", "20 cm", "22 cm", "24 cm"],
+    answer: 3
+  },
+  {
+    question: "A square has perimeter 120 m. What is the area of the square?",
+    options: ["900 m²", "1000 m²", "1200 m²", "1440 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangular field has area 900 m² and perimeter 120 m. If its length is greater than its breadth, what are its dimensions?",
+    options: ["30 m × 30 m", "45 m × 20 m", "50 m × 18 m", "60 m × 15 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 480 cm². Which dimensions give the smallest perimeter?",
+    options: ["48 cm × 10 cm", "30 cm × 16 cm", "24 cm × 20 cm", "40 cm × 12 cm"],
+    answer: 2
+  },
+  {
+    question: "A square and a rectangle have the same area of 144 cm². Which rectangle has the greatest perimeter?",
+    options: ["18 cm × 8 cm", "24 cm × 6 cm", "12 cm × 12 cm", "16 cm × 9 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular garden is 40 m × 30 m. A 5 m wide strip is removed along one of its 40 m sides. What is the remaining area?",
+    options: ["1000 m²", "1100 m²", "1200 m²", "1250 m²"],
+    answer: 1
+  },
+  {
+    question: "A square of side 18 cm is divided into 9 equal squares. What is the total area of the small squares?",
+    options: ["81 cm²", "162 cm²", "324 cm²", "486 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 50 cm × 30 cm. A border 5 cm wide is drawn inside it on all sides. What is the area inside the border?",
+    options: ["600 cm²", "700 cm²", "800 cm²", "900 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square of side 28 cm is divided into 4 equal squares. What is the total perimeter of the four small squares?",
+    options: ["112 cm", "168 cm", "224 cm", "448 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 64 cm. Which dimensions give the greatest area?",
+    options: ["20 cm × 12 cm", "18 cm × 14 cm", "16 cm × 16 cm", "22 cm × 10 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has the same perimeter as a rectangle measuring 26 cm × 14 cm. What is the area of the square?",
+    options: ["324 cm²", "400 cm²", "441 cm²", "484 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular floor is 24 m × 15 m. A square tile has side 3 m. How many complete tiles can cover the floor?",
+    options: ["30", "36", "40", "45"],
+    answer: 3
+  },
+  {
+    question: "A square has side 32 cm. A rectangle with the same area has breadth 16 cm. What is its length?",
+    options: ["48 cm", "56 cm", "64 cm", "72 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 3 cm more than breadth and perimeter 30 cm. What is its area?",
+    options: ["48 cm²", "54 cm²", "56 cm²", "60 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 15 cm. If its perimeter is increased by 20 cm, what will be its new side?",
+    options: ["18 cm", "20 cm", "22 cm", "25 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 384 cm². If its dimensions are 24 cm × 16 cm, what is its perimeter?",
+    options: ["72 cm", "80 cm", "88 cm", "96 cm"],
+    answer: 1
+  },
+  {
+    question: "A square of side 21 cm and a rectangle of 28 cm × 14 cm have the same area. What is the difference in their perimeters?",
+    options: ["0 cm", "4 cm", "6 cm", "8 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 90 m × 60 m. A square pond of side 20 m occupies part of it. What percentage of the field remains?",
+    options: ["90%", "91⅓%", "92½%", "95%"],
+    answer: 1
+  },
+  {
+    question: "A square has area 900 cm². What is the perimeter of a rectangle having the same area and dimensions 30 cm × 30 cm?",
+    options: ["90 cm", "100 cm", "120 cm", "150 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 18 cm × 12 cm. If both dimensions are decreased by 2 cm, what is the decrease in area?",
+    options: ["52 cm²", "56 cm²", "60 cm²", "64 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25 cm. If a rectangle with the same area has length 31.25 cm, what is its breadth?",
+    options: ["15 cm", "18 cm", "20 cm", "22 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 55 m × 35 m. How much greater is its area than a square field of side 40 m?",
+    options: ["125 m²", "225 m²", "325 m²", "425 m²"],
+    answer: 1
+  },
+  {
+    question: "A square and a rectangle have the same perimeter of 60 cm. If the rectangle has dimensions 20 cm × 10 cm, what is the difference in their areas?",
+    options: ["20 cm²", "25 cm²", "30 cm²", "40 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 600 cm². Which pair of whole-number dimensions gives the greatest perimeter?",
+    options: ["30 cm × 20 cm", "40 cm × 15 cm", "50 cm × 12 cm", "60 cm × 10 cm"],
+    answer: 3
+  },
+  {
+    question: "A square has side 40 cm. A rectangle with the same perimeter has length 50 cm. What is its breadth?",
+    options: ["20 cm", "25 cm", "30 cm", "35 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular board is 60 cm × 40 cm. A square of side 20 cm is removed from each of two opposite corners. What area remains?",
+    options: ["1600 cm²", "1800 cm²", "2000 cm²", "2200 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 18 m. A rectangle has the same area and length 27 m. What is the rectangle's breadth?",
+    options: ["10 m", "12 m", "14 m", "16 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 90 cm and breadth 15 cm. What is its area?",
+    options: ["400 cm²", "450 cm²", "500 cm²", "525 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 22 cm. What is its area compared with a rectangle of 24 cm × 20 cm?",
+    options: ["Square is 4 cm² greater", "Rectangle is 4 cm² greater", "Both are equal", "Square is 8 cm² greater"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 72 m × 48 m. If its length is decreased by 12 m and breadth increased by 12 m, what is the change in area?",
+    options: ["No change", "72 m² decrease", "144 m² increase", "144 m² decrease"],
+    answer: 3
+  },
+  {
+    question: "A square has side 30 cm. If its area is divided equally among 9 rectangles of equal area, what is the area of each rectangle?",
+    options: ["50 cm²", "75 cm²", "90 cm²", "100 cm²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 36 cm × 24 cm. It is divided into squares of maximum possible size. How many such squares are formed?",
+    options: ["4", "6", "8", "12"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 48 cm × 36 cm. The largest possible square tiles have side 12 cm. How many tiles are needed?",
+    options: ["8", "10", "12", "16"],
+    answer: 2
+  },
+  {
+    question: "A square field has area 1600 m². A rectangular field has the same perimeter and dimensions 50 m × 30 m. Which has the greater area?",
+    options: ["Square by 100 m²", "Rectangle by 100 m²", "Square by 200 m²", "Both equal"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has length 4 times its breadth. If its area is 256 cm², what is its perimeter?",
+    options: ["64 cm", "72 cm", "80 cm", "96 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has area 484 cm². What is its perimeter?",
+    options: ["88 cm", "92 cm", "96 cm", "100 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has area 720 cm² and length 30 cm. If its breadth is increased by 6 cm, what is the new area?",
+    options: ["840 cm²", "900 cm²", "960 cm²", "1080 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square of side 24 cm is surrounded by a border 3 cm wide outside it. What is the area of the border?",
+    options: ["180 cm²", "198 cm²", "216 cm²", "234 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 40 cm × 25 cm. A square of side 15 cm is removed. What percentage of the original area is left?",
+    options: ["70%", "75%", "77.5%", "80%"],
+    answer: 2
+  },
+  {
+    question: "A square and rectangle have equal areas of 400 cm². The rectangle has length 25 cm. What is the difference between their perimeters?",
+    options: ["2 cm", "4 cm", "6 cm", "8 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular garden is 50 m × 40 m. A path 5 m wide is made inside along all sides. What is the area of the path?",
+    options: ["750 m²", "800 m²", "850 m²", "900 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 35 cm. If its side is reduced by 7 cm, what percentage decrease occurs in its area?",
+    options: ["32%", "36%", "40%", "44%"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 60 cm and breadth 40 cm. If both dimensions are reduced by 10%, what is the new area?",
+    options: ["1944 cm²", "2000 cm²", "2160 cm²", "2400 cm²"],
+    answer: 0
+  },
+  {
+    question: "A square has perimeter 72 cm. A rectangle has the same area and length 18 cm. What is its breadth?",
+    options: ["12 cm", "14 cm", "16 cm", "18 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field has perimeter 200 m. Its length is 20 m more than its breadth. What is its area?",
+    options: ["2000 m²", "2200 m²", "2400 m²", "2500 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 28 cm × 21 cm. What is the side of a square having the same area?",
+    options: ["21 cm", "24 cm", "25 cm", "28 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 16 cm. A rectangle has the same area and breadth 8 cm. What is the rectangle's perimeter?",
+    options: ["40 cm", "48 cm", "56 cm", "64 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 96 cm. Which dimensions give an area of 560 cm²?",
+    options: ["28 cm × 20 cm", "30 cm × 18 cm", "32 cm × 16 cm", "34 cm × 14 cm"],
+    answer: 0
+  },
+  {
+    question: "A square has side 14 cm. What is the difference between its area and perimeter numerically?",
+    options: ["154", "168", "176", "196"],
+    answer: 0
+  },
+  {
+    question: "A rectangular floor is 36 m × 24 m. It is covered with square tiles of side 6 m. How many tiles are required?",
+    options: ["18", "20", "24", "36"],
+    answer: 2
+  },
+  {
+    question: "A square of side 30 cm is divided into 25 equal squares. What is the perimeter of each small square?",
+    options: ["12 cm", "20 cm", "24 cm", "30 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 45 cm and breadth 20 cm. If its perimeter remains unchanged and length becomes 35 cm, what is the new breadth?",
+    options: ["25 cm", "30 cm", "35 cm", "40 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 45 cm × 25 cm. If its length is increased by 5 cm and breadth decreased by 5 cm, what is the change in area?",
+    options: ["50 cm² increase", "50 cm² decrease", "100 cm² increase", "100 cm² decrease"],
+    answer: 3
+  },
+  {
+    question: "A square has side 20 cm. If its area is increased by 21%, what is the new side?",
+    options: ["21 cm", "22 cm", "23 cm", "24 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has area 1200 m². If its length is 40 m, what is the cost of fencing it at ₹15 per metre?",
+    options: ["₹1200", "₹1350", "₹1500", "₹1800"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 45 m. What is the cost of fencing it at ₹20 per metre?",
+    options: ["₹1800", "₹2400", "₹3000", "₹3600"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 32 cm × 20 cm. A border of 2 cm is removed from all sides. What is the remaining area?",
+    options: ["504 cm²", "520 cm²", "560 cm²", "576 cm²"],
+    answer: 0
+  },
+  {
+    question: "A square has side 40 cm. A border of 5 cm is removed from all four sides. What is the remaining area?",
+    options: ["400 cm²", "600 cm²", "900 cm²", "1200 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 1000 cm² and length 50 cm. What is its perimeter?",
+    options: ["120 cm", "130 cm", "140 cm", "150 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has the same perimeter as a rectangle of length 30 cm and breadth 18 cm. What is the area of the square?",
+    options: ["576 cm²", "625 cm²", "729 cm²", "784 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 120 m × 80 m. A square pond of side 20 m is constructed inside. What percentage of the field is occupied by the pond?",
+    options: ["4⅙%", "5%", "6¼%", "8⅓%"],
+    answer: 1
+  },
+  {
+    question: "A square has side 50 cm. If its side is increased by 10 cm, what is the increase in area?",
+    options: ["1000 cm²", "1100 cm²", "1200 cm²", "1300 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 50 cm and breadth 30 cm. If both dimensions increase by 10 cm, what is the increase in area?",
+    options: ["600 cm²", "700 cm²", "800 cm²", "900 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has area 784 cm². What is its perimeter?",
+    options: ["96 cm", "112 cm", "124 cm", "196 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 540 cm² and perimeter 96 cm. What are its dimensions?",
+    options: ["30 cm × 18 cm", "27 cm × 20 cm", "36 cm × 15 cm", "45 cm × 12 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 36 cm × 24 cm. What is the perimeter of a square having the same area?",
+    options: ["96 cm", "104 cm", "112 cm", "120 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 28 cm. A rectangle has the same perimeter and length 32 cm. What is its breadth?",
+    options: ["20 cm", "22 cm", "24 cm", "26 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 75 m × 50 m. If fencing costs ₹10 per metre, but one 5 m gate is left unfenced, what is the cost?",
+    options: ["₹2450", "₹2500", "₹2550", "₹2600"],
+    answer: 0
+  },
+  {
+    question: "A square field has side 60 m. If a path of width 5 m is made inside all around, what is the area of the path?",
+    options: ["900 m²", "1000 m²", "1100 m²", "1200 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 64 cm × 48 cm. The largest possible square tiles have side 16 cm. How many tiles are needed?",
+    options: ["8", "10", "12", "16"],
+    answer: 2
+  },
+  {
+    question: "A square has side 24 cm. It is divided into 36 equal squares. What is the side of each small square?",
+    options: ["3 cm", "4 cm", "6 cm", "8 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle 48 cm × 36 cm is divided into squares of side 12 cm. What is the total perimeter of all the squares?",
+    options: ["288 cm", "336 cm", "384 cm", "432 cm"],
+    answer: 2
+  },
+  {
+    question: "A square of side 10 cm is cut into 100 equal small squares. What is the perimeter of each small square?",
+    options: ["0.2 cm", "0.4 cm", "1 cm", "2 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 960 cm². If its breadth is 24 cm, what is its perimeter?",
+    options: ["120 cm", "128 cm", "136 cm", "144 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has area 1024 cm². A rectangle has the same area and breadth 16 cm. What is its perimeter?",
+    options: ["144 cm", "160 cm", "176 cm", "192 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular garden is 80 m × 60 m. A path 5 m wide is made inside along all sides. What percentage of the garden remains?",
+    options: ["70%", "72%", "75%", "77½%"],
+    answer: 3
+  },
+  {
+    question: "A square has side 36 m. A rectangular field with the same area has length 54 m. What is its breadth?",
+    options: ["18 m", "20 m", "24 m", "27 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 140 cm and length 45 cm. What is its area?",
+    options: ["900 cm²", "1000 cm²", "1125 cm²", "1200 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 88 cm. What is its area?",
+    options: ["484 cm²", "529 cm²", "576 cm²", "625 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 42 cm × 28 cm. A square of side 14 cm is removed. What percentage of the area remains?",
+    options: ["75%", "80%", "83⅓%", "85%"],
+    answer: 2
+  },
+  {
+    question: "A square has side 18 cm. A rectangle has the same area and breadth 9 cm. What is the difference in their perimeters?",
+    options: ["6 cm", "8 cm", "10 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has dimensions 90 m × 70 m. A path 10 m wide is made inside along the boundary. What is the area of the path?",
+    options: ["2800 m²", "3000 m²", "3200 m²", "3400 m²"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 80 m. A path 10 m wide is built inside along all four sides. What is the area left for the field?",
+    options: ["3600 m²", "4000 m²", "4800 m²", "6400 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has area 800 cm². Which dimensions give the smallest perimeter?",
+    options: ["40 cm × 20 cm", "32 cm × 25 cm", "50 cm × 16 cm", "80 cm × 10 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has area 576 cm². Which rectangle has the same area but the greatest perimeter?",
+    options: ["24 cm × 24 cm", "32 cm × 18 cm", "36 cm × 16 cm", "48 cm × 12 cm"],
+    answer: 3
+  },
+  {
+    question: "A rectangular sheet is 60 cm × 40 cm. It is cut into two equal rectangles along its longer side. What is the perimeter of each rectangle?",
+    options: ["120 cm", "140 cm", "160 cm", "180 cm"],
+    answer: 1
+  },
+  {
+    question: "A square of side 24 cm is cut into two equal rectangles. What is the perimeter of each rectangle?",
+    options: ["72 cm", "84 cm", "96 cm", "120 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 72 cm and breadth 48 cm. If it is divided into 12 equal rectangles by dividing the length into 6 parts and breadth into 2 parts, what is the area of each small rectangle?",
+    options: ["192 cm²", "240 cm²", "288 cm²", "320 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square of side 36 cm is divided into 9 equal squares. What is the total perimeter of the 9 squares?",
+    options: ["432 cm", "648 cm", "720 cm", "1296 cm"],
+    answer: 1
+  },
+  {
+    question: "A square of side 40 cm is divided into 16 equal squares. What is the total perimeter of all small squares?",
+    options: ["160 cm", "320 cm", "640 cm", "800 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 50 cm × 30 cm. If it is divided into 15 equal squares of maximum possible size, what is the side of each square?",
+    options: ["5 cm", "10 cm", "15 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular floor is 54 m × 36 m. Square tiles of side 6 m are used. What is the number of tiles required?",
+    options: ["36", "45", "54", "60"],
+    answer: 2
+  },
+  {
+    question: "A square has side 27 cm. If it is divided into 9 equal squares, what is the area of each small square?",
+    options: ["9 cm²", "27 cm²", "81 cm²", "243 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 63 cm × 42 cm. The largest square tiles possible have side 21 cm. How many tiles are required?",
+    options: ["4", "6", "9", "12"],
+    answer: 1
+  },
+  {
+    question: "A square has side 45 m. A rectangular field has the same area and breadth 15 m. What is its length?",
+    options: ["90 m", "120 m", "135 m", "150 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 80 cm and breadth 20 cm. A square has the same perimeter. What is the side of the square?",
+    options: ["40 cm", "45 cm", "50 cm", "60 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 30 cm. A rectangle has the same perimeter and length 40 cm. What is its breadth?",
+    options: ["10 cm", "15 cm", "20 cm", "25 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 900 cm² and perimeter 120 cm. What is the difference between its length and breadth?",
+    options: ["10 cm", "20 cm", "30 cm", "40 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has area 361 cm². What is its perimeter?",
+    options: ["68 cm", "72 cm", "76 cm", "84 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has area 1080 cm² and length 45 cm. What is its perimeter?",
+    options: ["126 cm", "132 cm", "138 cm", "144 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular garden is 100 m × 75 m. A path 5 m wide is built outside it. What is the area of the path?",
+    options: ["1800 m²", "1900 m²", "2000 m²", "2100 m²"],
+    answer: 3
+  },
+  {
+    question: "A square field has side 70 m. A path 5 m wide is built outside it. What is the area of the path?",
+    options: ["700 m²", "750 m²", "800 m²", "825 m²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has length 64 cm and breadth 36 cm. If both dimensions are reduced by 4 cm, what is the decrease in area?",
+    options: ["384 cm²", "392 cm²", "400 cm²", "416 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 32 cm. If its side is reduced by 8 cm, what is the percentage decrease in area?",
+    options: ["37.5%", "43.75%", "50%", "56.25%"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 48 cm × 32 cm. If both dimensions increase by 25%, what is the new area?",
+    options: ["1600 cm²", "1800 cm²", "2000 cm²", "2400 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 20 cm. If its side increases by 50%, what is the percentage increase in area?",
+    options: ["50%", "75%", "100%", "125%"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has length 30 cm and breadth 20 cm. If its length increases by 20% and breadth decreases by 20%, what is the new area?",
+    options: ["576 cm²", "600 cm²", "624 cm²", "640 cm²"],
+    answer: 0
+  },
+  {
+    question: "A square has side 24 cm. If its side decreases by 25%, what is the new area?",
+    options: ["324 cm²", "360 cm²", "384 cm²", "432 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field has dimensions 50 m × 40 m. If length increases by 10% and breadth decreases by 10%, what is the new area?",
+    options: ["1800 m²", "1980 m²", "2000 m²", "2200 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 40 cm. A rectangle has the same area and breadth 20 cm. What is its perimeter?",
+    options: ["100 cm", "120 cm", "140 cm", "160 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 100 cm. If its length and breadth are whole numbers and length is greater than breadth, which pair gives the maximum area?",
+    options: ["26 cm × 24 cm", "27 cm × 23 cm", "28 cm × 22 cm", "29 cm × 21 cm"],
+    answer: 0
+  },
+  {
+    question: "A square and rectangle have equal perimeters. If the square has side 15 cm and the rectangle has length 20 cm, what is the rectangle's breadth?",
+    options: ["8 cm", "10 cm", "12 cm", "15 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 80 cm. If its breadth is 10 cm, what is its area?",
+    options: ["250 cm²", "300 cm²", "350 cm²", "400 cm²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has area 300 cm². Which dimensions have the smallest perimeter?",
+    options: ["25 cm × 12 cm", "20 cm × 15 cm", "30 cm × 10 cm", "50 cm × 6 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has area 256 cm². A rectangle has the same area and length 32 cm. What is the rectangle's perimeter?",
+    options: ["64 cm", "72 cm", "80 cm", "96 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 40 m × 30 m. A square field has the same perimeter. What is the area of the square?",
+    options: ["1200 m²", "1225 m²", "1250 m²", "1400 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25 m. A rectangle has the same perimeter and length 30 m. What is its breadth?",
+    options: ["15 m", "20 m", "25 m", "30 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 600 cm². If its length is 5 cm more than its breadth, what are its dimensions?",
+    options: ["20 cm × 30 cm", "20 cm × 25 cm", "24 cm × 25 cm", "15 cm × 40 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 384 cm². If its length is 8 cm more than its breadth, what are its dimensions?",
+    options: ["16 cm × 24 cm", "12 cm × 32 cm", "18 cm × 26 cm", "20 cm × 28 cm"],
+    answer: 0
+  },
+  {
+    question: "A square has perimeter 96 cm. A rectangle has the same area and breadth 16 cm. What is its perimeter?",
+    options: ["112 cm", "120 cm", "128 cm", "136 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length twice its breadth and area 288 cm². What is its perimeter?",
+    options: ["68 cm", "72 cm", "84 cm", "96 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has length three times its breadth and perimeter 64 cm. What is its area?",
+    options: ["192 cm²", "210 cm²", "240 cm²", "256 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 18 cm. If its perimeter is equal to the area of a rectangle with breadth 3 cm, what is the rectangle's length?",
+    options: ["24 cm", "36 cm", "72 cm", "108 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 720 cm². If its breadth is 18 cm, what is its perimeter?",
+    options: ["116 cm", "116? cm", "116 cm", "116 cm"],
+    answer: 0
+  },
+  {
+    question: "A square has side 12 cm. A rectangle has perimeter 48 cm. Which statement is true if its length is 16 cm?",
+    options: ["Rectangle area is 128 cm²", "Rectangle area is 144 cm²", "Rectangle area is 160 cm²", "Rectangle area is 192 cm²"],
+    answer: 3
+  },
+  {
+    question: "A rectangular field has dimensions 70 m × 50 m. If 20% of its area is used for a playground, what area remains?",
+    options: ["2400 m²", "2600 m²", "2800 m²", "3000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square garden has side 50 m. If 16% of its area is used for flowers, what area remains?",
+    options: ["1900 m²", "2000 m²", "2100 m²", "2200 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 840 cm². If 25% of its area is shaded, what is the unshaded area?",
+    options: ["600 cm²", "630 cm²", "650 cm²", "700 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has area 900 m². If 1/3 of its area is used for a pond, what area remains?",
+    options: ["300 m²", "450 m²", "600 m²", "750 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 60 m × 40 m. A square pond of side 20 m is built inside. What percentage of the field remains unused by the pond?",
+    options: ["66⅔%", "75%", "83⅓%", "90%"],
+    answer: 2
+  },
+  {
+    question: "A square has side 28 cm. A rectangle has the same area and length 49 cm. What is its breadth?",
+    options: ["14 cm", "16 cm", "18 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 120 cm and length 35 cm. What is its area?",
+    options: ["700 cm²", "875 cm²", "900 cm²", "1050 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has perimeter 144 cm. What is its area?",
+    options: ["1152 cm²", "1296 cm²", "1440 cm²", "20736 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 1296 cm² and length 36 cm. What is its perimeter?",
+    options: ["120 cm", "132 cm", "144 cm", "156 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 36 cm. A rectangle has the same perimeter and breadth 24 cm. What is its area?",
+    options: ["432 cm²", "576 cm²", "648 cm²", "720 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular sheet is 80 cm × 50 cm. A border of 5 cm is cut from each side. What is the area remaining?",
+    options: ["2800 cm²", "3000 cm²", "3150 cm²", "3200 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square sheet has side 60 cm. A border of 10 cm is cut from each side. What is the remaining area?",
+    options: ["1200 cm²", "1400 cm²", "1600 cm²", "2000 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 72 cm × 54 cm. What is the largest possible square tile that can cover it exactly?",
+    options: ["6 cm", "9 cm", "18 cm", "27 cm"],
+    answer: 3
+  },
+  {
+    question: "A floor is 72 m × 54 m. Square tiles of maximum possible size are used. How many tiles are needed?",
+    options: ["8", "12", "18", "24"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 96 cm × 72 cm. It is divided into the largest possible equal squares. How many squares are formed?",
+    options: ["6", "8", "10", "12"],
+    answer: 1
+  },
+  {
+    question: "A square has side 48 cm. It is divided into 16 equal squares. What is the perimeter of each small square?",
+    options: ["24 cm", "36 cm", "48 cm", "64 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 90 cm × 60 cm. It is divided into squares of maximum possible size. What is the total number of squares?",
+    options: ["6", "9", "12", "15"],
+    answer: 1
+  },
+  {
+    question: "A rectangular floor is 84 m × 60 m. The largest square tiles possible are used. How many tiles are required?",
+    options: ["21", "28", "35", "42"],
+    answer: 1
+  },
+  {
+    question: "A square has side 50 cm. If it is divided into 25 equal squares, what is the perimeter of each small square?",
+    options: ["8 cm", "10 cm", "12 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 100 cm × 75 cm. What is the side of the largest square tile that can cover it exactly?",
+    options: ["5 cm", "10 cm", "15 cm", "25 cm"],
+    answer: 3
+  },
+  {
+    question: "A rectangular field is 105 m × 70 m. The largest possible square plots are made. How many square plots are obtained?",
+    options: ["4", "6", "9", "12"],
+    answer: 1
+  },
+  {
+    question: "A square of side 36 cm is divided into squares of side 6 cm. What is the total perimeter of all small squares?",
+    options: ["432 cm", "648 cm", "720 cm", "864 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle 60 cm × 45 cm is divided into squares of side 15 cm. What is the total perimeter of all the small squares?",
+    options: ["420 cm", "450 cm", "480 cm", "540 cm"],
+    answer: 3
+  },
+  {
+    question: "A rectangular board is 48 cm × 32 cm. If square tiles of side 8 cm are used, how many tiles are needed?",
+    options: ["18", "20", "24", "32"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 64 m. It is divided into 16 equal square plots. What is the side of each plot?",
+    options: ["12 m", "16 m", "20 m", "32 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 5 times its breadth and area 500 cm². What is its perimeter?",
+    options: ["80 cm", "90 cm", "100 cm", "120 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 4 times its breadth and perimeter 100 cm. What is its area?",
+    options: ["400 cm²", "450 cm²", "500 cm²", "600 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 30 cm. A rectangle has the same area and breadth 15 cm. What is its perimeter?",
+    options: ["90 cm", "100 cm", "110 cm", "120 cm"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has area 450 cm² and length 25 cm. What is its perimeter?",
+    options: ["76 cm", "86 cm", "96 cm", "106 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has perimeter 60 cm. A rectangle has the same perimeter and length 20 cm. What is the difference between their areas?",
+    options: ["15 cm²", "20 cm²", "25 cm²", "30 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 80 cm. Which dimensions give an area closest to the area of a square with the same perimeter?",
+    options: ["24 cm × 16 cm", "22 cm × 18 cm", "26 cm × 14 cm", "28 cm × 12 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has side 20 cm. A rectangle with the same area has length 25 cm. What is the difference in their perimeters?",
+    options: ["2 cm", "4 cm", "6 cm", "8 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 30 cm and breadth 10 cm. If both are increased by 5 cm, what is the increase in area?",
+    options: ["150 cm²", "175 cm²", "200 cm²", "225 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 20 cm. If its side increases to 25 cm, what is the percentage increase in area?",
+    options: ["20%", "25%", "50%", "56.25%"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 40 cm × 20 cm. If its length is reduced by 25% and breadth increased by 25%, what is the new area?",
+    options: ["600 cm²", "625 cm²", "750 cm²", "800 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 40 cm. If its side decreases by 25%, what is the percentage decrease in area?",
+    options: ["25%", "37.5%", "43.75%", "50%"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 80 m × 50 m. If both dimensions increase by 10%, by what percentage does the area increase?",
+    options: ["10%", "20%", "21%", "22%"],
+    answer: 2
+  },
+  {
+    question: "A square has side 30 cm. If its area becomes 3600 cm², what is the percentage increase in area?",
+    options: ["25%", "33⅓%", "40%", "50%"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 1200 cm². If its length is doubled and breadth is halved, what happens to the area?",
+    options: ["It doubles", "It halves", "It remains unchanged", "It becomes four times"],
+    answer: 2
+  },
+  {
+    question: "A square has side 18 cm. If its side is doubled, by how much does its area increase?",
+    options: ["324 cm²", "486 cm²", "648 cm²", "972 cm²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 24 cm × 15 cm. If its length increases by 6 cm and breadth remains same, what is the percentage increase in area?",
+    options: ["20%", "25%", "30%", "40%"],
+    answer: 2
+  },
+  {
+    question: "A square has side 16 cm. If its side increases by 4 cm, what is the increase in area?",
+    options: ["128 cm²", "144 cm²", "160 cm²", "176 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 30 cm × 20 cm. If both dimensions decrease by 5 cm, what percentage of the original area remains?",
+    options: ["50%", "56.25%", "60%", "62.5%"],
+    answer: 1
+  },
+  {
+    question: "A square has side 10 cm. A rectangle has the same area and length 20 cm. What is the rectangle's perimeter?",
+    options: ["40 cm", "50 cm", "60 cm", "70 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 24 cm × 18 cm. A square has the same area. What is the side of the square?",
+    options: ["18 cm", "20 cm", "24 cm", "27 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has dimensions 44 m × 30 m. A square field has the same perimeter. What is the area of the square?",
+    options: ["1296 m²", "1369 m²", "1444 m²", "1521 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25 cm. A rectangle has the same perimeter and breadth 15 cm. What is its length?",
+    options: ["25 cm", "30 cm", "35 cm", "40 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 45 cm and breadth 15 cm. A square has the same area. What is the side of the square?",
+    options: ["20 cm", "25 cm", "30 cm", "35 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 24 cm. A rectangle has the same area and length 32 cm. What is its breadth?",
+    options: ["16 cm", "18 cm", "20 cm", "24 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 100 cm and area 600 cm². What is the difference between its length and breadth?",
+    options: ["10 cm", "20 cm", "30 cm", "40 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has perimeter 80 cm. A rectangle has the same perimeter and area 300 cm². What are the dimensions of the rectangle?",
+    options: ["30 cm × 10 cm", "25 cm × 15 cm", "20 cm × 20 cm", "35 cm × 5 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has perimeter 72 cm and area 320 cm². What are its dimensions?",
+    options: ["20 cm × 16 cm", "22 cm × 14 cm", "24 cm × 12 cm", "26 cm × 10 cm"],
+    answer: 0
+  },
+  {
+    question: "A square has side 20 cm. A rectangle with the same area has breadth 10 cm. What is the difference between their perimeters?",
+    options: ["10 cm", "20 cm", "30 cm", "40 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 3 times its breadth. If its perimeter is 96 cm, what is its area?",
+    options: ["384 cm²", "432 cm²", "480 cm²", "576 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 5 times its breadth. If its perimeter is 144 cm, what is its area?",
+    options: ["720 cm²", "810 cm²", "900 cm²", "960 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 24 cm. A rectangle has the same perimeter and length 30 cm. What is its area?",
+    options: ["324 cm²", "360 cm²", "396 cm²", "432 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 36 cm × 20 cm. A square has the same perimeter. What is the difference between their areas?",
+    options: ["4 cm²", "8 cm²", "16 cm²", "20 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has area 1024 cm². A rectangle has the same area and length 32 cm. What is the difference between their perimeters?",
+    options: ["16 cm", "24 cm", "32 cm", "40 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 40 cm × 25 cm. A square has the same area. Which has the greater perimeter?",
+    options: ["Rectangle by 0 cm", "Rectangle by 2 cm", "Square by 2 cm", "Rectangle by 4 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has side 30 cm. A rectangle has the same area and breadth 20 cm. What is the rectangle's perimeter?",
+    options: ["90 cm", "100 cm", "110 cm", "120 cm"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has area 960 cm² and breadth 24 cm. If its length is reduced by 4 cm, what is the new area?",
+    options: ["800 cm²", "840 cm²", "860 cm²", "880 cm²"],
+    answer: 3
+  },
+  {
+    question: "A square has area 1600 cm². If its side is reduced by 10 cm, what is the new area?",
+    options: ["900 cm²", "1000 cm²", "1100 cm²", "1200 cm²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 50 cm × 40 cm. If both dimensions decrease by 10 cm, what is the new perimeter?",
+    options: ["120 cm", "140 cm", "160 cm", "180 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has side 50 cm. If its side is reduced to 40 cm, what is the decrease in perimeter?",
+    options: ["20 cm", "30 cm", "40 cm", "50 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 120 m × 80 m. If its length is reduced by 20 m and breadth increased by 20 m, what is the new area?",
+    options: ["9000 m²", "10000 m²", "11000 m²", "12000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 40 cm. If its side is increased by 20%, what is the new perimeter?",
+    options: ["160 cm", "176 cm", "192 cm", "200 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 50 cm × 30 cm. If its length is increased by 20%, what is the new perimeter?",
+    options: ["160 cm", "170 cm", "180 cm", "190 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has area 400 cm². If its side is increased by 5 cm, what is the new area?",
+    options: ["500 cm²", "550 cm²", "600 cm²", "625 cm²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 25 cm × 16 cm. If both dimensions are increased by 4 cm, what is the new area?",
+    options: ["540 cm²", "580 cm²", "609 cm²", "625 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 15 cm. A rectangle has the same area and breadth 5 cm. What is the rectangle's perimeter?",
+    options: ["50 cm", "60 cm", "70 cm", "80 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 40 cm and breadth 10 cm. A square has the same area. What is the difference between their perimeters?",
+    options: ["10 cm", "20 cm", "30 cm", "40 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has perimeter 100 cm. A rectangle has the same perimeter and breadth 15 cm. What is the rectangle's area?",
+    options: ["500 cm²", "525 cm²", "550 cm²", "600 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 90 cm and length 30 cm. What is its area?",
+    options: ["400 cm²", "450 cm²", "500 cm²", "600 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 18 cm. A rectangle has the same perimeter and length 24 cm. What is its area?",
+    options: ["180 cm²", "192 cm²", "216 cm²", "240 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 27 cm × 12 cm. A square has the same area. What is the approximate side of the square?",
+    options: ["16 cm", "18 cm", "20 cm", "22 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular garden is 60 m × 40 m. A path of width 2 m is made inside along all sides. What is the area of the path?",
+    options: ["384 m²", "400 m²", "416 m²", "432 m²"],
+    answer: 2
+  },
+  {
+    question: "A square garden has side 50 m. A path of width 2 m is made inside along all sides. What is the area of the path?",
+    options: ["384 m²", "400 m²", "416 m²", "432 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 30 m × 20 m. A path 2 m wide is built outside along all sides. What is the area of the path?",
+    options: ["216 m²", "224 m²", "232 m²", "240 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 30 m. A path 2 m wide is built outside it. What is the area of the path?",
+    options: ["248 m²", "256 m²", "264 m²", "272 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 40 m × 25 m. A path 5 m wide is built outside. What is the total area including the path?",
+    options: ["1400 m²", "1500 m²", "1600 m²", "1750 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 40 m. A path 5 m wide is built outside it. What is the total area including the path?",
+    options: ["2000 m²", "2250 m²", "2500 m²", "3000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular park is 100 m × 60 m. A path 5 m wide is built inside. What is the area left for the park?",
+    options: ["4500 m²", "5000 m²", "5400 m²", "5500 m²"],
+    answer: 2
+  },
+  {
+    question: "A square park has side 80 m. A path 5 m wide is built inside. What is the area left?",
+    options: ["4200 m²", "4500 m²", "4900 m²", "5600 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 1200 m² and dimensions 40 m × 30 m. If a square pond of side 10 m is removed, what percentage of the area remains?",
+    options: ["88⅓%", "90%", "91⅔%", "95%"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 60 m. A rectangular pond of 20 m × 15 m is built inside. What percentage of the field remains?",
+    options: ["90%", "91⅔%", "92%", "95%"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 80 cm × 50 cm. A square of side 20 cm is cut from each of two opposite corners. What percentage of the area remains?",
+    options: ["70%", "75%", "80%", "85%"],
+    answer: 2
+  },
+  {
+    question: "A square sheet has side 50 cm. Four squares of side 5 cm are cut from its four corners. What area remains?",
+    options: ["2200 cm²", "2300 cm²", "2400 cm²", "2500 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular sheet is 60 cm × 40 cm. Four squares of side 10 cm are cut from its corners. What area remains?",
+    options: ["1800 cm²", "2000 cm²", "2200 cm²", "2400 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 30 cm. Four squares of side 5 cm are cut from its corners. What is the remaining perimeter?",
+    options: ["100 cm", "120 cm", "140 cm", "160 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 40 cm × 30 cm. Four squares of side 5 cm are cut from its corners. What is the remaining perimeter?",
+    options: ["120 cm", "140 cm", "160 cm", "180 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 20 cm. A 5 cm × 5 cm square is cut from one corner. What is the perimeter of the remaining shape?",
+    options: ["80 cm", "85 cm", "90 cm", "100 cm"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 30 cm × 20 cm. A 10 cm × 5 cm rectangle is cut from one corner. What is the perimeter of the remaining shape?",
+    options: ["90 cm", "100 cm", "110 cm", "120 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25 cm. A rectangle of 10 cm × 5 cm is removed from one corner. What is the remaining area?",
+    options: ["525 cm²", "575 cm²", "600 cm²", "625 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular sheet is 35 cm × 20 cm. A square of side 7 cm is removed. What is the remaining area?",
+    options: ["651 cm²", "660 cm²", "680 cm²", "700 cm²"],
+    answer: 0
+  },
+  {
+    question: "A square has side 32 cm. A square of side 12 cm is removed from its centre. What is the remaining area?",
+    options: ["768 cm²", "880 cm²", "896 cm²", "1024 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 50 cm × 40 cm. A rectangular hole of 20 cm × 15 cm is cut from its centre. What area remains?",
+    options: ["1600 cm²", "1700 cm²", "1800 cm²", "1900 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 70 m. A rectangular pond 30 m × 20 m occupies part of it. What area remains?",
+    options: ["4200 m²", "4300 m²", "4400 m²", "4500 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 80 m × 50 m. A square pond of side 25 m and a rectangular flower bed of 20 m × 10 m are built inside. What area remains?",
+    options: ["3000 m²", "3300 m²", "3400 m²", "3500 m²"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 100 m. A rectangular swimming pool of 40 m × 25 m occupies part of it. What percentage of the field remains?",
+    options: ["80%", "85%", "90%", "95%"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 100 m × 50 m. A square of side 20 m and a rectangle of 30 m × 10 m are removed. What area remains?",
+    options: ["4100 m²", "4300 m²", "4500 m²", "4700 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 50 m. A rectangular pond 20 m × 15 m and a square flower bed of side 10 m are made inside. What area remains?",
+    options: ["2000 m²", "2050 m²", "2100 m²", "2150 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 60 m × 40 m. A square pond of side 15 m is built in each of two corners. What area remains?",
+    options: ["1800 m²", "1950 m²", "2100 m²", "2250 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 40 m. Four circular regions are ignored for fencing purposes, but their areas are not considered. If each circular region is replaced by a 5 m × 5 m square, what total area is removed?",
+    options: ["50 m²", "75 m²", "100 m²", "125 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 200 m. If its length is 60 m, what is its area?",
+    options: ["2000 m²", "2200 m²", "2400 m²", "2600 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 200 m. A rectangle has the same perimeter and length 70 m. What is its area?",
+    options: ["1800 m²", "2000 m²", "2100 m²", "2200 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 160 cm and length 50 cm. What is its area?",
+    options: ["1200 cm²", "1400 cm²", "1500 cm²", "1800 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 40 cm. A rectangle has the same perimeter and length 60 cm. What is its area?",
+    options: ["400 cm²", "600 cm²", "800 cm²", "1000 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 1500 cm² and length 50 cm. What is its perimeter?",
+    options: ["150 cm", "160 cm", "170 cm", "180 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has area 2500 cm². What is its perimeter?",
+    options: ["150 cm", "180 cm", "200 cm", "250 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 75 cm × 25 cm. A square has the same perimeter. What is the area of the square?",
+    options: ["2000 cm²", "2500 cm²", "3000 cm²", "3500 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 35 cm. A rectangle has the same perimeter and length 45 cm. What is its area?",
+    options: ["650 cm²", "700 cm²", "750 cm²", "800 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 45 cm × 35 cm. What is its area?",
+    options: ["1475 cm²", "1575 cm²", "1675 cm²", "1775 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 45 cm. What is its area?",
+    options: ["1800 cm²", "2025 cm²", "2250 cm²", "2500 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 90 m × 40 m. What is its perimeter?",
+    options: ["240 m", "250 m", "260 m", "280 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 45 m. What is its perimeter?",
+    options: ["135 m", "160 m", "180 m", "225 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 120 m × 75 m. What is its area?",
+    options: ["8000 m²", "8500 m²", "9000 m²", "9500 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 75 m. What is its area?",
+    options: ["5000 m²", "5625 m²", "6000 m²", "6250 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has dimensions 125 m × 80 m. What is its perimeter?",
+    options: ["400 m", "410 m", "420 m", "430 m"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 300 m. What is its area?",
+    options: ["5250 m²", "5625 m²", "6000 m²", "6250 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 2400 m² and length 60 m. What is its perimeter?",
+    options: ["180 m", "190 m", "200 m", "220 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 3600 m². What is its perimeter?",
+    options: ["200 m", "220 m", "240 m", "260 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 240 m and length 80 m. What is its area?",
+    options: ["2800 m²", "3000 m²", "3200 m²", "3400 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 60 m. A rectangle has the same perimeter and breadth 40 m. What is its length?",
+    options: ["60 m", "70 m", "80 m", "90 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 3200 m² and breadth 40 m. What is its perimeter?",
+    options: ["200 m", "220 m", "240 m", "260 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 4900 m². What is its perimeter?",
+    options: ["260 m", "280 m", "300 m", "320 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 100 m × 40 m. A square field has the same perimeter. What is the area of the square?",
+    options: ["3600 m²", "4000 m²", "4900 m²", "5600 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 70 m. A rectangle has the same perimeter and length 90 m. What is its breadth?",
+    options: ["40 m", "50 m", "60 m", "70 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 3600 cm² and length 60 cm. What is its perimeter?",
+    options: ["220 cm", "240 cm", "260 cm", "280 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has side 80 cm. What is its area?",
+    options: ["5600 cm²", "6200 cm²", "6400 cm²", "6800 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 90 cm × 50 cm. What is the difference between its area and perimeter numerically?",
+    options: ["4320", "4360", "4400", "4500"],
+    answer: 1
+  },
+  {
+    question: "A square has side 50 cm. What is the difference between its area and perimeter numerically?",
+    options: ["2300", "2400", "2450", "2500"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 100 cm and breadth 50 cm. If the length is reduced by 20 cm, what is the new area?",
+    options: ["3500 cm²", "4000 cm²", "4500 cm²", "5000 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 60 cm. If the side is reduced by 10 cm, what is the decrease in area?",
+    options: ["1000 cm²", "1100 cm²", "1200 cm²", "1300 cm²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 80 cm × 40 cm. If the breadth is doubled while length remains same, what is the new area?",
+    options: ["4800 cm²", "5600 cm²", "6400 cm²", "7200 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 25 cm. If the side is doubled, what is the new perimeter?",
+    options: ["50 cm", "75 cm", "100 cm", "125 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 30 cm × 20 cm. If both dimensions are doubled, what is the new perimeter?",
+    options: ["100 cm", "160 cm", "200 cm", "240 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 18 cm. If its side is tripled, how many times does its area become?",
+    options: ["3 times", "6 times", "9 times", "12 times"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 25 cm and breadth 12 cm. If both are tripled, how many times does its area become?",
+    options: ["3 times", "6 times", "9 times", "12 times"],
+    answer: 2
+  },
+  {
+    question: "A square has side 20 cm. If its side becomes half, what fraction of the original area remains?",
+    options: ["1/2", "1/3", "1/4", "1/8"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 40 cm and breadth 30 cm. If both are halved, what fraction of the original area remains?",
+    options: ["1/2", "1/3", "1/4", "1/8"],
+    answer: 2
+  },
+  {
+    question: "A square has area 1600 cm². If its side is halved, what is the new area?",
+    options: ["200 cm²", "400 cm²", "800 cm²", "1200 cm²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 2400 cm². If both dimensions are halved, what is the new area?",
+    options: ["400 cm²", "600 cm²", "800 cm²", "1200 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has perimeter 160 cm. If its side is doubled, what is the new perimeter?",
+    options: ["240 cm", "280 cm", "320 cm", "400 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 180 cm. If both length and breadth are doubled, what is the new perimeter?",
+    options: ["270 cm", "300 cm", "360 cm", "540 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 30 cm. If its area is divided into 9 equal squares, what is the perimeter of each small square?",
+    options: ["10 cm", "12 cm", "15 cm", "20 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle 36 cm × 24 cm is divided into 12 equal rectangles. What is the area of each?",
+    options: ["60 cm²", "72 cm²", "84 cm²", "96 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square of side 36 cm is divided into 36 equal squares. What is the side of each small square?",
+    options: ["4 cm", "6 cm", "8 cm", "9 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle 72 cm × 48 cm is divided into 24 equal rectangles. What is the area of each rectangle?",
+    options: ["120 cm²", "144 cm²", "160 cm²", "192 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 42 cm and is divided into 49 equal squares. What is the side of each small square?",
+    options: ["6 cm", "7 cm", "8 cm", "9 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular sheet is 90 cm × 60 cm. It is divided into 30 equal rectangles. What is the area of each?",
+    options: ["120 cm²", "150 cm²", "180 cm²", "200 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 48 cm. It is divided into 64 equal squares. What is the side of each small square?",
+    options: ["4 cm", "6 cm", "8 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle is 120 cm × 80 cm. It is divided into 24 equal rectangles. What is the area of each?",
+    options: ["300 cm²", "400 cm²", "500 cm²", "600 cm²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 60 cm. It is divided into 100 equal squares. What is the side of each small square?",
+    options: ["5 cm", "6 cm", "10 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular floor is 120 m × 90 m. Square tiles of side 10 m are used. How many tiles are needed?",
+    options: ["96", "108", "120", "144"],
+    answer: 1
+  },
+  {
+    question: "A square floor has side 90 m. Square tiles of side 15 m are used. How many tiles are needed?",
+    options: ["24", "30", "36", "45"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 150 m × 100 m. Square plots of maximum possible side are made. How many plots are formed?",
+    options: ["4", "6", "8", "10"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 180 m × 120 m. The largest square plots possible are made. How many plots are formed?",
+    options: ["6", "9", "12", "15"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 120 m. It is divided into 16 equal square plots. What is the side of each plot?",
+    options: ["20 m", "25 m", "30 m", "40 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 144 m × 96 m. It is divided into largest possible squares. How many squares are obtained?",
+    options: ["4", "6", "8", "12"],
+    answer: 2
+  },
+  {
+    question: "A rectangular floor is 96 m × 72 m. Square tiles of side 12 m are used. How many tiles are required?",
+    options: ["36", "48", "54", "64"],
+    answer: 1
+  },
+  {
+    question: "A square has side 72 m. Square tiles of side 12 m are used. How many tiles are needed?",
+    options: ["24", "30", "36", "42"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 150 cm × 90 cm. The largest square tiles possible are used. What is the total number of tiles?",
+    options: ["10", "15", "20", "25"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 200 m × 150 m. The largest possible square plots are made. How many plots are formed?",
+    options: ["6", "8", "10", "12"],
+    answer: 1
+  },
+  {
+    question: "A square has side 100 m. It is divided into 25 equal square plots. What is the perimeter of each plot?",
+    options: ["20 m", "40 m", "50 m", "80 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 120 m × 80 m. It is divided into 24 equal rectangular plots. What is the area of each plot?",
+    options: ["300 m²", "400 m²", "500 m²", "600 m²"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 80 m. Four equal square plots are made. What is the perimeter of each plot?",
+    options: ["40 m", "60 m", "80 m", "160 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 100 m × 60 m. Six equal rectangular plots are made by dividing the longer side into 6 parts. What is the perimeter of each plot?",
+    options: ["120 m", "140 m", "160 m", "180 m"],
+    answer: 2
+  },
+  {
+    question: "A square of side 48 m is divided into 4 equal squares. What is the total perimeter of the four small squares?",
+    options: ["192 m", "288 m", "384 m", "576 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle of 60 m × 40 m is divided into 6 equal rectangles by dividing its length into 3 and breadth into 2. What is the perimeter of each small rectangle?",
+    options: ["50 m", "60 m", "70 m", "80 m"],
+    answer: 0
+  },
+  {
+    question: "A square has side 60 cm. It is divided into 36 equal squares. What is the total perimeter of all small squares?",
+    options: ["720 cm", "840 cm", "960 cm", "1080 cm"],
+    answer: 3
+  },
+  {
+    question: "A square has side 80 cm. It is divided into 64 equal squares. What is the total perimeter of all small squares?",
+    options: ["1280 cm", "1440 cm", "1600 cm", "1920 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 120 cm × 80 cm and divided into 24 equal rectangles. What is the total area of all the rectangles?",
+    options: ["7200 cm²", "8400 cm²", "9600 cm²", "10800 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 100 cm. It is divided into 100 equal squares. What is the total perimeter of all the small squares?",
+    options: ["1000 cm", "2000 cm", "4000 cm", "10000 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 200 cm × 100 cm. It is divided into 20 equal rectangles. What is the area of each rectangle?",
+    options: ["500 cm²", "1000 cm²", "1500 cm²", "2000 cm²"],
+    answer: 3
+  },
+  {
+    question: "A square has side 50 cm. It is divided into 25 equal squares. What is the total perimeter of all the small squares?",
+    options: ["500 cm", "750 cm", "1000 cm", "1250 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangular floor is 80 m × 60 m. Tiles of area 20 m² each are used. How many tiles are required?",
+    options: ["180", "200", "220", "240"],
+    answer: 3
+  },
+  {
+    question: "A square floor has area 2500 m². Square tiles have area 25 m² each. How many tiles are needed?",
+    options: ["50", "75", "100", "125"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 3600 m². Square tiles of area 25 m² are used. How many tiles are required?",
+    options: ["120", "144", "150", "160"],
+    answer: 1
+  },
+  {
+    question: "A square has area 4900 m². Square tiles have side 7 m. How many tiles are required?",
+    options: ["50", "75", "100", "125"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 100 m × 75 m. Square tiles of side 5 m are used. How many tiles are needed?",
+    options: ["200", "250", "300", "350"],
+    answer: 2
+  },
+  {
+    question: "A square has side 60 m. Square tiles of side 5 m are used. How many tiles are needed?",
+    options: ["100", "120", "144", "180"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 90 m × 60 m. Square plots of side 15 m are made. How many plots are formed?",
+    options: ["12", "18", "24", "36"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 90 m. Square plots of side 15 m are made. How many plots are formed?",
+    options: ["24", "30", "36", "45"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 120 m × 90 m. Square plots of side 30 m are made. How many plots are formed?",
+    options: ["8", "10", "12", "16"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 120 m. Square plots of side 30 m are made. How many plots are formed?",
+    options: ["8", "12", "16", "20"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 180 m × 120 m. Square plots of side 30 m are made. How many plots are formed?",
+    options: ["18", "20", "24", "30"],
+    answer: 2
+  },
+  {
+    question: "A square has side 90 cm. It is divided into 9 equal squares. What is the perimeter of each small square?",
+    options: ["30 cm", "40 cm", "60 cm", "90 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle 90 cm × 60 cm is divided into 9 equal rectangles. What is the area of each?",
+    options: ["400 cm²", "500 cm²", "600 cm²", "700 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 100 cm. It is divided into 4 equal squares. What is the perimeter of each small square?",
+    options: ["50 cm", "100 cm", "150 cm", "200 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle 100 cm × 80 cm is divided into 20 equal rectangles. What is the area of each?",
+    options: ["300 cm²", "400 cm²", "500 cm²", "600 cm²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 120 m. It is divided into 36 equal squares. What is the perimeter of each small square?",
+    options: ["20 m", "40 m", "60 m", "80 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 180 m × 120 m. It is divided into 36 equal rectangular plots. What is the area of each plot?",
+    options: ["400 m²", "500 m²", "600 m²", "700 m²"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 150 m. It is divided into 25 equal square plots. What is the area of each plot?",
+    options: ["750 m²", "800 m²", "900 m²", "1000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 240 m × 180 m. Square plots of maximum possible size are made. How many plots are formed?",
+    options: ["8", "10", "12", "15"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 300 m × 180 m. The largest possible square plots are made. How many plots are formed?",
+    options: ["15", "20", "25", "30"],
+    answer: 1
+  },
+  {
+    question: "A square has side 180 m. It is divided into 36 equal square plots. What is the side of each plot?",
+    options: ["20 m", "25 m", "30 m", "40 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 240 m × 160 m. The largest square plots possible are made. How many plots are formed?",
+    options: ["4", "6", "8", "10"],
+    answer: 2
+  },
+  {
+    question: "A rectangular floor is 240 m × 180 m. Square tiles of side 30 m are used. How many tiles are required?",
+    options: ["36", "48", "54", "72"],
+    answer: 1
+  },
+  {
+    question: "A square floor has side 180 m. Square tiles of side 30 m are used. How many tiles are required?",
+    options: ["24", "30", "36", "42"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 360 m × 240 m. Square plots of side 60 m are made. How many plots are formed?",
+    options: ["18", "20", "24", "30"],
+    answer: 2
+  },
+  {
+    question: "A square has side 240 m. Square plots of side 40 m are made. How many plots are formed?",
+    options: ["24", "30", "36", "40"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 400 m × 300 m. The largest possible square plots are made. How many plots are formed?",
+    options: ["10", "12", "15", "20"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 300 m. It is divided into 100 equal square plots. What is the side of each plot?",
+    options: ["20 m", "25 m", "30 m", "40 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 400 m × 200 m. It is divided into 20 equal rectangles. What is the area of each?",
+    options: ["3000 m²", "4000 m²", "5000 m²", "6000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 200 m. It is divided into 25 equal squares. What is the perimeter of each small square?",
+    options: ["80 m", "100 m", "120 m", "160 m"],
+    answer: 3
+  },
+  {
+    question: "A rectangular floor is 300 m × 200 m. Square tiles of side 20 m are used. How many tiles are needed?",
+    options: ["100", "120", "150", "200"],
+    answer: 2
+  },
+  {
+    question: "A square floor has side 200 m. Square tiles of side 20 m are used. How many tiles are needed?",
+    options: ["50", "75", "100", "125"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 500 m × 300 m. Square plots of side 100 m are made. How many plots are formed?",
+    options: ["10", "15", "20", "25"],
+    answer: 1
+  },
+  {
+    question: "A square has side 500 m. Square plots of side 100 m are made. How many plots are formed?",
+    options: ["20", "25", "30", "50"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 600 m × 400 m. Square plots of side 100 m are made. How many plots are formed?",
+    options: ["20", "24", "30", "36"],
+    answer: 2
+  },
+  {
+    question: "A square has side 600 m. Square plots of side 100 m are made. How many plots are formed?",
+    options: ["24", "30", "36", "42"],
+    answer: 2
+  },
+  {
+    question: "A rectangle is 720 m × 480 m. Square plots of side 120 m are made. How many plots are formed?",
+    options: ["18", "20", "24", "30"],
+    answer: 2
+  },
+  {
+    question: "A square has side 720 m. Square plots of side 120 m are made. How many plots are formed?",
+    options: ["24", "30", "36", "42"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 900 m × 600 m. Square plots of maximum possible side are made. How many plots are formed?",
+    options: ["6", "9", "12", "15"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 900 m. It is divided into 81 equal square plots. What is the side of each plot?",
+    options: ["90 m", "100 m", "110 m", "120 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1000 m × 800 m. The largest square plots possible are made. How many plots are formed?",
+    options: ["4", "5", "8", "10"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1000 m. It is divided into 100 equal square plots. What is the side of each plot?",
+    options: ["50 m", "100 m", "125 m", "200 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1200 m × 800 m. Square plots of side 200 m are made. How many plots are formed?",
+    options: ["16", "20", "24", "30"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 1200 m. Square plots of side 200 m are made. How many plots are formed?",
+    options: ["24", "30", "36", "42"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1500 m × 1000 m. Square plots of side 250 m are made. How many plots are formed?",
+    options: ["20", "24", "30", "36"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 1500 m. Square plots of side 250 m are made. How many plots are formed?",
+    options: ["24", "30", "36", "42"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has length 90 m and breadth 60 m. If fencing is done twice around it, what total length of fencing is needed?",
+    options: ["300 m", "600 m", "900 m", "1200 m"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 75 m. If fencing is done three times around it, what total length is needed?",
+    options: ["600 m", "750 m", "900 m", "1000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangular garden is 50 m × 30 m. A person walks around it 4 times. What distance is covered?",
+    options: ["320 m", "480 m", "640 m", "800 m"],
+    answer: 2
+  },
+  {
+    question: "A square park has side 40 m. A child runs around it 5 times. What distance does the child cover?",
+    options: ["400 m", "600 m", "800 m", "1000 m"],
+    answer: 3
+  },
+  {
+    question: "A rectangular field is 120 m × 80 m. A runner covers 2 km. How many complete rounds can the runner make?",
+    options: ["5", "6", "8", "10"],
+    answer: 0
+  },
+  {
+    question: "A square field has side 50 m. A runner covers 1 km. How many complete rounds can the runner make?",
+    options: ["4", "5", "6", "10"],
+    answer: 0
+  },
+  {
+    question: "A rectangular field is 100 m × 50 m. A runner covers 3 km. How many complete rounds can be made?",
+    options: ["5", "10", "15", "20"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 25 m. A runner covers 500 m. How many complete rounds can be made?",
+    options: ["4", "5", "6", "8"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has length 75 m and breadth 45 m. If a person walks around it 5 times, what distance is covered?",
+    options: ["1000 m", "1100 m", "1200 m", "1300 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 35 m. If a person walks around it 4 times, what distance is covered?",
+    options: ["420 m", "480 m", "560 m", "600 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field has perimeter 400 m. If a runner completes 7 rounds, what distance is covered?",
+    options: ["2400 m", "2600 m", "2800 m", "3000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 240 m. A runner completes 5 rounds. What distance is covered?",
+    options: ["1000 m", "1200 m", "1400 m", "1600 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has dimensions 80 m × 50 m. A fence costs ₹25 per metre. What is the total cost?",
+    options: ["₹6000", "₹6500", "₹7000", "₹7500"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 65 m. Fencing costs ₹20 per metre. What is the total cost?",
+    options: ["₹4800", "₹5000", "₹5200", "₹5400"],
+    answer: 2
+  },
+  {
+    question: "A rectangular garden has dimensions 90 m × 60 m. Fencing costs ₹15 per metre. If a 6 m gate is left open, what is the cost?",
+    options: ["₹4320", "₹4500", "₹4680", "₹4800"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 80 m. A 5 m gate is left unfenced. At ₹12 per metre, what is the fencing cost?",
+    options: ["₹3600", "₹3720", "₹3840", "₹3960"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 75 m × 45 m. Fencing costs ₹18 per metre. What is the total cost?",
+    options: ["₹3600", "₹4000", "₹4320", "₹4500"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 55 m. Fencing costs ₹16 per metre. What is the total cost?",
+    options: ["₹3200", "₹3520", "₹3840", "₹4000"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has area 1500 m² and length 50 m. If fencing costs ₹10 per metre, what is the total cost?",
+    options: ["₹700", "₹800", "₹900", "₹1000"],
+    answer: 1
+  },
+  {
+    question: "A square field has area 2500 m². If fencing costs ₹12 per metre, what is the total cost?",
+    options: ["₹1000", "₹1100", "₹1200", "₹1300"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has perimeter 180 m. If fencing costs ₹20 per metre, what is the total cost?",
+    options: ["₹3000", "₹3200", "₹3600", "₹4000"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 200 m. If fencing costs ₹25 per metre, what is the total cost?",
+    options: ["₹4000", "₹4500", "₹5000", "₹5500"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 100 m × 75 m. If fencing is done twice and costs ₹10 per metre, what is the total cost?",
+    options: ["₹3000", "₹3500", "₹4000", "₹4500"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 50 m. If fencing is done three times at ₹8 per metre, what is the cost?",
+    options: ["₹4000", "₹4800", "₹6000", "₹7200"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 120 m × 80 m. A 10 m wide path is built outside. What is the area of the path?",
+    options: ["4200 m²", "4400 m²", "4600 m²", "4800 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 100 m. A 10 m wide path is built outside. What is the area of the path?",
+    options: ["4000 m²", "4200 m²", "4400 m²", "4800 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular park is 100 m × 80 m. A path 5 m wide is built inside. What is the remaining area?",
+    options: ["6300 m²", "6400 m²", "6500 m²", "6600 m²"],
+    answer: 0
+  },
+  {
+    question: "A square park has side 100 m. A path 10 m wide is built inside. What is the remaining area?",
+    options: ["6400 m²", "7200 m²", "8000 m²", "8100 m²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 70 m × 50 m. A path 5 m wide is built inside. What is the area of the path?",
+    options: ["1000 m²", "1100 m²", "1200 m²", "1300 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 70 m. A path 5 m wide is built inside. What is the area of the path?",
+    options: ["900 m²", "1000 m²", "1100 m²", "1200 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangular garden is 60 m × 40 m. A path 5 m wide is built outside. What is the total area including the path?",
+    options: ["3000 m²", "3200 m²", "3500 m²", "4000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square garden has side 60 m. A path 5 m wide is built outside. What is the total area including the path?",
+    options: ["3600 m²", "4000 m²", "4900 m²", "5000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 80 m × 50 m. A path 5 m wide is built outside. What is the total area including the path?",
+    options: ["4500 m²", "5000 m²", "5400 m²", "6000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 80 m. A path 5 m wide is built outside. What is the total area including the path?",
+    options: ["6400 m²", "7200 m²", "8100 m²", "9000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 100 m × 60 m. A path 10 m wide is built outside. What is the total area including the path?",
+    options: ["7200 m²", "8000 m²", "8400 m²", "9000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 100 m. A path 10 m wide is built outside. What is the total area including the path?",
+    options: ["10000 m²", "12100 m²", "14400 m²", "16000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 100 m × 50 m. A path 5 m wide is built inside. What is the remaining area?",
+    options: ["3200 m²", "3600 m²", "3800 m²", "4000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 100 m. A path 5 m wide is built inside. What is the remaining area?",
+    options: ["8100 m²", "8500 m²", "9000 m²", "9025 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangular field is 120 m × 80 m. A path 10 m wide is built inside. What percentage of the field remains?",
+    options: ["50%", "60%", "62.5%", "66⅔%"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 100 m. A path 10 m wide is built inside. What percentage of the field remains?",
+    options: ["64%", "72%", "81%", "90%"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 80 m × 60 m. A path 10 m wide is built inside. What percentage of the field remains?",
+    options: ["50%", "60%", "62.5%", "66⅔%"],
+    answer: 1
+  },
+  {
+    question: "A square has side 80 m. A path 10 m wide is built inside. What percentage of the field remains?",
+    options: ["50%", "56.25%", "60%", "64%"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 100 m × 80 m. A path 10 m wide is built inside. What percentage of the field is occupied by the path?",
+    options: ["40%", "42.5%", "45%", "50%"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 100 m. A path 10 m wide is built inside. What percentage of the field is occupied by the path?",
+    options: ["19%", "20%", "21%", "25%"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has length 100 m and breadth 50 m. A path 5 m wide is built inside. What percentage of the field is occupied by the path?",
+    options: ["28%", "30%", "32%", "36%"],
+    answer: 2
+  },
+  {
+    question: "A square has side 50 m. A path 5 m wide is built inside. What percentage of the field is occupied by the path?",
+    options: ["36%", "38%", "40%", "44%"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 60 m × 40 m. A path 2 m wide is built inside. What percentage of the field is occupied by the path?",
+    options: ["18%", "19%", "20%", "21%"],
+    answer: 1
+  },
+  {
+    question: "A square has side 60 m. A path 2 m wide is built inside. What percentage of the field is occupied by the path?",
+    options: ["12%", "13⅓%", "14%", "15%"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 50 m × 30 m. A path 5 m wide is built inside. What percentage of the field remains?",
+    options: ["50%", "53⅓%", "60%", "66⅔%"],
+    answer: 1
+  },
+  {
+    question: "A square has side 50 m. A path 5 m wide is built inside. What percentage of the field remains?",
+    options: ["60%", "64%", "70%", "75%"],
+    answer: 1
+  },
+  {
+    question: "A rectangular garden is 90 m × 70 m. A path 5 m wide is built inside. What is the area remaining?",
+    options: ["4800 m²", "5000 m²", "5500 m²", "6000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square garden has side 90 m. A path 5 m wide is built inside. What is the area remaining?",
+    options: ["6400 m²", "6800 m²", "7200 m²", "7225 m²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 75 m × 55 m. A path 5 m wide is built inside. What is the area remaining?",
+    options: ["2925 m²", "3000 m²", "3125 m²", "3300 m²"],
+    answer: 0
+  },
+  {
+    question: "A square has side 75 m. A path 5 m wide is built inside. What is the area remaining?",
+    options: ["4225 m²", "4500 m²", "4625 m²", "4900 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangular field is 120 m × 100 m. A path 10 m wide is built outside. What is the total area including the path?",
+    options: ["12000 m²", "14000 m²", "15400 m²", "16000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 120 m. A path 10 m wide is built outside. What is the total area including the path?",
+    options: ["14400 m²", "16900 m²", "19600 m²", "22500 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 100 m × 70 m. A path 5 m wide is built outside. What is the area of the path?",
+    options: ["1800 m²", "1900 m²", "2000 m²", "2100 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 100 m. A path 5 m wide is built outside. What is the area of the path?",
+    options: ["2000 m²", "2050 m²", "2100 m²", "2200 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 150 m × 100 m. A path 10 m wide is built inside. What is the area remaining?",
+    options: ["10400 m²", "10800 m²", "11000 m²", "11200 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 150 m. A path 10 m wide is built inside. What is the area remaining?",
+    options: ["16900 m²", "17500 m²", "18000 m²", "18225 m²"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 200 m × 120 m. A path 10 m wide is built inside. What is the area remaining?",
+    options: ["16000 m²", "18000 m²", "18200 m²", "20000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 200 m. A path 10 m wide is built inside. What is the area remaining?",
+    options: ["32400 m²", "36000 m²", "36400 m²", "40000 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangular field is 200 m × 150 m. A path 10 m wide is built outside. What is the total area including the path?",
+    options: ["30000 m²", "33600 m²", "36000 m²", "40000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 200 m. A path 10 m wide is built outside. What is the total area including the path?",
+    options: ["40000 m²", "44100 m²", "48400 m²", "50000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 250 m × 150 m. A path 10 m wide is built inside. What is the remaining area?",
+    options: ["31000 m²", "32000 m²", "32200 m²", "33000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 250 m. A path 10 m wide is built inside. What is the remaining area?",
+    options: ["52900 m²", "55225 m²", "57600 m²", "60000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 300 m × 200 m. A path 20 m wide is built inside. What is the remaining area?",
+    options: ["41600 m²", "43200 m²", "45600 m²", "48000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 300 m. A path 20 m wide is built inside. What is the remaining area?",
+    options: ["62500 m²", "67600 m²", "72900 m²", "78400 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 300 m × 200 m. A path 20 m wide is built outside. What is the total area including the path?",
+    options: ["60000 m²", "67200 m²", "70400 m²", "72000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 300 m. A path 20 m wide is built outside. What is the total area including the path?",
+    options: ["90000 m²", "102400 m²", "104000 m²", "110000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 400 m × 300 m. A path 20 m wide is built inside. What is the remaining area?",
+    options: ["91200 m²", "93600 m²", "96000 m²", "100000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square field has side 400 m. A path 20 m wide is built inside. What is the remaining area?",
+    options: ["129600 m²", "136000 m²", "144000 m²", "152000 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 400 m × 300 m. A path 20 m wide is built outside. What is the total area including the path?",
+    options: ["120000 m²", "132000 m²", "135200 m²", "140000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 400 m. A path 20 m wide is built outside. What is the total area including the path?",
+    options: ["160000 m²", "176400 m²", "184000 m²", "196000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 500 m × 300 m. A path 25 m wide is built inside. What is the remaining area?",
+    options: ["112500 m²", "115000 m²", "118750 m²", "120000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 500 m. A path 25 m wide is built inside. What is the remaining area?",
+    options: ["200000 m²", "202500 m²", "225000 m²", "250000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 500 m × 300 m. A path 25 m wide is built outside. What is the total area including the path?",
+    options: ["160000 m²", "165000 m²", "170000 m²", "175000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 500 m. A path 25 m wide is built outside. What is the total area including the path?",
+    options: ["275625 m²", "302500 m²", "325000 m²", "350000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 600 m × 400 m. A path 25 m wide is built inside. What is the remaining area?",
+    options: ["206250 m²", "220000 m²", "230000 m²", "240000 m²"],
+    answer: 0
+  },
+  {
+    question: "A square field has side 600 m. A path 25 m wide is built inside. What is the remaining area?",
+    options: ["302500 m²", "330000 m²", "360000 m²", "390000 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 600 m × 400 m. A path 25 m wide is built outside. What is the total area including the path?",
+    options: ["260000 m²", "275000 m²", "286250 m²", "300000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 600 m. A path 25 m wide is built outside. What is the total area including the path?",
+    options: ["390625 m²", "400000 m²", "420000 m²", "450000 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangular field is 800 m × 600 m. A path 50 m wide is built inside. What is the remaining area?",
+    options: ["400000 m²", "420000 m²", "455000 m²", "480000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 800 m. A path 50 m wide is built inside. What is the remaining area?",
+    options: ["490000 m²", "500000 m²", "525000 m²", "560000 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 800 m × 600 m. A path 50 m wide is built outside. What is the total area including the path?",
+    options: ["560000 m²", "600000 m²", "630000 m²", "700000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 800 m. A path 50 m wide is built outside. What is the total area including the path?",
+    options: ["640000 m²", "722500 m²", "750000 m²", "810000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 1000 m × 600 m. A path 50 m wide is built inside. What is the remaining area?",
+    options: ["450000 m²", "475000 m²", "495000 m²", "500000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square field has side 1000 m. A path 50 m wide is built inside. What is the remaining area?",
+    options: ["810000 m²", "900000 m²", "902500 m²", "950000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1000 m × 600 m. A path 50 m wide is built outside. What is the total area including the path?",
+    options: ["660000 m²", "682500 m²", "700000 m²", "720000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1000 m. A path 50 m wide is built outside. What is the total area including the path?",
+    options: ["1000000 m²", "1080000 m²", "1102500 m²", "1150000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 64 cm and breadth 36 cm. What is its area in square metres?",
+    options: ["0.2304 m²", "2.304 m²", "23.04 m²", "230.4 m²"],
+    answer: 0
+  },
+  {
+    question: "A square has side 50 cm. What is its area in square metres?",
+    options: ["0.025 m²", "0.25 m²", "2.5 m²", "25 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 5 m × 80 cm. What is its area?",
+    options: ["40 m²", "4 m²", "400 m²", "0.4 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 2.5 m. What is its area?",
+    options: ["5 m²", "6.25 m²", "7.5 m²", "10 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 3.5 m × 2 m. What is its area?",
+    options: ["5 m²", "6 m²", "7 m²", "8 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 20 m. What is its area?",
+    options: ["20 m²", "25 m²", "30 m²", "40 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 30 m and length 10 m. What is its area?",
+    options: ["40 m²", "50 m²", "60 m²", "70 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangular plot is 12.5 m long and 8 m wide. What is its area?",
+    options: ["90 m²", "100 m²", "110 m²", "120 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 7.5 m. What is its area?",
+    options: ["50.25 m²", "56.25 m²", "60.25 m²", "62.5 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 15 m × 6.5 m. What is its perimeter?",
+    options: ["41 m", "42 m", "43 m", "44 m"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 50 m. What is its side?",
+    options: ["10 m", "12.5 m", "15 m", "20 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 70 m and breadth 15 m. What is its length?",
+    options: ["15 m", "20 m", "25 m", "30 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has area 875 m² and breadth 25 m. What is its length?",
+    options: ["30 m", "35 m", "40 m", "45 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 156.25 m². What is its side?",
+    options: ["10.5 m", "12.5 m", "15.5 m", "16.25 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has length 12.5 m and breadth 7.5 m. What is its area?",
+    options: ["83.75 m²", "90.75 m²", "93.75 m²", "96.25 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 12.5 m. What is its perimeter?",
+    options: ["25 m", "37.5 m", "50 m", "62.5 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has length 18.5 m and breadth 11.5 m. What is its perimeter?",
+    options: ["50 m", "55 m", "60 m", "65 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangular field is 25.5 m × 10 m. What is its area?",
+    options: ["250 m²", "255 m²", "260 m²", "265 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 15.5 m. What is its area?",
+    options: ["230.25 m²", "240.25 m²", "250.25 m²", "260.25 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has perimeter 100 m and length 30.5 m. What is its breadth?",
+    options: ["18.5 m", "19.5 m", "20.5 m", "21.5 m"],
+    answer: 1
+  },
+  {
+    question: "A square has perimeter 90 m. What is its area?",
+    options: ["400 m²", "450 m²", "506.25 m²", "625 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 450 m² and length 22.5 m. What is its breadth?",
+    options: ["15 m", "18 m", "20 m", "22 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 625 m². A rectangle has the same area and length 31.25 m. What is its breadth?",
+    options: ["15 m", "20 m", "25 m", "30 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 18 m × 12 m. Its area is equal to that of a square. What is the side of the square?",
+    options: ["12 m", "14 m", "√216 m", "18 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 14 m. A rectangle has the same area and breadth 7 m. What is the rectangle's perimeter?",
+    options: ["42 m", "49 m", "56 m", "70 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 21 m × 14 m. A square has the same area. Which statement is correct?",
+    options: ["Square side is 15 m", "Square side is 17 m", "Square side is 18 m", "Square side is 21 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 35 m × 24 m. A square field has the same area. Which is closest to the side of the square?",
+    options: ["25 m", "28 m", "30 m", "35 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25 m. A rectangle has the same area and breadth 10 m. What is the rectangle's perimeter?",
+    options: ["100 m", "110 m", "125 m", "135 m"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has length 40 m and breadth 25 m. A square has the same area. Which has the smaller perimeter?",
+    options: ["Rectangle", "Square", "Both equal", "Cannot be determined"],
+    answer: 1
+  },
+  {
+    question: "A square has side 30 m. A rectangle has the same area and length 45 m. What is its breadth?",
+    options: ["15 m", "18 m", "20 m", "25 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 45 m × 20 m. A square has the same area. What is the square's side?",
+    options: ["25 m", "30 m", "35 m", "40 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 40 m. A rectangle has the same area and length 80 m. What is its breadth?",
+    options: ["15 m", "20 m", "25 m", "30 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 80 m × 20 m. A square has the same area. What is its perimeter?",
+    options: ["120 m", "140 m", "160 m", "180 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 50 m. A rectangle has the same area and length 125 m. What is its breadth?",
+    options: ["15 m", "20 m", "25 m", "30 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 125 m × 20 m. What is its perimeter?",
+    options: ["270 m", "280 m", "290 m", "300 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 50 m. What is the difference between its area and a rectangle of 125 m × 20 m?",
+    options: ["0 m²", "50 m²", "100 m²", "150 m²"],
+    answer: 0
+  },
+  {
+    question: "A rectangle has dimensions 90 cm × 40 cm. A square has the same area. What is the square's side?",
+    options: ["50 cm", "55 cm", "60 cm", "65 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 60 cm. A rectangle has the same area and length 90 cm. What is its breadth?",
+    options: ["30 cm", "40 cm", "45 cm", "50 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 90 cm × 40 cm. What is its perimeter?",
+    options: ["240 cm", "250 cm", "260 cm", "280 cm"],
+    answer: 2
+  },
+  {
+    question: "A square has side 60 cm. What is its perimeter?",
+    options: ["180 cm", "200 cm", "240 cm", "360 cm"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 3600 cm² and length 90 cm. What is its breadth?",
+    options: ["30 cm", "40 cm", "45 cm", "50 cm"],
+    answer: 1
+  },
+  {
+    question: "A square has area 3600 cm². What is its side?",
+    options: ["50 cm", "60 cm", "70 cm", "80 cm"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field is 150 m × 60 m. What is its perimeter?",
+    options: ["360 m", "400 m", "420 m", "450 m"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 420 m. What is its side?",
+    options: ["95 m", "100 m", "105 m", "110 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 9000 m² and length 150 m. What is its breadth?",
+    options: ["50 m", "60 m", "70 m", "75 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 10000 m². What is its perimeter?",
+    options: ["300 m", "400 m", "500 m", "1000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 150 m × 60 m. A square has the same area. Which side is closest to the square's side?",
+    options: ["90 m", "95 m", "100 m", "110 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 100 m. A rectangle has the same area and length 200 m. What is its perimeter?",
+    options: ["500 m", "600 m", "700 m", "800 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 200 m × 50 m. A square has the same area. What is the square's perimeter?",
+    options: ["400 m", "500 m", "600 m", "800 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 75 m. A rectangle has the same area and breadth 25 m. What is its perimeter?",
+    options: ["250 m", "300 m", "350 m", "400 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 225 m × 25 m. What is its perimeter?",
+    options: ["450 m", "500 m", "550 m", "600 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 75 m. What is the difference between its perimeter and the perimeter of a 225 m × 25 m rectangle?",
+    options: ["50 m", "75 m", "100 m", "125 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 5625 m² and length 225 m. What is its breadth?",
+    options: ["20 m", "25 m", "30 m", "35 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 5625 m². What is its perimeter?",
+    options: ["250 m", "300 m", "350 m", "400 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 225 m × 25 m. A square has the same area. Which has the smaller perimeter?",
+    options: ["Rectangle", "Square", "Both equal", "Cannot be determined"],
+    answer: 1
+  },
+  {
+    question: "A square has side 90 m. A rectangle has the same perimeter and length 120 m. What is its breadth?",
+    options: ["40 m", "50 m", "60 m", "70 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 120 m × 60 m. A square has the same perimeter. What is the square's area?",
+    options: ["6400 m²", "8100 m²", "9000 m²", "10000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 90 m. A rectangle has the same area and length 135 m. What is its breadth?",
+    options: ["45 m", "50 m", "60 m", "75 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 135 m × 60 m. What is its perimeter?",
+    options: ["360 m", "390 m", "420 m", "450 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 90 m. What is its perimeter?",
+    options: ["270 m", "300 m", "360 m", "400 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 8100 m² and length 135 m. What is its breadth?",
+    options: ["50 m", "60 m", "70 m", "80 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 8100 m². What is its side?",
+    options: ["80 m", "90 m", "100 m", "110 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 135 m × 60 m. A square has the same area. What is the square's side?",
+    options: ["80 m", "90 m", "100 m", "110 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 100 m. A rectangle has the same area and length 125 m. What is its breadth?",
+    options: ["70 m", "75 m", "80 m", "90 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 125 m × 80 m. What is its perimeter?",
+    options: ["390 m", "400 m", "410 m", "420 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 100 m. What is its perimeter?",
+    options: ["300 m", "350 m", "400 m", "500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 10000 m² and length 125 m. What is its breadth?",
+    options: ["70 m", "75 m", "80 m", "90 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 10000 m². A rectangle has the same area and dimensions 125 m × 80 m. What is the difference in their perimeters?",
+    options: ["10 m", "20 m", "30 m", "40 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangular field has dimensions 150 m × 100 m. A square has the same perimeter. What is the side of the square?",
+    options: ["100 m", "110 m", "125 m", "150 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 125 m. A rectangle has the same perimeter and length 150 m. What is its breadth?",
+    options: ["80 m", "90 m", "100 m", "110 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 150 m × 100 m. A square has the same area. Which has the smaller perimeter?",
+    options: ["Rectangle", "Square", "Both equal", "Cannot be determined"],
+    answer: 1
+  },
+  {
+    question: "A square has side 125 m. What is its area?",
+    options: ["12500 m²", "15000 m²", "15625 m²", "16000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 125 m × 100 m. What is its area?",
+    options: ["12000 m²", "12500 m²", "13000 m²", "15000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 125 m. What is its perimeter?",
+    options: ["400 m", "450 m", "500 m", "550 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 150 m × 100 m. What is its perimeter?",
+    options: ["450 m", "500 m", "550 m", "600 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 150 m. A rectangle has the same area and breadth 75 m. What is its perimeter?",
+    options: ["450 m", "500 m", "600 m", "750 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 150 m × 75 m. What is its perimeter?",
+    options: ["400 m", "450 m", "500 m", "550 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 150 m. What is its area?",
+    options: ["20000 m²", "22500 m²", "25000 m²", "30000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 11250 m² and length 150 m. What is its breadth?",
+    options: ["50 m", "60 m", "75 m", "90 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 22500 m². What is its perimeter?",
+    options: ["500 m", "550 m", "600 m", "650 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 150 m × 75 m. A square has the same area. What is the closest whole-number side of the square?",
+    options: ["100 m", "105 m", "106 m", "110 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 150 m. A rectangular field has the same perimeter and length 180 m. What is its breadth?",
+    options: ["100 m", "110 m", "120 m", "130 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 180 m × 120 m. What is its area?",
+    options: ["20000 m²", "21600 m²", "24000 m²", "26000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 150 m. What is the difference between its area and a rectangle of 180 m × 120 m?",
+    options: ["0 m²", "900 m²", "1200 m²", "1800 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 600 m and length 180 m. What is its area?",
+    options: ["18000 m²", "21600 m²", "24000 m²", "27000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has perimeter 600 m. What is its area?",
+    options: ["20000 m²", "22500 m²", "25000 m²", "30000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has perimeter 600 m. A square has the same perimeter. Which rectangle dimensions give an area closest to the square?",
+    options: ["160 m × 140 m", "170 m × 130 m", "180 m × 120 m", "190 m × 110 m"],
+    answer: 0
+  },
+  {
+    question: "A square has side 200 m. A rectangle has the same perimeter and breadth 150 m. What is its length?",
+    options: ["200 m", "225 m", "250 m", "275 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 250 m × 150 m. What is its area?",
+    options: ["35000 m²", "37500 m²", "40000 m²", "42500 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 200 m. What is its area?",
+    options: ["30000 m²", "35000 m²", "40000 m²", "45000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 250 m × 150 m. A square has the same area. Which side is closest to the square's side?",
+    options: ["190 m", "193 m", "200 m", "210 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 200 m. A rectangle has the same area and length 250 m. What is its breadth?",
+    options: ["120 m", "140 m", "160 m", "180 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 250 m × 160 m. What is its perimeter?",
+    options: ["800 m", "820 m", "840 m", "860 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 200 m. What is its perimeter?",
+    options: ["600 m", "700 m", "800 m", "900 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 40000 m² and length 250 m. What is its breadth?",
+    options: ["120 m", "140 m", "160 m", "180 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 40000 m². What is its side?",
+    options: ["180 m", "200 m", "220 m", "240 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 250 m × 160 m. A square has the same area. What is the approximate side of the square?",
+    options: ["180 m", "190 m", "200 m", "210 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 200 m. A rectangle has the same perimeter and length 250 m. What is its area?",
+    options: ["35000 m²", "37500 m²", "40000 m²", "45000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 250 m × 150 m. A square has the same perimeter. What is the side of the square?",
+    options: ["180 m", "190 m", "200 m", "220 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 250 m. A rectangle has the same perimeter and length 300 m. What is its breadth?",
+    options: ["150 m", "180 m", "200 m", "220 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 300 m × 200 m. What is its area?",
+    options: ["50000 m²", "60000 m²", "70000 m²", "80000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 250 m. What is its area?",
+    options: ["50000 m²", "60000 m²", "62500 m²", "65000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 300 m × 200 m. A square has the same area. What is the square's side?",
+    options: ["220 m", "240 m", "√60000 m", "250 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 250 m. A rectangle has the same area and length 500 m. What is its breadth?",
+    options: ["100 m", "125 m", "150 m", "200 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 500 m × 125 m. What is its perimeter?",
+    options: ["1150 m", "1200 m", "1250 m", "1300 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 250 m. What is its perimeter?",
+    options: ["750 m", "900 m", "1000 m", "1250 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 62500 m² and length 500 m. What is its breadth?",
+    options: ["100 m", "125 m", "150 m", "175 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 62500 m². What is its perimeter?",
+    options: ["750 m", "900 m", "1000 m", "1250 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 500 m × 125 m. A square has the same area. What is the square's side?",
+    options: ["225 m", "250 m", "275 m", "300 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 250 m. A rectangle has the same perimeter and length 300 m. What is its area?",
+    options: ["50000 m²", "55000 m²", "60000 m²", "62500 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 300 m × 200 m. A square has the same perimeter. What is the square's side?",
+    options: ["200 m", "225 m", "250 m", "275 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 300 m. A rectangle has the same perimeter and length 350 m. What is its breadth?",
+    options: ["200 m", "225 m", "250 m", "275 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 350 m × 250 m. What is its area?",
+    options: ["75000 m²", "80000 m²", "87500 m²", "90000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 300 m. What is its area?",
+    options: ["80000 m²", "90000 m²", "100000 m²", "120000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 350 m × 250 m. A square has the same area. Which side is closest?",
+    options: ["290 m", "295 m", "300 m", "310 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 300 m. A rectangle has the same area and length 450 m. What is its breadth?",
+    options: ["150 m", "180 m", "200 m", "225 m"],
+    answer: 3
+  },
+  {
+    question: "A rectangle has dimensions 450 m × 200 m. What is its perimeter?",
+    options: ["1200 m", "1250 m", "1300 m", "1350 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 300 m. What is its perimeter?",
+    options: ["900 m", "1000 m", "1200 m", "1500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 90000 m² and length 450 m. What is its breadth?",
+    options: ["150 m", "180 m", "200 m", "225 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 90000 m². What is its perimeter?",
+    options: ["900 m", "1000 m", "1200 m", "1500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 450 m × 200 m. A square has the same area. What is the square's side?",
+    options: ["280 m", "300 m", "320 m", "350 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 300 m. A rectangle has the same perimeter and length 400 m. What is its area?",
+    options: ["60000 m²", "70000 m²", "80000 m²", "90000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 400 m × 200 m. A square has the same perimeter. What is the side of the square?",
+    options: ["250 m", "300 m", "350 m", "400 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 350 m. A rectangle has the same perimeter and length 450 m. What is its breadth?",
+    options: ["200 m", "225 m", "250 m", "275 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 450 m × 250 m. What is its area?",
+    options: ["100000 m²", "112500 m²", "125000 m²", "135000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 350 m. What is its area?",
+    options: ["100000 m²", "112500 m²", "122500 m²", "125000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 450 m × 250 m. A square has the same area. What is the closest whole-number side?",
+    options: ["320 m", "330 m", "335 m", "340 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 350 m. A rectangle has the same area and length 490 m. What is its breadth?",
+    options: ["225 m", "250 m", "275 m", "300 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 490 m × 250 m. What is its perimeter?",
+    options: ["1400 m", "1480 m", "1500 m", "1520 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 350 m. What is its perimeter?",
+    options: ["1200 m", "1300 m", "1400 m", "1500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 122500 m² and length 490 m. What is its breadth?",
+    options: ["225 m", "250 m", "275 m", "300 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 122500 m². What is its perimeter?",
+    options: ["1200 m", "1300 m", "1400 m", "1500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 490 m × 250 m. A square has the same area. What is the square's side?",
+    options: ["300 m", "325 m", "350 m", "375 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 350 m. A rectangle has the same perimeter and length 400 m. What is its area?",
+    options: ["90000 m²", "100000 m²", "120000 m²", "122500 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 400 m × 300 m. A square has the same perimeter. What is the square's side?",
+    options: ["300 m", "325 m", "350 m", "375 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 400 m. A rectangle has the same perimeter and length 500 m. What is its breadth?",
+    options: ["250 m", "300 m", "350 m", "400 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 500 m × 300 m. What is its area?",
+    options: ["120000 m²", "150000 m²", "180000 m²", "200000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 400 m. What is its area?",
+    options: ["140000 m²", "150000 m²", "160000 m²", "180000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 500 m × 300 m. A square has the same area. What is the closest whole-number side?",
+    options: ["380 m", "387 m", "400 m", "420 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 400 m. A rectangle has the same area and length 800 m. What is its breadth?",
+    options: ["150 m", "200 m", "250 m", "300 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 800 m × 200 m. What is its perimeter?",
+    options: ["1800 m", "1900 m", "2000 m", "2200 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 400 m. What is its perimeter?",
+    options: ["1200 m", "1400 m", "1600 m", "1800 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 160000 m² and length 800 m. What is its breadth?",
+    options: ["150 m", "200 m", "250 m", "300 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 160000 m². What is its perimeter?",
+    options: ["1200 m", "1400 m", "1600 m", "1800 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 800 m × 200 m. A square has the same area. What is the square's side?",
+    options: ["350 m", "400 m", "450 m", "500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 400 m. A rectangle has the same perimeter and length 600 m. What is its area?",
+    options: ["100000 m²", "120000 m²", "140000 m²", "160000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 600 m × 200 m. A square has the same perimeter. What is the side of the square?",
+    options: ["350 m", "400 m", "450 m", "500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 450 m. A rectangle has the same perimeter and length 550 m. What is its breadth?",
+    options: ["300 m", "350 m", "400 m", "450 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 550 m × 350 m. What is its area?",
+    options: ["175000 m²", "192500 m²", "200000 m²", "210000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 450 m. What is its area?",
+    options: ["180000 m²", "200000 m²", "202500 m²", "225000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 550 m × 350 m. A square has the same area. What is the closest whole-number side?",
+    options: ["430 m", "438 m", "450 m", "460 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 450 m. A rectangle has the same area and length 900 m. What is its breadth?",
+    options: ["200 m", "225 m", "250 m", "300 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 900 m × 225 m. What is its perimeter?",
+    options: ["2000 m", "2150 m", "2250 m", "2500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 450 m. What is its perimeter?",
+    options: ["1350 m", "1600 m", "1800 m", "2000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 202500 m² and length 900 m. What is its breadth?",
+    options: ["200 m", "225 m", "250 m", "275 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 202500 m². What is its perimeter?",
+    options: ["1350 m", "1600 m", "1800 m", "2000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 900 m × 225 m. A square has the same area. What is the square's side?",
+    options: ["400 m", "450 m", "500 m", "550 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 450 m. A rectangle has the same perimeter and length 600 m. What is its area?",
+    options: ["120000 m²", "135000 m²", "150000 m²", "202500 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 600 m × 300 m. A square has the same perimeter. What is the side of the square?",
+    options: ["400 m", "450 m", "500 m", "550 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 500 m. A rectangle has the same perimeter and length 600 m. What is its breadth?",
+    options: ["300 m", "350 m", "400 m", "450 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 600 m × 400 m. What is its area?",
+    options: ["200000 m²", "220000 m²", "240000 m²", "260000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 500 m. What is its area?",
+    options: ["200000 m²", "225000 m²", "250000 m²", "275000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 600 m × 400 m. A square has the same area. What is the square's side?",
+    options: ["450 m", "480 m", "490 m", "500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 500 m. A rectangle has the same area and length 1000 m. What is its breadth?",
+    options: ["200 m", "250 m", "300 m", "350 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1000 m × 250 m. What is its perimeter?",
+    options: ["2000 m", "2250 m", "2500 m", "2750 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 500 m. What is its perimeter?",
+    options: ["1500 m", "1800 m", "2000 m", "2500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 250000 m² and length 1000 m. What is its breadth?",
+    options: ["200 m", "250 m", "300 m", "350 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 250000 m². What is its perimeter?",
+    options: ["1500 m", "1800 m", "2000 m", "2500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1000 m × 250 m. A square has the same area. What is the square's side?",
+    options: ["450 m", "500 m", "550 m", "600 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 500 m. A rectangle has the same perimeter and length 750 m. What is its area?",
+    options: ["100000 m²", "125000 m²", "187500 m²", "250000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 750 m × 250 m. A square has the same perimeter. What is the side of the square?",
+    options: ["450 m", "500 m", "550 m", "600 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 600 m. A rectangle has the same perimeter and length 800 m. What is its breadth?",
+    options: ["350 m", "400 m", "450 m", "500 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 800 m × 400 m. What is its area?",
+    options: ["280000 m²", "300000 m²", "320000 m²", "350000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 600 m. What is its area?",
+    options: ["300000 m²", "320000 m²", "360000 m²", "400000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 800 m × 400 m. A square has the same area. What is the square's side?",
+    options: ["540 m", "560 m", "√320000 m", "600 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 600 m. A rectangle has the same area and length 1200 m. What is its breadth?",
+    options: ["250 m", "300 m", "350 m", "400 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1200 m × 300 m. What is its perimeter?",
+    options: ["2800 m", "3000 m", "3200 m", "3500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 600 m. What is its perimeter?",
+    options: ["1800 m", "2000 m", "2400 m", "3000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 360000 m² and length 1200 m. What is its breadth?",
+    options: ["250 m", "300 m", "350 m", "400 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 360000 m². What is its perimeter?",
+    options: ["1800 m", "2000 m", "2400 m", "3000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1200 m × 300 m. A square has the same area. What is the square's side?",
+    options: ["500 m", "550 m", "600 m", "650 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 600 m. A rectangle has the same perimeter and length 900 m. What is its area?",
+    options: ["180000 m²", "240000 m²", "270000 m²", "360000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 900 m × 300 m. A square has the same perimeter. What is the side of the square?",
+    options: ["500 m", "550 m", "600 m", "650 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 750 m. A rectangle has the same perimeter and length 900 m. What is its breadth?",
+    options: ["500 m", "550 m", "600 m", "650 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 900 m × 600 m. What is its area?",
+    options: ["480000 m²", "500000 m²", "540000 m²", "600000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 750 m. What is its area?",
+    options: ["500000 m²", "562500 m²", "600000 m²", "625000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 900 m × 600 m. A square has the same area. What is the closest whole-number side?",
+    options: ["700 m", "725 m", "735 m", "750 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 750 m. A rectangle has the same area and length 1250 m. What is its breadth?",
+    options: ["400 m", "450 m", "500 m", "550 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1250 m × 450 m. What is its perimeter?",
+    options: ["3200 m", "3300 m", "3400 m", "3500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 750 m. What is its perimeter?",
+    options: ["2500 m", "3000 m", "3500 m", "4000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has area 562500 m² and length 1250 m. What is its breadth?",
+    options: ["400 m", "450 m", "500 m", "550 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 562500 m². What is its perimeter?",
+    options: ["2500 m", "3000 m", "3500 m", "4000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1250 m × 450 m. A square has the same area. What is the square's side?",
+    options: ["700 m", "750 m", "800 m", "850 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 750 m. A rectangle has the same perimeter and length 1000 m. What is its area?",
+    options: ["300000 m²", "375000 m²", "500000 m²", "562500 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1000 m × 500 m. A square has the same perimeter. What is the side of the square?",
+    options: ["650 m", "700 m", "750 m", "800 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 800 m. A rectangle has the same perimeter and length 1000 m. What is its breadth?",
+    options: ["500 m", "550 m", "600 m", "650 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1000 m × 600 m. What is its area?",
+    options: ["500000 m²", "600000 m²", "700000 m²", "800000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 800 m. What is its area?",
+    options: ["600000 m²", "640000 m²", "680000 m²", "720000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1000 m × 600 m. A square has the same area. What is the closest whole-number side?",
+    options: ["750 m", "775 m", "775? m", "800 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 800 m. A rectangle has the same area and length 1600 m. What is its breadth?",
+    options: ["300 m", "400 m", "500 m", "600 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1600 m × 400 m. What is its perimeter?",
+    options: ["3600 m", "3800 m", "4000 m", "4200 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 800 m. What is its perimeter?",
+    options: ["2400 m", "2800 m", "3200 m", "3600 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 640000 m² and length 1600 m. What is its breadth?",
+    options: ["300 m", "400 m", "500 m", "600 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 640000 m². What is its perimeter?",
+    options: ["2400 m", "2800 m", "3200 m", "3600 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1600 m × 400 m. A square has the same area. What is the square's side?",
+    options: ["700 m", "800 m", "900 m", "1000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 800 m. A rectangle has the same perimeter and length 1200 m. What is its area?",
+    options: ["320000 m²", "400000 m²", "480000 m²", "640000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1200 m × 400 m. A square has the same perimeter. What is the side of the square?",
+    options: ["700 m", "800 m", "900 m", "1000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 900 m. A rectangle has the same perimeter and length 1100 m. What is its breadth?",
+    options: ["600 m", "650 m", "700 m", "750 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1100 m × 700 m. What is its area?",
+    options: ["700000 m²", "770000 m²", "800000 m²", "850000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 900 m. What is its area?",
+    options: ["720000 m²", "810000 m²", "900000 m²", "990000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1100 m × 700 m. A square has the same area. What is the closest whole-number side?",
+    options: ["850 m", "875 m", "878 m", "900 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 900 m. A rectangle has the same area and length 1350 m. What is its breadth?",
+    options: ["500 m", "550 m", "600 m", "650 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1350 m × 600 m. What is its perimeter?",
+    options: ["3800 m", "3900 m", "4000 m", "4100 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 900 m. What is its perimeter?",
+    options: ["2700 m", "3000 m", "3600 m", "4000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 810000 m² and length 1350 m. What is its breadth?",
+    options: ["500 m", "550 m", "600 m", "650 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 810000 m². What is its perimeter?",
+    options: ["2700 m", "3000 m", "3600 m", "4000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1350 m × 600 m. A square has the same area. What is the square's side?",
+    options: ["850 m", "900 m", "950 m", "1000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 900 m. A rectangle has the same perimeter and length 1200 m. What is its area?",
+    options: ["450000 m²", "540000 m²", "630000 m²", "810000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1200 m × 600 m. A square has the same perimeter. What is the side of the square?",
+    options: ["800 m", "850 m", "900 m", "950 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1000 m. A rectangle has the same perimeter and length 1300 m. What is its breadth?",
+    options: ["600 m", "650 m", "700 m", "750 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1300 m × 700 m. What is its area?",
+    options: ["850000 m²", "910000 m²", "950000 m²", "1000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1000 m. What is its area?",
+    options: ["900000 m²", "1000000 m²", "1100000 m²", "1200000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1300 m × 700 m. A square has the same area. What is the closest whole-number side?",
+    options: ["950 m", "950? m", "954 m", "1000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1000 m. A rectangle has the same area and length 2000 m. What is its breadth?",
+    options: ["400 m", "500 m", "600 m", "700 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 2000 m × 500 m. What is its perimeter?",
+    options: ["4000 m", "4500 m", "5000 m", "5500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1000 m. What is its perimeter?",
+    options: ["3000 m", "3500 m", "4000 m", "5000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 1000000 m² and length 2000 m. What is its breadth?",
+    options: ["400 m", "500 m", "600 m", "700 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 1000000 m². What is its perimeter?",
+    options: ["3000 m", "3500 m", "4000 m", "5000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 2000 m × 500 m. A square has the same area. What is the square's side?",
+    options: ["900 m", "1000 m", "1100 m", "1200 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1000 m. A rectangle has the same perimeter and length 1500 m. What is its area?",
+    options: ["500000 m²", "750000 m²", "1000000 m²", "1250000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 1500 m × 500 m. A square has the same perimeter. What is the side of the square?",
+    options: ["900 m", "1000 m", "1100 m", "1200 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1200 m. A rectangle has the same perimeter and length 1500 m. What is its breadth?",
+    options: ["800 m", "850 m", "900 m", "950 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1500 m × 900 m. What is its area?",
+    options: ["1200000 m²", "1350000 m²", "1500000 m²", "1800000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1200 m. What is its area?",
+    options: ["1200000 m²", "1350000 m²", "1440000 m²", "1500000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1500 m × 900 m. A square has the same area. What is the closest whole-number side?",
+    options: ["1100 m", "1150 m", "1162 m", "1200 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1200 m. A rectangle has the same area and length 1800 m. What is its breadth?",
+    options: ["700 m", "800 m", "900 m", "1000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1800 m × 800 m. What is its perimeter?",
+    options: ["5000 m", "5200 m", "5400 m", "5600 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1200 m. What is its perimeter?",
+    options: ["3600 m", "4200 m", "4800 m", "5000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 1440000 m² and length 1800 m. What is its breadth?",
+    options: ["700 m", "800 m", "900 m", "1000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 1440000 m². What is its perimeter?",
+    options: ["3600 m", "4200 m", "4800 m", "5000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1800 m × 800 m. A square has the same area. What is the square's side?",
+    options: ["1100 m", "1200 m", "1300 m", "1400 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1200 m. A rectangle has the same perimeter and length 1600 m. What is its area?",
+    options: ["800000 m²", "960000 m²", "1120000 m²", "1440000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1600 m × 800 m. A square has the same perimeter. What is the side of the square?",
+    options: ["1000 m", "1100 m", "1200 m", "1300 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1500 m. A rectangle has the same perimeter and length 2000 m. What is its breadth?",
+    options: ["800 m", "900 m", "1000 m", "1100 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 2000 m × 1000 m. What is its area?",
+    options: ["1500000 m²", "1800000 m²", "2000000 m²", "2500000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1500 m. What is its area?",
+    options: ["2000000 m²", "2250000 m²", "2500000 m²", "2750000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 2000 m × 1000 m. A square has the same area. What is the square's side?",
+    options: ["1200 m", "1400 m", "√2000000 m", "1500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1500 m. A rectangle has the same area and length 3000 m. What is its breadth?",
+    options: ["500 m", "750 m", "1000 m", "1250 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 3000 m × 1000 m. What is its perimeter?",
+    options: ["7000 m", "8000 m", "9000 m", "10000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 1500 m. What is its perimeter?",
+    options: ["4500 m", "5000 m", "6000 m", "7500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 3000000 m² and length 3000 m. What is its breadth?",
+    options: ["750 m", "900 m", "1000 m", "1200 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 2250000 m². What is its perimeter?",
+    options: ["4500 m", "5000 m", "6000 m", "7500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 3000 m × 750 m. A square has the same area. What is the square's side?",
+    options: ["1200 m", "1400 m", "1500 m", "1600 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 1500 m. A rectangle has the same perimeter and length 1800 m. What is its area?",
+    options: ["1800000 m²", "2250000 m²", "2700000 m²", "3000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 1800 m × 1200 m. A square has the same perimeter. What is the side of the square?",
+    options: ["1200 m", "1400 m", "1500 m", "1600 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 2000 m. A rectangle has the same perimeter and length 2500 m. What is its breadth?",
+    options: ["1200 m", "1400 m", "1500 m", "1800 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 2500 m × 1500 m. What is its area?",
+    options: ["3000000 m²", "3500000 m²", "3750000 m²", "4000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 2000 m. What is its area?",
+    options: ["3000000 m²", "3500000 m²", "4000000 m²", "4500000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 2500 m × 1500 m. A square has the same area. What is the closest whole-number side?",
+    options: ["1900 m", "1936 m", "1950 m", "2000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 2000 m. A rectangle has the same area and length 4000 m. What is its breadth?",
+    options: ["500 m", "750 m", "1000 m", "1250 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 4000 m × 1000 m. What is its perimeter?",
+    options: ["8000 m", "9000 m", "10000 m", "12000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 2000 m. What is its perimeter?",
+    options: ["6000 m", "7000 m", "8000 m", "10000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 4000000 m² and length 4000 m. What is its breadth?",
+    options: ["750 m", "1000 m", "1250 m", "1500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 4000000 m². What is its perimeter?",
+    options: ["6000 m", "7000 m", "8000 m", "10000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 4000 m × 1000 m. A square has the same area. What is the square's side?",
+    options: ["1800 m", "2000 m", "2200 m", "2500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 2000 m. A rectangle has the same perimeter and length 3000 m. What is its area?",
+    options: ["3000000 m²", "3500000 m²", "4000000 m²", "4500000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 3000 m × 1000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["1500 m", "1750 m", "2000 m", "2250 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 2500 m. A rectangle has the same perimeter and length 3000 m. What is its breadth?",
+    options: ["1500 m", "1750 m", "2000 m", "2250 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 3000 m × 2000 m. What is its area?",
+    options: ["5000000 m²", "6000000 m²", "7000000 m²", "8000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 2500 m. What is its area?",
+    options: ["5000000 m²", "6250000 m²", "7000000 m²", "7500000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 3000 m × 2000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["2300 m", "2400 m", "2450 m", "2500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 2500 m. A rectangle has the same area and length 5000 m. What is its breadth?",
+    options: ["1000 m", "1250 m", "1500 m", "1750 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 5000 m × 1250 m. What is its perimeter?",
+    options: ["11000 m", "11500 m", "12000 m", "12500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 2500 m. What is its perimeter?",
+    options: ["7500 m", "9000 m", "10000 m", "12500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 6250000 m² and length 5000 m. What is its breadth?",
+    options: ["1000 m", "1250 m", "1500 m", "1750 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 6250000 m². What is its perimeter?",
+    options: ["7500 m", "9000 m", "10000 m", "12500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 5000 m × 1250 m. A square has the same area. What is the square's side?",
+    options: ["2200 m", "2400 m", "2500 m", "2600 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 2500 m. A rectangle has the same perimeter and length 3500 m. What is its area?",
+    options: ["5000000 m²", "6000000 m²", "6250000 m²", "7000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 3500 m × 1500 m. A square has the same perimeter. What is the side of the square?",
+    options: ["2250 m", "2500 m", "2750 m", "3000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 3000 m. A rectangle has the same perimeter and length 4000 m. What is its breadth?",
+    options: ["1500 m", "2000 m", "2500 m", "3000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 4000 m × 2000 m. What is its area?",
+    options: ["6000000 m²", "8000000 m²", "9000000 m²", "10000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 3000 m. What is its area?",
+    options: ["6000000 m²", "8000000 m²", "9000000 m²", "10000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 4000 m × 2000 m. A square has the same area. What is the square's side?",
+    options: ["2500 m", "2750 m", "2800 m", "√8000000 m"],
+    answer: 3
+  },
+  {
+    question: "A square has side 3000 m. A rectangle has the same area and length 6000 m. What is its breadth?",
+    options: ["1000 m", "1500 m", "2000 m", "2500 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 6000 m × 1500 m. What is its perimeter?",
+    options: ["12000 m", "13500 m", "15000 m", "16000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 3000 m. What is its perimeter?",
+    options: ["9000 m", "10000 m", "12000 m", "15000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 9000000 m² and length 6000 m. What is its breadth?",
+    options: ["1000 m", "1250 m", "1500 m", "2000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 9000000 m². What is its perimeter?",
+    options: ["9000 m", "10000 m", "12000 m", "15000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 6000 m × 1500 m. A square has the same area. What is the square's side?",
+    options: ["2500 m", "3000 m", "3500 m", "4000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 3000 m. A rectangle has the same perimeter and length 4500 m. What is its area?",
+    options: ["6000000 m²", "7500000 m²", "9000000 m²", "10000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 4500 m × 1500 m. A square has the same perimeter. What is the side of the square?",
+    options: ["2500 m", "3000 m", "3250 m", "3500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 4000 m. A rectangle has the same perimeter and length 5000 m. What is its breadth?",
+    options: ["2500 m", "3000 m", "3500 m", "4000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 5000 m × 3000 m. What is its area?",
+    options: ["12000000 m²", "15000000 m²", "18000000 m²", "20000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 4000 m. What is its area?",
+    options: ["12000000 m²", "14000000 m²", "16000000 m²", "18000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 5000 m × 3000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["3800 m", "3873 m", "3900 m", "4000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 4000 m. A rectangle has the same area and length 8000 m. What is its breadth?",
+    options: ["1000 m", "1500 m", "2000 m", "2500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 8000 m × 2000 m. What is its perimeter?",
+    options: ["18000 m", "20000 m", "22000 m", "24000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 4000 m. What is its perimeter?",
+    options: ["12000 m", "14000 m", "16000 m", "18000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 16000000 m² and length 8000 m. What is its breadth?",
+    options: ["1000 m", "1500 m", "2000 m", "2500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 16000000 m². What is its perimeter?",
+    options: ["12000 m", "14000 m", "16000 m", "18000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 8000 m × 2000 m. A square has the same area. What is the square's side?",
+    options: ["3500 m", "4000 m", "4500 m", "5000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 4000 m. A rectangle has the same perimeter and length 6000 m. What is its area?",
+    options: ["10000000 m²", "12000000 m²", "14000000 m²", "16000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 6000 m × 2000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["3500 m", "4000 m", "4500 m", "5000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 5000 m. A rectangle has the same perimeter and length 6500 m. What is its breadth?",
+    options: ["3000 m", "3500 m", "4000 m", "4500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 6500 m × 3500 m. What is its area?",
+    options: ["20000000 m²", "22750000 m²", "25000000 m²", "27500000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 5000 m. What is its area?",
+    options: ["20000000 m²", "22500000 m²", "25000000 m²", "27500000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 6500 m × 3500 m. A square has the same area. What is the closest whole-number side?",
+    options: ["4700 m", "4770 m", "4800 m", "4900 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 5000 m. A rectangle has the same area and length 10000 m. What is its breadth?",
+    options: ["2000 m", "2500 m", "3000 m", "3500 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 10000 m × 2500 m. What is its perimeter?",
+    options: ["20000 m", "22500 m", "25000 m", "27500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 5000 m. What is its perimeter?",
+    options: ["15000 m", "18000 m", "20000 m", "25000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 25000000 m² and length 10000 m. What is its breadth?",
+    options: ["2000 m", "2500 m", "3000 m", "3500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 25000000 m². What is its perimeter?",
+    options: ["15000 m", "18000 m", "20000 m", "25000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 10000 m × 2500 m. A square has the same area. What is the square's side?",
+    options: ["4500 m", "5000 m", "5500 m", "6000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 5000 m. A rectangle has the same perimeter and length 7500 m. What is its area?",
+    options: ["15000000 m²", "18750000 m²", "22500000 m²", "25000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 7500 m × 2500 m. A square has the same perimeter. What is the side of the square?",
+    options: ["4500 m", "5000 m", "5500 m", "6000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 6000 m. A rectangle has the same perimeter and length 8000 m. What is its breadth?",
+    options: ["3500 m", "4000 m", "4500 m", "5000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 8000 m × 4000 m. What is its area?",
+    options: ["28000000 m²", "32000000 m²", "36000000 m²", "40000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 6000 m. What is its area?",
+    options: ["30000000 m²", "32000000 m²", "36000000 m²", "40000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 8000 m × 4000 m. A square has the same area. What is the square's side?",
+    options: ["5000 m", "5500 m", "√32000000 m", "6000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 6000 m. A rectangle has the same area and length 12000 m. What is its breadth?",
+    options: ["2000 m", "2500 m", "3000 m", "4000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 12000 m × 3000 m. What is its perimeter?",
+    options: ["28000 m", "30000 m", "32000 m", "36000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 6000 m. What is its perimeter?",
+    options: ["18000 m", "20000 m", "24000 m", "30000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 36000000 m² and length 12000 m. What is its breadth?",
+    options: ["2000 m", "2500 m", "3000 m", "4000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 36000000 m². What is its perimeter?",
+    options: ["18000 m", "20000 m", "24000 m", "30000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 12000 m × 3000 m. A square has the same area. What is the square's side?",
+    options: ["5000 m", "5500 m", "6000 m", "6500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 6000 m. A rectangle has the same perimeter and length 9000 m. What is its area?",
+    options: ["27000000 m²", "30000000 m²", "36000000 m²", "40000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 9000 m × 3000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["5000 m", "5500 m", "6000 m", "6500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 7000 m. A rectangle has the same perimeter and length 9000 m. What is its breadth?",
+    options: ["4000 m", "4500 m", "5000 m", "5500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 9000 m × 5000 m. What is its area?",
+    options: ["40000000 m²", "45000000 m²", "50000000 m²", "55000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 7000 m. What is its area?",
+    options: ["42000000 m²", "49000000 m²", "56000000 m²", "60000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 9000 m × 5000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["6500 m", "6708 m", "6800 m", "7000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 7000 m. A rectangle has the same area and length 14000 m. What is its breadth?",
+    options: ["2500 m", "3000 m", "3500 m", "4000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 14000 m × 3500 m. What is its perimeter?",
+    options: ["30000 m", "32000 m", "35000 m", "40000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 7000 m. What is its perimeter?",
+    options: ["21000 m", "24000 m", "28000 m", "30000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 49000000 m² and length 14000 m. What is its breadth?",
+    options: ["2500 m", "3000 m", "3500 m", "4000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 49000000 m². What is its perimeter?",
+    options: ["21000 m", "24000 m", "28000 m", "30000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 14000 m × 3500 m. A square has the same area. What is the square's side?",
+    options: ["6000 m", "6500 m", "7000 m", "7500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 7000 m. A rectangle has the same perimeter and length 10000 m. What is its area?",
+    options: ["30000000 m²", "40000000 m²", "50000000 m²", "49000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 10000 m × 4000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["6500 m", "7000 m", "7500 m", "8000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 8000 m. A rectangle has the same perimeter and length 10000 m. What is its breadth?",
+    options: ["5000 m", "5500 m", "6000 m", "6500 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 10000 m × 6000 m. What is its area?",
+    options: ["50000000 m²", "60000000 m²", "70000000 m²", "80000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 8000 m. What is its area?",
+    options: ["60000000 m²", "64000000 m²", "68000000 m²", "72000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 10000 m × 6000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["7500 m", "7750 m", "7746 m", "8000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 8000 m. A rectangle has the same area and length 16000 m. What is its breadth?",
+    options: ["3000 m", "4000 m", "5000 m", "6000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 16000 m × 4000 m. What is its perimeter?",
+    options: ["36000 m", "40000 m", "44000 m", "48000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 8000 m. What is its perimeter?",
+    options: ["24000 m", "28000 m", "32000 m", "40000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 64000000 m² and length 16000 m. What is its breadth?",
+    options: ["3000 m", "4000 m", "5000 m", "6000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 64000000 m². What is its perimeter?",
+    options: ["24000 m", "28000 m", "32000 m", "40000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 16000 m × 4000 m. A square has the same area. What is the square's side?",
+    options: ["7000 m", "7500 m", "8000 m", "8500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 8000 m. A rectangle has the same perimeter and length 12000 m. What is its area?",
+    options: ["48000000 m²", "60000000 m²", "64000000 m²", "80000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 12000 m × 4000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["7000 m", "7500 m", "8000 m", "8500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 9000 m. A rectangle has the same perimeter and length 12000 m. What is its breadth?",
+    options: ["5000 m", "6000 m", "7000 m", "8000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 12000 m × 6000 m. What is its area?",
+    options: ["60000000 m²", "72000000 m²", "84000000 m²", "90000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 9000 m. What is its area?",
+    options: ["72000000 m²", "81000000 m²", "90000000 m²", "100000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 12000 m × 6000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["8000 m", "8400 m", "8485 m", "9000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 9000 m. A rectangle has the same area and length 18000 m. What is its breadth?",
+    options: ["4000 m", "4500 m", "5000 m", "6000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 18000 m × 4500 m. What is its perimeter?",
+    options: ["40000 m", "42000 m", "45000 m", "50000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 9000 m. What is its perimeter?",
+    options: ["27000 m", "30000 m", "36000 m", "40000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 81000000 m² and length 18000 m. What is its breadth?",
+    options: ["4000 m", "4500 m", "5000 m", "6000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 81000000 m². What is its perimeter?",
+    options: ["27000 m", "30000 m", "36000 m", "40000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 18000 m × 4500 m. A square has the same area. What is the square's side?",
+    options: ["8000 m", "8500 m", "9000 m", "9500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 9000 m. A rectangle has the same perimeter and length 13500 m. What is its area?",
+    options: ["54000000 m²", "67500000 m²", "81000000 m²", "90000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 13500 m × 4500 m. A square has the same perimeter. What is the side of the square?",
+    options: ["8000 m", "8500 m", "9000 m", "9500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 10000 m. A rectangle has the same perimeter and length 13000 m. What is its breadth?",
+    options: ["6000 m", "7000 m", "8000 m", "9000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 13000 m × 7000 m. What is its area?",
+    options: ["85000000 m²", "91000000 m²", "98000000 m²", "100000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 10000 m. What is its area?",
+    options: ["90000000 m²", "100000000 m²", "110000000 m²", "120000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 13000 m × 7000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["9500 m", "9539 m", "9600 m", "10000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 10000 m. A rectangle has the same area and length 20000 m. What is its breadth?",
+    options: ["4000 m", "5000 m", "6000 m", "7000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 20000 m × 5000 m. What is its perimeter?",
+    options: ["40000 m", "45000 m", "50000 m", "55000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 10000 m. What is its perimeter?",
+    options: ["30000 m", "35000 m", "40000 m", "50000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 100000000 m² and length 20000 m. What is its breadth?",
+    options: ["4000 m", "5000 m", "6000 m", "7000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 100000000 m². What is its perimeter?",
+    options: ["30000 m", "35000 m", "40000 m", "50000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 20000 m × 5000 m. A square has the same area. What is the square's side?",
+    options: ["9000 m", "9500 m", "10000 m", "11000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 10000 m. A rectangle has the same perimeter and length 15000 m. What is its area?",
+    options: ["50000000 m²", "75000000 m²", "100000000 m²", "125000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 15000 m × 5000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["9000 m", "10000 m", "11000 m", "12000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 12000 m. A rectangle has the same perimeter and length 15000 m. What is its breadth?",
+    options: ["8000 m", "9000 m", "10000 m", "11000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 15000 m × 9000 m. What is its area?",
+    options: ["120000000 m²", "135000000 m²", "150000000 m²", "180000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 12000 m. What is its area?",
+    options: ["120000000 m²", "135000000 m²", "144000000 m²", "150000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 15000 m × 9000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["11500 m", "11600 m", "11619 m", "12000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 12000 m. A rectangle has the same area and length 24000 m. What is its breadth?",
+    options: ["4000 m", "5000 m", "6000 m", "8000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 24000 m × 6000 m. What is its perimeter?",
+    options: ["50000 m", "55000 m", "60000 m", "65000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 12000 m. What is its perimeter?",
+    options: ["36000 m", "42000 m", "48000 m", "50000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 144000000 m² and length 24000 m. What is its breadth?",
+    options: ["4000 m", "5000 m", "6000 m", "7000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has area 144000000 m². What is its perimeter?",
+    options: ["36000 m", "42000 m", "48000 m", "50000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 24000 m × 6000 m. A square has the same area. What is the square's side?",
+    options: ["10000 m", "11000 m", "12000 m", "13000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 12000 m. A rectangle has the same perimeter and length 18000 m. What is its area?",
+    options: ["72000000 m²", "90000000 m²", "108000000 m²", "144000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 18000 m × 6000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["10000 m", "11000 m", "12000 m", "13000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 15000 m. A rectangle has the same perimeter and length 20000 m. What is its breadth?",
+    options: ["8000 m", "9000 m", "10000 m", "11000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 20000 m × 10000 m. What is its area?",
+    options: ["150000000 m²", "180000000 m²", "200000000 m²", "220000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 15000 m. What is its area?",
+    options: ["200000000 m²", "225000000 m²", "250000000 m²", "275000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 20000 m × 10000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["14000 m", "14142 m", "14500 m", "15000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 15000 m. A rectangle has the same area and length 30000 m. What is its breadth?",
+    options: ["5000 m", "7500 m", "10000 m", "12500 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 30000 m × 7500 m. What is its perimeter?",
+    options: ["60000 m", "67500 m", "75000 m", "82500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 15000 m. What is its perimeter?",
+    options: ["45000 m", "50000 m", "60000 m", "75000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 225000000 m² and length 30000 m. What is its breadth?",
+    options: ["5000 m", "7500 m", "10000 m", "12500 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 225000000 m². What is its perimeter?",
+    options: ["45000 m", "50000 m", "60000 m", "75000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 30000 m × 7500 m. A square has the same area. What is the square's side?",
+    options: ["14000 m", "14500 m", "15000 m", "15500 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 15000 m. A rectangle has the same perimeter and length 22500 m. What is its area?",
+    options: ["112500000 m²", "168750000 m²", "225000000 m²", "250000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 22500 m × 7500 m. A square has the same perimeter. What is the side of the square?",
+    options: ["14000 m", "15000 m", "16000 m", "17000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 20000 m. A rectangle has the same perimeter and length 25000 m. What is its breadth?",
+    options: ["10000 m", "12000 m", "15000 m", "18000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 25000 m × 15000 m. What is its area?",
+    options: ["300000000 m²", "350000000 m²", "375000000 m²", "400000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A square has side 20000 m. What is its area?",
+    options: ["300000000 m²", "350000000 m²", "400000000 m²", "450000000 m²"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 25000 m × 15000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["19000 m", "19365 m", "19500 m", "20000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 20000 m. A rectangle has the same area and length 40000 m. What is its breadth?",
+    options: ["8000 m", "10000 m", "12000 m", "15000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 40000 m × 10000 m. What is its perimeter?",
+    options: ["80000 m", "90000 m", "100000 m", "120000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 20000 m. What is its perimeter?",
+    options: ["60000 m", "70000 m", "80000 m", "100000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 400000000 m² and length 40000 m. What is its breadth?",
+    options: ["8000 m", "10000 m", "12000 m", "15000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 400000000 m². What is its perimeter?",
+    options: ["60000 m", "70000 m", "80000 m", "100000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 40000 m × 10000 m. A square has the same area. What is the square's side?",
+    options: ["18000 m", "20000 m", "22000 m", "25000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 20000 m. A rectangle has the same perimeter and length 30000 m. What is its area?",
+    options: ["200000000 m²", "300000000 m²", "400000000 m²", "500000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 30000 m × 10000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["18000 m", "20000 m", "22000 m", "25000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25000 m. A rectangle has the same perimeter and length 30000 m. What is its breadth?",
+    options: ["15000 m", "20000 m", "25000 m", "30000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 30000 m × 20000 m. What is its area?",
+    options: ["500000000 m²", "600000000 m²", "700000000 m²", "800000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25000 m. What is its area?",
+    options: ["500000000 m²", "625000000 m²", "700000000 m²", "750000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 30000 m × 20000 m. A square has the same area. What is the closest whole-number side?",
+    options: ["24000 m", "24500 m", "24495 m", "25000 m"],
+    answer: 2
+  },
+  {
+    question: "A square has side 25000 m. A rectangle has the same area and length 50000 m. What is its breadth?",
+    options: ["10000 m", "12500 m", "15000 m", "20000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 50000 m × 12500 m. What is its perimeter?",
+    options: ["100000 m", "110000 m", "125000 m", "150000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25000 m. What is its perimeter?",
+    options: ["75000 m", "90000 m", "100000 m", "125000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has area 625000000 m² and length 50000 m. What is its breadth?",
+    options: ["10000 m", "12500 m", "15000 m", "20000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has area 625000000 m². What is its perimeter?",
+    options: ["75000 m", "90000 m", "100000 m", "125000 m"],
+    answer: 2
+  },
+  {
+    question: "A rectangle has dimensions 50000 m × 12500 m. A square has the same area. What is the square's side?",
+    options: ["22500 m", "25000 m", "27500 m", "30000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 25000 m. A rectangle has the same perimeter and length 35000 m. What is its area?",
+    options: ["350000000 m²", "437500000 m²", "500000000 m²", "625000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 35000 m × 15000 m. A square has the same perimeter. What is the side of the square?",
+    options: ["22500 m", "25000 m", "27500 m", "30000 m"],
+    answer: 1
+  },
+  {
+    question: "A square has side 30000 m. A rectangle has the same perimeter and length 40000 m. What is its breadth?",
+    options: ["15000 m", "20000 m", "25000 m", "30000 m"],
+    answer: 1
+  },
+  {
+    question: "A rectangle has dimensions 40000 m × 20000 m. What is its area?",
+    options: ["600000000 m²", "800000000 m²", "1000000000 m²", "1200000000 m²"],
+    answer: 1
+  },
+  {
+    question: "A square has side 30000 m. What is its area?",
+    options: ["600000000 m²", "800000000 m²", "900000000 m²", "1000000000 m²"],
+    answer: 2
+  },
+],
+
+7: [
+  {
+    question: "What is 2/5 of 35?",
+    options: ["12", "14", "15", "18"],
+    answer: 1
+  },
+  {
+    question: "Which fraction is equivalent to 3/5?",
+    options: ["9/20", "12/20", "15/20", "18/25"],
+    answer: 1
+  },
+],
+
+8: [
+  {
+    question: "Which instrument is used to draw a circle with a fixed radius?",
+    options: ["Ruler", "Compass", "Protractor", "Set square"],
+    answer: 1
+  },
+  {
+    question: "Which instrument is mainly used to measure an angle?",
+    options: ["Compass", "Divider", "Protractor", "Ruler"],
+    answer: 2
+  },
+  {
+    question: "A line segment AB is 7 cm long. What is the length of AB after constructing its perpendicular bisector?",
+    options: ["3.5 cm on each side of the midpoint", "7 cm on each side", "14 cm", "Cannot be determined"],
+    answer: 0
+  },
+  {
+    question: "To construct the perpendicular bisector of a line segment, the compass opening should be:",
+    options: ["Less than half the segment", "Exactly half the segment", "Greater than half the segment", "Zero"],
+    answer: 2
+  },
+  {
+    question: "Which point lies on the perpendicular bisector of a segment AB?",
+    options: ["A point closer to A", "A point closer to B", "A point equidistant from A and B", "Only A"],
+    answer: 2
+  },
+  {
+    question: "An angle of 60° is constructed using a compass and ruler. Which basic geometric figure helps in this construction?",
+    options: ["Square", "Equilateral triangle", "Rectangle", "Parallelogram"],
+    answer: 1
+  },
+  {
+    question: "If two circles with equal radii are drawn from the endpoints of a segment and intersect at two points, the line joining those intersection points is:",
+    options: ["Parallel to the segment", "Perpendicular to the segment", "Equal to the segment", "Always 60° to the segment"],
+    answer: 1
+  },
+  {
+    question: "Which construction can be used to divide a line segment into two equal parts?",
+    options: ["Perpendicular bisector", "Angle bisector", "Parallel line", "Arc only"],
+    answer: 0
+  },
+  {
+    question: "If an angle is 90°, its bisector divides it into:",
+    options: ["30° and 60°", "40° and 50°", "45° and 45°", "20° and 70°"],
+    answer: 2
+  },
+  {
+    question: "Which instrument is NOT essential for constructing the perpendicular bisector of a line segment?",
+    options: ["Compass", "Ruler", "Protractor", "Pencil"],
+    answer: 2
+  },
+  {
+    question: "To copy an angle accurately using a compass, what must be preserved first?",
+    options: ["The length of one arm", "The size of the arc and its intersections", "The colour of the angle", "The position of the paper"],
+    answer: 1
+  },
+  {
+    question: "If a point P is equidistant from A and B, then P lies on:",
+    options: ["AB", "The perpendicular bisector of AB", "The angle bisector of A", "A circle with centre A only"],
+    answer: 1
+  },
+  {
+    question: "Which construction gives a line perpendicular to another line at a given point on it?",
+    options: ["Constructing an angle bisector", "Constructing a perpendicular", "Constructing a circle", "Constructing a parallel"],
+    answer: 1
+  },
+  {
+    question: "A triangle has sides 5 cm, 5 cm and 6 cm. What type of triangle is it?",
+    options: ["Equilateral", "Isosceles", "Scalene", "Right-angled"],
+    answer: 1
+  },
+  {
+    question: "Which pair of circles can be used to construct the perpendicular bisector of AB?",
+    options: ["Circles with unequal radii", "Circles with equal radii greater than half AB", "Only one circle", "Circles with radius less than half AB"],
+    answer: 1
+  },
+  {
+    question: "When constructing an angle of 60°, the compass radius is kept:",
+    options: ["Constant while drawing the required arcs", "Changing after every arc", "Equal to zero", "Equal to the full page"],
+    answer: 0
+  },
+  {
+    question: "A perpendicular line forms what angle with the original line?",
+    options: ["45°", "60°", "90°", "180°"],
+    answer: 2
+  },
+  {
+    question: "Which statement about an angle bisector is correct?",
+    options: ["It divides an angle into two equal angles", "It always creates 90°", "It doubles the angle", "It is always parallel to an arm"],
+    answer: 0
+  },
+  {
+    question: "If ∠ABC = 120°, what are the two angles formed by its angle bisector?",
+    options: ["30° each", "40° each", "60° each", "90° each"],
+    answer: 2
+  },
+  {
+    question: "A compass is mainly used to:",
+    options: ["Measure temperature", "Draw arcs and transfer lengths", "Measure mass", "Draw only straight lines"],
+    answer: 1
+  },
+  {
+    question: "If AB = 10 cm, where will the midpoint M lie?",
+    options: ["2 cm from A", "4 cm from A", "5 cm from A", "10 cm from A"],
+    answer: 2
+  },
+  {
+    question: "Which condition is sufficient to locate a point using two circles?",
+    options: ["Both circles must have the same centre", "The circles must intersect", "Both circles must have radius zero", "They must never meet"],
+    answer: 1
+  },
+  {
+    question: "If two lines intersect at 90°, they are called:",
+    options: ["Parallel", "Perpendicular", "Transversal", "Coincident"],
+    answer: 1
+  },
+  {
+    question: "Which construction is most useful for finding a point equidistant from the endpoints of a segment?",
+    options: ["Angle bisector", "Perpendicular bisector", "Parallel line", "Circle with arbitrary centre"],
+    answer: 1
+  },
+  {
+    question: "If an angle of 80° is bisected, each resulting angle is:",
+    options: ["20°", "30°", "40°", "60°"],
+    answer: 2
+  },
+  {
+    question: "Which tool helps ensure that a straight line is drawn accurately between two points?",
+    options: ["Compass", "Ruler", "Protractor", "Divider"],
+    answer: 1
+  },
+  {
+    question: "If the compass opening is changed while copying an angle, the construction may:",
+    options: ["Become inaccurate", "Always become larger", "Always become smaller", "Remain exactly the same"],
+    answer: 0
+  },
+  {
+    question: "A triangle with all three sides equal can be constructed using:",
+    options: ["Three equal circles", "Three equal line segments arranged appropriately", "Only a protractor", "Only a ruler without measurements"],
+    answer: 1
+  },
+  {
+    question: "If a line segment is 12 cm long, the radius used for intersecting arcs in its perpendicular bisector construction must be:",
+    options: ["Less than 6 cm", "Exactly 6 cm only", "Greater than 6 cm", "Exactly 12 cm only"],
+    answer: 2
+  },
+  {
+    question: "The two intersection points of arcs used to construct a perpendicular bisector are:",
+    options: ["Equidistant from both endpoints", "Always on the original segment", "Always at the midpoint", "Never symmetric"],
+    answer: 0
+  },
+  {
+    question: "Which angle can be constructed easily by bisecting a 90° angle?",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 1
+  },
+  {
+    question: "If a 60° angle is bisected, each part measures:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 2
+  },
+  {
+    question: "A construction requires copying a length of 8 cm. Which instrument can transfer this length without directly measuring it again?",
+    options: ["Compass", "Protractor", "Eraser", "Set square"],
+    answer: 0
+  },
+  {
+    question: "Which of the following is a correct property of the perpendicular bisector of AB?",
+    options: ["Every point on it is equidistant from A and B", "Every point on it is closer to A", "It always passes through A", "It is parallel to AB"],
+    answer: 0
+  },
+  {
+    question: "If two lines are parallel, the distance between them is:",
+    options: ["Constant", "Always zero", "Always increasing", "Always decreasing"],
+    answer: 0
+  },
+  {
+    question: "Which construction can help create a line parallel to a given line using equal angles?",
+    options: ["Angle copying method", "Circle only", "Perpendicular bisector only", "Midpoint method only"],
+    answer: 0
+  },
+  {
+    question: "If a line is perpendicular to one of two parallel lines, it is:",
+    options: ["Perpendicular to the other parallel line", "Parallel to the other line", "Always coincident with the other line", "Never related to the other line"],
+    answer: 0
+  },
+  {
+    question: "What is the main purpose of using arcs in geometric constructions?",
+    options: ["To decorate diagrams", "To locate points and transfer measurements", "To erase lines", "To measure weight"],
+    answer: 1
+  },
+  {
+    question: "If two equal arcs intersect above and below AB, joining their intersection points gives:",
+    options: ["A line parallel to AB", "The perpendicular bisector of AB", "An angle bisector", "A circle"],
+    answer: 1
+  },
+  {
+    question: "A 30° angle can be obtained by:",
+    options: ["Bisecting 60°", "Bisecting 90°", "Doubling 45°", "Bisecting 120° twice"],
+    answer: 0
+  },
+  {
+    question: "A 75° angle can be constructed by combining:",
+    options: ["45° and 30°", "60° and 30°", "90° and 30°", "45° and 45°"],
+    answer: 0
+  },
+  {
+    question: "Which angle is formed when a straight line is divided into two equal angles?",
+    options: ["30°", "45°", "90°", "180°"],
+    answer: 2
+  },
+  {
+    question: "If AB = 9 cm and M is its midpoint, then AM + MB equals:",
+    options: ["4.5 cm", "9 cm", "18 cm", "3 cm"],
+    answer: 1
+  },
+  {
+    question: "Which instrument is used to check whether two lines are perpendicular in a practical construction?",
+    options: ["Set square", "Compass only", "Eraser", "Pencil sharpener"],
+    answer: 0
+  },
+  {
+    question: "If two arcs from A and B do not intersect, what should be done to construct the perpendicular bisector?",
+    options: ["Decrease the radius further", "Increase the compass opening", "Erase AB", "Use a protractor instead"],
+    answer: 1
+  },
+  {
+    question: "If a compass radius is exactly half of AB, the arcs from A and B will:",
+    options: ["Intersect at two points", "Touch at the midpoint only", "Never meet", "Form a square"],
+    answer: 1
+  },
+  {
+    question: "Which statement is true for an equilateral triangle?",
+    options: ["All sides are unequal", "All angles are 60°", "One angle is 90°", "Only two sides are equal"],
+    answer: 1
+  },
+  {
+    question: "To construct an equilateral triangle on AB, the compass opening should be:",
+    options: ["Equal to AB", "Half of AB", "Twice AB", "Less than half AB"],
+    answer: 0
+  },
+  {
+    question: "If AB = 6 cm, the side of an equilateral triangle constructed on AB is:",
+    options: ["3 cm", "6 cm", "9 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction is based on the idea that all points on a circle are at the same distance from its centre?",
+    options: ["Transferring a length with compass", "Drawing a random line", "Measuring an angle with ruler", "Erasing a segment"],
+    answer: 0
+  },
+  {
+    question: "If an angle measures 140°, its bisector creates angles of:",
+    options: ["60° each", "70° each", "80° each", "90° each"],
+    answer: 1
+  },
+  {
+    question: "Which angle cannot be the angle between two perpendicular lines?",
+    options: ["90°", "270° as a reflex turn", "0°", "Both 0° and 180°"],
+    answer: 2
+  },
+  {
+    question: "A point lies on the perpendicular bisector of AB and is 5 cm from A. How far is it from B?",
+    options: ["2.5 cm", "5 cm", "10 cm", "Cannot be determined"],
+    answer: 1
+  },
+  {
+    question: "If P is equidistant from A and B, then PA and PB are:",
+    options: ["Always perpendicular", "Equal", "Parallel", "Unequal"],
+    answer: 1
+  },
+  {
+    question: "What happens if the compass slips while drawing an arc?",
+    options: ["The construction may become inaccurate", "The angle automatically doubles", "The line becomes parallel", "Nothing ever changes"],
+    answer: 0
+  },
+  {
+    question: "Which construction can be used to locate the centre of a circle?",
+    options: ["Perpendicular bisectors of two chords", "Only one radius", "Only one tangent", "An angle bisector of any angle"],
+    answer: 0
+  },
+  {
+    question: "The perpendicular bisectors of the sides of a triangle meet at a point called its:",
+    options: ["Centroid", "Circumcentre", "Incentre", "Orthocentre"],
+    answer: 1
+  },
+  {
+    question: "The point where the angle bisectors of a triangle meet is called:",
+    options: ["Circumcentre", "Centroid", "Incentre", "Midpoint"],
+    answer: 2
+  },
+  {
+    question: "Which construction helps find the centre of the circle passing through the vertices of a triangle?",
+    options: ["Angle bisectors", "Perpendicular bisectors", "Parallel lines", "Only medians"],
+    answer: 1
+  },
+  {
+    question: "If all three perpendicular bisectors of a triangle meet at one point, that point is:",
+    options: ["Equidistant from all three vertices", "Equidistant from all sides", "Always inside the triangle", "Always outside the triangle"],
+    answer: 0
+  },
+  {
+    question: "If all three angle bisectors of a triangle meet at one point, that point is:",
+    options: ["Equidistant from all three sides", "Equidistant from all vertices", "Always a vertex", "Always outside"],
+    answer: 0
+  },
+  {
+    question: "Which construction is useful for dividing an angle into two equal parts?",
+    options: ["Perpendicular bisector", "Angle bisector", "Parallel line", "Median only"],
+    answer: 1
+  },
+  {
+    question: "If two sides of a triangle are 5 cm and 7 cm, which could be the third side?",
+    options: ["1 cm", "2 cm", "6 cm", "13 cm"],
+    answer: 2
+  },
+  {
+    question: "Which set of lengths can form a triangle?",
+    options: ["2 cm, 3 cm, 6 cm", "3 cm, 4 cm, 8 cm", "5 cm, 6 cm, 10 cm", "1 cm, 2 cm, 4 cm"],
+    answer: 2
+  },
+  {
+    question: "A triangle has sides 7 cm, 7 cm and 10 cm. Its perpendicular bisector of the unequal side will:",
+    options: ["Pass through the opposite vertex", "Never meet the triangle", "Be parallel to the unequal side", "Always equal 10 cm"],
+    answer: 0
+  },
+  {
+    question: "Which instrument allows an angle to be copied without knowing its numerical measure?",
+    options: ["Compass", "Ruler only", "Eraser", "Scale only"],
+    answer: 0
+  },
+  {
+    question: "When copying an angle, the same compass opening used to draw the original arc should be:",
+    options: ["Changed randomly", "Kept unchanged when drawing the corresponding arc", "Made zero", "Doubled"],
+    answer: 1
+  },
+  {
+    question: "If two angles are copied using the same arc and chord method, they will be:",
+    options: ["Equal", "Supplementary always", "Complementary always", "Unequal always"],
+    answer: 0
+  },
+  {
+    question: "Which pair of angles can be constructed by repeatedly bisecting 180°?",
+    options: ["90°, 45°", "60°, 30°", "75°, 15°", "120°, 60°"],
+    answer: 0
+  },
+  {
+    question: "If a 120° angle is bisected once and then one resulting angle is bisected again, the smallest angle is:",
+    options: ["15°", "30°", "45°", "60°"],
+    answer: 1
+  },
+  {
+    question: "A line segment is 14 cm long. Its midpoint divides it into:",
+    options: ["6 cm and 8 cm", "7 cm and 7 cm", "5 cm and 9 cm", "4 cm and 10 cm"],
+    answer: 1
+  },
+  {
+    question: "Which statement about a midpoint is always true?",
+    options: ["It divides a segment into two equal parts", "It creates two perpendicular lines", "It is always outside the segment", "It doubles the segment"],
+    answer: 0
+  },
+  {
+    question: "If the midpoint of AB is M and AB = 18 cm, then MB is:",
+    options: ["6 cm", "8 cm", "9 cm", "12 cm"],
+    answer: 2
+  },
+  {
+    question: "Which construction can locate the midpoint without measuring AB directly?",
+    options: ["Perpendicular bisector", "Angle bisector", "Parallel construction", "Drawing a circle with centre A only"],
+    answer: 0
+  },
+  {
+    question: "If two points are on opposite sides of a line and each is equidistant from the endpoints of a segment, the line joining them can be:",
+    options: ["The perpendicular bisector", "Parallel to the segment", "The original segment", "A tangent"],
+    answer: 0
+  },
+  {
+    question: "A perpendicular bisector intersects a segment at:",
+    options: ["One endpoint", "Its midpoint", "A point outside it", "Any random point"],
+    answer: 1
+  },
+  {
+    question: "Which statement is correct about constructing a 90° angle?",
+    options: ["It can be obtained by constructing a perpendicular", "It requires only a protractor", "It cannot be constructed accurately", "It is always half of 60°"],
+    answer: 0
+  },
+  {
+    question: "If a straight angle is bisected, each part is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which angle is formed by the two arms of an angle bisector when the original angle is 50°?",
+    options: ["20° and 30°", "25° and 25°", "10° and 40°", "15° and 35°"],
+    answer: 1
+  },
+  {
+    question: "If an angle bisector is drawn incorrectly so that the two parts are 35° and 45°, the original angle was:",
+    options: ["70°", "80°", "90°", "Cannot be a correctly bisected angle"],
+    answer: 3
+  },
+  {
+    question: "Which condition is necessary for two arcs to intersect when constructing a perpendicular bisector?",
+    options: ["Their radius must be large enough", "Their radius must be zero", "They must have different centres at the same point", "They must be straight lines"],
+    answer: 0
+  },
+  {
+    question: "If AB = 8 cm and the compass radius is 5 cm, will arcs centred at A and B intersect?",
+    options: ["Yes, because 5 + 5 > 8", "No, because 5 + 5 < 8", "Only at A", "Only at B"],
+    answer: 0
+  },
+  {
+    question: "If AB = 10 cm and the compass radius is 4 cm, will the two arcs intersect?",
+    options: ["Yes, at two points", "Yes, at one point", "No", "Only at the midpoint"],
+    answer: 2
+  },
+  {
+    question: "For constructing an equilateral triangle on a segment AB, the two arcs are drawn with centres:",
+    options: ["At A and B", "At the midpoint only", "Outside AB only", "At random points"],
+    answer: 0
+  },
+  {
+    question: "If AB = 9 cm, the intersection point of equal-radius arcs used for an equilateral triangle is:",
+    options: ["9 cm from A and B", "4.5 cm from A only", "18 cm from A", "Always 3 cm from A"],
+    answer: 0
+  },
+  {
+    question: "Which construction can create an angle of 30° using a standard 60° construction?",
+    options: ["Bisecting 60°", "Doubling 60°", "Adding 90°", "Subtracting 180°"],
+    answer: 0
+  },
+  {
+    question: "Which angle can be constructed by adding a 45° angle and a 30° angle?",
+    options: ["60°", "75°", "90°", "105°"],
+    answer: 1
+  },
+  {
+    question: "If a 90° angle is divided into three equal angles, each angle would be:",
+    options: ["20°", "30°", "45°", "60°"],
+    answer: 1
+  },
+  {
+    question: "Which statement about a compass is correct?",
+    options: ["It can transfer a distance accurately", "It measures angles directly", "It draws only horizontal lines", "It replaces a ruler completely"],
+    answer: 0
+  },
+  {
+    question: "Which statement about a ruler in geometric construction is correct?",
+    options: ["It is used to draw straight lines and join points", "It always measures angles", "It draws circles", "It automatically finds midpoints"],
+    answer: 0
+  },
+  {
+    question: "A construction is considered accurate mainly when:",
+    options: ["The lines are colourful", "The required geometric conditions are satisfied", "The diagram is large", "The paper is thick"],
+    answer: 1
+  },
+  {
+    question: "If a constructed perpendicular bisector misses the midpoint of AB, which is most likely the issue?",
+    options: ["Incorrect arc construction", "Correct compass use", "Correct midpoint", "Correct intersection"],
+    answer: 0
+  },
+  {
+    question: "If two equal circles intersect at P and Q, then PQ is perpendicular to:",
+    options: ["The line joining their centres", "Both circles", "Every tangent", "Nothing"],
+    answer: 0
+  },
+  {
+    question: "If two circles have centres A and B and equal radii, their common chord is:",
+    options: ["Parallel to AB", "Perpendicular to AB", "Equal to AB always", "Always twice AB"],
+    answer: 1
+  },
+  {
+    question: "A triangle has angles 40° and 60°. The third angle is:",
+    options: ["70°", "80°", "90°", "100°"],
+    answer: 1
+  },
+  {
+    question: "Which construction would help divide a 100° angle into two equal angles?",
+    options: ["Perpendicular bisector", "Angle bisector", "Equilateral triangle", "Parallel line"],
+    answer: 1
+  },
+  {
+    question: "If a 100° angle is correctly bisected, each angle is:",
+    options: ["40°", "50°", "60°", "70°"],
+    answer: 1
+  },
+  {
+    question: "A point is 6 cm from A and lies on the perpendicular bisector of AB. Its distance from B is:",
+    options: ["3 cm", "6 cm", "9 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction is based on equal distances from two points?",
+    options: ["Perpendicular bisector", "Angle bisector", "Parallel line", "Perpendicular from a point"],
+    answer: 0
+  },
+  {
+    question: "Which construction is based on equal distances from the two arms of an angle?",
+    options: ["Perpendicular bisector", "Angle bisector", "Equilateral triangle", "Parallel line"],
+    answer: 1
+  },
+  {
+    question: "If a point lies on an angle bisector, its perpendicular distances from the two arms of the angle are:",
+    options: ["Equal", "Always zero", "Unequal", "Opposite"],
+    answer: 0
+  },
+  {
+    question: "Which point is equidistant from all three vertices of a triangle?",
+    options: ["Incentre", "Circumcentre", "Centroid", "Any midpoint"],
+    answer: 1
+  },
+  {
+    question: "Which point is equidistant from all three sides of a triangle?",
+    options: ["Circumcentre", "Incentre", "Centroid", "Vertex"],
+    answer: 1
+  },
+  {
+    question: "For an equilateral triangle, the circumcentre and incentre are:",
+    options: ["Different and outside", "The same point", "Always at vertices", "Parallel points"],
+    answer: 1
+  },
+  {
+    question: "Which construction can be used to draw a circle passing through all three vertices of a triangle?",
+    options: ["Find the circumcentre using perpendicular bisectors", "Find the midpoint of one side only", "Bisect one angle only", "Draw a circle with any centre"],
+    answer: 0
+  },
+  {
+    question: "If a triangle is constructed with sides 6 cm, 8 cm and 10 cm, it is:",
+    options: ["Equilateral", "Isosceles", "Right-angled", "Impossible"],
+    answer: 2
+  },
+  {
+    question: "Which pair of lengths cannot form a triangle?",
+    options: ["4 cm, 5 cm, 6 cm", "3 cm, 4 cm, 5 cm", "5 cm, 7 cm, 11 cm", "2 cm, 3 cm, 6 cm"],
+    answer: 3
+  },
+  {
+    question: "If two sides of a triangle are 8 cm and 5 cm, the third side must be:",
+    options: ["Greater than 3 cm and less than 13 cm", "Greater than 13 cm", "Less than 3 cm", "Exactly 13 cm"],
+    answer: 0
+  },
+  {
+    question: "A triangle with sides 6 cm, 6 cm and 6 cm is:",
+    options: ["Scalene", "Isosceles only", "Equilateral", "Right-angled"],
+    answer: 2
+  },
+  {
+    question: "A triangle with sides 5 cm, 5 cm and 8 cm has:",
+    options: ["No equal sides", "Exactly two equal sides", "Three equal sides", "All right angles"],
+    answer: 1
+  },
+  {
+    question: "Which construction can help determine whether a point is equally distant from two endpoints?",
+    options: ["Perpendicular bisector", "Angle bisector", "Parallel line", "Circle with arbitrary radius"],
+    answer: 0
+  },
+  {
+    question: "If a point lies on the perpendicular bisector of AB, then triangle APB is:",
+    options: ["Always equilateral", "Isosceles with PA = PB", "Always right-angled at A", "Always scalene"],
+    answer: 1
+  },
+  {
+    question: "If AB = 10 cm and P lies on its perpendicular bisector, then PA = PB = 13 cm. What is the distance from P to AB?",
+    options: ["8 cm", "10 cm", "12 cm", "13 cm"],
+    answer: 2
+  },
+  {
+    question: "If a perpendicular from P meets AB at its midpoint M, and PA = 10 cm, AM = 6 cm, then PM is:",
+    options: ["6 cm", "8 cm", "10 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction is most directly used to find the shortest distance from a point to a line?",
+    options: ["Perpendicular from the point to the line", "Parallel line", "Angle bisector", "Circle only"],
+    answer: 0
+  },
+  {
+    question: "If two lines are perpendicular, the four angles formed are:",
+    options: ["Four 45° angles", "Two 90° and two 90° angles", "One 90° and three 30° angles", "Four 60° angles"],
+    answer: 1
+  },
+  {
+    question: "Which construction is useful for making a copy of a given line segment at another location?",
+    options: ["Compass transfer", "Protractor only", "Eraser", "Set square only"],
+    answer: 0
+  },
+  {
+    question: "If a line segment of 11 cm is copied using a compass, the copied segment should be:",
+    options: ["Exactly 5.5 cm", "Exactly 11 cm", "Exactly 22 cm", "Any length"],
+    answer: 1
+  },
+  {
+    question: "When constructing an angle, why should the compass opening remain fixed while transferring an arc?",
+    options: ["To preserve the required distance", "To make the paper heavier", "To change the angle", "To shorten the ruler"],
+    answer: 0
+  },
+  {
+    question: "Which of the following is NOT a geometric construction tool?",
+    options: ["Compass", "Straightedge", "Protractor", "Calculator"],
+    answer: 3
+  },
+  {
+    question: "A construction requires an exact midpoint. Which method is more reliable than simply guessing by eye?",
+    options: ["Perpendicular bisector", "Drawing a random line", "Folding without checking", "Estimating"],
+    answer: 0
+  },
+  {
+    question: "If AB = 20 cm and P is on its perpendicular bisector, then PA and PB are:",
+    options: ["Always 10 cm", "Always equal but not necessarily 10 cm", "Always 20 cm", "Always unequal"],
+    answer: 1
+  },
+  {
+    question: "Which statement about the perpendicular bisector is false?",
+    options: ["It passes through the midpoint", "It is perpendicular to the segment", "Every point on it is equidistant from endpoints", "It is parallel to the segment"],
+    answer: 3
+  },
+  {
+    question: "Which statement about an angle bisector is false?",
+    options: ["It divides an angle into equal parts", "Points on it are equidistant from the arms", "It always forms a 90° angle with both arms", "It passes through the vertex"],
+    answer: 2
+  },
+  {
+    question: "If an angle is 150°, its bisector creates:",
+    options: ["50° and 100°", "60° and 90°", "75° and 75°", "70° and 80°"],
+    answer: 2
+  },
+  {
+    question: "If an angle bisector makes a 35° angle with one arm, the original angle is:",
+    options: ["35°", "70°", "105°", "140°"],
+    answer: 1
+  },
+  {
+    question: "Which angle can be constructed by bisecting 120° twice?",
+    options: ["15°", "30°", "45°", "60°"],
+    answer: 1
+  },
+  {
+    question: "If a 180° angle is bisected and one resulting angle is bisected again, the smallest angle is:",
+    options: ["22.5°", "45°", "60°", "90°"],
+    answer: 1
+  },
+  {
+    question: "Which construction gives a 45° angle most directly?",
+    options: ["Bisecting a right angle", "Bisecting a straight angle", "Constructing 60°", "Adding 30° to 30°"],
+    answer: 0
+  },
+  {
+    question: "Which angle can be formed by adding 45° and 45°?",
+    options: ["60°", "75°", "90°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which angle can be obtained by subtracting 30° from 90°?",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2
+  },
+  {
+    question: "A 120° angle and a 60° angle together form:",
+    options: ["90°", "120°", "180°", "240°"],
+    answer: 2
+  },
+  {
+    question: "If two adjacent angles form a straight angle and one is 65°, the other is:",
+    options: ["105°", "115°", "125°", "135°"],
+    answer: 1
+  },
+  {
+    question: "If two adjacent angles form a right angle and one is 37°, the other is:",
+    options: ["43°", "53°", "63°", "73°"],
+    answer: 1
+  },
+  {
+    question: "Which construction is useful for constructing an angle equal to a given angle?",
+    options: ["Copying the angle with a compass", "Drawing a random circle", "Finding the midpoint", "Drawing a perpendicular only"],
+    answer: 0
+  },
+  {
+    question: "When copying an angle, the intersection of the arc with the two arms is important because it:",
+    options: ["Helps preserve the angle's geometry", "Changes the angle randomly", "Measures the paper", "Finds the midpoint automatically"],
+    answer: 0
+  },
+  {
+    question: "Which construction can be used to create a line perpendicular to a given line through a point outside it?",
+    options: ["Perpendicular construction using arcs", "Angle bisector only", "Equilateral triangle only", "Parallel line only"],
+    answer: 0
+  },
+  {
+    question: "If a point P is outside line l, the shortest distance from P to l is along:",
+    options: ["Any slanting line", "A perpendicular", "A parallel", "A circle"],
+    answer: 1
+  },
+  {
+    question: "Which statement is true about a perpendicular from a point to a line?",
+    options: ["It makes a 90° angle with the line", "It always makes 45°", "It is always parallel", "It never intersects the line"],
+    answer: 0
+  },
+  {
+    question: "If two perpendicular lines intersect, the angle at their intersection is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 3
+  },
+  {
+    question: "Which construction can be used to draw a perpendicular at a point on a line?",
+    options: ["Equal arcs on both sides of the point", "Only a protractor", "Only a circle", "A parallel line"],
+    answer: 0
+  },
+  {
+    question: "If the compass opening is too small during perpendicular construction, the arcs may:",
+    options: ["Fail to intersect", "Always form a square", "Automatically become perpendicular", "Create a 60° angle"],
+    answer: 0
+  },
+  {
+    question: "Which pair of tools is most fundamental for classical geometric constructions?",
+    options: ["Compass and straightedge", "Calculator and ruler", "Protractor and calculator", "Eraser and pencil"],
+    answer: 0
+  },
+  {
+    question: "A correct construction should be checked by:",
+    options: ["Verifying the required lengths and angles", "Only looking at its appearance", "Counting pencil marks", "Changing the paper"],
+    answer: 0
+  },
+  {
+    question: "If a constructed triangle has sides 4 cm, 4 cm and 7 cm, it is:",
+    options: ["Equilateral", "Isosceles", "Scalene", "Impossible"],
+    answer: 1
+  },
+  {
+    question: "Which set of three lengths forms an equilateral triangle?",
+    options: ["4 cm, 5 cm, 6 cm", "6 cm, 6 cm, 6 cm", "5 cm, 5 cm, 7 cm", "3 cm, 4 cm, 5 cm"],
+    answer: 1
+  },
+  {
+    question: "A triangle has sides 8 cm, 15 cm and 17 cm. Which construction could verify its right angle geometrically?",
+    options: ["Constructing a perpendicular", "Drawing an angle bisector only", "Finding one midpoint only", "Drawing a random circle"],
+    answer: 0
+  },
+  {
+    question: "If two sides of a triangle are 7 cm and 9 cm, which could be the third side?",
+    options: ["1 cm", "2 cm", "15 cm", "17 cm"],
+    answer: 2
+  },
+  {
+    question: "If a triangle has sides 3 cm, 4 cm and 7 cm, it is:",
+    options: ["Equilateral", "Isosceles", "A valid scalene triangle", "Not a proper triangle"],
+    answer: 3
+  },
+  {
+    question: "Why must the sum of any two sides of a triangle be greater than the third side?",
+    options: ["To satisfy the triangle inequality", "To make all angles equal", "To make all sides equal", "To ensure one angle is 90°"],
+    answer: 0
+  },
+  {
+    question: "Which construction can locate a point at a fixed distance from another point?",
+    options: ["Circle with that point as centre", "Angle bisector", "Straight line only", "Perpendicular bisector only"],
+    answer: 0
+  },
+  {
+    question: "A circle has radius 6 cm. Every point on its circumference is:",
+    options: ["6 cm from the centre", "12 cm from the centre", "3 cm from the centre", "At different distances from the centre"],
+    answer: 0
+  },
+  {
+    question: "If the compass is set to 5 cm, an arc drawn with a centre at A has every point:",
+    options: ["5 cm from A", "10 cm from A", "2.5 cm from A", "Any distance from A"],
+    answer: 0
+  },
+  {
+    question: "Which construction can transfer a known length from one location to another?",
+    options: ["Compass", "Protractor", "Set square only", "Eraser"],
+    answer: 0
+  },
+  {
+    question: "If a segment AB is 15 cm, and a point M divides it in the ratio 1:2, then AM is:",
+    options: ["3 cm", "5 cm", "7.5 cm", "10 cm"],
+    answer: 1
+  },
+  {
+    question: "Which statement about constructing a midpoint is correct?",
+    options: ["The midpoint must lie on the original segment", "The midpoint must lie outside the segment", "The midpoint is always 1 cm from each endpoint", "The midpoint depends on the paper size"],
+    answer: 0
+  },
+  {
+    question: "A line segment is 16 cm long. If its midpoint is M, then AM + MB equals:",
+    options: ["8 cm", "16 cm", "24 cm", "32 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction can divide a 72° angle into two equal parts?",
+    options: ["Angle bisector", "Perpendicular bisector", "Equilateral triangle", "Parallel line"],
+    answer: 0
+  },
+  {
+    question: "Each part of a bisected 72° angle is:",
+    options: ["24°", "36°", "42°", "48°"],
+    answer: 1
+  },
+  {
+    question: "A 48° angle is bisected. One resulting angle is then bisected again. What is the smallest angle?",
+    options: ["12°", "16°", "24°", "32°"],
+    answer: 0
+  },
+  {
+    question: "If a 96° angle is bisected twice successively, the final four equal angles measure:",
+    options: ["12°", "24°", "48°", "32°"],
+    answer: 1
+  },
+  {
+    question: "Which construction is most useful for creating a regular hexagon from a circle?",
+    options: ["Using the radius to mark equal arcs", "Using only an angle bisector", "Using only a ruler", "Using random chords"],
+    answer: 0
+  },
+  {
+    question: "In a circle, the side of a regular hexagon inscribed in it is equal to:",
+    options: ["The radius", "The diameter", "Half the radius", "Twice the radius"],
+    answer: 0
+  },
+  {
+    question: "If a circle has radius 4 cm, the side of a regular hexagon constructed using the radius is:",
+    options: ["2 cm", "4 cm", "8 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction idea is common to both an equilateral triangle and a regular hexagon?",
+    options: ["Using equal-radius arcs", "Using only right angles", "Using only parallel lines", "Using unequal circles"],
+    answer: 0
+  },
+  {
+    question: "If two circles have the same radius and their centres are exactly one radius apart, their intersection points can be used to form:",
+    options: ["An equilateral triangle with the two centres", "A square always", "A rectangle always", "A straight line only"],
+    answer: 0
+  },
+  {
+    question: "Which property makes an equilateral triangle construction possible with a compass?",
+    options: ["Equal sides can be represented by equal radii", "All angles are 90°", "Only one side is needed", "No measurements are needed"],
+    answer: 0
+  },
+  {
+    question: "A construction uses two arcs of equal radius from A and B. If they intersect at P, then:",
+    options: ["PA = PB", "PA > PB", "PA < PB", "PA + PB = AB always"],
+    answer: 0
+  },
+  {
+    question: "If P and Q are both equidistant from A and B, then PQ is:",
+    options: ["The perpendicular bisector of AB", "Parallel to AB", "Equal to AB", "An angle bisector of A"],
+    answer: 0
+  },
+  {
+    question: "Which statement best describes geometric construction?",
+    options: ["Drawing figures using precise mathematical procedures and basic tools", "Drawing figures freehand only", "Using a calculator to draw shapes", "Decorating diagrams"],
+    answer: 0
+  },
+  {
+    question: "Why are construction arcs often drawn lightly?",
+    options: ["They are guiding marks rather than final lines", "They must be colourful", "They represent measurements of mass", "They are always erased before construction"],
+    answer: 0
+  },
+  {
+    question: "If a construction requires the exact same length at several places, which tool is most useful?",
+    options: ["Compass", "Protractor", "Eraser", "Calculator"],
+    answer: 0
+  },
+  {
+    question: "Which mistake would most likely change a copied angle?",
+    options: ["Changing the compass opening while transferring the arc", "Using a sharp pencil", "Drawing lightly", "Labelling points"],
+    answer: 0
+  },
+  {
+    question: "If a perpendicular bisector is constructed correctly, any point on it can be used to form:",
+    options: ["An isosceles triangle with the segment endpoints", "An equilateral triangle always", "A square always", "A straight angle only"],
+    answer: 0
+  },
+  {
+    question: "If P lies on the perpendicular bisector of AB and PA = 13 cm, PB is:",
+    options: ["6.5 cm", "10 cm", "13 cm", "26 cm"],
+    answer: 2
+  },
+  {
+    question: "If the distance from P to each endpoint of AB is 10 cm and AB = 12 cm, then the perpendicular distance from P to AB is:",
+    options: ["6 cm", "8 cm", "10 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = 16 cm and PA = PB = 10 cm, the distance from P to the midpoint of AB is:",
+    options: ["4 cm", "6 cm", "8 cm", "10 cm"],
+    answer: 1
+  },
+  {
+    question: "Which geometric idea is used in the last three problems?",
+    options: ["Perpendicular bisector and right triangles", "Only angle copying", "Only parallel lines", "Only circles"],
+    answer: 0
+  },
+  {
+    question: "A line segment is 18 cm long. A point is 9 cm from each endpoint. Where can such a point lie?",
+    options: ["Only at the midpoint", "On the perpendicular bisector of the segment", "Only outside the plane", "Only at an endpoint"],
+    answer: 1
+  },
+  {
+    question: "Which statement is always true for the midpoint of a segment?",
+    options: ["It is equidistant from both endpoints", "It is perpendicular to the segment", "It is outside the segment", "It forms a 60° angle"],
+    answer: 0
+  },
+  {
+    question: "If a construction requires a line through a point that makes the same angle with a given line as another line does, the useful method is:",
+    options: ["Copying the angle", "Finding the midpoint", "Drawing an arbitrary circle", "Using only a ruler"],
+    answer: 0
+  },
+  {
+    question: "Two parallel lines are cut by a perpendicular. The angle at each intersection is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 3
+  },
+  {
+    question: "Which construction can help verify that a quadrilateral has four equal sides?",
+    options: ["Transfer equal lengths using a compass", "Use only a protractor", "Draw one diagonal only", "Draw random circles"],
+    answer: 0
+  },
+  {
+    question: "A square can be constructed from a line segment by:",
+    options: ["Constructing perpendiculars and transferring equal lengths", "Drawing only a circle", "Bisecting one angle", "Drawing one parallel line only"],
+    answer: 0
+  },
+  {
+    question: "If the side of a square is 6 cm, each of its four sides in a construction should be:",
+    options: ["3 cm", "6 cm", "12 cm", "18 cm"],
+    answer: 1
+  },
+  {
+    question: "Which property is essential for constructing a square?",
+    options: ["Four equal sides and four right angles", "Three equal sides", "Only equal diagonals", "Only one right angle"],
+    answer: 0
+  },
+  {
+    question: "Which construction is useful for drawing a perpendicular to a line through a point on the line?",
+    options: ["Using equal arcs on either side of the point", "Using only a circle with arbitrary centre", "Using only a protractor", "Using only an angle bisector"],
+    answer: 0
+  },
+  {
+    question: "If a construction is repeated with a larger compass opening, what happens to the transferred length?",
+    options: ["It becomes larger", "It becomes smaller", "It becomes zero", "It remains unrelated"],
+    answer: 0
+  },
+  {
+    question: "Which construction principle allows the same length to be reproduced exactly?",
+    options: ["Compass transfer", "Freehand drawing", "Visual estimation", "Colour matching"],
+    answer: 0
+  },
+  {
+    question: "If a line segment is copied three times end-to-end and each copy is 4 cm, the total length is:",
+    options: ["8 cm", "10 cm", "12 cm", "16 cm"],
+    answer: 2
+  },
+  {
+    question: "A 12 cm segment is divided into four equal parts. Each part is:",
+    options: ["2 cm", "3 cm", "4 cm", "6 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction would be useful for repeatedly dividing a segment into equal parts?",
+    options: ["Using parallel lines and proportional division", "Drawing only a circle", "Using only an angle bisector", "Drawing a random perpendicular"],
+    answer: 0
+  },
+  {
+    question: "If a line is divided into 5 equal parts and its total length is 25 cm, each part is:",
+    options: ["4 cm", "5 cm", "6 cm", "7 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction is most appropriate when the goal is to create equal angles rather than equal lengths?",
+    options: ["Angle bisector", "Perpendicular bisector", "Compass transfer only", "Midpoint construction"],
+    answer: 0
+  },
+  {
+    question: "Which construction is most appropriate when the goal is to create equal distances from two points?",
+    options: ["Perpendicular bisector", "Angle bisector", "Parallel line", "Random arc"],
+    answer: 0
+  },
+  {
+    question: "If a point is on the angle bisector of an angle, the shortest distances from that point to the two arms are:",
+    options: ["Equal", "Always unequal", "One is zero", "Their sum is always 90 cm"],
+    answer: 0
+  },
+  {
+    question: "Which statement best distinguishes an angle bisector from a perpendicular bisector?",
+    options: ["An angle bisector divides an angle; a perpendicular bisector divides a segment", "Both always divide circles", "Both always create 60° angles", "They are exactly the same construction"],
+    answer: 0
+  },
+  {
+    question: "A 64° angle is bisected, then each half is bisected again. Each final angle is:",
+    options: ["8°", "16°", "32°", "48°"],
+    answer: 1
+  },
+  {
+    question: "A 128° angle is bisected three times successively. Each final angle is:",
+    options: ["8°", "16°", "32°", "64°"],
+    answer: 1
+  },
+  {
+    question: "Which angle is obtained by bisecting 160° twice?",
+    options: ["20°", "40°", "80°", "100°"],
+    answer: 0
+  },
+  {
+    question: "If a 144° angle is divided into 4 equal parts, each part measures:",
+    options: ["24°", "30°", "36°", "48°"],
+    answer: 2
+  },
+  {
+    question: "Which of the following is a valid construction sequence for an equilateral triangle on AB?",
+    options: ["Draw arcs of radius AB from A and B, then join an intersection to A and B", "Draw a circle of radius AB from A only", "Bisect AB and draw any line", "Draw two unequal arcs and join their centres"],
+    answer: 0
+  },
+  {
+    question: "If the two arcs for an equilateral triangle do not meet, the most likely reason is:",
+    options: ["Compass opening is too small", "Compass opening equals AB", "Ruler is straight", "Pencil is sharp"],
+    answer: 0
+  },
+  {
+    question: "If the arcs used to construct an equilateral triangle have radius equal to AB, then the three sides formed are:",
+    options: ["All equal to AB", "All half of AB", "All twice AB", "All unrelated to AB"],
+    answer: 0
+  },
+  {
+    question: "Which geometric figure has all points on its boundary at the same distance from its centre?",
+    options: ["Circle", "Triangle", "Rectangle", "Parallelogram"],
+    answer: 0
+  },
+  {
+    question: "Which tool can be used to draw a circle of a specified radius without repeatedly measuring the radius?",
+    options: ["Compass", "Protractor", "Straightedge only", "Set square"],
+    answer: 0
+  },
+  {
+    question: "If the radius of a circle is doubled, its diameter becomes:",
+    options: ["Half", "The same", "Double", "Four times"],
+    answer: 2
+  },
+  {
+    question: "If a circle has diameter 14 cm, its radius is:",
+    options: ["5 cm", "6 cm", "7 cm", "8 cm"],
+    answer: 2
+  },
+  {
+    question: "A compass is set to 7 cm. The diameter of the circle drawn is:",
+    options: ["7 cm", "14 cm", "21 cm", "49 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction uses a circle to transfer equal distances around a point?",
+    options: ["Constructing regular polygons", "Constructing only perpendiculars", "Finding only midpoints", "Drawing only straight lines"],
+    answer: 0
+  },
+  {
+    question: "If a regular hexagon is constructed inside a circle of radius 5 cm, each side of the hexagon is:",
+    options: ["2.5 cm", "5 cm", "10 cm", "15 cm"],
+    answer: 1
+  },
+  {
+    question: "Which figure can be divided into six equal central angles in a circle?",
+    options: ["Regular hexagon", "Square", "Triangle", "Rectangle"],
+    answer: 0
+  },
+  {
+    question: "The central angle corresponding to one side of a regular hexagon is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "If a circle is divided into 8 equal sectors, each central angle is:",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 2
+  },
+  {
+    question: "Which construction could divide a full angle of 360° into 4 equal angles?",
+    options: ["Repeatedly constructing perpendiculars", "Drawing one arbitrary circle", "Bisecting a 30° angle", "Using only a ruler"],
+    answer: 0
+  },
+  {
+    question: "If 360° is divided into 6 equal angles, each angle is:",
+    options: ["45°", "50°", "60°", "72°"],
+    answer: 2
+  },
+  {
+    question: "Which construction principle is most important when drawing a regular polygon?",
+    options: ["Equal sides and equal angular divisions", "Unequal sides", "Random angles", "Only one measured side"],
+    answer: 0
+  },
+  {
+    question: "If a construction needs two equal lengths, the best method is:",
+    options: ["Transfer the first length using a compass", "Guess the second length", "Use a protractor", "Draw it freehand"],
+    answer: 0
+  },
+  {
+    question: "Which statement about a straightedge is correct?",
+    options: ["It is used to draw straight lines between points", "It is mainly used to draw circles", "It measures angles automatically", "It creates equal arcs"],
+    answer: 0
+  },
+  {
+    question: "Which statement about a protractor is correct?",
+    options: ["It measures angles", "It transfers lengths", "It draws perfect circles", "It finds all midpoints automatically"],
+    answer: 0
+  },
+  {
+    question: "Which statement about a compass is correct?",
+    options: ["It can draw circles and arcs with a chosen radius", "It measures angles directly", "It draws only parallel lines", "It is used only for erasing"],
+    answer: 0
+  },
+  {
+    question: "Which tool is most useful for checking a constructed 90° angle?",
+    options: ["Set square", "Compass only", "Eraser", "Divider"],
+    answer: 0
+  },
+  {
+    question: "If the construction of an angle gives 89° instead of 90°, it indicates:",
+    options: ["The construction is not perfectly accurate", "The angle is still exactly 90°", "The line is parallel", "The compass is unnecessary"],
+    answer: 0
+  },
+  {
+    question: "Which is the best reason for using construction methods instead of guessing?",
+    options: ["They provide mathematically accurate results", "They make drawings colourful", "They require no measurements", "They are always faster"],
+    answer: 0
+  },
+  {
+    question: "A student draws a perpendicular bisector using arcs of radius less than half the segment. What is the main problem?",
+    options: ["The arcs may not intersect", "The midpoint will always be correct", "The segment becomes longer", "The angle becomes 60°"],
+    answer: 0
+  },
+  {
+    question: "If the compass opening is kept fixed while drawing an arc, every point on that arc is:",
+    options: ["At the same distance from the centre", "At different distances", "On a straight line", "At the midpoint"],
+    answer: 0
+  },
+  {
+    question: "Which construction demonstrates the idea of locus of points equidistant from two fixed points?",
+    options: ["Perpendicular bisector", "Angle bisector", "Circle with one centre", "Parallel line"],
+    answer: 0
+  },
+  {
+    question: "Which construction demonstrates the locus of points equidistant from two intersecting lines?",
+    options: ["Angle bisectors", "Perpendicular bisector", "Circle", "Parallel lines"],
+    answer: 0
+  },
+  {
+    question: "For two intersecting lines, the angle bisectors are:",
+    options: ["Perpendicular to each other", "Always parallel", "Always equal in length", "Never intersecting"],
+    answer: 0
+  },
+  {
+    question: "If two lines intersect and form angles 70° and 110°, their angle bisectors form:",
+    options: ["Equal angles with the original lines", "Only 90° angles", "Only 60° angles", "No relationship"],
+    answer: 0
+  },
+  {
+    question: "Which construction is useful for finding a point equally distant from the three sides of a triangle?",
+    options: ["Intersection of angle bisectors", "Intersection of perpendicular bisectors", "Only one median", "Only one altitude"],
+    answer: 0
+  },
+  {
+    question: "Which construction is useful for finding a point equally distant from the three vertices of a triangle?",
+    options: ["Intersection of perpendicular bisectors", "Intersection of angle bisectors", "Only one altitude", "Only one median"],
+    answer: 0
+  },
+  {
+    question: "If the perpendicular bisectors of a triangle meet outside the triangle, the point is still:",
+    options: ["Equidistant from all three vertices", "Equidistant from all three sides", "Always the centroid", "Always the incenter"],
+    answer: 0
+  },
+  {
+    question: "Which statement about an obtuse triangle's circumcentre is possible?",
+    options: ["It can lie outside the triangle", "It must always be at a vertex", "It must always be the midpoint of a side", "It cannot exist"],
+    answer: 0
+  },
+  {
+    question: "Which statement about the incentre is always true?",
+    options: ["It lies inside the triangle", "It lies outside every triangle", "It is always a vertex", "It is always on a side"],
+    answer: 0
+  },
+  {
+    question: "If a triangle is equilateral, its angle bisectors and perpendicular bisectors:",
+    options: ["Pass through the same central point", "Never meet", "Are all parallel", "Always lie outside"],
+    answer: 0
+  },
+  {
+    question: "Which construction can be used to draw the incircle of a triangle?",
+    options: ["Find the incentre using angle bisectors, then draw a circle", "Find the circumcentre only", "Draw any circle", "Use only the midpoint of one side"],
+    answer: 0
+  },
+  {
+    question: "Which construction can be used to draw the circumcircle of a triangle?",
+    options: ["Find the circumcentre using perpendicular bisectors", "Find the incentre only", "Bisect one angle only", "Draw a circle with a vertex as centre"],
+    answer: 0
+  },
+  {
+    question: "If a circle passes through all three vertices of a triangle, its centre is:",
+    options: ["The circumcentre", "The incentre", "The centroid", "A vertex"],
+    answer: 0
+  },
+  {
+    question: "If a circle touches all three sides of a triangle internally, its centre is:",
+    options: ["The incentre", "The circumcentre", "The midpoint", "The centroid"],
+    answer: 0
+  },
+  {
+    question: "Which construction concept is most important in making a precise diagram?",
+    options: ["Using fixed lengths and exact angles", "Guessing by eye", "Changing measurements randomly", "Drawing without tools"],
+    answer: 0
+  },
+  {
+    question: "If two points are exactly 10 cm apart, which tool can be set to 10 cm and used to transfer that distance?",
+    options: ["Compass", "Protractor", "Set square", "Eraser"],
+    answer: 0
+  },
+  {
+    question: "Which action should be avoided during a precise construction?",
+    options: ["Changing the compass opening unnecessarily", "Keeping the compass fixed", "Labelling points", "Checking measurements"],
+    answer: 0
+  },
+  {
+    question: "A construction has two intersection points of arcs. Why are both useful?",
+    options: ["They determine a unique straight line for the required construction", "They always form a circle", "They measure the angle directly", "They are decorative"],
+    answer: 0
+  },
+  {
+    question: "If only one intersection point is obtained instead of two while constructing a perpendicular bisector, the compass radius may be:",
+    options: ["Exactly half the segment", "Greater than half but less than the full segment", "Zero", "Unrelated"],
+    answer: 0
+  },
+  {
+    question: "If the compass radius is exactly equal to AB, the arcs centred at A and B will:",
+    options: ["Intersect at two points", "Never intersect", "Intersect only at A", "Intersect only at B"],
+    answer: 0
+  },
+  {
+    question: "Which construction can be performed without measuring the numerical value of an angle?",
+    options: ["Copying an angle", "Measuring with a protractor", "Calculating an angle", "Reading a scale"],
+    answer: 0
+  },
+  {
+    question: "If an angle is copied correctly, the new angle should have:",
+    options: ["The same measure as the original", "Twice the original measure", "Half the original measure", "A random measure"],
+    answer: 0
+  },
+  {
+    question: "Which construction can create a line segment equal to a given segment without using a scale?",
+    options: ["Compass transfer", "Protractor", "Angle bisector", "Perpendicular bisector"],
+    answer: 0
+  },
+  {
+    question: "If a given segment is 13 cm, a correctly copied segment using a compass will be:",
+    options: ["6.5 cm", "13 cm", "26 cm", "Cannot be determined"],
+    answer: 1
+  },
+  {
+    question: "Which property is used when copying a line segment with a compass?",
+    options: ["Equal radii represent equal lengths", "Equal angles represent equal lengths", "Parallel lines are equal", "Perpendicular lines are equal"],
+    answer: 0
+  },
+  {
+    question: "Which construction is useful for constructing a rhombus when one side and an angle are known?",
+    options: ["Transfer equal side lengths and copy the angle", "Draw only one circle", "Use only the midpoint", "Draw only perpendicular bisectors"],
+    answer: 0
+  },
+  {
+    question: "A rhombus has:",
+    options: ["All four sides equal", "Only two sides equal", "All angles 90° always", "No equal sides"],
+    answer: 0
+  },
+  {
+    question: "Which property distinguishes a square from a general rhombus?",
+    options: ["All angles of a square are 90°", "All sides of a square are unequal", "A square has only three sides", "A rhombus cannot have equal sides"],
+    answer: 0
+  },
+  {
+    question: "Which construction idea helps build a square on a given segment?",
+    options: ["Perpendiculars at endpoints and equal-length transfer", "Only angle bisectors", "Only circles", "Only a midpoint"],
+    answer: 0
+  },
+  {
+    question: "If a square has side 9 cm, its diagonal is greater than:",
+    options: ["4.5 cm", "9 cm", "18 cm", "27 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction tool can create the diagonal of a square after its vertices are known?",
+    options: ["Straightedge", "Compass only", "Protractor only", "Eraser"],
+    answer: 0
+  },
+  {
+    question: "If two diagonals of a square intersect, they:",
+    options: ["Bisect each other at right angles", "Never intersect", "Are parallel", "Make only 30° angles"],
+    answer: 0
+  },
+  {
+    question: "Which construction can help find the centre of a square?",
+    options: ["Intersection of its diagonals", "One vertex only", "One side only", "Any point outside"],
+    answer: 0
+  },
+  {
+    question: "If a rectangle has length 12 cm and width 5 cm, which construction could verify a right angle?",
+    options: ["Set square or perpendicular construction", "Compass only", "Angle bisector only", "Circle only"],
+    answer: 0
+  },
+  {
+    question: "Which statement about parallel lines is correct?",
+    options: ["They never meet when extended in the same plane", "They always meet at 90°", "They have different directions at every point", "They are always perpendicular"],
+    answer: 0
+  },
+  {
+    question: "A line perpendicular to one of two parallel lines is:",
+    options: ["Perpendicular to the other as well", "Parallel to the other", "Coincident with the other", "At 45° to the other"],
+    answer: 0
+  },
+  {
+    question: "Which method can be used to construct a parallel line through a given point?",
+    options: ["Copy the corresponding angle", "Draw a random circle", "Bisect the point", "Use only an eraser"],
+    answer: 0
+  },
+  {
+    question: "If a line makes 60° with a given line, a parallel line constructed using the same corresponding angle will also make:",
+    options: ["30°", "45°", "60°", "120°"],
+    answer: 2
+  },
+  {
+    question: "Which geometric construction is most closely connected to symmetry of a line segment?",
+    options: ["Perpendicular bisector", "Random circle", "Parallel line", "Angle measurement"],
+    answer: 0
+  },
+  {
+    question: "The perpendicular bisector of AB is a line of:",
+    options: ["Symmetry for segment AB", "Rotation only", "Parallelism only", "No symmetry"],
+    answer: 0
+  },
+  {
+    question: "If a figure is symmetric about a line, corresponding points on opposite sides of the line are:",
+    options: ["Equidistant from the line", "Always at different distances", "Always on the line", "Always 90° apart"],
+    answer: 0
+  },
+  {
+    question: "Which construction can help create a line of symmetry of a segment?",
+    options: ["Perpendicular bisector", "Angle bisector only", "Parallel line", "Circle with random centre"],
+    answer: 0
+  },
+  {
+    question: "A regular polygon has:",
+    options: ["Equal sides and equal angles", "Only equal sides", "Only equal angles", "No pattern"],
+    answer: 0
+  },
+  {
+    question: "Which regular polygon has three equal sides and three equal angles?",
+    options: ["Square", "Triangle", "Pentagon", "Hexagon"],
+    answer: 1
+  },
+  {
+    question: "Which regular polygon has six equal sides?",
+    options: ["Triangle", "Square", "Pentagon", "Hexagon"],
+    answer: 3
+  },
+  {
+    question: "Which central angle is needed to divide a circle into 5 equal parts?",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1
+  },
+  {
+    question: "Which central angle is needed to divide a circle into 10 equal parts?",
+    options: ["18°", "30°", "36°", "45°"],
+    answer: 2
+  },
+  {
+    question: "Which construction principle is used when marking equal arcs around a circle?",
+    options: ["Keeping the compass radius fixed", "Changing the radius each time", "Using only a protractor", "Using unequal chords"],
+    answer: 0
+  },
+  {
+    question: "If a circle has radius 8 cm, the distance between adjacent vertices of a regular hexagon inscribed in it is:",
+    options: ["4 cm", "8 cm", "12 cm", "16 cm"],
+    answer: 1
+  },
+  {
+    question: "Which figure can be constructed by drawing six equal arcs around a circle using its radius?",
+    options: ["Regular hexagon", "Square", "Rectangle", "Pentagon"],
+    answer: 0
+  },
+  {
+    question: "If a construction needs an exact 60° angle, which method is most direct?",
+    options: ["Construct an equilateral triangle", "Bisect 90°", "Draw a square", "Use a random angle"],
+    answer: 0
+  },
+  {
+    question: "Which construction gives a 120° angle directly from a 60° construction?",
+    options: ["Extend one arm and use the supplementary angle", "Bisect 60°", "Bisect 90°", "Draw a midpoint"],
+    answer: 0
+  },
+  {
+    question: "If two adjacent angles are 60° and 120°, they form:",
+    options: ["A right angle", "A straight angle", "A reflex angle", "A complete angle"],
+    answer: 1
+  },
+  {
+    question: "Which construction can be used to create a 30° angle from a 60° angle?",
+    options: ["Angle bisector", "Perpendicular bisector", "Parallel line", "Compass transfer only"],
+    answer: 0
+  },
+  {
+    question: "Which construction can be used to create a 15° angle from a 30° angle?",
+    options: ["Bisect the 30° angle", "Double the 30° angle", "Add 90°", "Subtract 60°"],
+    answer: 0
+  },
+  {
+    question: "If a 15° angle is added to a 45° angle, the result is:",
+    options: ["50°", "60°", "75°", "90°"],
+    answer: 1
+  },
+  {
+    question: "If a 30° angle is added to a 90° angle, the result is:",
+    options: ["100°", "110°", "120°", "150°"],
+    answer: 2
+  },
+  {
+    question: "Which construction is useful for checking whether a quadrilateral has opposite sides parallel?",
+    options: ["Constructing and comparing corresponding angles", "Drawing only one circle", "Finding one midpoint", "Using only a compass"],
+    answer: 0
+  },
+  {
+    question: "A parallelogram has opposite sides:",
+    options: ["Parallel and equal", "Always perpendicular", "All unequal", "Only one pair equal"],
+    answer: 0
+  },
+  {
+    question: "Which construction could create a parallelogram from two adjacent sides?",
+    options: ["Construct parallels through opposite endpoints", "Draw only a perpendicular bisector", "Draw a circle only", "Bisect one angle"],
+    answer: 0
+  },
+  {
+    question: "If two adjacent sides of a parallelogram are 6 cm and 4 cm, the opposite sides are:",
+    options: ["6 cm and 4 cm", "12 cm and 8 cm", "3 cm and 2 cm", "All 10 cm"],
+    answer: 0
+  },
+  {
+    question: "Which property can be used while constructing a rectangle?",
+    options: ["Adjacent sides are perpendicular", "All sides must be unequal", "No angles are equal", "Only one side is needed"],
+    answer: 0
+  },
+  {
+    question: "If a rectangle has length 10 cm and width 7 cm, its opposite sides are:",
+    options: ["10 cm and 7 cm", "All 10 cm", "All 7 cm", "All different"],
+    answer: 0
+  },
+  {
+    question: "Which construction can help create a perpendicular through a point outside a line?",
+    options: ["Intersecting arcs from the point and points on the line", "Drawing a parallel line only", "Bisecting an angle only", "Drawing a circle with no intersections"],
+    answer: 0
+  },
+  {
+    question: "If a point P is 5 cm from line l along the perpendicular, then any slanting segment from P to l is:",
+    options: ["At least 5 cm", "Always less than 5 cm", "Exactly 5 cm", "Always zero"],
+    answer: 0
+  },
+  {
+    question: "Which construction is most important for accurate perpendicular and midpoint problems?",
+    options: ["Using equal-radius arcs carefully", "Guessing the midpoint", "Changing compass width", "Using random angles"],
+    answer: 0
+  },
+  {
+    question: "If AB = 10 cm and a point P is 6 cm from both A and B, the distance from P to AB is:",
+    options: ["√11 cm", "√36 cm", "√61 cm", "√86 cm"],
+    answer: 0
+  },
+  {
+    question: "If AB = 12 cm and PA = PB = 10 cm, the distance from P to AB is:",
+    options: ["6 cm", "8 cm", "10 cm", "12 cm"],
+    answer: 1
+  },
+  {
+    question: "If AB = 24 cm and PA = PB = 15 cm, the perpendicular distance from P to AB is:",
+    options: ["7 cm", "9 cm", "12 cm", "15 cm"],
+    answer: 1
+  },
+  {
+    question: "Which mathematical idea is used to calculate the perpendicular height in the previous construction?",
+    options: ["Pythagorean relationship", "Only angle bisector", "Only parallel lines", "Only midpoint rule"],
+    answer: 0
+  },
+  {
+    question: "If a right triangle has hypotenuse 13 cm and one leg 5 cm, the other leg is:",
+    options: ["8 cm", "10 cm", "12 cm", "14 cm"],
+    answer: 2
+  },
+  {
+    question: "Which construction could help create a right triangle with sides 5 cm, 12 cm and 13 cm?",
+    options: ["Construct perpendicular sides of 5 cm and 12 cm", "Construct three equal sides", "Bisect 60°", "Draw a circle only"],
+    answer: 0
+  },
+  {
+    question: "A triangle with side lengths 5 cm, 12 cm and 13 cm is:",
+    options: ["Equilateral", "Isosceles", "Right-angled", "Impossible"],
+    answer: 2
+  },
+  {
+    question: "Which construction principle is demonstrated by making a 3-4-5 right triangle?",
+    options: ["Exact lengths can create a precise right angle", "All sides must be equal", "All angles must be 60°", "Only circles can form triangles"],
+    answer: 0
+  },
+  {
+    question: "If a line segment is 15 cm and its midpoint is constructed accurately, each half is:",
+    options: ["5 cm", "7.5 cm", "10 cm", "15 cm"],
+    answer: 1
+  },
+  {
+    question: "If a segment is 21 cm and divided into three equal parts, each part is:",
+    options: ["6 cm", "7 cm", "8 cm", "9 cm"],
+    answer: 1
+  },
+  {
+    question: "Which method can divide a segment into three equal parts without directly measuring each part?",
+    options: ["Using auxiliary rays and parallel lines", "Using only a compass circle", "Using only an angle bisector", "Drawing a random perpendicular"],
+    answer: 0
+  },
+  {
+    question: "A 30 cm segment is divided into 5 equal parts. The length of each part is:",
+    options: ["5 cm", "6 cm", "7 cm", "8 cm"],
+    answer: 1
+  },
+  {
+    question: "Which construction method is based on proportional division?",
+    options: ["Parallel-line method", "Circle-only method", "Angle-copying only", "Perpendicular bisector only"],
+    answer: 0
+  },
+  {
+    question: "If 2/5 of a segment is 8 cm, the whole segment is:",
+    options: ["16 cm", "18 cm", "20 cm", "24 cm"],
+    answer: 2
+  },
+  {
+    question: "Which construction can help create a segment whose length is 3 times a given segment?",
+    options: ["Transfer the length three times with a compass", "Bisect the segment", "Draw a perpendicular", "Copy an angle"],
+    answer: 0
+  },
+  {
+    question: "If a given segment is 7 cm, constructing three consecutive equal copies gives:",
+    options: ["14 cm", "21 cm", "28 cm", "35 cm"],
+    answer: 1
+  },
+  {
+    question: "Which statement best explains why construction arcs are useful?",
+    options: ["They create exact locations based on equal distances", "They make diagrams colourful", "They replace all straight lines", "They automatically calculate angles"],
+    answer: 0
+  },
+  {
+    question: "If an arc is drawn from A with radius 6 cm and from B with the same radius, an intersection point P satisfies:",
+    options: ["PA = PB = 6 cm", "PA = 12 cm and PB = 6 cm", "PA = 3 cm and PB = 6 cm", "PA and PB are unrelated"],
+    answer: 0
+  },
+  {
+    question: "If AB = 8 cm and AP = BP = 5 cm, triangle ABP is:",
+    options: ["Equilateral", "Isosceles", "Scalene", "Impossible"],
+    answer: 1
+  },
+  {
+    question: "If AB = 6 cm and AP = BP = 6 cm, triangle ABP is:",
+    options: ["Equilateral", "Isosceles only", "Scalene", "Right-angled"],
+    answer: 0
+  },
+  {
+    question: "Which construction creates an equilateral triangle from two intersecting equal-radius arcs?",
+    options: ["Join the intersection point to both centres", "Join only the centres", "Draw a perpendicular", "Bisect one angle"],
+    answer: 0
+  },
+  {
+    question: "If an equilateral triangle has side 10 cm, each angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 2
+  },
+  {
+    question: "Which construction can divide an equilateral triangle into two congruent right triangles?",
+    options: ["Draw an altitude from a vertex", "Draw a random circle", "Bisect one exterior angle", "Draw a parallel line outside"],
+    answer: 0
+  },
+  {
+    question: "The altitude of an equilateral triangle also acts as:",
+    options: ["A median and angle bisector", "Only a side", "Only a perpendicular bisector of every side", "A tangent"],
+    answer: 0
+  },
+  {
+    question: "Which construction helps locate the centre of an equilateral triangle?",
+    options: ["Intersection of its medians or angle bisectors", "One vertex only", "One side only", "Any point outside"],
+    answer: 0
+  },
+  {
+    question: "Which geometric construction is based on reflection symmetry?",
+    options: ["Perpendicular bisector", "Random arc", "Parallel line only", "Circle with arbitrary radius"],
+    answer: 0
+  },
+  {
+    question: "If AB is reflected across its perpendicular bisector, A and B:",
+    options: ["Exchange positions", "Stay on the same side", "Disappear", "Become perpendicular"],
+    answer: 0
+  },
+  {
+    question: "Which line remains unchanged when a segment is reflected about its perpendicular bisector?",
+    options: ["The perpendicular bisector", "Only AB", "Any parallel line", "No line"],
+    answer: 0
+  },
+  {
+    question: "If a point P and its reflection Q are symmetric about a line l, then:",
+    options: ["l is the perpendicular bisector of PQ", "l is parallel to PQ", "P and Q lie on l", "PQ is always 60° to l"],
+    answer: 0
+  },
+  {
+    question: "Which construction is most useful for constructing a mirror image of a point across a line?",
+    options: ["Perpendicular and equal-distance construction", "Angle bisector only", "Circle with arbitrary centre", "Parallel line only"],
+    answer: 0
+  },
+  {
+    question: "If a point is reflected across a line, the original and image points are:",
+    options: ["Equidistant from the mirror line", "Always on the mirror line", "Always at different distances", "Always 60° apart"],
+    answer: 0
+  },
+  {
+    question: "Which statement about construction accuracy is correct?",
+    options: ["A tiny error in compass opening can affect later steps", "Compass opening never matters", "Ruler alignment never matters", "Errors always cancel automatically"],
+    answer: 0
+  },
+  {
+    question: "Why should the compass needle remain fixed at the chosen centre while drawing an arc?",
+    options: ["To maintain a constant radius", "To change the radius continuously", "To draw a straight line", "To measure an angle"],
+    answer: 0
+  },
+],
+
+9: [
+  {
+    question: "A square has how many lines of symmetry?",
+    options: ["2", "3", "4", "1"],
+    answer: 2,
+  },
+  {
+    question: "A scalene triangle has how many lines of symmetry?",
+    options: ["1", "2", "3", "0"],
+    answer: 3,
+  },
+  {
+    question: "An equilateral triangle has how many lines of symmetry?",
+    options: ["1", "3", "2", "0"],
+    answer: 1,
+  },
+  {
+    question: "A rectangle that is not a square has how many lines of symmetry?",
+    options: ["2", "1", "4", "0"],
+    answer: 0,
+  },
+  {
+    question: "A regular pentagon has how many lines of symmetry?",
+    options: ["4", "5", "3", "2"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon has how many lines of symmetry?",
+    options: ["3", "6", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "A circle has how many lines of symmetry?",
+    options: ["1", "2", "4", "Infinitely many"],
+    answer: 3,
+  },
+  {
+    question: "Which figure has exactly one line of symmetry?",
+    options: ["Square", "Isosceles triangle", "Circle", "Scalene triangle"],
+    answer: 1,
+  },
+  {
+    question: "Which figure has no line of symmetry?",
+    options: ["Square", "Equilateral triangle", "General parallelogram", "Circle"],
+    answer: 2,
+  },
+  {
+    question: "A kite generally has how many lines of symmetry?",
+    options: ["1", "2", "0", "4"],
+    answer: 0,
+  },
+  {
+    question: "A rhombus that is not a square has how many lines of symmetry?",
+    options: ["4", "1", "2", "0"],
+    answer: 2,
+  },
+  {
+    question: "A regular octagon has how many lines of symmetry?",
+    options: ["4", "6", "8", "10"],
+    answer: 2,
+  },
+  {
+    question: "A regular decagon has how many lines of symmetry?",
+    options: ["5", "10", "8", "12"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 12 sides. How many lines of symmetry does it have?",
+    options: ["6", "10", "24", "12"],
+    answer: 3,
+  },
+  {
+    question: "A regular polygon has 7 sides. How many lines of symmetry does it have?",
+    options: ["5", "7", "14", "6"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has exactly 4 lines of symmetry?",
+    options: ["Rectangle", "Square", "Kite", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has exactly 3 lines of symmetry?",
+    options: ["Square", "Rectangle", "Equilateral triangle", "Regular pentagon"],
+    answer: 2,
+  },
+  {
+    question: "A point is 6 cm away from a line of symmetry. How far is its mirror image from the same line?",
+    options: ["3 cm", "6 cm", "12 cm", "0 cm"],
+    answer: 1,
+  },
+  {
+    question: "The distance between a point and its mirror image is 18 cm. How far is the point from the line of symmetry?",
+    options: ["6 cm", "9 cm", "18 cm", "36 cm"],
+    answer: 1,
+  },
+  {
+    question: "Which transformation produces a mirror image?",
+    options: ["Rotation", "Reflection", "Translation", "Enlargement"],
+    answer: 1,
+  },
+  {
+    question: "What remains unchanged when a figure is reflected?",
+    options: ["Its size and shape", "Only its position", "Only its direction", "Nothing"],
+    answer: 0,
+  },
+  {
+    question: "A square is reflected across one of its diagonals. What happens?",
+    options: ["It becomes a triangle", "It becomes a rectangle", "It coincides with itself", "It doubles in size"],
+    answer: 2,
+  },
+  {
+    question: "Which capital letter has a vertical line of symmetry?",
+    options: ["F", "A", "G", "R"],
+    answer: 1,
+  },
+  {
+    question: "Which capital letter has a horizontal line of symmetry?",
+    options: ["A", "C", "P", "R"],
+    answer: 1,
+  },
+  {
+    question: "Which capital letter has both vertical and horizontal lines of symmetry?",
+    options: ["A", "H", "F", "L"],
+    answer: 1,
+  },
+  {
+    question: "Which capital letter has no line of symmetry?",
+    options: ["O", "X", "S", "H"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has 5 lines of symmetry and is a regular polygon, how many sides does it have?",
+    options: ["4", "5", "6", "10"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 9 sides, how many lines of symmetry does it have?",
+    options: ["6", "8", "9", "18"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 20 sides. How many lines of symmetry does it have?",
+    options: ["10", "15", "20", "40"],
+    answer: 2,
+  },
+  {
+    question: "Which shape has infinitely many lines of symmetry?",
+    options: ["Square", "Circle", "Regular pentagon", "Rectangle"],
+    answer: 1,
+  },
+  {
+    question: "A figure has exactly two lines of symmetry. Which shape could it be?",
+    options: ["Non-square rectangle", "Scalene triangle", "Regular pentagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry but no line of symmetry. Which could it be?",
+    options: ["Square", "General parallelogram", "Equilateral triangle", "Circle"],
+    answer: 1,
+  },
+  {
+    question: "A square has two types of symmetry axes. Two pass through:",
+    options: ["Adjacent vertices", "Opposite vertices", "Only one vertex", "No vertices"],
+    answer: 1,
+  },
+  {
+    question: "The other two symmetry axes of a square pass through:",
+    options: ["Opposite side midpoints", "Adjacent vertices", "Only the centre", "One vertex and one side"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon has how many symmetry axes passing through opposite vertices?",
+    options: ["2", "3", "4", "6"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon has how many symmetry axes passing through opposite side midpoints?",
+    options: ["2", "3", "4", "6"],
+    answer: 1,
+  },
+  {
+    question: "A regular octagon has how many symmetry axes passing through opposite vertices?",
+    options: ["2", "4", "6", "8"],
+    answer: 1,
+  },
+  {
+    question: "A regular octagon has how many symmetry axes passing through opposite side midpoints?",
+    options: ["2", "4", "6", "8"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon has each symmetry axis passing through:",
+    options: ["Two vertices", "A vertex and midpoint of opposite side", "Two side midpoints", "Only its centre"],
+    answer: 1,
+  },
+  {
+    question: "Which triangle has exactly one line of symmetry?",
+    options: ["Scalene", "Isosceles but not equilateral", "Equilateral", "Right scalene"],
+    answer: 1,
+  },
+  {
+    question: "Which triangle has three lines of symmetry?",
+    options: ["Scalene", "Isosceles", "Equilateral", "Right-angled"],
+    answer: 2,
+  },
+  {
+    question: "Which quadrilateral has four lines of symmetry?",
+    options: ["Square", "Rectangle", "Rhombus", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which quadrilateral normally has one line of symmetry?",
+    options: ["Parallelogram", "Square", "Kite", "Rectangle"],
+    answer: 2,
+  },
+  {
+    question: "Which quadrilateral normally has zero lines of symmetry?",
+    options: ["Square", "General parallelogram", "Kite", "Rectangle"],
+    answer: 1,
+  },
+  {
+    question: "Which quadrilateral has exactly two lines of symmetry?",
+    options: ["Square", "Non-square rectangle", "General parallelogram", "Kite"],
+    answer: 1,
+  },
+  {
+    question: "A figure is folded along its line of symmetry. The two halves should:",
+    options: ["Overlap exactly", "Have different sizes", "Form different shapes", "Separate completely"],
+    answer: 0,
+  },
+  {
+    question: "If a point lies on the line of symmetry, its distance from the line after reflection is:",
+    options: ["Doubled", "Halved", "Still zero", "Tripled"],
+    answer: 2,
+  },
+  {
+    question: "A point is 4 cm to one side of a symmetry line. Where is its image?",
+    options: ["4 cm on the opposite side", "8 cm on the same side", "2 cm on the opposite side", "On the line"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about reflection is correct?",
+    options: ["It changes the size", "It changes the shape", "It preserves size and shape", "It always rotates the figure"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 8 lines of symmetry. Which could it be?",
+    options: ["Regular hexagon", "Regular octagon", "Regular pentagon", "Square"],
+    answer: 1,
+  },
+  {
+    question: "A figure has exactly 10 lines of symmetry. Which regular polygon could it be?",
+    options: ["Pentagon", "Hexagon", "Decagon", "Octagon"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 18 sides. How many lines of symmetry does it have?",
+    options: ["9", "18", "36", "6"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 25 sides. How many lines of symmetry does it have?",
+    options: ["12", "20", "25", "50"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has more lines of symmetry than a square?",
+    options: ["Rectangle", "Regular pentagon", "Circle", "Equilateral triangle"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has fewer lines of symmetry than a square but more than a scalene triangle?",
+    options: ["Circle", "Rectangle", "Parallelogram", "Scalene triangle"],
+    answer: 1,
+  },
+  {
+    question: "Which pair has the same number of lines of symmetry?",
+    options: ["Square and rectangle", "Equilateral triangle and regular hexagon", "Pentagon and hexagon", "Kite and square"],
+    answer: 1,
+  },
+  {
+    question: "Which pair has exactly one line of symmetry each?",
+    options: ["Square and circle", "Kite and isosceles triangle", "Rectangle and rhombus", "Pentagon and hexagon"],
+    answer: 1,
+  },
+  {
+    question: "Which pair has no line of symmetry?",
+    options: ["Square and circle", "Scalene triangle and general parallelogram", "Kite and rectangle", "Pentagon and triangle"],
+    answer: 1,
+  },
+  {
+    question: "If one half of a symmetric figure is given, the complete figure can be constructed by:",
+    options: ["Reflection", "Random rotation", "Translation only", "Changing its size"],
+    answer: 0,
+  },
+  {
+    question: "The mirror image of a point 7 cm above a horizontal symmetry line will be:",
+    options: ["7 cm below the line", "14 cm below the line", "7 cm above the line", "On the line"],
+    answer: 0,
+  },
+  {
+    question: "The mirror image of a point 8 cm left of a vertical symmetry line will be:",
+    options: ["8 cm right of the line", "16 cm right of the line", "8 cm left of the line", "On the line"],
+    answer: 0,
+  },
+  {
+    question: "A shape has four lines of symmetry and rotational symmetry of order 4. Which shape is it?",
+    options: ["Rectangle", "Square", "Kite", "Rhombus"],
+    answer: 1,
+  },
+  {
+    question: "A shape has three lines of symmetry and rotational symmetry of order 3. Which shape is it?",
+    options: ["Square", "Equilateral triangle", "Rectangle", "Kite"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon has rotational symmetry of order:",
+    options: ["3", "4", "5", "10"],
+    answer: 2,
+  },
+  {
+    question: "A regular hexagon has rotational symmetry of order:",
+    options: ["3", "4", "6", "12"],
+    answer: 2,
+  },
+  {
+    question: "A square has rotational symmetry of order:",
+    options: ["2", "3", "4", "8"],
+    answer: 2,
+  },
+  {
+    question: "A rectangle that is not a square has rotational symmetry of order:",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "A general parallelogram has rotational symmetry of order:",
+    options: ["2", "1", "4", "3"],
+    answer: 0,
+  },
+  {
+    question: "An equilateral triangle has rotational symmetry of order:",
+    options: ["2", "3", "4", "6"],
+    answer: 1,
+  },
+  {
+    question: "A regular octagon has rotational symmetry of order:",
+    options: ["4", "6", "8", "10"],
+    answer: 2,
+  },
+  {
+    question: "The smallest angle of rotation for a square is:",
+    options: ["45°", "60°", "90°", "180°"],
+    answer: 2,
+  },
+  {
+    question: "The smallest angle of rotation for an equilateral triangle is:",
+    options: ["60°", "90°", "120°", "180°"],
+    answer: 2,
+  },
+  {
+    question: "The smallest angle of rotation for a regular pentagon is:",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1,
+  },
+  {
+    question: "The smallest angle of rotation for a regular hexagon is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 1,
+  },
+  {
+    question: "A figure has rotational symmetry of order 4. What is its smallest angle of rotation?",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2,
+  },
+  {
+    question: "A figure has rotational symmetry of order 5. What is its smallest angle of rotation?",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1,
+  },
+  {
+    question: "A figure has rotational symmetry of order 6. What is its smallest angle of rotation?",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 2,
+  },
+  {
+    question: "A figure has rotational symmetry of order 8. What is its smallest angle of rotation?",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1,
+  },
+  {
+    question: "A square is rotated through 90°. What happens?",
+    options: ["It becomes a triangle", "It does not match", "It matches itself", "It doubles in size"],
+    answer: 2,
+  },
+  {
+    question: "A square is rotated through 45°. What happens?",
+    options: ["It matches itself", "It does not match itself", "It becomes a rectangle", "It becomes a circle"],
+    answer: 1,
+  },
+  {
+    question: "An equilateral triangle is rotated through 120°. What happens?",
+    options: ["It matches itself", "It becomes a square", "It does not match", "It becomes a rectangle"],
+    answer: 0,
+  },
+  {
+    question: "A regular pentagon is rotated through 72°. What happens?",
+    options: ["It becomes a triangle", "It matches itself", "It loses symmetry", "It becomes a square"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon is rotated through 60°. What happens?",
+    options: ["It matches itself", "It becomes a triangle", "It does not match", "It becomes a square"],
+    answer: 0,
+  },
+  {
+    question: "Which angle of rotation does NOT map a square onto itself?",
+    options: ["90°", "180°", "270°", "45°"],
+    answer: 3,
+  },
+  {
+    question: "Which angle of rotation maps a regular pentagon onto itself?",
+    options: ["45°", "72°", "90°", "100°"],
+    answer: 1,
+  },
+  {
+    question: "Which angle of rotation maps a regular hexagon onto itself?",
+    options: ["60°", "45°", "50°", "80°"],
+    answer: 0,
+  },
+  {
+    question: "If a pattern repeats every 30° during a full turn, what is its rotational symmetry order?",
+    options: ["10", "12", "15", "30"],
+    answer: 1,
+  },
+  {
+    question: "If a pattern repeats every 45° during a full turn, what is its rotational symmetry order?",
+    options: ["6", "7", "8", "9"],
+    answer: 2,
+  },
+  {
+    question: "If a pattern repeats every 60° during a full turn, what is its rotational symmetry order?",
+    options: ["4", "5", "6", "8"],
+    answer: 2,
+  },
+  {
+    question: "If a pattern repeats every 90° during a full turn, what is its rotational symmetry order?",
+    options: ["2", "3", "4", "6"],
+    answer: 2,
+  },
+  {
+    question: "A shape has rotational symmetry of order 10. What is the smallest angle of rotation?",
+    options: ["18°", "20°", "36°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "A shape has rotational symmetry of order 12. What is the smallest angle of rotation?",
+    options: ["20°", "30°", "45°", "60°"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has both line symmetry and rotational symmetry of order 2?",
+    options: ["Non-square rectangle", "Scalene triangle", "General parallelogram", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which shape can have rotational symmetry without having any line of symmetry?",
+    options: ["General parallelogram", "Square", "Equilateral triangle", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 11 sides. Its number of lines of symmetry is:",
+    options: ["10", "11", "22", "5"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 16 sides. Its number of lines of symmetry is:",
+    options: ["8", "12", "16", "32"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 24 sides. Its number of lines of symmetry is:",
+    options: ["12", "18", "24", "48"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 30 sides. Its number of lines of symmetry is:",
+    options: ["15", "20", "30", "60"],
+    answer: 2,
+  },
+  {
+    question: "Which regular polygon has exactly 8 lines of symmetry?",
+    options: ["Regular hexagon", "Regular octagon", "Regular decagon", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which regular polygon has exactly 9 lines of symmetry?",
+    options: ["Regular octagon", "Regular nonagon", "Regular decagon", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which regular polygon has exactly 10 lines of symmetry?",
+    options: ["Regular octagon", "Regular decagon", "Regular hexagon", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 13 lines of symmetry, how many sides does it have?",
+    options: ["12", "13", "26", "6"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 17 lines of symmetry, how many sides does it have?",
+    options: ["15", "16", "17", "34"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has the greatest number of lines of symmetry?",
+    options: ["Square", "Regular octagon", "Circle", "Regular hexagon"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has exactly two lines of symmetry and four vertices?",
+    options: ["Square", "Non-square rectangle", "Kite", "Parallelogram"],
+    answer: 1,
+  },
+  {
+    question: "Which figure has exactly one line of symmetry and four sides?",
+    options: ["Square", "Rectangle", "Kite", "Parallelogram"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has zero lines of symmetry but rotational symmetry of order 2?",
+    options: ["General parallelogram", "Square", "Circle", "Equilateral triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which statement is correct about a line of symmetry?",
+    options: ["It always changes the size of a figure", "It divides a figure into mirror-image parts", "It must always be horizontal", "It must always pass through one vertex"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is incorrect?",
+    options: ["A square has four lines of symmetry", "A circle has infinitely many lines of symmetry", "A scalene triangle has one line of symmetry", "An equilateral triangle has three lines of symmetry"],
+    answer: 2,
+  },
+  {
+    question: "A figure has 4 lines of symmetry. Which of these cannot be the figure?",
+    options: ["Square", "Regular square-shaped design", "Regular polygon with 4 sides", "Regular pentagon"],
+    answer: 3,
+  },
+  {
+    question: "A regular polygon has n sides. Its number of lines of symmetry is:",
+    options: ["n - 1", "n", "2n", "n + 1"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has n sides. Its rotational symmetry order is:",
+    options: ["n", "n - 1", "2n", "n + 1"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 18 sides. Its smallest rotational angle is:",
+    options: ["10°", "20°", "30°", "40°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 24 sides. Its smallest rotational angle is:",
+    options: ["10°", "15°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 30 sides. Its smallest rotational angle is:",
+    options: ["10°", "12°", "15°", "20°"],
+    answer: 0,
+  },
+  {
+    question: "A square has 4 lines of symmetry and rotational symmetry of order 4. Which statement is true?",
+    options: ["Its smallest rotational angle is 45°", "Its smallest rotational angle is 90°", "It has no rotational symmetry", "It has only one symmetry line"],
+    answer: 1,
+  },
+  {
+    question: "An equilateral triangle has 3 lines of symmetry. What is its smallest rotational angle?",
+    options: ["60°", "90°", "120°", "180°"],
+    answer: 2,
+  },
+  {
+    question: "A regular octagon has 8 lines of symmetry. What is its smallest rotational angle?",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1,
+  },
+  {
+    question: "Which object is a common example of approximate line symmetry?",
+    options: ["Butterfly", "Irregular rock", "Random cloud", "Broken stick"],
+    answer: 0,
+  },
+  {
+    question: "If a butterfly is divided along its body, its two sides are approximately:",
+    options: ["Rotational images", "Mirror images", "Different shapes", "Unequal figures"],
+    answer: 1,
+  },
+  {
+    question: "Which of these capital letters has rotational symmetry of order 2 in a standard block style?",
+    options: ["H", "A", "F", "L"],
+    answer: 0,
+  },
+  {
+    question: "Which capital letter commonly has both line symmetry and rotational symmetry of order 2?",
+    options: ["H", "A", "F", "L"],
+    answer: 0,
+  },
+  {
+    question: "A design has 6 identical arms equally spaced around its centre. What rotational symmetry order is expected?",
+    options: ["3", "4", "6", "12"],
+    answer: 2,
+  },
+  {
+    question: "A design has 8 identical sectors equally spaced around its centre. What is its rotational symmetry order?",
+    options: ["4", "6", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "A design has 10 identical parts equally spaced around its centre. What is its rotational symmetry order?",
+    options: ["5", "8", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "A design has 12 identical parts equally spaced around its centre. What is its smallest rotational angle?",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry of order 6. How many times does it match itself during a complete 360° turn, counting the starting position?",
+    options: ["5", "6", "7", "12"],
+    answer: 1,
+  },
+  {
+    question: "A figure has rotational symmetry of order 8. How many equal angular steps are there in one full turn?",
+    options: ["4", "6", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "If a figure matches itself after every 72° rotation, its rotational symmetry order is:",
+    options: ["4", "5", "6", "8"],
+    answer: 1,
+  },
+  {
+    question: "If a figure matches itself after every 120° rotation, its rotational symmetry order is:",
+    options: ["2", "3", "4", "6"],
+    answer: 1,
+  },
+  {
+    question: "If a figure matches itself after every 180° rotation, its rotational symmetry order is:",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which figure has rotational symmetry of order 1 only?",
+    options: ["Scalene triangle", "Square", "Circle", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has both infinitely many lines of symmetry and infinitely many rotational symmetries?",
+    options: ["Square", "Circle", "Rectangle", "Triangle"],
+    answer: 1,
+  },
+  {
+    question: "A figure has exactly 2 lines of symmetry that intersect at right angles. Which rotational symmetry can result from these two reflections?",
+    options: ["Order 2", "Order 3", "Order 5", "No rotational symmetry"],
+    answer: 0,
+  },
+  {
+    question: "A square is folded along a line joining the midpoints of two opposite sides. The two halves:",
+    options: ["Coincide", "Do not coincide", "Become triangles", "Become circles"],
+    answer: 0,
+  },
+  {
+    question: "A rectangle is folded along a line joining the midpoints of two opposite sides. The two halves:",
+    options: ["Coincide", "Do not coincide", "Become triangles", "Become squares"],
+    answer: 0,
+  },
+  {
+    question: "A regular pentagon is folded along one of its symmetry axes. The two parts:",
+    options: ["Coincide as mirror images", "Have different sizes", "Become circles", "Cannot be related"],
+    answer: 0,
+  },
+  {
+    question: "If a figure has a line of symmetry, every point on one side has a corresponding point:",
+    options: ["At a different distance from the line", "At the same perpendicular distance on the other side", "Only on the line", "At twice the distance"],
+    answer: 1,
+  },
+  {
+    question: "The line joining a point to its mirror image is:",
+    options: ["Parallel to the symmetry line", "Perpendicular to the symmetry line", "Always horizontal", "Always vertical"],
+    answer: 1,
+  },
+  {
+    question: "The line of symmetry is the perpendicular bisector of the segment joining:",
+    options: ["Two adjacent vertices", "A point and its mirror image", "Two random points", "Two side midpoints"],
+    answer: 1,
+  },
+  {
+    question: "If a point and its mirror image are 20 cm apart, the symmetry line is:",
+    options: ["10 cm from each point", "20 cm from each point", "5 cm from each point", "At one point"],
+    answer: 0,
+  },
+  {
+    question: "A point is 9 cm from a vertical symmetry line. Its mirror image lies:",
+    options: ["9 cm to the opposite side", "18 cm to the opposite side", "4.5 cm to the opposite side", "On the line"],
+    answer: 0,
+  },
+  {
+    question: "Which feature of a figure is preserved by reflection?",
+    options: ["Distances between corresponding points", "Left-right orientation", "Position on the same side", "Direction of every arrow"],
+    answer: 0,
+  },
+  {
+    question: "A non-square rectangle has two symmetry lines. They are:",
+    options: ["Its two diagonals", "Lines through midpoints of opposite sides", "Only one diagonal", "Lines through adjacent vertices"],
+    answer: 1,
+  },
+  {
+    question: "The diagonals of a non-square rectangle are generally:",
+    options: ["Lines of symmetry", "Not lines of symmetry", "Always perpendicular", "Always symmetry axes"],
+    answer: 1,
+  },
+  {
+    question: "The diagonals of a square are:",
+    options: ["Not symmetry lines", "Lines of symmetry", "Only rotational axes", "Never intersecting"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has diagonals that are generally not lines of symmetry but intersect at the centre of rotational symmetry?",
+    options: ["Square", "General parallelogram", "Equilateral triangle", "Circle"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon with 6 sides has how many symmetry axes in total?",
+    options: ["3", "4", "6", "12"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon with 8 sides has how many symmetry axes in total?",
+    options: ["4", "6", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon with 10 sides has how many symmetry axes in total?",
+    options: ["5", "8", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon with 14 sides has how many symmetry axes in total?",
+    options: ["7", "12", "14", "28"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon with 21 sides has how many symmetry axes in total?",
+    options: ["14", "21", "42", "7"],
+    answer: 1,
+  },
+  {
+    question: "Which statement about regular polygons is correct?",
+    options: ["Every regular polygon has as many symmetry lines as sides", "Only squares have symmetry", "Only even-sided polygons have symmetry", "Regular polygons have no rotational symmetry"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon with 9 sides has rotational symmetry of order:",
+    options: ["3", "6", "9", "18"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon with 12 sides has rotational symmetry of order:",
+    options: ["6", "12", "24", "4"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon with 15 sides has rotational symmetry of order:",
+    options: ["5", "10", "15", "30"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon with 20 sides has rotational symmetry of order:",
+    options: ["10", "15", "20", "40"],
+    answer: 2,
+  },
+  {
+    question: "Which shape has the same number of lines of symmetry and rotational symmetry order?",
+    options: ["Square", "Non-square rectangle", "Kite", "General parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has one line of symmetry but rotational symmetry order 1?",
+    options: ["Isosceles triangle", "Square", "Regular pentagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has two lines of symmetry and rotational symmetry order 2?",
+    options: ["Non-square rectangle", "Kite", "Scalene triangle", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has three lines of symmetry and rotational symmetry order 3?",
+    options: ["Equilateral triangle", "Square", "Rectangle", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has five lines of symmetry and rotational symmetry order 5?",
+    options: ["Regular pentagon", "Regular hexagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has six lines of symmetry and rotational symmetry order 6?",
+    options: ["Regular hexagon", "Regular pentagon", "Rectangle", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has eight lines of symmetry and rotational symmetry order 8?",
+    options: ["Regular hexagon", "Regular octagon", "Square", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "A figure has exactly one line of symmetry. Which statement must be true?",
+    options: ["It must have rotational symmetry", "It has reflection symmetry across that line", "It must be a polygon", "It must have four sides"],
+    answer: 1,
+  },
+  {
+    question: "A figure has no line of symmetry. Which statement can still be true?",
+    options: ["It can have rotational symmetry", "It must be irregular", "It cannot have any symmetry", "It must be a triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following has both line symmetry and rotational symmetry of order greater than 1?",
+    options: ["Scalene triangle", "Square", "General parallelogram", "Random shape"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has infinitely many symmetry lines but no finite rotational symmetry order?",
+    options: ["Circle", "Square", "Rectangle", "Equilateral triangle"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 16 sides, its smallest angle of rotational symmetry is:",
+    options: ["15°", "20°", "22.5°", "30°"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 24 sides, its smallest angle of rotational symmetry is:",
+    options: ["10°", "15°", "20°", "24°"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 36 sides, its smallest angle of rotational symmetry is:",
+    options: ["5°", "10°", "15°", "20°"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 40 sides, its smallest angle of rotational symmetry is:",
+    options: ["9°", "10°", "12°", "15°"],
+    answer: 1,
+  },
+  {
+    question: "A pattern has rotational symmetry of order 9. How many degrees does it rotate for the smallest match?",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 1,
+  },
+  {
+    question: "A pattern has rotational symmetry of order 15. What is the smallest angle of rotation?",
+    options: ["18°", "20°", "24°", "30°"],
+    answer: 2,
+  },
+  {
+    question: "A pattern has rotational symmetry of order 20. What is the smallest angle of rotation?",
+    options: ["15°", "18°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 18 sides. How many symmetry axes pass through opposite vertices?",
+    options: ["9", "18", "6", "0"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 18 sides. How many symmetry axes pass through opposite side midpoints?",
+    options: ["9", "18", "6", "0"],
+    answer: 0,
+  },
+  {
+    question: "For a regular polygon with an odd number of sides, every symmetry axis passes through:",
+    options: ["Two opposite vertices", "A vertex and midpoint of the opposite side", "Two side midpoints", "Only the centre"],
+    answer: 1,
+  },
+  {
+    question: "For a regular polygon with an even number of sides, symmetry axes can pass through:",
+    options: ["Only vertices", "Only side midpoints", "Opposite vertices or opposite side midpoints", "No vertices"],
+    answer: 2,
+  },
+  {
+    question: "A square has four symmetry axes. How many pass through opposite vertices?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "A square has four symmetry axes. How many pass through opposite side midpoints?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which figure can be divided into two identical mirror halves in more than four different ways?",
+    options: ["Square", "Circle", "Rectangle", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "If a shape has exactly 7 lines of symmetry and is regular, how many sides does it have?",
+    options: ["6", "7", "8", "14"],
+    answer: 1,
+  },
+  {
+    question: "If a shape has exactly 11 lines of symmetry and is a regular polygon, how many sides does it have?",
+    options: ["10", "11", "22", "12"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 13 sides. How many symmetry axes does it have?",
+    options: ["6", "12", "13", "26"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 17 sides. How many symmetry axes does it have?",
+    options: ["8", "16", "17", "34"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 19 sides. How many symmetry axes does it have?",
+    options: ["9", "18", "19", "38"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 23 sides. How many symmetry axes does it have?",
+    options: ["11", "22", "23", "46"],
+    answer: 2,
+  },
+  {
+    question: "Which of these figures has exactly 2 lines of symmetry?",
+    options: ["Square", "Non-square rectangle", "Equilateral triangle", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which of these figures has exactly 3 lines of symmetry?",
+    options: ["Equilateral triangle", "Rectangle", "Square", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which of these figures has exactly 5 lines of symmetry?",
+    options: ["Regular pentagon", "Regular hexagon", "Square", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which of these figures has exactly 8 lines of symmetry?",
+    options: ["Square", "Regular hexagon", "Regular octagon", "Regular pentagon"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has the fewest lines of symmetry?",
+    options: ["Square", "Equilateral triangle", "Scalene triangle", "Circle"],
+    answer: 2,
+  },
+  {
+    question: "A mirror is placed along a line of symmetry of a square. How many vertices can lie on that mirror line?",
+    options: ["0", "1", "2", "4"],
+    answer: 2,
+  },
+  {
+    question: "A diagonal of a square divides it into two:",
+    options: ["Congruent mirror-image triangles", "Unequal triangles", "Rectangles", "Pentagons"],
+    answer: 0,
+  },
+  {
+    question: "How many lines of symmetry does a half-circle have if its diameter is included as part of the boundary?",
+    options: ["0", "1", "2", "Infinitely many"],
+    answer: 1,
+  },
+  {
+    question: "Which figure can have one line of symmetry but not necessarily rotational symmetry?",
+    options: ["Isosceles triangle", "Square", "Circle", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "If a figure is symmetric about a vertical line, a point on the left at (3 units) has its mirror point:",
+    options: ["3 units to the right", "6 units to the right", "3 units to the left", "On the line"],
+    answer: 0,
+  },
+  {
+    question: "A figure symmetric about a horizontal line has a point 5 units above it. Its mirror point is:",
+    options: ["5 units above", "10 units below", "5 units below", "On the line"],
+    answer: 2,
+  },
+  {
+    question: "If two points are mirror images and the distance between them is 16 units, their symmetry line is:",
+    options: ["4 units from each", "8 units from each", "16 units from each", "32 units from each"],
+    answer: 1,
+  },
+  {
+    question: "Which property is NOT changed by reflection?",
+    options: ["Size", "Left-right orientation", "Position", "Direction"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about symmetry is true?",
+    options: ["Every figure has a line of symmetry", "Some figures have no line of symmetry", "Only circles have symmetry", "Only regular polygons have symmetry"],
+    answer: 1,
+  },
+  {
+    question: "Which statement about a regular polygon is always true?",
+    options: ["Its number of symmetry lines equals its number of sides", "It has exactly one symmetry line", "It has no rotational symmetry", "Its diagonals are all symmetry lines"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 32 sides. How many lines of symmetry does it have?",
+    options: ["16", "24", "32", "64"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 40 sides. How many lines of symmetry does it have?",
+    options: ["20", "30", "40", "80"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 50 sides. How many lines of symmetry does it have?",
+    options: ["25", "40", "50", "100"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 60 sides. How many lines of symmetry does it have?",
+    options: ["30", "40", "60", "120"],
+    answer: 2,
+  },
+  {
+    question: "A pattern has 12-fold rotational symmetry. How many times does it match itself during a complete turn?",
+    options: ["6", "10", "12", "24"],
+    answer: 2,
+  },
+  {
+    question: "A pattern has 15-fold rotational symmetry. How many equal rotations make one full turn?",
+    options: ["10", "12", "15", "30"],
+    answer: 2,
+  },
+  {
+    question: "A pattern has 20-fold rotational symmetry. How many equal rotations make one full turn?",
+    options: ["10", "15", "20", "40"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has both reflection symmetry and rotational symmetry but is not a regular polygon?",
+    options: ["Non-square rectangle", "Scalene triangle", "General parallelogram", "Random quadrilateral"],
+    answer: 0,
+  },
+  {
+    question: "A square is turned through 360°. How many times does it return to a matching position, counting the starting position?",
+    options: ["4", "5", "3", "8"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon is turned through 360°. How many matching positions are there, including the starting position?",
+    options: ["5", "6", "7", "12"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon is turned through 360°. How many matching positions are there, including the starting position?",
+    options: ["4", "5", "6", "10"],
+    answer: 1,
+  },
+  {
+    question: "A regular octagon is turned through 360°. How many matching positions are there, including the starting position?",
+    options: ["6", "7", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has the highest finite number of lines of symmetry?",
+    options: ["Square", "Regular octagon", "Regular hexagon", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is true about a circle?",
+    options: ["It has exactly four symmetry lines", "It has no symmetry", "Every diameter is a line of symmetry", "It has only one symmetry line"],
+    answer: 2,
+  },
+  {
+    question: "Every diameter of a circle is:",
+    options: ["A line of symmetry", "A side of the circle", "A diagonal of the circle", "A tangent"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has infinitely many lines of symmetry but finite rotational symmetry order?",
+    options: ["Circle", "Square", "Rectangle", "Equilateral triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has no line of symmetry but has rotational symmetry of order 2?",
+    options: ["General parallelogram", "Circle", "Square", "Equilateral triangle"],
+    answer: 0,
+  },
+  {
+    question: "A figure with exactly one line of symmetry cannot have rotational symmetry of order:",
+    options: ["1", "2", "3", "Greater than 1"],
+    answer: 3,
+  },
+  {
+    question: "Which of the following can have exactly two lines of symmetry?",
+    options: ["Non-square rectangle", "Scalene triangle", "Regular pentagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has three symmetry lines meeting at its centre?",
+    options: ["Square", "Equilateral triangle", "Rectangle", "Kite"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 22 sides, its number of symmetry lines is:",
+    options: ["11", "22", "44", "20"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 28 sides, its number of symmetry lines is:",
+    options: ["14", "21", "28", "56"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 36 sides, its number of symmetry lines is:",
+    options: ["18", "24", "36", "72"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 45 sides, its number of symmetry lines is:",
+    options: ["15", "30", "45", "90"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 100 sides, its number of symmetry lines is:",
+    options: ["50", "75", "100", "200"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 25 sides. Its smallest rotational angle is:",
+    options: ["12°", "14.4°", "15°", "18°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 40 sides. Its smallest rotational angle is:",
+    options: ["9°", "10°", "12°", "15°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 50 sides. Its smallest rotational angle is:",
+    options: ["6°", "7.2°", "8°", "10°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 100 sides. Its smallest rotational angle is:",
+    options: ["3.6°", "4°", "5°", "10°"],
+    answer: 0,
+  },
+  {
+    question: "A design repeats after every 24°. What is its rotational symmetry order?",
+    options: ["12", "15", "18", "24"],
+    answer: 1,
+  },
+  {
+    question: "A design repeats after every 40°. What is its rotational symmetry order?",
+    options: ["6", "8", "9", "10"],
+    answer: 3,
+  },
+  {
+    question: "A design repeats after every 30°. What is its rotational symmetry order?",
+    options: ["10", "12", "15", "18"],
+    answer: 1,
+  },
+  {
+    question: "A design repeats after every 18°. What is its rotational symmetry order?",
+    options: ["10", "15", "20", "18"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has exactly four lines of symmetry and four-fold rotational symmetry?",
+    options: ["Square", "Rectangle", "Kite", "Rhombus"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly six lines of symmetry and six-fold rotational symmetry?",
+    options: ["Regular pentagon", "Regular hexagon", "Square", "Rectangle"],
+    answer: 1,
+  },
+  {
+    question: "Which figure has exactly eight lines of symmetry and eight-fold rotational symmetry?",
+    options: ["Regular octagon", "Regular hexagon", "Square", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "A figure has 10 lines of symmetry and is regular. Its rotational symmetry order is:",
+    options: ["5", "8", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "A figure has 12 lines of symmetry and is a regular polygon. How many sides does it have?",
+    options: ["6", "10", "12", "24"],
+    answer: 2,
+  },
+  {
+    question: "Which shape has exactly one symmetry line passing through a vertex and the midpoint of the opposite side?",
+    options: ["Equilateral triangle", "Isosceles triangle", "Square", "Rectangle"],
+    answer: 1,
+  },
+  {
+    question: "For an equilateral triangle, each symmetry line passes through:",
+    options: ["A vertex and midpoint of opposite side", "Two vertices", "Two side midpoints", "Only the centre"],
+    answer: 0,
+  },
+  {
+    question: "For a square, each diagonal is:",
+    options: ["Not a symmetry line", "A line of symmetry", "A side", "A tangent"],
+    answer: 1,
+  },
+  {
+    question: "For a non-square rectangle, a diagonal is generally:",
+    options: ["A line of symmetry", "Not a line of symmetry", "A symmetry axis", "A side"],
+    answer: 1,
+  },
+  {
+    question: "A figure can have more than one line of symmetry. Which has the greatest finite number here?",
+    options: ["Square", "Regular pentagon", "Regular octagon", "Equilateral triangle"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has 4 lines of symmetry, how many reflection axes does it have?",
+    options: ["2", "3", "4", "8"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has 7 lines of symmetry, how many reflection axes does it have?",
+    options: ["6", "7", "8", "14"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has 9 lines of symmetry, how many reflection axes does it have?",
+    options: ["8", "9", "18", "4"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has 10 lines of symmetry, how many reflection axes does it have?",
+    options: ["5", "8", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which statement about symmetry is correct?",
+    options: ["Symmetry always means equal perimeter halves", "Symmetry can be checked using reflection", "Every irregular figure has symmetry", "Only polygons can have symmetry"],
+    answer: 1,
+  },
+  {
+    question: "A figure is reflected across a line. The image is located:",
+    options: ["On the same side always", "At equal perpendicular distance on the opposite side", "Twice as far from the line", "Randomly"],
+    answer: 1,
+  },
+  {
+    question: "If the original point is 3 cm from the symmetry line, the original and image together are:",
+    options: ["3 cm apart", "6 cm apart", "9 cm apart", "12 cm apart"],
+    answer: 1,
+  },
+  {
+    question: "A point and its reflection are 30 cm apart. Their symmetry line is:",
+    options: ["5 cm from each", "10 cm from each", "15 cm from each", "30 cm from each"],
+    answer: 2,
+  },
+  {
+    question: "A point and its reflection are 42 cm apart. How far is each point from the symmetry line?",
+    options: ["14 cm", "21 cm", "42 cm", "84 cm"],
+    answer: 1,
+  },
+  {
+    question: "Which operation reverses left and right while preserving size and shape?",
+    options: ["Reflection", "Rotation", "Translation", "Division"],
+    answer: 0,
+  },
+  {
+    question: "Which operation changes orientation but preserves size and shape?",
+    options: ["Reflection", "Rotation", "Both reflection and rotation", "Neither"],
+    answer: 2,
+  },
+  {
+    question: "A square has rotational symmetry of order 4. How many non-zero rotations less than 360° map it onto itself?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "An equilateral triangle has rotational symmetry of order 3. How many non-zero rotations less than 360° map it onto itself?",
+    options: ["2", "3", "4", "1"],
+    answer: 0,
+  },
+  {
+    question: "A regular pentagon has rotational symmetry of order 5. How many non-zero rotations less than 360° map it onto itself?",
+    options: ["4", "5", "6", "3"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon has rotational symmetry of order 6. How many non-zero rotations less than 360° map it onto itself?",
+    options: ["5", "6", "4", "3"],
+    answer: 0,
+  },
+  {
+    question: "A regular octagon has rotational symmetry of order 8. How many non-zero rotations less than 360° map it onto itself?",
+    options: ["7", "8", "6", "4"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly two lines of symmetry and no rotational symmetry of order greater than 2?",
+    options: ["Non-square rectangle", "Square", "Circle", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly one line of symmetry and rotational symmetry order 1?",
+    options: ["Isosceles triangle", "Square", "Rectangle", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has no line symmetry but rotational symmetry order 2?",
+    options: ["General parallelogram", "Square", "Circle", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has both horizontal and vertical symmetry but no diagonal symmetry?",
+    options: ["Non-square rectangle", "Square", "Equilateral triangle", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has horizontal, vertical, and diagonal lines of symmetry?",
+    options: ["Rectangle", "Square", "Kite", "Parallelogram"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has exactly one line of symmetry and no rotational symmetry greater than 1?",
+    options: ["Kite", "Square", "Regular hexagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has the same number of symmetry lines as a regular hexagon?",
+    options: ["Regular pentagon", "Regular octagon", "Another regular hexagon", "Square"],
+    answer: 2,
+  },
+  {
+    question: "Which regular polygon has fewer symmetry lines than a regular hexagon?",
+    options: ["Regular pentagon", "Regular octagon", "Regular decagon", "Regular dodecagon"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has more symmetry lines than a regular pentagon?",
+    options: ["Equilateral triangle", "Square", "Regular hexagon", "Rectangle"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has exactly 16 symmetry lines. How many sides does it have?",
+    options: ["8", "12", "16", "32"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has exactly 24 symmetry lines. How many sides does it have?",
+    options: ["12", "18", "24", "48"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has exactly 30 symmetry lines. How many sides does it have?",
+    options: ["15", "20", "30", "60"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has exactly 40 symmetry lines. How many sides does it have?",
+    options: ["20", "30", "40", "80"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has exactly 50 symmetry lines. How many sides does it have?",
+    options: ["25", "40", "50", "100"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 32 sides. Its smallest rotational angle is:",
+    options: ["10°", "11.25°", "12°", "15°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 36 sides. Its smallest rotational angle is:",
+    options: ["5°", "10°", "12°", "15°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 45 sides. Its smallest rotational angle is:",
+    options: ["6°", "8°", "10°", "12°"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 60 sides. Its smallest rotational angle is:",
+    options: ["4°", "5°", "6°", "10°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 72 sides. Its smallest rotational angle is:",
+    options: ["4°", "5°", "6°", "8°"],
+    answer: 1,
+  },
+  {
+    question: "A pattern repeats every 15°. What is its rotational symmetry order?",
+    options: ["12", "18", "24", "15"],
+    answer: 2,
+  },
+  {
+    question: "A pattern repeats every 20°. What is its rotational symmetry order?",
+    options: ["12", "15", "18", "20"],
+    answer: 0,
+  },
+  {
+    question: "A pattern repeats every 24°. What is its rotational symmetry order?",
+    options: ["12", "15", "18", "24"],
+    answer: 1,
+  },
+  {
+    question: "A pattern repeats every 36°. What is its rotational symmetry order?",
+    options: ["8", "10", "12", "18"],
+    answer: 1,
+  },
+  {
+    question: "A pattern repeats every 40°. What is its rotational symmetry order?",
+    options: ["6", "8", "9", "10"],
+    answer: 3,
+  },
+  {
+    question: "A pattern repeats every 72°. What is its rotational symmetry order?",
+    options: ["4", "5", "6", "8"],
+    answer: 1,
+  },
+  {
+    question: "A pattern repeats every 90°. What is its rotational symmetry order?",
+    options: ["2", "3", "4", "6"],
+    answer: 2,
+  },
+  {
+    question: "A pattern repeats every 120°. What is its rotational symmetry order?",
+    options: ["2", "3", "4", "6"],
+    answer: 1,
+  },
+  {
+    question: "A pattern repeats every 180°. What is its rotational symmetry order?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "A figure has rotational symmetry order 10. How many matching positions are there in one complete turn, including the starting position?",
+    options: ["9", "10", "11", "20"],
+    answer: 1,
+  },
+  {
+    question: "A figure has rotational symmetry order 12. How many matching positions are there in one complete turn, including the starting position?",
+    options: ["10", "11", "12", "24"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has the greatest rotational symmetry order among these?",
+    options: ["Square", "Regular pentagon", "Regular hexagon", "Regular octagon"],
+    answer: 3,
+  },
+  {
+    question: "Which figure has the smallest non-zero rotational angle among these?",
+    options: ["Square", "Regular pentagon", "Regular hexagon", "Regular octagon"],
+    answer: 3,
+  },
+  {
+    question: "Which figure has the smallest number of symmetry lines among these?",
+    options: ["Square", "Equilateral triangle", "Regular pentagon", "Isosceles triangle"],
+    answer: 3,
+  },
+  {
+    question: "Which figure has the largest number of symmetry lines among these?",
+    options: ["Regular hexagon", "Regular octagon", "Square", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has exactly 3 lines of symmetry, which rotational symmetry order could it have?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has exactly 4 lines of symmetry, which rotational symmetry order could it have?",
+    options: ["1", "2", "4", "6"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 6 lines of symmetry, its smallest rotational angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 8 lines of symmetry, its smallest rotational angle is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 10 lines of symmetry, its smallest rotational angle is:",
+    options: ["18°", "20°", "30°", "36°"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 12 lines of symmetry, its smallest rotational angle is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "A square has 4 symmetry lines. If one symmetry line is removed from consideration, how many remain?",
+    options: ["2", "3", "4", "1"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon has 6 symmetry lines. If two are removed from consideration, how many remain?",
+    options: ["3", "4", "5", "6"],
+    answer: 1,
+  },
+  {
+    question: "A regular octagon has 8 symmetry lines. If three are removed from consideration, how many remain?",
+    options: ["4", "5", "6", "7"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon has 5 symmetry lines. If two are removed, how many remain?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "A regular decagon has 10 symmetry lines. If four are removed, how many remain?",
+    options: ["4", "5", "6", "7"],
+    answer: 2,
+  },
+  {
+    question: "A figure has 6 symmetry lines and rotational symmetry order 6. Which is a likely example?",
+    options: ["Regular hexagon", "Rectangle", "Kite", "Scalene triangle"],
+    answer: 0,
+  },
+  {
+    question: "A figure has 8 symmetry lines and rotational symmetry order 8. Which is a likely example?",
+    options: ["Regular pentagon", "Regular octagon", "Square", "Rectangle"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 5 symmetry lines and rotational symmetry order 5. Which is a likely example?",
+    options: ["Regular pentagon", "Regular hexagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "A figure has 3 symmetry lines and rotational symmetry order 3. Which is a likely example?",
+    options: ["Square", "Equilateral triangle", "Rectangle", "Kite"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 4 symmetry lines and rotational symmetry order 4. Which is a likely example?",
+    options: ["Square", "Rectangle", "Kite", "Parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "Which shape can have a line of symmetry passing through exactly two opposite vertices?",
+    options: ["Square", "Non-square rectangle", "Kite", "General parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has symmetry axes that pass through every vertex?",
+    options: ["Every regular polygon", "Only even-sided polygons", "Only odd-sided polygons", "Only triangles"],
+    answer: 0,
+  },
+  {
+    question: "In a regular pentagon, how many symmetry axes pass through vertices?",
+    options: ["1", "5", "2", "0"],
+    answer: 1,
+  },
+  {
+    question: "In a regular hexagon, how many symmetry axes pass through vertices?",
+    options: ["2", "3", "6", "4"],
+    answer: 1,
+  },
+  {
+    question: "In a regular octagon, how many symmetry axes pass through vertices?",
+    options: ["2", "4", "6", "8"],
+    answer: 1,
+  },
+  {
+    question: "In a regular decagon, how many symmetry axes pass through vertices?",
+    options: ["4", "5", "10", "8"],
+    answer: 1,
+  },
+  {
+    question: "In a regular pentagon, how many symmetry axes pass through side midpoints?",
+    options: ["5", "4", "2", "0"],
+    answer: 0,
+  },
+  {
+    question: "In a regular hexagon, how many symmetry axes pass through side midpoints?",
+    options: ["2", "3", "4", "6"],
+    answer: 1,
+  },
+  {
+    question: "In a regular octagon, how many symmetry axes pass through side midpoints?",
+    options: ["2", "4", "6", "8"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has an odd number of sides. Its symmetry axes are:",
+    options: ["All through pairs of opposite vertices", "Each through a vertex and opposite side midpoint", "All through side midpoints only", "Absent"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has an even number of sides. Its symmetry axes are of:",
+    options: ["Only one type", "Two types: vertex-vertex and side-midpoint to side-midpoint", "No type", "Only diagonal type"],
+    answer: 1,
+  },
+  {
+    question: "Which shape's every diameter acts as a line of symmetry?",
+    options: ["Circle", "Square", "Rectangle", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "If a circular design has a special mark at one point on its boundary, what happens to its symmetry?",
+    options: ["It keeps infinitely many lines", "The mark can reduce or destroy the symmetry", "It gains more symmetry", "It always becomes a square"],
+    answer: 1,
+  },
+  {
+    question: "If one identical part is removed from a perfectly symmetric pattern, what can happen?",
+    options: ["Symmetry may be destroyed", "Symmetry must increase", "The figure becomes a circle", "Nothing can change"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon has one vertex coloured differently from the others. What is most likely?",
+    options: ["All six symmetry lines remain", "Some or all symmetry may be lost", "It gains more symmetry", "It becomes a circle"],
+    answer: 1,
+  },
+  {
+    question: "A square has one corner marked differently. What happens to its original four-line symmetry?",
+    options: ["All four remain", "Only symmetry preserving that marked corner may remain", "It gains eight lines", "It becomes a circle"],
+    answer: 1,
+  },
+  {
+    question: "A symmetric pattern must have matching parts at equal distances from:",
+    options: ["Its perimeter", "Its line of symmetry", "Any vertex", "Any side"],
+    answer: 1,
+  },
+  {
+    question: "If a pattern is symmetric about a vertical line, the left and right parts are:",
+    options: ["Mirror images", "Rotated 90°", "Always identical in position", "Unrelated"],
+    answer: 0,
+  },
+  {
+    question: "If a pattern is symmetric about a horizontal line, the top and bottom parts are:",
+    options: ["Mirror images", "Always different", "Rotated 45°", "Unrelated"],
+    answer: 0,
+  },
+  {
+    question: "Which of these can be used to test line symmetry of a paper figure?",
+    options: ["Folding along the suspected line", "Measuring only perimeter", "Counting only vertices", "Measuring one side"],
+    answer: 0,
+  },
+  {
+    question: "If both halves of a folded figure do not overlap exactly, the fold line is:",
+    options: ["Definitely a line of symmetry", "Not a line of symmetry", "Always a diagonal", "Always horizontal"],
+    answer: 1,
+  },
+  {
+    question: "A figure has exactly two lines of symmetry. If the lines intersect at the centre, what type of rotational symmetry may result?",
+    options: ["Order 2", "Order 3", "Order 5", "No rotational symmetry"],
+    answer: 0,
+  },
+  {
+    question: "Which statement best describes symmetry in mathematics?",
+    options: ["A pattern of exact matching under a transformation", "Only equal lengths", "Only equal angles", "Only mirror images"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry of order 4. Which of these rotations will map it onto itself?",
+    options: ["45°", "90°", "70°", "100°"],
+    answer: 1,
+  },
+  {
+    question: "A figure has rotational symmetry of order 6. Which rotation will map it onto itself?",
+    options: ["30°", "60°", "50°", "80°"],
+    answer: 1,
+  },
+  {
+    question: "A figure has rotational symmetry of order 8. Which rotation will map it onto itself?",
+    options: ["45°", "50°", "70°", "80°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry of order 10. Which rotation will map it onto itself?",
+    options: ["20°", "25°", "30°", "40°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry of order 12. Which rotation will map it onto itself?",
+    options: ["20°", "30°", "40°", "50°"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following rotations maps a regular pentagon onto itself?",
+    options: ["36°", "72°", "90°", "100°"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following rotations maps a regular hexagon onto itself?",
+    options: ["30°", "45°", "60°", "75°"],
+    answer: 2,
+  },
+  {
+    question: "Which of the following rotations maps a regular octagon onto itself?",
+    options: ["30°", "45°", "50°", "70°"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following rotations maps a square onto itself?",
+    options: ["30°", "45°", "90°", "120°"],
+    answer: 2,
+  },
+  {
+    question: "Which of the following rotations maps an equilateral triangle onto itself?",
+    options: ["60°", "90°", "100°", "150°"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 20 sides. Which rotation maps it onto itself?",
+    options: ["18°", "20°", "25°", "30°"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 30 sides. Which rotation maps it onto itself?",
+    options: ["10°", "12°", "15°", "25°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 40 sides. Which rotation maps it onto itself?",
+    options: ["8°", "9°", "10°", "12°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 50 sides. Which rotation maps it onto itself?",
+    options: ["6°", "7.2°", "8°", "9°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 100 sides. Which rotation maps it onto itself?",
+    options: ["2°", "3.6°", "4°", "5°"],
+    answer: 1,
+  },
+  {
+    question: "A square has four lines of symmetry. If a design inside it also has only vertical symmetry, which symmetry can definitely remain?",
+    options: ["Vertical symmetry", "All diagonal symmetry", "No symmetry", "Only rotational symmetry"],
+    answer: 0,
+  },
+  {
+    question: "If a design inside a square is symmetric about both vertical and horizontal axes but not diagonals, the complete design may have:",
+    options: ["Only vertical symmetry", "Vertical and horizontal symmetry", "Only diagonal symmetry", "No symmetry"],
+    answer: 1,
+  },
+  {
+    question: "A pattern inside a rectangle is symmetric about its vertical and horizontal midlines. How many obvious symmetry lines does the complete pattern have?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "A pattern inside a square is symmetric about both diagonals and both midlines. How many lines of symmetry does it have?",
+    options: ["2", "3", "4", "6"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has the maximum possible number of symmetry lines among all plane figures?",
+    options: ["Square", "Circle", "Regular hexagon", "Regular octagon"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has infinitely many lines of symmetry, what can we say about a circle-like figure?",
+    options: ["Every diameter can act as a symmetry line", "Only one line works", "No line works", "Only horizontal lines work"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon with 4 sides is a:",
+    options: ["Rectangle only", "Square", "Triangle", "Pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which regular polygon has exactly 3 sides and 3 lines of symmetry?",
+    options: ["Equilateral triangle", "Isosceles triangle", "Scalene triangle", "Square"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has exactly 4 sides and 4 lines of symmetry?",
+    options: ["Rectangle", "Square", "Rhombus", "Kite"],
+    answer: 1,
+  },
+  {
+    question: "Which regular polygon has exactly 5 sides and 5 lines of symmetry?",
+    options: ["Regular pentagon", "Regular hexagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has exactly 6 sides and 6 lines of symmetry?",
+    options: ["Regular hexagon", "Regular pentagon", "Regular octagon", "Square"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has exactly 7 sides and 7 lines of symmetry?",
+    options: ["Regular hexagon", "Regular heptagon", "Regular octagon", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which regular polygon has exactly 8 sides and 8 lines of symmetry?",
+    options: ["Regular octagon", "Regular hexagon", "Regular decagon", "Square"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon with 9 sides is called a:",
+    options: ["Nonagon", "Decagon", "Octagon", "Heptagon"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon with 10 sides is called a:",
+    options: ["Nonagon", "Decagon", "Dodecagon", "Octagon"],
+    answer: 1,
+  },
+  {
+    question: "How many lines of symmetry does a regular nonagon have?",
+    options: ["8", "9", "10", "18"],
+    answer: 1,
+  },
+  {
+    question: "How many lines of symmetry does a regular dodecagon have?",
+    options: ["6", "10", "12", "24"],
+    answer: 2,
+  },
+  {
+    question: "A regular dodecagon has rotational symmetry of order:",
+    options: ["6", "10", "12", "24"],
+    answer: 2,
+  },
+  {
+    question: "The smallest rotational angle of a regular dodecagon is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "The smallest rotational angle of a regular nonagon is:",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 1,
+  },
+  {
+    question: "The smallest rotational angle of a regular decagon is:",
+    options: ["18°", "30°", "36°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "Which statement correctly connects the number of sides and symmetry lines of a regular polygon?",
+    options: ["They are always equal", "Symmetry lines are always double the sides", "Symmetry lines are always half the sides", "They are unrelated"],
+    answer: 0,
+  },
+  {
+    question: "Which statement correctly connects the number of sides and rotational symmetry order of a regular polygon?",
+    options: ["Order is one less than sides", "Order equals the number of sides", "Order is twice the sides", "Order is half the sides"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 14 sides. Its rotational symmetry order is:",
+    options: ["7", "14", "28", "12"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 18 sides. Its rotational symmetry order is:",
+    options: ["9", "18", "36", "6"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 25 sides. Its rotational symmetry order is:",
+    options: ["5", "20", "25", "50"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 50 sides. Its rotational symmetry order is:",
+    options: ["25", "40", "50", "100"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has 12 lines of symmetry and is a regular polygon, its smallest rotational angle is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "If a figure has 20 lines of symmetry and is a regular polygon, its smallest rotational angle is:",
+    options: ["9°", "12°", "18°", "20°"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has 25 lines of symmetry and is a regular polygon, its smallest rotational angle is:",
+    options: ["12°", "14.4°", "15°", "18°"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has 50 lines of symmetry and is a regular polygon, its smallest rotational angle is:",
+    options: ["6°", "7.2°", "8°", "10°"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following has exactly one line of symmetry but no rotational symmetry greater than order 1?",
+    options: ["Kite", "Square", "Circle", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following has no line of symmetry but has rotational symmetry?",
+    options: ["General parallelogram", "Square", "Equilateral triangle", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following has exactly two lines of symmetry and rotational symmetry of order 2?",
+    options: ["Non-square rectangle", "Kite", "Scalene triangle", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following has exactly four lines of symmetry and rotational symmetry of order 4?",
+    options: ["Square", "Rectangle", "Rhombus", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following has exactly six lines of symmetry and rotational symmetry of order 6?",
+    options: ["Regular hexagon", "Regular pentagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following has exactly eight lines of symmetry and rotational symmetry of order 8?",
+    options: ["Regular octagon", "Regular hexagon", "Square", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "A figure has 3 lines of symmetry. Which of the following could be its rotational symmetry order?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 5 lines of symmetry. Which of the following could be its rotational symmetry order?",
+    options: ["3", "4", "5", "6"],
+    answer: 2,
+  },
+  {
+    question: "A figure has 7 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["5", "6", "7", "14"],
+    answer: 2,
+  },
+  {
+    question: "A figure has 9 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["8", "9", "18", "3"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 11 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["10", "11", "22", "5"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 13 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["12", "13", "26", "6"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 17 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["16", "17", "34", "8"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 19 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["18", "19", "38", "9"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 21 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["20", "21", "42", "7"],
+    answer: 1,
+  },
+  {
+    question: "A figure has 23 lines of symmetry and is a regular polygon. What is its rotational symmetry order?",
+    options: ["22", "23", "46", "11"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 27 sides. How many lines of symmetry does it have?",
+    options: ["13", "27", "54", "9"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 27 sides. What is its smallest rotational angle?",
+    options: ["10°", "13.33°", "15°", "20°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 32 sides. What is its rotational symmetry order?",
+    options: ["16", "24", "32", "64"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 36 sides. What is its rotational symmetry order?",
+    options: ["18", "24", "36", "72"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 48 sides. What is its rotational symmetry order?",
+    options: ["24", "36", "48", "96"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 60 sides. What is its rotational symmetry order?",
+    options: ["30", "40", "60", "120"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 72 sides. What is its rotational symmetry order?",
+    options: ["36", "48", "72", "144"],
+    answer: 2,
+  },
+  {
+    question: "Which figure can be folded into matching halves in infinitely many ways?",
+    options: ["Circle", "Square", "Regular hexagon", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly four symmetry lines but only four vertices?",
+    options: ["Square", "Regular pentagon", "Regular hexagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly five symmetry lines and five vertices?",
+    options: ["Regular pentagon", "Square", "Regular hexagon", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly six symmetry lines and six vertices?",
+    options: ["Regular hexagon", "Regular pentagon", "Square", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly eight symmetry lines and eight vertices?",
+    options: ["Regular octagon", "Regular hexagon", "Square", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about a symmetry line is always true?",
+    options: ["It is a perpendicular bisector of every side", "It divides corresponding points into mirror positions", "It always passes through every vertex", "It must be horizontal"],
+    answer: 1,
+  },
+  {
+    question: "If two points are mirror images across a symmetry line, the symmetry line passes through:",
+    options: ["The midpoint of the segment joining them", "One endpoint only", "Neither endpoint nor midpoint", "Both endpoints"],
+    answer: 0,
+  },
+  {
+    question: "If the segment joining two mirror points is 24 cm long, its midpoint is:",
+    options: ["6 cm from each point", "12 cm from each point", "24 cm from each point", "48 cm from each point"],
+    answer: 1,
+  },
+  {
+    question: "A symmetry line is perpendicular to the segment joining a point and its mirror image. If the segment is horizontal, the symmetry line is:",
+    options: ["Horizontal", "Vertical", "Diagonal only", "Curved"],
+    answer: 1,
+  },
+  {
+    question: "If a point is reflected across a vertical line, which coordinate changes sign when the line is the y-axis?",
+    options: ["x-coordinate", "y-coordinate", "Both", "Neither"],
+    answer: 0,
+  },
+  {
+    question: "If a point is reflected across a horizontal line, which coordinate changes sign when the line is the x-axis?",
+    options: ["x-coordinate", "y-coordinate", "Both", "Neither"],
+    answer: 1,
+  },
+  {
+    question: "The reflection of a point on the x-axis across the x-axis is:",
+    options: ["The same point", "A different point", "Always above the axis", "Always below the axis"],
+    answer: 0,
+  },
+  {
+    question: "The reflection of a point on the y-axis across the y-axis is:",
+    options: ["The same point", "A different point", "Always left", "Always right"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly one line of symmetry and four sides?",
+    options: ["Kite", "Square", "Rectangle", "Rhombus"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly two lines of symmetry and four sides?",
+    options: ["Non-square rectangle", "Kite", "General parallelogram", "Square"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly four lines of symmetry and four sides?",
+    options: ["Square", "Rectangle", "Rhombus", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has no line of symmetry and four sides?",
+    options: ["General parallelogram", "Square", "Rectangle", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which triangle has no line of symmetry?",
+    options: ["Equilateral", "Isosceles", "Scalene", "All triangles"],
+    answer: 2,
+  },
+  {
+    question: "Which triangle has exactly one line of symmetry?",
+    options: ["Scalene", "Isosceles but not equilateral", "Equilateral", "All triangles"],
+    answer: 1,
+  },
+  {
+    question: "Which triangle has exactly three lines of symmetry?",
+    options: ["Scalene", "Isosceles", "Equilateral", "Right scalene"],
+    answer: 2,
+  },
+  {
+    question: "Which shape has no line of symmetry but has a centre of rotational symmetry?",
+    options: ["General parallelogram", "Isosceles triangle", "Kite", "Scalene triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has four lines of symmetry and a centre of rotational symmetry?",
+    options: ["Square", "Kite", "General parallelogram", "Scalene triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has infinitely many lines of symmetry and a centre of rotational symmetry?",
+    options: ["Circle", "Square", "Rectangle", "Pentagon"],
+    answer: 0,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 2, its smallest non-zero rotation is:",
+    options: ["90°", "120°", "180°", "360°"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 3, its smallest non-zero rotation is:",
+    options: ["60°", "90°", "120°", "180°"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 4, its smallest non-zero rotation is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 5, its smallest non-zero rotation is:",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 6, its smallest non-zero rotation is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 2,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 8, its smallest non-zero rotation is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 9, its smallest non-zero rotation is:",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 10, its smallest non-zero rotation is:",
+    options: ["18°", "20°", "30°", "36°"],
+    answer: 0,
+  },
+  {
+    question: "If a figure has rotational symmetry of order 12, its smallest non-zero rotation is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "Which of these rotations will map a square onto itself?",
+    options: ["30°", "60°", "90°", "120°"],
+    answer: 2,
+  },
+  {
+    question: "Which of these rotations will map a regular pentagon onto itself?",
+    options: ["60°", "72°", "90°", "108°"],
+    answer: 1,
+  },
+  {
+    question: "Which of these rotations will map a regular hexagon onto itself?",
+    options: ["45°", "50°", "60°", "75°"],
+    answer: 2,
+  },
+  {
+    question: "Which of these rotations will map a regular octagon onto itself?",
+    options: ["30°", "45°", "60°", "72°"],
+    answer: 1,
+  },
+  {
+    question: "A regular dodecagon is rotated through 30°. It will:",
+    options: ["Match itself", "Become a triangle", "Lose all symmetry", "Become a square"],
+    answer: 0,
+  },
+  {
+    question: "A regular decagon is rotated through 18°. It will:",
+    options: ["Not match", "Match itself", "Become a pentagon", "Become a square"],
+    answer: 1,
+  },
+  {
+    question: "A regular nonagon is rotated through 40°. It will:",
+    options: ["Match itself", "Become a triangle", "Lose all symmetry", "Become a square"],
+    answer: 0,
+  },
+  {
+    question: "A regular octagon is rotated through 90°. It will:",
+    options: ["Match itself", "Not match itself", "Become a square", "Become a triangle"],
+    answer: 0,
+  },
+  {
+    question: "A square is rotated through 180°. It will:",
+    options: ["Not match", "Match itself", "Become a rectangle", "Become a triangle"],
+    answer: 1,
+  },
+  {
+    question: "An equilateral triangle is rotated through 180°. It will:",
+    options: ["Match itself", "Not match itself", "Become a square", "Become a rectangle"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon is rotated through 144°. It will:",
+    options: ["Match itself", "Not match itself", "Become a triangle", "Become a square"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon is rotated through 180°. It will:",
+    options: ["Match itself", "Not match itself", "Become a triangle", "Become a square"],
+    answer: 0,
+  },
+  {
+    question: "A regular octagon is rotated through 180°. It will:",
+    options: ["Match itself", "Not match itself", "Become a triangle", "Become a pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which statement is true about a regular polygon with n sides?",
+    options: ["It has n lines of symmetry and rotational order n", "It has n - 1 lines of symmetry", "It has 2n lines of symmetry", "It has no rotational symmetry"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 18 sides. Which pair is correct?",
+    options: ["18 symmetry lines and 20° smallest rotation", "18 symmetry lines and 10° smallest rotation", "9 symmetry lines and 20° smallest rotation", "36 symmetry lines and 5° smallest rotation"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 24 sides. Which pair is correct?",
+    options: ["24 symmetry lines and 15° smallest rotation", "12 symmetry lines and 30° smallest rotation", "24 symmetry lines and 30° smallest rotation", "48 symmetry lines and 15° smallest rotation"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 30 sides. Which pair is correct?",
+    options: ["15 symmetry lines and 12° rotation", "30 symmetry lines and 12° rotation", "30 symmetry lines and 15° rotation", "60 symmetry lines and 6° rotation"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 40 sides. Which pair is correct?",
+    options: ["40 symmetry lines and 9° rotation", "20 symmetry lines and 18° rotation", "40 symmetry lines and 10° rotation", "80 symmetry lines and 5° rotation"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 50 sides. Which pair is correct?",
+    options: ["50 symmetry lines and 7.2° rotation", "25 symmetry lines and 14.4° rotation", "50 symmetry lines and 10° rotation", "100 symmetry lines and 3.6° rotation"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has the same number of lines of symmetry as rotational symmetry order?",
+    options: ["Square", "General parallelogram", "Kite", "Non-square rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has two lines of symmetry but rotational symmetry order 2?",
+    options: ["Non-square rectangle", "Square", "Circle", "Equilateral triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has no lines of symmetry but rotational symmetry order 2?",
+    options: ["General parallelogram", "Square", "Rectangle", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has one line of symmetry and rotational symmetry order 1?",
+    options: ["Kite", "Square", "Regular pentagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has three lines of symmetry and rotational symmetry order 3?",
+    options: ["Equilateral triangle", "Square", "Rectangle", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has five lines of symmetry and rotational symmetry order 5?",
+    options: ["Regular pentagon", "Regular hexagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has six lines of symmetry and rotational symmetry order 6?",
+    options: ["Regular hexagon", "Regular pentagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has eight lines of symmetry and rotational symmetry order 8?",
+    options: ["Regular octagon", "Regular hexagon", "Square", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has infinitely many lines of symmetry?",
+    options: ["Circle", "Square", "Regular hexagon", "Regular octagon"],
+    answer: 0,
+  },
+  {
+    question: "Which statement is false?",
+    options: ["A square has four lines of symmetry", "A scalene triangle has no line of symmetry", "A circle has infinitely many lines of symmetry", "A regular pentagon has four lines of symmetry"],
+    answer: 3,
+  },
+  {
+    question: "Which statement is true?",
+    options: ["A general parallelogram has no line of symmetry", "A square has only two lines of symmetry", "A circle has exactly four lines of symmetry", "A scalene triangle has one line of symmetry"],
+    answer: 0,
+  },
+  {
+    question: "A figure has exactly 10 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["5", "8", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 12 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["6", "10", "12", "24"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 16 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["8", "12", "16", "32"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 20 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["10", "15", "20", "40"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 24 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["12", "18", "24", "48"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 30 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["15", "20", "30", "60"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 40 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["20", "30", "40", "80"],
+    answer: 2,
+  },
+  {
+    question: "A figure has exactly 50 lines of symmetry. If it is a regular polygon, its number of sides is:",
+    options: ["25", "40", "50", "100"],
+    answer: 2,
+  },
+  {
+    question: "Which regular polygon has the smallest number of sides but more than one line of symmetry?",
+    options: ["Equilateral triangle", "Square", "Pentagon", "Hexagon"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has exactly twice as many symmetry lines as a square?",
+    options: ["Regular pentagon", "Regular hexagon", "Regular octagon", "Regular decagon"],
+    answer: 2,
+  },
+  {
+    question: "Which regular polygon has exactly three more symmetry lines than a square?",
+    options: ["Regular pentagon", "Regular hexagon", "Regular octagon", "Regular heptagon"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has exactly four more symmetry lines than a square?",
+    options: ["Regular hexagon", "Regular pentagon", "Regular octagon", "Regular decagon"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has exactly five more symmetry lines than a square?",
+    options: ["Regular octagon", "Regular pentagon", "Regular hexagon", "Regular heptagon"],
+    answer: 3,
+  },
+  {
+    question: "A square has 4 symmetry lines. A regular hexagon has how many more?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon has 5 symmetry lines. A regular octagon has how many more?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon has 6 symmetry lines. A regular decagon has how many more?",
+    options: ["2", "3", "4", "5"],
+    answer: 2,
+  },
+  {
+    question: "A regular octagon has 8 symmetry lines. A regular dodecagon has how many more?",
+    options: ["2", "3", "4", "5"],
+    answer: 2,
+  },
+  {
+    question: "A regular pentagon has 5 symmetry lines. A regular dodecagon has how many times as many?",
+    options: ["2 times", "2.4 times", "3 times", "4 times"],
+    answer: 1,
+  },
+  {
+    question: "A square has 4 symmetry lines. A regular octagon has how many times as many?",
+    options: ["1.5 times", "2 times", "2.5 times", "3 times"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon has 6 symmetry lines. A regular dodecagon has how many times as many?",
+    options: ["1.5 times", "2 times", "2.5 times", "3 times"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon has rotational symmetry order 5. How many degrees are covered by each smallest rotation?",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1,
+  },
+  {
+    question: "A regular octagon has rotational symmetry order 8. How many degrees are covered by each smallest rotation?",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 2,
+  },
+  {
+    question: "A regular dodecagon has rotational symmetry order 12. How many degrees are covered by each smallest rotation?",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "If a pattern has 10 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["18°", "30°", "36°", "45°"],
+    answer: 2,
+  },
+  {
+    question: "If a pattern has 8 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1,
+  },
+  {
+    question: "If a pattern has 6 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 1,
+  },
+  {
+    question: "If a pattern has 5 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["60°", "72°", "90°", "120°"],
+    answer: 1,
+  },
+  {
+    question: "If a pattern has 4 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2,
+  },
+  {
+    question: "If a pattern has 3 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["60°", "90°", "120°", "180°"],
+    answer: 2,
+  },
+  {
+    question: "If a pattern has 12 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "If a pattern has 15 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["18°", "20°", "24°", "30°"],
+    answer: 2,
+  },
+  {
+    question: "If a pattern has 20 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["15°", "18°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "If a pattern has 25 identical sections around a centre, the angle between adjacent sections is:",
+    options: ["12°", "14.4°", "15°", "18°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 10 sides. How many symmetry lines pass through its vertices?",
+    options: ["5", "10", "2", "0"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 10 sides. How many symmetry lines pass through side midpoints?",
+    options: ["5", "10", "2", "0"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 8 sides. How many symmetry lines pass through vertices?",
+    options: ["4", "8", "2", "6"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 8 sides. How many symmetry lines pass through side midpoints?",
+    options: ["4", "8", "2", "6"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 6 sides. How many symmetry lines pass through vertices?",
+    options: ["2", "3", "6", "4"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 6 sides. How many symmetry lines pass through side midpoints?",
+    options: ["2", "3", "6", "4"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 4 sides. How many symmetry lines pass through vertices?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 4 sides. How many symmetry lines pass through side midpoints?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which figure has symmetry lines that are all diameters?",
+    options: ["Circle", "Square", "Rectangle", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "The centre of a regular polygon lies on:",
+    options: ["Every symmetry line", "No symmetry line", "Only one symmetry line", "Only two symmetry lines"],
+    answer: 0,
+  },
+  {
+    question: "The centre of a circle lies on:",
+    options: ["Every diameter and every line of symmetry", "Only one diameter", "No symmetry line", "Only horizontal lines"],
+    answer: 0,
+  },
+  {
+    question: "A symmetry line of a regular polygon always passes through its:",
+    options: ["Centre", "Only one vertex", "One side only", "Exterior"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about the centre of rotational symmetry is correct for a square?",
+    options: ["It is at the intersection of diagonals", "It is at a vertex", "It lies outside", "It lies on one side"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about the centre of rotational symmetry is correct for a rectangle?",
+    options: ["It is at the intersection of diagonals", "It is at a vertex", "It is outside", "It lies on a side"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has no centre of rotational symmetry?",
+    options: ["General triangle", "Square", "Rectangle", "Parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has a centre of rotational symmetry at the intersection of its diagonals?",
+    options: ["Parallelogram", "Scalene triangle", "Kite", "Isosceles triangle"],
+    answer: 0,
+  },
+  {
+    question: "A square rotated through 270° is equivalent to a rotation through:",
+    options: ["45°", "90°", "180°", "270°"],
+    answer: 3,
+  },
+  {
+    question: "A regular pentagon rotated through 360° returns to its original position. How many smaller equal rotations make this full turn?",
+    options: ["4", "5", "6", "10"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon rotated through 360° returns to its original position after how many equal smallest rotations?",
+    options: ["4", "5", "6", "12"],
+    answer: 2,
+  },
+  {
+    question: "A regular octagon rotated through 360° returns to its original position after how many equal smallest rotations?",
+    options: ["6", "7", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "A regular decagon rotated through 360° returns to its original position after how many equal smallest rotations?",
+    options: ["5", "8", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which shape has exactly two symmetry lines that are perpendicular?",
+    options: ["Non-square rectangle", "Scalene triangle", "Regular pentagon", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has exactly four symmetry lines, with two diagonal and two perpendicular-to-side axes?",
+    options: ["Square", "Rectangle", "Rhombus", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has one symmetry line that is also a diagonal?",
+    options: ["Kite", "Rectangle", "Square only", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "A kite's symmetry line generally joins:",
+    options: ["The unequal vertices", "The vertices between the equal pairs of sides", "Two side midpoints", "No vertices"],
+    answer: 1,
+  },
+  {
+    question: "If a figure has exactly one symmetry line, folding along that line gives:",
+    options: ["Two mirror-image halves", "Two unrelated halves", "Three parts", "Four parts"],
+    answer: 0,
+  },
+  {
+    question: "Which operation can reveal whether a paper figure has line symmetry?",
+    options: ["Folding", "Adding lengths", "Measuring perimeter only", "Counting angles only"],
+    answer: 0,
+  },
+  {
+    question: "If the two halves of a folded figure exactly overlap, the fold line is:",
+    options: ["A possible line of symmetry", "Never a symmetry line", "Always a diagonal", "Always a side"],
+    answer: 0,
+  },
+  {
+    question: "A figure with rotational symmetry of order 4 matches itself after every:",
+    options: ["45°", "60°", "90°", "120°"],
+    answer: 2,
+  },
+  {
+    question: "A figure with rotational symmetry of order 8 matches itself after every:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 1,
+  },
+  {
+    question: "A figure with rotational symmetry of order 10 matches itself after every:",
+    options: ["18°", "20°", "30°", "36°"],
+    answer: 0,
+  },
+  {
+    question: "A figure with rotational symmetry of order 15 matches itself after every:",
+    options: ["18°", "20°", "24°", "30°"],
+    answer: 2,
+  },
+  {
+    question: "A figure with rotational symmetry of order 20 matches itself after every:",
+    options: ["15°", "18°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "A figure with rotational symmetry of order 25 matches itself after every:",
+    options: ["12°", "14.4°", "15°", "18°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 25 sides. How many symmetry axes pass through its vertices?",
+    options: ["12", "25", "13", "0"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 25 sides. How many symmetry axes pass through side midpoints?",
+    options: ["12", "25", "13", "0"],
+    answer: 1,
+  },
+  {
+    question: "For a regular polygon with an odd number of sides, the number of vertex-midpoint symmetry axes equals:",
+    options: ["Half the sides", "The number of sides", "Twice the sides", "One"],
+    answer: 1,
+  },
+  {
+    question: "For a regular polygon with an even number of sides, the total number of symmetry axes equals:",
+    options: ["Half the sides", "The number of sides", "Twice the sides", "One"],
+    answer: 1,
+  },
+  {
+    question: "Which statement about a circle is correct?",
+    options: ["Every radius is a line of symmetry", "Every diameter is a line of symmetry", "Every chord is a line of symmetry", "Only one diameter is a line of symmetry"],
+    answer: 1,
+  },
+  {
+    question: "Which of these is NOT necessarily a line of symmetry of a rectangle?",
+    options: ["Horizontal midline", "Vertical midline", "Diagonal", "Both midlines"],
+    answer: 2,
+  },
+  {
+    question: "Which of these is a line of symmetry of a square?",
+    options: ["A diagonal", "Any line through one vertex only", "Any random line", "A side"],
+    answer: 0,
+  },
+  {
+    question: "Which of these is not generally a line of symmetry of a rhombus that is not a square?",
+    options: ["One diagonal", "The other diagonal", "A line through opposite side midpoints", "Both diagonals"],
+    answer: 2,
+  },
+  {
+    question: "A rhombus that is not a square has two lines of symmetry. These are its:",
+    options: ["Diagonals", "Sides", "Midlines", "Perpendicular bisectors of all sides"],
+    answer: 0,
+  },
+  {
+    question: "Which shape can have four equal sides and four lines of symmetry?",
+    options: ["Rhombus", "Square", "Kite", "Parallelogram"],
+    answer: 1,
+  },
+  {
+    question: "Which shape can have four equal sides but only two lines of symmetry?",
+    options: ["Square", "Rhombus that is not a square", "Rectangle", "Kite"],
+    answer: 1,
+  },
+  {
+    question: "Which shape can have two pairs of equal adjacent sides and one line of symmetry?",
+    options: ["Kite", "Square", "Rectangle", "Parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "Which shape can have opposite sides equal and parallel but no line of symmetry?",
+    options: ["General parallelogram", "Square", "Rectangle", "Rhombus"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 18 sides. How many symmetry lines are there in total?",
+    options: ["9", "18", "36", "6"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 18 sides. What is its smallest rotational angle?",
+    options: ["10°", "20°", "30°", "40°"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 24 sides. How many symmetry lines are there?",
+    options: ["12", "18", "24", "48"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 24 sides. What is its smallest rotational angle?",
+    options: ["10°", "15°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 36 sides. How many symmetry lines are there?",
+    options: ["18", "24", "36", "72"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 36 sides. What is its smallest rotational angle?",
+    options: ["5°", "10°", "15°", "20°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 45 sides. How many symmetry lines are there?",
+    options: ["15", "30", "45", "90"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 45 sides. What is its smallest rotational angle?",
+    options: ["6°", "8°", "10°", "12°"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 60 sides. How many symmetry lines are there?",
+    options: ["30", "40", "60", "120"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 60 sides. What is its smallest rotational angle?",
+    options: ["4°", "5°", "6°", "10°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 72 sides. How many symmetry lines are there?",
+    options: ["36", "48", "72", "144"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 72 sides. What is its smallest rotational angle?",
+    options: ["4°", "5°", "6°", "8°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 100 sides. How many symmetry lines are there?",
+    options: ["50", "75", "100", "200"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 100 sides. What is its smallest rotational angle?",
+    options: ["3.6°", "4°", "5°", "10°"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has no line symmetry but has rotational symmetry of order 2?",
+    options: ["General parallelogram", "Square", "Regular hexagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly one line symmetry and no rotational symmetry greater than order 1?",
+    options: ["Kite", "Square", "Regular pentagon", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly two line symmetries and rotational symmetry order 2?",
+    options: ["Non-square rectangle", "Kite", "Scalene triangle", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly three line symmetries and rotational symmetry order 3?",
+    options: ["Equilateral triangle", "Square", "Rectangle", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly four line symmetries and rotational symmetry order 4?",
+    options: ["Square", "Rectangle", "Rhombus", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly five line symmetries and rotational symmetry order 5?",
+    options: ["Regular pentagon", "Regular hexagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly six line symmetries and rotational symmetry order 6?",
+    options: ["Regular hexagon", "Regular pentagon", "Square", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has exactly eight line symmetries and rotational symmetry order 8?",
+    options: ["Regular octagon", "Regular hexagon", "Square", "Regular pentagon"],
+    answer: 0,
+  },
+  {
+    question: "A shape has 9-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["30°", "40°", "45°", "60°"],
+    answer: 1,
+  },
+  {
+    question: "A shape has 11-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["30°", "32.73°", "36°", "40°"],
+    answer: 1,
+  },
+  {
+    question: "A shape has 13-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["27.69°", "30°", "36°", "40°"],
+    answer: 0,
+  },
+  {
+    question: "A shape has 15-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["18°", "20°", "24°", "30°"],
+    answer: 2,
+  },
+  {
+    question: "A shape has 18-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["10°", "15°", "20°", "30°"],
+    answer: 0,
+  },
+  {
+    question: "A shape has 20-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["15°", "18°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "A shape has 24-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["10°", "15°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "A shape has 30-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["10°", "12°", "15°", "20°"],
+    answer: 0,
+  },
+  {
+    question: "A shape has 40-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["9°", "10°", "12°", "15°"],
+    answer: 1,
+  },
+  {
+    question: "A shape has 50-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["6°", "7.2°", "8°", "10°"],
+    answer: 1,
+  },
+  {
+    question: "A shape has 100-fold rotational symmetry. What is the smallest angle of rotation?",
+    options: ["3.6°", "4°", "5°", "10°"],
+    answer: 0,
+  },
+  {
+    question: "If a pattern has 4-fold rotational symmetry, which rotation will NOT necessarily map it onto itself?",
+    options: ["90°", "180°", "270°", "45°"],
+    answer: 3,
+  },
+  {
+    question: "If a pattern has 6-fold rotational symmetry, which rotation will NOT necessarily map it onto itself?",
+    options: ["60°", "120°", "180°", "45°"],
+    answer: 3,
+  },
+  {
+    question: "If a pattern has 8-fold rotational symmetry, which rotation will NOT necessarily map it onto itself?",
+    options: ["45°", "90°", "180°", "30°"],
+    answer: 3,
+  },
+  {
+    question: "If a pattern has 10-fold rotational symmetry, which rotation will NOT necessarily map it onto itself?",
+    options: ["36°", "72°", "180°", "40°"],
+    answer: 3,
+  },
+  {
+    question: "A regular pentagon has 5 symmetry lines. If one line is used as a fold line, how many mirror halves are produced?",
+    options: ["2", "3", "4", "5"],
+    answer: 0,
+  },
+  {
+    question: "A square has 4 symmetry lines. How many different fold directions through its centre can produce matching halves?",
+    options: ["2", "3", "4", "6"],
+    answer: 2,
+  },
+  {
+    question: "A regular hexagon has 6 symmetry lines. How many different fold directions through its centre can produce matching halves?",
+    options: ["3", "4", "5", "6"],
+    answer: 3,
+  },
+  {
+    question: "A regular octagon has 8 symmetry lines. How many different fold directions through its centre can produce matching halves?",
+    options: ["4", "6", "8", "10"],
+    answer: 2,
+  },
+  {
+    question: "Which figure has the largest number of possible symmetry folds?",
+    options: ["Square", "Circle", "Regular hexagon", "Regular octagon"],
+    answer: 1,
+  },
+  {
+    question: "If a circle is folded along any diameter, the two halves:",
+    options: ["Coincide", "Do not coincide", "Become triangles", "Become rectangles"],
+    answer: 0,
+  },
+  {
+    question: "If a square is folded along a diagonal, the two halves are:",
+    options: ["Congruent triangles", "Unequal rectangles", "Circles", "Pentagons"],
+    answer: 0,
+  },
+  {
+    question: "If a square is folded along a line through the midpoints of opposite sides, the two halves are:",
+    options: ["Congruent rectangles", "Triangles", "Pentagons", "Circles"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon can be folded along each symmetry axis into:",
+    options: ["Two matching halves", "Three unequal parts", "Four triangles only", "No matching parts"],
+    answer: 0,
+  },
+  {
+    question: "A regular pentagon can be folded along each of its symmetry axes into:",
+    options: ["Two mirror-image halves", "Three equal polygons", "Four triangles", "Two circles"],
+    answer: 0,
+  },
+  {
+    question: "Which figure can have a symmetry line that does not pass through a vertex?",
+    options: ["Square", "Regular pentagon", "Circle", "Equilateral triangle"],
+    answer: 2,
+  },
+  {
+    question: "For a regular hexagon, some symmetry axes do not pass through vertices. They pass through:",
+    options: ["Opposite side midpoints", "Only one vertex", "Outside the figure", "Adjacent vertices"],
+    answer: 0,
+  },
+  {
+    question: "For a regular octagon, half of the symmetry axes pass through:",
+    options: ["Opposite vertices", "Only the centre", "No vertices", "Only one side"],
+    answer: 0,
+  },
+  {
+    question: "For a regular octagon, the remaining symmetry axes pass through:",
+    options: ["Opposite side midpoints", "Opposite vertices only", "One vertex", "No point"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has an odd number of symmetry axes?",
+    options: ["Regular pentagon", "Square", "Regular hexagon", "Regular octagon"],
+    answer: 0,
+  },
+  {
+    question: "Which regular polygon has an even number of symmetry axes?",
+    options: ["Regular pentagon", "Regular heptagon", "Square", "Regular nonagon"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon with 13 sides has an odd number of symmetry axes because:",
+    options: ["It has 13 axes", "It has no axes", "It has 6 axes", "It has 26 axes"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon with 14 sides has an even number of symmetry axes because:",
+    options: ["It has 14 axes", "It has 7 axes", "It has 28 axes", "It has 0 axes"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about symmetry lines of regular polygons is true?",
+    options: ["Every symmetry line passes through the centre", "No symmetry line passes through the centre", "Only one passes through the centre", "Only diagonal ones pass through the centre"],
+    answer: 0,
+  },
+  {
+    question: "If a figure has 6 lines of symmetry, the lines divide the full angle around the centre into:",
+    options: ["6 equal angular positions", "3 equal positions", "12 equal positions", "4 equal positions"],
+    answer: 0,
+  },
+  {
+    question: "For a regular hexagon, the angle between consecutive symmetry axes around the centre is:",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: 2,
+  },
+  {
+    question: "For a regular octagon, the angle between consecutive symmetry axes around the centre is:",
+    options: ["22.5°", "30°", "45°", "60°"],
+    answer: 2,
+  },
+  {
+    question: "For a regular pentagon, the angle between consecutive symmetry axes around the centre is:",
+    options: ["36°", "45°", "72°", "90°"],
+    answer: 2,
+  },
+  {
+    question: "For a regular decagon, the angle between consecutive symmetry axes around the centre is:",
+    options: ["18°", "20°", "36°", "45°"],
+    answer: 2,
+  },
+  {
+    question: "For a regular dodecagon, the angle between consecutive symmetry axes around the centre is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has n symmetry axes, the angle between consecutive rotational positions is:",
+    options: ["360° ÷ n", "180° ÷ n", "n ÷ 360°", "360° × n"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 12 symmetry axes, the angle between consecutive rotational positions is:",
+    options: ["15°", "20°", "30°", "45°"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 15 symmetry axes, the angle between consecutive rotational positions is:",
+    options: ["18°", "20°", "24°", "30°"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 18 symmetry axes, the angle between consecutive rotational positions is:",
+    options: ["10°", "15°", "20°", "30°"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 24 symmetry axes, the angle between consecutive rotational positions is:",
+    options: ["10°", "15°", "20°", "30°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 30 symmetry axes. How many degrees are in each smallest rotational step?",
+    options: ["6°", "10°", "12°", "15°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 40 symmetry axes. How many degrees are in each smallest rotational step?",
+    options: ["8°", "9°", "10°", "12°"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 50 symmetry axes. How many degrees are in each smallest rotational step?",
+    options: ["6°", "7.2°", "8°", "10°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 60 symmetry axes. How many degrees are in each smallest rotational step?",
+    options: ["4°", "5°", "6°", "10°"],
+    answer: 1,
+  },
+  {
+    question: "A regular polygon has 72 symmetry axes. How many degrees are in each smallest rotational step?",
+    options: ["4°", "5°", "6°", "8°"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 90 symmetry axes. How many degrees are in each smallest rotational step?",
+    options: ["2°", "4°", "5°", "10°"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 120 symmetry axes. How many degrees are in each smallest rotational step?",
+    options: ["2°", "3°", "4°", "6°"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has symmetry about every line passing through its centre?",
+    options: ["Circle", "Square", "Regular pentagon", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has exactly four lines of symmetry, not infinitely many?",
+    options: ["Circle", "Square", "Regular octagon", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has exactly eight lines of symmetry, not infinitely many?",
+    options: ["Circle", "Square", "Regular octagon", "Regular hexagon"],
+    answer: 2,
+  },
+  {
+    question: "Which shape has exactly six lines of symmetry, not infinitely many?",
+    options: ["Circle", "Regular hexagon", "Square", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which shape has exactly five lines of symmetry, not infinitely many?",
+    options: ["Regular pentagon", "Circle", "Square", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "A square and a circle both have rotational symmetry. Which has infinitely many symmetry lines?",
+    options: ["Square", "Circle", "Both", "Neither"],
+    answer: 1,
+  },
+  {
+    question: "A square and a regular octagon both have line symmetry. Which has more symmetry lines?",
+    options: ["Square", "Regular octagon", "Both equal", "Neither"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon and regular hexagon are compared. Which has more lines of symmetry?",
+    options: ["Pentagon", "Hexagon", "Both equal", "Neither"],
+    answer: 1,
+  },
+  {
+    question: "A regular hexagon and regular octagon are compared. How many more symmetry lines does the octagon have?",
+    options: ["1", "2", "3", "4"],
+    answer: 1,
+  },
+  {
+    question: "A regular pentagon and regular octagon are compared. How many more symmetry lines does the octagon have?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "A square and regular decagon are compared. How many more symmetry lines does the decagon have?",
+    options: ["4", "5", "6", "7"],
+    answer: 2,
+  },
+  {
+    question: "A regular hexagon and regular dodecagon are compared. How many more symmetry lines does the dodecagon have?",
+    options: ["4", "5", "6", "8"],
+    answer: 2,
+  },
+  {
+    question: "Which regular polygon has twice the symmetry lines of a regular hexagon?",
+    options: ["Regular octagon", "Regular decagon", "Regular dodecagon", "Regular pentagon"],
+    answer: 2,
+  },
+  {
+    question: "Which regular polygon has three times the symmetry lines of a square?",
+    options: ["Regular decagon", "Regular pentagon", "Regular hexagon", "Regular dodecagon"],
+    answer: 3,
+  },
+  {
+    question: "Which regular polygon has four times the symmetry lines of a square?",
+    options: ["Regular octagon", "Regular pentagon", "Regular hexagon", "Regular decagon"],
+    answer: 0,
+  },
+  {
+    question: "A regular pentagon has 5 symmetry lines. Which polygon has 3 times as many?",
+    options: ["Regular decagon", "Regular pentagon", "Regular hexagon", "Regular octagon"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon has 6 symmetry lines. Which polygon has twice as many?",
+    options: ["Regular octagon", "Regular decagon", "Regular dodecagon", "Regular pentagon"],
+    answer: 2,
+  },
+  {
+    question: "A regular octagon has 8 symmetry lines. Which polygon has 3 more?",
+    options: ["Regular decagon", "Regular nonagon", "Regular pentagon", "Regular hexagon"],
+    answer: 1,
+  },
+  {
+    question: "A regular octagon has 8 symmetry lines. Which polygon has 4 more?",
+    options: ["Regular dodecagon", "Regular decagon", "Regular hexagon", "Regular pentagon"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is true about the symmetry of a regular polygon?",
+    options: ["Each symmetry line divides it into mirror-image parts", "Each symmetry line changes its size", "Each symmetry line must be outside", "Symmetry lines never meet"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 20 sides, how many symmetry lines divide it into mirror halves?",
+    options: ["10", "20", "40", "5"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 30 sides, how many mirror-symmetry axes does it have?",
+    options: ["15", "20", "30", "60"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 40 sides, how many mirror-symmetry axes does it have?",
+    options: ["20", "30", "40", "80"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 50 sides, how many mirror-symmetry axes does it have?",
+    options: ["25", "40", "50", "100"],
+    answer: 2,
+  },
+  {
+    question: "If a regular polygon has 100 sides, how many mirror-symmetry axes does it have?",
+    options: ["50", "75", "100", "200"],
+    answer: 2,
+  },
+  {
+    question: "A regular polygon has 10 sides. What fraction of its symmetry axes pass through vertices?",
+    options: ["1/2", "1/3", "1/4", "1"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 8 sides. What fraction of its symmetry axes pass through vertices?",
+    options: ["1/2", "1/4", "3/4", "1"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 6 sides. What fraction of its symmetry axes pass through vertices?",
+    options: ["1/2", "1/3", "2/3", "1"],
+    answer: 0,
+  },
+  {
+    question: "A regular polygon has 4 sides. What fraction of its symmetry axes pass through vertices?",
+    options: ["1/2", "1/4", "3/4", "1"],
+    answer: 0,
+  },
+  {
+    question: "For an odd-sided regular polygon, what fraction of symmetry axes pass through vertices?",
+    options: ["1/2", "All of them", "None", "1/4"],
+    answer: 1,
+  },
+  {
+    question: "For an even-sided regular polygon, what fraction of symmetry axes pass through vertices?",
+    options: ["1/2", "All of them", "None", "1/4"],
+    answer: 0,
+  },
+  {
+    question: "A regular 12-sided polygon has 12 symmetry axes. How many pass through vertices?",
+    options: ["6", "12", "4", "8"],
+    answer: 0,
+  },
+  {
+    question: "A regular 12-sided polygon has 12 symmetry axes. How many pass through side midpoints?",
+    options: ["6", "12", "4", "8"],
+    answer: 0,
+  },
+  {
+    question: "A regular 14-sided polygon has 14 symmetry axes. How many pass through vertices?",
+    options: ["7", "14", "6", "8"],
+    answer: 0,
+  },
+  {
+    question: "A regular 14-sided polygon has 14 symmetry axes. How many pass through side midpoints?",
+    options: ["7", "14", "6", "8"],
+    answer: 0,
+  },
+  {
+    question: "A regular 16-sided polygon has 16 symmetry axes. How many pass through vertices?",
+    options: ["8", "16", "6", "10"],
+    answer: 0,
+  },
+  {
+    question: "A regular 16-sided polygon has 16 symmetry axes. How many pass through side midpoints?",
+    options: ["8", "16", "6", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which figure's symmetry can be destroyed by colouring just one vertex differently?",
+    options: ["Regular polygon", "Any symmetric figure", "Only circles", "Only triangles"],
+    answer: 1,
+  },
+  {
+    question: "If every part of a regular polygon is coloured identically, its geometric symmetry is:",
+    options: ["Preserved", "Always destroyed", "Reduced to one line", "Reduced to zero"],
+    answer: 0,
+  },
+  {
+    question: "If a symmetric design is coloured symmetrically, the symmetry can:",
+    options: ["Remain", "Never remain", "Become rotational only always", "Disappear automatically"],
+    answer: 0,
+  },
+  {
+    question: "Which condition is necessary for a reflection line to be a line of symmetry?",
+    options: ["Corresponding points must be equally distant from it", "All sides must be horizontal", "The figure must be a square", "The line must be outside"],
+    answer: 0,
+  },
+  {
+    question: "Which of these is NOT required for a figure to have line symmetry?",
+    options: ["Matching mirror halves", "Equal corresponding distances", "The figure being a regular polygon", "A possible reflection line"],
+    answer: 2,
+  },
+  {
+    question: "Can an irregular figure have line symmetry?",
+    options: ["Yes", "No", "Only if it is a circle", "Only if it has four sides"],
+    answer: 0,
+  },
+  {
+    question: "Can an irregular figure have rotational symmetry?",
+    options: ["Yes", "No", "Only triangles can", "Only squares can"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about symmetry is most accurate?",
+    options: ["A figure may have line symmetry, rotational symmetry, both, or neither", "Every figure has both", "Only regular polygons have either", "Symmetry exists only in geometry drawings"],
+    answer: 0,
+  },
+  {
+    question: "A design has no line symmetry but looks unchanged after a half-turn. It has:",
+    options: ["Reflection symmetry only", "Rotational symmetry of order 2", "Rotational symmetry of order 4", "No symmetry"],
+    answer: 1,
+  },
+  {
+    question: "A design looks unchanged after a quarter-turn. Its rotational symmetry order is at least:",
+    options: ["2", "3", "4", "8"],
+    answer: 2,
+  },
+  {
+    question: "A design looks unchanged after a sixth-turn. Its rotational symmetry order is at least:",
+    options: ["3", "4", "6", "12"],
+    answer: 2,
+  },
+  {
+    question: "A design looks unchanged after a fifth-turn. Its rotational symmetry order is at least:",
+    options: ["3", "4", "5", "10"],
+    answer: 2,
+  },
+  {
+    question: "A design looks unchanged after a tenth-turn. Its rotational symmetry order is at least:",
+    options: ["5", "8", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which figure can be rotated by 180° and still look exactly the same?",
+    options: ["General parallelogram", "Scalene triangle", "Isosceles triangle", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which figure can be rotated by 90° and still look exactly the same?",
+    options: ["Square", "Rectangle", "Kite", "General parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "Which figure can be rotated by 120° and still look exactly the same?",
+    options: ["Equilateral triangle", "Square", "Rectangle", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which figure can be rotated by 72° and still look exactly the same?",
+    options: ["Regular pentagon", "Square", "Regular hexagon", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure can be rotated by 45° and still look exactly the same?",
+    options: ["Regular octagon", "Square", "Rectangle", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "A square has 4-fold rotational symmetry. Which smaller angle also maps it onto itself?",
+    options: ["90°", "45°", "30°", "20°"],
+    answer: 0,
+  },
+  {
+    question: "A regular hexagon has 6-fold rotational symmetry. Which smaller angle also maps it onto itself?",
+    options: ["60°", "30°", "45°", "50°"],
+    answer: 0,
+  },
+  {
+    question: "A regular octagon has 8-fold rotational symmetry. Which smaller angle also maps it onto itself?",
+    options: ["45°", "30°", "20°", "40°"],
+    answer: 0,
+  },
+  {
+    question: "A regular decagon has 10-fold rotational symmetry. Which smaller angle also maps it onto itself?",
+    options: ["36°", "30°", "40°", "50°"],
+    answer: 0,
+  },
+  {
+    question: "A regular dodecagon has 12-fold rotational symmetry. Which smaller angle also maps it onto itself?",
+    options: ["30°", "20°", "25°", "40°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry order 4. Which of these is also a symmetry rotation?",
+    options: ["180°", "45°", "70°", "110°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry order 6. Which of these is also a symmetry rotation?",
+    options: ["120°", "50°", "70°", "100°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry order 8. Which of these is also a symmetry rotation?",
+    options: ["135°", "50°", "70°", "80°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry order 10. Which of these is also a symmetry rotation?",
+    options: ["144°", "50°", "75°", "100°"],
+    answer: 0,
+  },
+  {
+    question: "A figure has rotational symmetry order 12. Which of these is also a symmetry rotation?",
+    options: ["150°", "40°", "70°", "100°"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 12 sides, how many different non-zero rotations less than 360° map it onto itself?",
+    options: ["10", "11", "12", "6"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 20 sides, how many different non-zero rotations less than 360° map it onto itself?",
+    options: ["18", "19", "20", "10"],
+    answer: 1,
+  },
+  {
+    question: "If a regular polygon has 30 sides, how many different non-zero rotations less than 360° map it onto itself?",
+    options: ["29", "30", "15", "20"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 40 sides, how many different non-zero rotations less than 360° map it onto itself?",
+    options: ["39", "40", "20", "30"],
+    answer: 0,
+  },
+  {
+    question: "If a regular polygon has 50 sides, how many different non-zero rotations less than 360° map it onto itself?",
+    options: ["49", "50", "25", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has four lines of symmetry but only one type of rotational centre?",
+    options: ["Square", "Circle", "Regular pentagon", "Rectangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has infinitely many possible reflection axes through one centre?",
+    options: ["Circle", "Square", "Regular octagon", "Regular hexagon"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about the line of symmetry of a circle is correct?",
+    options: ["It must be a diameter", "It must be a chord not through centre", "It must be a tangent", "It must be a radius only"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about a square's symmetry lines is correct?",
+    options: ["All four pass through its centre", "None pass through its centre", "Only one passes through its centre", "Only diagonals pass outside"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about a regular hexagon's symmetry lines is correct?",
+    options: ["All six pass through its centre", "Only three pass through its centre", "None pass through its centre", "Only one passes through its centre"],
+    answer: 0,
+  },
+  {
+    question: "Which statement about symmetry is false?",
+    options: ["A line of symmetry can be vertical", "A line of symmetry can be horizontal", "A line of symmetry can be diagonal", "A line of symmetry must always be vertical"],
+    answer: 3,
+  },
+  {
+    question: "Which of these can be a line of symmetry of a square?",
+    options: ["A diagonal", "Any arbitrary slanted line", "A line through one vertex only", "A line outside the square"],
+    answer: 0,
+  },
+  {
+    question: "Which of these can be a line of symmetry of an equilateral triangle?",
+    options: ["A line from a vertex to the midpoint of the opposite side", "Any side", "A random diagonal", "A line outside"],
+    answer: 0,
+  },
+  {
+    question: "Which of these can be a line of symmetry of an isosceles triangle?",
+    options: ["The perpendicular bisector from the unequal side's midpoint to the opposite vertex", "Any side", "Any median", "Any random line"],
+    answer: 0,
+  },
+  {
+    question: "A line of symmetry of an isosceles triangle passes through:",
+    options: ["The vertex between equal sides and midpoint of the base", "Two base vertices", "Only the base", "Outside the triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure can have a symmetry line passing through a vertex and the centre but not through another vertex?",
+    options: ["Regular pentagon", "Square", "Rectangle", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has symmetry axes that each pass through the centre and a vertex?",
+    options: ["Regular polygon with odd sides", "General parallelogram", "Rectangle", "Scalene triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which figure has some symmetry axes through vertices and some through side midpoints?",
+    options: ["Regular polygon with even sides", "Regular polygon with odd sides", "Scalene triangle", "Circle"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has exactly two symmetry lines but no diagonal symmetry lines?",
+    options: ["Non-square rectangle", "Square", "Rhombus", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has diagonal symmetry lines?",
+    options: ["Square", "Non-square rectangle", "General parallelogram", "Scalene triangle"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has both diagonals as symmetry lines?",
+    options: ["Square", "Non-square rectangle", "Kite", "General parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has its two diagonals as symmetry lines but only when it is not a square?",
+    options: ["Rhombus", "Rectangle", "Parallelogram", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which quadrilateral's diagonals generally do not act as symmetry lines?",
+    options: ["General parallelogram", "Square", "Rhombus", "Kite"],
+    answer: 0,
+  },
+  {
+    question: "Which shape has exactly one diagonal that can act as a symmetry line?",
+    options: ["Kite", "Square", "Rectangle", "General parallelogram"],
+    answer: 0,
+  },
+  {
+    question: "If a figure has a vertical line of symmetry, the corresponding left and right points are:",
+    options: ["Equidistant from the vertical line", "Always on the same side", "Unequal distances", "On the line"],
+    answer: 0,
+  },
+  {
+    question: "If a figure has a horizontal line of symmetry, the corresponding top and bottom points are:",
+    options: ["Equidistant from the horizontal line", "Always on the same side", "Unequal distances", "On the line"],
+    answer: 0,
+  },
+  {
+    question: "If a point is 11 cm from a symmetry line, the distance between it and its image is:",
+    options: ["11 cm", "22 cm", "33 cm", "5.5 cm"],
+    answer: 1,
+  },
+  {
+    question: "If a point and its image are 50 cm apart, each is how far from the symmetry line?",
+    options: ["10 cm", "20 cm", "25 cm", "50 cm"],
+    answer: 2,
+  },
+  {
+    question: "If a point and its image are 72 cm apart, each is how far from the symmetry line?",
+    options: ["18 cm", "24 cm", "36 cm", "72 cm"],
+    answer: 2,
+  },
+  {
+    question: "If a point and its image are 100 cm apart, each is how far from the symmetry line?",
+    options: ["25 cm", "50 cm", "75 cm", "100 cm"],
+    answer: 1,
+  },
+  {
+    question: "Which operation preserves all distances between corresponding points?",
+    options: ["Reflection", "Stretching", "Scaling", "Distortion"],
+    answer: 0,
+  },
+  {
+    question: "Which operation can reverse orientation while preserving size?",
+    options: ["Reflection", "Translation", "Enlargement", "Contraction"],
+    answer: 0,
+  },
+  {
+    question: "A mirror image of a word may appear reversed because reflection changes:",
+    options: ["Left-right orientation", "Its size", "Its number of letters", "Its colour"],
+    answer: 0,
+  },
+  {
+    question: "If a symmetrical design is reflected across its own symmetry line, the design:",
+    options: ["Remains unchanged", "Doubles", "Becomes smaller", "Moves to another shape"],
+    answer: 0,
+  },
+  {
+    question: "If a square is reflected across a diagonal, the square:",
+    options: ["Remains unchanged", "Becomes a rectangle", "Becomes a triangle", "Changes size"],
+    answer: 0,
+  },
+],
+
+10: [
+  {
+    question: "Which number is exactly 5 units to the left of 0 on a number line?",
+    options: ["5", "-5", "0", "-1"],
+    answer: 1,
+  },
+  {
+    question: "Which is greater: -3 or -7?",
+    options: ["-7", "-3", "Both are equal", "0"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -8 + 13?",
+    options: ["-21", "21", "5", "-5"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of 7 - 12?",
+    options: ["5", "-5", "19", "-19"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is immediately before -2 on a number line?",
+    options: ["-1", "-3", "0", "2"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is immediately after -6?",
+    options: ["-7", "-5", "5", "6"],
+    answer: 1,
+  },
+  {
+    question: "What is the additive inverse of 9?",
+    options: ["9", "0", "-9", "1"],
+    answer: 2,
+  },
+  {
+    question: "What is the additive inverse of -14?",
+    options: ["14", "-14", "0", "1"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following is the smallest number?",
+    options: ["-2", "-9", "0", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following is the greatest number?",
+    options: ["-12", "-3", "-1", "-8"],
+    answer: 2,
+  },
+  {
+    question: "What is -15 + 9?",
+    options: ["-24", "24", "-6", "6"],
+    answer: 2,
+  },
+  {
+    question: "What is 18 + (-25)?",
+    options: ["7", "-7", "43", "-43"],
+    answer: 1,
+  },
+  {
+    question: "What is -11 + (-7)?",
+    options: ["18", "-18", "4", "-4"],
+    answer: 1,
+  },
+  {
+    question: "What is -20 - (-8)?",
+    options: ["-28", "28", "-12", "12"],
+    answer: 2,
+  },
+  {
+    question: "What is 16 - (-9)?",
+    options: ["7", "-7", "25", "-25"],
+    answer: 2,
+  },
+  {
+    question: "Which number lies exactly halfway between -8 and 4?",
+    options: ["-2", "2", "-4", "0"],
+    answer: 0,
+  },
+  {
+    question: "The temperature changes from -6°C to 5°C. By how many degrees does it increase?",
+    options: ["1°C", "11°C", "-11°C", "5°C"],
+    answer: 1,
+  },
+  {
+    question: "A submarine is 18 m below sea level and rises 7 m. What is its new position?",
+    options: ["-25 m", "-11 m", "11 m", "25 m"],
+    answer: 1,
+  },
+  {
+    question: "A lift is at floor -4 and moves up 9 floors. Which floor does it reach?",
+    options: ["-13", "5", "-5", "13"],
+    answer: 1,
+  },
+  {
+    question: "Which expression has a value of zero?",
+    options: ["-7 + 7", "-7 - 7", "7 + 7", "0 - 7"],
+    answer: 0,
+  },
+  {
+    question: "What is the distance between -9 and 6 on a number line?",
+    options: ["3", "15", "−15", "9"],
+    answer: 1,
+  },
+  {
+    question: "If x = -7, what is x + 12?",
+    options: ["-19", "19", "5", "-5"],
+    answer: 2,
+  },
+  {
+    question: "If y = 8, what is y - 15?",
+    options: ["7", "-7", "23", "-23"],
+    answer: 1,
+  },
+  {
+    question: "Which pair contains two opposite integers?",
+    options: ["4 and 4", "-6 and 6", "-3 and -3", "0 and 1"],
+    answer: 1,
+  },
+  {
+    question: "Which integer has no different integer as its additive inverse?",
+    options: ["1", "-1", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "Arrange -2, 5, -8, 0 in ascending order.",
+    options: ["5, 0, -2, -8", "-8, -2, 0, 5", "-2, -8, 0, 5", "0, -2, -8, 5"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 7 units to the right of -10?",
+    options: ["-17", "-3", "3", "17"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 9 units to the left of 4?",
+    options: ["13", "-5", "5", "-13"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of (-5) + 0?",
+    options: ["5", "0", "-5", "1"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of 0 - (-13)?",
+    options: ["-13", "13", "0", "26"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is correct?",
+    options: ["-4 > -2", "-8 > -3", "-1 > -6", "-10 > 2"],
+    answer: 2,
+  },
+  {
+    question: "A bank account shows a balance of -₹250. If ₹400 is deposited, what is the new balance?",
+    options: ["-₹650", "₹150", "-₹150", "₹650"],
+    answer: 1,
+  },
+  {
+    question: "A person owes ₹700 and pays ₹450. Represent the remaining amount as an integer.",
+    options: ["250", "-250", "-1150", "1150"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -32 + 17?",
+    options: ["15", "-15", "49", "-49"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of 27 + (-19)?",
+    options: ["-8", "8", "46", "-46"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -24 - 13?",
+    options: ["-37", "37", "-11", "11"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of -30 - (-17)?",
+    options: ["-47", "47", "-13", "13"],
+    answer: 2,
+  },
+  {
+    question: "Which number is closer to zero?",
+    options: ["-9", "6", "-3", "8"],
+    answer: 2,
+  },
+  {
+    question: "Which number is farthest from zero?",
+    options: ["-12", "9", "-7", "10"],
+    answer: 0,
+  },
+  {
+    question: "If a number is 6 units away from zero, which pair could represent it?",
+    options: ["6 and -6", "6 and 0", "-6 and -6", "0 and 6"],
+    answer: 0,
+  },
+  {
+    question: "What is the integer represented by moving 14 steps left from 3?",
+    options: ["17", "-11", "11", "-17"],
+    answer: 1,
+  },
+  {
+    question: "What is the integer represented by moving 12 steps right from -5?",
+    options: ["-17", "7", "-7", "17"],
+    answer: 1,
+  },
+  {
+    question: "Which expression gives the greatest value?",
+    options: ["-4 + 10", "8 - 15", "-2 + 5", "-10 + 20"],
+    answer: 3,
+  },
+  {
+    question: "Which expression gives the smallest value?",
+    options: ["-5 + 2", "-8 + 1", "4 - 10", "-2 - 7"],
+    answer: 3,
+  },
+  {
+    question: "If a temperature falls from 9°C to -4°C, what is the decrease?",
+    options: ["5°C", "13°C", "-13°C", "9°C"],
+    answer: 1,
+  },
+  {
+    question: "If the temperature rises from -12°C to -3°C, how much does it rise?",
+    options: ["9°C", "-9°C", "15°C", "3°C"],
+    answer: 0,
+  },
+  {
+    question: "Which number must be added to -18 to get 7?",
+    options: ["-25", "25", "11", "-11"],
+    answer: 1,
+  },
+  {
+    question: "Which number must be added to 13 to get -5?",
+    options: ["18", "-18", "8", "-8"],
+    answer: 1,
+  },
+  {
+    question: "Which number must be subtracted from -4 to get -15?",
+    options: ["11", "-11", "19", "-19"],
+    answer: 0,
+  },
+  {
+    question: "Which number must be subtracted from 6 to get -9?",
+    options: ["3", "15", "-15", "9"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of the integers from -3 to 3?",
+    options: ["3", "-3", "0", "6"],
+    answer: 2,
+  },
+  {
+    question: "What is the sum of -5, -4, 4 and 5?",
+    options: ["10", "-10", "0", "5"],
+    answer: 2,
+  },
+  {
+    question: "Which pair has a sum of -10?",
+    options: ["-7 and -3", "7 and -3", "-8 and 2", "5 and -15"],
+    answer: 0,
+  },
+  {
+    question: "Which pair has a difference of 12?",
+    options: ["4 and -8", "-4 and 8", "6 and -6", "-10 and 2"],
+    answer: 0,
+  },
+  {
+    question: "If a = -6 and b = -4, what is a + b?",
+    options: ["10", "-10", "2", "-2"],
+    answer: 1,
+  },
+  {
+    question: "If a = -9 and b = 14, what is a + b?",
+    options: ["23", "-23", "5", "-5"],
+    answer: 2,
+  },
+  {
+    question: "If p = 7 and q = -11, what is p - q?",
+    options: ["-4", "4", "18", "-18"],
+    answer: 2,
+  },
+  {
+    question: "If p = -7 and q = 11, what is p - q?",
+    options: ["18", "-18", "4", "-4"],
+    answer: 1,
+  },
+  {
+    question: "Which number lies between -7 and -2?",
+    options: ["-9", "-5", "-1", "2"],
+    answer: 1,
+  },
+  {
+    question: "How many integers lie strictly between -4 and 4?",
+    options: ["7", "8", "6", "9"],
+    answer: 0,
+  },
+  {
+    question: "How many integers lie strictly between -10 and -5?",
+    options: ["4", "5", "6", "3"],
+    answer: 0,
+  },
+  {
+    question: "Which is the correct comparison?",
+    options: ["-15 < -20", "-9 > -12", "-4 < -8", "3 < -2"],
+    answer: 1,
+  },
+  {
+    question: "If n is a negative integer, which statement is always true?",
+    options: ["n > 0", "n = 0", "n < 0", "n > 10"],
+    answer: 2,
+  },
+  {
+    question: "Which number is 20 units away from -5 on the right?",
+    options: ["-25", "15", "25", "-15"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 18 units away from 7 on the left?",
+    options: ["25", "-11", "11", "-25"],
+    answer: 1,
+  },
+  {
+    question: "A hiker is at 120 m above sea level and descends 175 m. What is the new position?",
+    options: ["295 m", "-55 m", "55 m", "-295 m"],
+    answer: 1,
+  },
+  {
+    question: "A diver is at -45 m and rises 18 m. What is the new position?",
+    options: ["-63 m", "63 m", "-27 m", "27 m"],
+    answer: 2,
+  },
+  {
+    question: "A lift moves from floor -8 to floor 6. How many floors does it travel?",
+    options: ["2", "14", "-14", "13"],
+    answer: 1,
+  },
+  {
+    question: "A temperature changes from -15°C to 8°C. What is the total change?",
+    options: ["7°C", "23°C", "-23°C", "15°C"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the additive inverse of -25?",
+    options: ["-25", "0", "25", "1"],
+    answer: 2,
+  },
+  {
+    question: "What is the additive inverse of 0?",
+    options: ["1", "-1", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "If x + (-9) = -2, what is x?",
+    options: ["-11", "7", "-7", "11"],
+    answer: 1,
+  },
+  {
+    question: "If x - (-6) = 10, what is x?",
+    options: ["16", "4", "-4", "-16"],
+    answer: 1,
+  },
+  {
+    question: "If x + 15 = -4, what is x?",
+    options: ["19", "-19", "11", "-11"],
+    answer: 1,
+  },
+  {
+    question: "If x - 12 = -20, what is x?",
+    options: ["-32", "32", "-8", "8"],
+    answer: 2,
+  },
+  {
+    question: "Which expression is equal to -16?",
+    options: ["-8 + (-8)", "8 + 8", "-20 + 4", "20 - 4"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to 0?",
+    options: ["-13 + 12", "18 - 18", "-5 - 5", "7 + 7"],
+    answer: 1,
+  },
+  {
+    question: "Which number is greater than -5 but less than 2?",
+    options: ["-7", "4", "-3", "5"],
+    answer: 2,
+  },
+  {
+    question: "Which number is less than -8 but greater than -15?",
+    options: ["-6", "-10", "-17", "0"],
+    answer: 1,
+  },
+  {
+    question: "What is (-7) + 15 - 6?",
+    options: ["2", "-2", "8", "14"],
+    answer: 0,
+  },
+  {
+    question: "What is 12 - 20 + 5?",
+    options: ["-3", "3", "-13", "13"],
+    answer: 0,
+  },
+  {
+    question: "What is -10 + 6 - 9?",
+    options: ["5", "-5", "-13", "13"],
+    answer: 2,
+  },
+  {
+    question: "What is 25 - 18 - 10?",
+    options: ["-3", "3", "17", "-17"],
+    answer: 0,
+  },
+  {
+    question: "What is -15 + 8 + 12?",
+    options: ["-19", "5", "-5", "19"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of -12 and its additive inverse?",
+    options: ["24", "-24", "0", "12"],
+    answer: 2,
+  },
+  {
+    question: "Which pair of numbers has the same distance from zero?",
+    options: ["-7 and 7", "-5 and 6", "-8 and 9", "4 and -5"],
+    answer: 0,
+  },
+  {
+    question: "If a number is negative and its distance from zero is 13, what is the number?",
+    options: ["13", "-13", "0", "26"],
+    answer: 1,
+  },
+  {
+    question: "Which number is closest to -10?",
+    options: ["-12", "2", "5", "-20"],
+    answer: 0,
+  },
+  {
+    question: "Which number is farthest from -3?",
+    options: ["-8", "5", "10", "-6"],
+    answer: 2,
+  },
+  {
+    question: "The position of a robot is -4. It moves 6 steps left and then 9 steps right. Where is it now?",
+    options: ["-1", "11", "1", "-19"],
+    answer: 2,
+  },
+  {
+    question: "A player starts at 5, moves 12 steps left, then 4 steps right. What is the final position?",
+    options: ["-3", "3", "-11", "11"],
+    answer: 0,
+  },
+  {
+    question: "A number is increased by 9 and becomes -4. What was the original number?",
+    options: ["5", "-13", "13", "-5"],
+    answer: 1,
+  },
+  {
+    question: "A number is decreased by 7 and becomes -15. What was the original number?",
+    options: ["-22", "22", "-8", "8"],
+    answer: 2,
+  },
+  {
+    question: "Which sequence is in descending order?",
+    options: ["-2, -5, -8, -11", "-11, -8, -5, -2", "2, -2, -5, -1", "-8, -2, -11, -5"],
+    answer: 0,
+  },
+  {
+    question: "Which sequence is in ascending order?",
+    options: ["5, 2, -1, -4", "-4, -1, 2, 5", "-1, -4, 5, 2", "2, 5, -4, -1"],
+    answer: 1,
+  },
+  {
+    question: "Which number should replace the blank: -12, -9, -6, __, 0?",
+    options: ["-5", "-4", "-3", "3"],
+    answer: 2,
+  },
+  {
+    question: "Which number should replace the blank: 8, 4, 0, -4, __?",
+    options: ["-8", "8", "-4", "4"],
+    answer: 0,
+  },
+  {
+    question: "Which number should replace the blank: -20, -15, -10, __, 0?",
+    options: ["-8", "-5", "5", "-2"],
+    answer: 1,
+  },
+  {
+    question: "What is the difference between the greatest and smallest numbers among -7, 3, -12 and 5?",
+    options: ["12", "17", "-17", "10"],
+    answer: 1,
+  },
+  {
+    question: "The sum of two integers is 0. If one is -18, what is the other?",
+    options: ["-18", "0", "18", "36"],
+    answer: 2,
+  },
+  {
+    question: "The difference between two integers is 9. If one is -4 and the other is greater, what is the other integer?",
+    options: ["-13", "5", "13", "-5"],
+    answer: 1,
+  },
+  {
+    question: "Which number must be added to -27 to make it 0?",
+    options: ["-27", "27", "0", "54"],
+    answer: 1,
+  },
+  {
+    question: "Which number must be subtracted from 27 to make it 0?",
+    options: ["-27", "0", "27", "54"],
+    answer: 2,
+  },
+  {
+    question: "If the temperature is -8°C and increases by 15°C, what is the new temperature?",
+    options: ["-23°C", "7°C", "23°C", "-7°C"],
+    answer: 1,
+  },
+  {
+    question: "If the temperature is 6°C and decreases by 14°C, what is the new temperature?",
+    options: ["20°C", "-8°C", "8°C", "-20°C"],
+    answer: 1,
+  },
+  {
+    question: "A debt of ₹900 is represented by which integer?",
+    options: ["900", "-900", "0", "90"],
+    answer: 1,
+  },
+  {
+    question: "A profit of ₹650 is represented by which integer?",
+    options: ["-650", "0", "650", "-65"],
+    answer: 2,
+  },
+  {
+    question: "Which integer represents 25 m below ground level?",
+    options: ["25", "-25", "0", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which integer represents 40 m above sea level?",
+    options: ["-40", "0", "4", "40"],
+    answer: 3,
+  },
+  {
+    question: "What is (-18) + 18 - 7?",
+    options: ["7", "-7", "0", "36"],
+    answer: 1,
+  },
+  {
+    question: "What is 21 + (-13) + (-8)?",
+    options: ["0", "16", "-16", "42"],
+    answer: 0,
+  },
+  {
+    question: "What is -30 + 12 + 9?",
+    options: ["-9", "9", "-51", "51"],
+    answer: 0,
+  },
+  {
+    question: "What is 40 - 25 + (-20)?",
+    options: ["35", "-5", "5", "-45"],
+    answer: 2,
+  },
+  {
+    question: "Which statement about zero is correct?",
+    options: ["Zero is positive", "Zero is negative", "Zero is neither positive nor negative", "Zero is greater than every integer"],
+    answer: 2,
+  },
+  {
+    question: "If a > 0 and b < 0, which statement is always true?",
+    options: ["a < b", "b < a", "a = b", "a + b must be positive"],
+    answer: 1,
+  },
+  {
+    question: "If x < -5, which could be the value of x?",
+    options: ["-3", "-5", "-8", "2"],
+    answer: 2,
+  },
+  {
+    question: "If x > -2 and x < 3, which integer cannot be x?",
+    options: ["-1", "0", "2", "4"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is exactly 10 units from -2?",
+    options: ["8 only", "-12 only", "8 and -12", "10 and -10"],
+    answer: 2,
+  },
+  {
+    question: "Which pair of integers has a product of positions symmetric about zero?",
+    options: ["-9 and 9", "-4 and 5", "-7 and 6", "-2 and 3"],
+    answer: 0,
+  },
+  {
+    question: "If you move 5 steps right from -3 and then 8 steps left, where do you end?",
+    options: ["0", "-6", "10", "6"],
+    answer: 1,
+  },
+  {
+    question: "If you move 11 steps left from 4 and then 15 steps right, where do you end?",
+    options: ["-22", "8", "-8", "0"],
+    answer: 1,
+  },
+  {
+    question: "A number line starts at -10. Moving right by 23 units gives which number?",
+    options: ["-33", "13", "-13", "33"],
+    answer: 1,
+  },
+  {
+    question: "A number line starts at 15. Moving left by 28 units gives which number?",
+    options: ["43", "-13", "13", "-43"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following has the greatest absolute distance from zero?",
+    options: ["-19", "17", "-21", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which of the following has the smallest absolute distance from zero?",
+    options: ["-4", "3", "-2", "5"],
+    answer: 2,
+  },
+  {
+    question: "If |x| = 7 and x is negative, what is x?",
+    options: ["7", "-7", "0", "14"],
+    answer: 1,
+  },
+  {
+    question: "If |x| = 12, which pair represents all possible integer values of x?",
+    options: ["12 only", "-12 only", "12 and -12", "0 and 12"],
+    answer: 2,
+  },
+  {
+    question: "What is the distance between -15 and -3?",
+    options: ["12", "18", "-12", "8"],
+    answer: 0,
+  },
+  {
+    question: "What is the distance between 9 and -14?",
+    options: ["5", "23", "-23", "14"],
+    answer: 1,
+  },
+  {
+    question: "Three consecutive integers have the middle integer -4. What are they?",
+    options: ["-6, -5, -4", "-5, -4, -3", "-4, -3, -2", "-7, -4, -1"],
+    answer: 1,
+  },
+  {
+    question: "Three consecutive integers have the greatest integer 2. What is their sum?",
+    options: ["3", "0", "-3", "6"],
+    answer: 2,
+  },
+  {
+    question: "Four consecutive integers start with -3. What is the greatest integer?",
+    options: ["0", "1", "-1", "3"],
+    answer: 0,
+  },
+  {
+    question: "The sum of two opposite integers is always:",
+    options: ["1", "-1", "0", "2"],
+    answer: 2,
+  },
+  {
+    question: "Which operation changes -9 into 9?",
+    options: ["Add 9", "Subtract 9", "Multiply by -1", "Add 1"],
+    answer: 2,
+  },
+  {
+    question: "Which operation changes 7 into -7?",
+    options: ["Multiply by -1", "Add 7", "Subtract 7", "Multiply by 1"],
+    answer: 0,
+  },
+  {
+    question: "If -a = 11, what is a?",
+    options: ["11", "-11", "0", "22"],
+    answer: 1,
+  },
+  {
+    question: "If -b = -16, what is b?",
+    options: ["-16", "16", "0", "-32"],
+    answer: 1,
+  },
+  {
+    question: "Which value of x makes x + 8 = 0?",
+    options: ["8", "-8", "0", "16"],
+    answer: 1,
+  },
+  {
+    question: "Which value of x makes x - (-5) = 0?",
+    options: ["5", "-5", "0", "10"],
+    answer: 1,
+  },
+  {
+    question: "If the first number is -6 and each next number is 4 greater, what is the fourth number?",
+    options: ["2", "6", "-2", "10"],
+    answer: 1,
+  },
+  {
+    question: "A sequence starts at 10 and decreases by 6 each time. What is the third term?",
+    options: ["-2", "4", "-8", "16"],
+    answer: 0,
+  },
+  {
+    question: "A sequence is -2, 3, 8, 13, __. What is the next term?",
+    options: ["16", "18", "20", "15"],
+    answer: 1,
+  },
+  {
+    question: "A sequence is 12, 7, 2, -3, __. What is the next term?",
+    options: ["-8", "8", "-6", "-7"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 4 greater than -11?",
+    options: ["-15", "-7", "7", "15"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 6 less than -2?",
+    options: ["4", "-8", "8", "-6"],
+    answer: 1,
+  },
+  {
+    question: "If the sum of two integers is -5 and one integer is 12, what is the other?",
+    options: ["17", "-17", "-7", "7"],
+    answer: 2,
+  },
+  {
+    question: "If the sum of two integers is 14 and one integer is -9, what is the other?",
+    options: ["5", "-5", "23", "-23"],
+    answer: 2,
+  },
+  {
+    question: "If the difference of two integers is -6 and the first integer is 4, what is the second integer?",
+    options: ["10", "-10", "2", "-2"],
+    answer: 0,
+  },
+  {
+    question: "Which statement is true for every integer n?",
+    options: ["n + 0 = n", "n + 1 = n", "n - n = 1", "n + (-n) = n"],
+    answer: 0,
+  },
+  {
+    question: "Which expression always equals zero?",
+    options: ["n + n", "n - n", "n + 1", "n - 1"],
+    answer: 1,
+  },
+  {
+    question: "If a = -10, which expression gives its opposite?",
+    options: ["a + 10", "a - 10", "-a", "a + (-10)"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is exactly halfway between -14 and 2?",
+    options: ["-8", "-6", "6", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly halfway between -9 and 5?",
+    options: ["-3", "-2", "2", "3"],
+    answer: 1,
+  },
+  {
+    question: "If the distance between two integers on a number line is 16 and one is -7, which could be the other?",
+    options: ["9 only", "-23 only", "9 or -23", "23 or -9"],
+    answer: 2,
+  },
+  {
+    question: "Which pair has a difference of 20?",
+    options: ["-5 and 15", "-10 and 10", "-4 and 16", "3 and 23"],
+    answer: 0,
+  },
+  {
+    question: "Which number should be added to -35 to obtain -12?",
+    options: ["-23", "23", "47", "-47"],
+    answer: 1,
+  },
+  {
+    question: "Which number should be added to 18 to obtain -27?",
+    options: ["45", "-45", "9", "-9"],
+    answer: 1,
+  },
+  {
+    question: "A temperature is -20°C. It rises by 8°C and then falls by 13°C. What is the final temperature?",
+    options: ["-25°C", "-5°C", "1°C", "25°C"],
+    answer: 0,
+  },
+  {
+    question: "A submarine is at -60 m. It rises 25 m and then descends 10 m. What is its final position?",
+    options: ["-45 m", "-95 m", "-25 m", "45 m"],
+    answer: 0,
+  },
+  {
+    question: "A bank balance is -₹500. ₹750 is deposited and then ₹300 is withdrawn. What is the final balance?",
+    options: ["₹250", "-₹50", "₹50", "-₹1550"],
+    answer: 2,
+  },
+  {
+    question: "A lift is on floor -6. It goes up 14 floors and then down 5 floors. Where does it stop?",
+    options: ["3", "-3", "13", "-15"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following pairs has a sum greater than zero?",
+    options: ["-8 + (-4)", "-15 + 7", "-6 + 10", "-20 + 5"],
+    answer: 2,
+  },
+  {
+    question: "Which of the following pairs has a sum less than zero?",
+    options: ["12 + (-4)", "15 + (-20)", "7 + (-2)", "18 + (-5)"],
+    answer: 1,
+  },
+  {
+    question: "If x is an integer between -3 and 3 inclusive, which is the greatest possible value of x?",
+    options: ["2", "3", "4", "-3"],
+    answer: 1,
+  },
+  {
+    question: "If x is an integer between -8 and -2 inclusive, which is the smallest possible value of x?",
+    options: ["-2", "-7", "-8", "8"],
+    answer: 2,
+  },
+  {
+    question: "How many integers are there from -5 to 5 inclusive?",
+    options: ["10", "11", "9", "12"],
+    answer: 1,
+  },
+  {
+    question: "How many integers are there from -10 to -1 inclusive?",
+    options: ["9", "10", "11", "8"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of all integers from -5 to 5?",
+    options: ["-5", "5", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "What is the sum of all integers from -4 to 4?",
+    options: ["0", "4", "-4", "8"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of -10, -9, -8, 8, 9 and 10?",
+    options: ["20", "-20", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "Which number is greater than both -7 and -2?",
+    options: ["-9", "-8", "-1", "-10"],
+    answer: 2,
+  },
+  {
+    question: "Which number is smaller than both -6 and -12?",
+    options: ["-5", "-10", "-13", "0"],
+    answer: 2,
+  },
+  {
+    question: "If a number is 9 units to the left of -4, what is the number?",
+    options: ["5", "-13", "13", "-5"],
+    answer: 1,
+  },
+  {
+    question: "If a number is 17 units to the right of -9, what is the number?",
+    options: ["-26", "8", "-8", "26"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is closest to zero among -1, -5, 2 and -3?",
+    options: ["-1", "2", "-3", "-5"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is farthest from zero among -11, 9, -8 and 10?",
+    options: ["-11", "9", "-8", "10"],
+    answer: 0,
+  },
+  {
+    question: "If x = -12, what is -x?",
+    options: ["-12", "0", "12", "24"],
+    answer: 2,
+  },
+  {
+    question: "If x = 15, what is -x?",
+    options: ["15", "-15", "0", "30"],
+    answer: 1,
+  },
+  {
+    question: "Which equation is true?",
+    options: ["-8 + 3 = -5", "-8 + 3 = -11", "8 - 3 = -5", "-8 - 3 = -5"],
+    answer: 0,
+  },
+  {
+    question: "Which equation is true?",
+    options: ["-12 - 5 = -7", "-12 - 5 = -17", "12 + (-5) = 17", "-12 + 5 = -17"],
+    answer: 1,
+  },
+  {
+    question: "Which equation is true?",
+    options: ["-9 - (-4) = -13", "-9 - (-4) = -5", "9 - 4 = -5", "-9 + (-4) = -5"],
+    answer: 1,
+  },
+  {
+    question: "What is the missing number: -18 + __ = -7?",
+    options: ["11", "-11", "25", "-25"],
+    answer: 0,
+  },
+  {
+    question: "What is the missing number: __ - 9 = -16?",
+    options: ["-25", "-7", "7", "25"],
+    answer: 1,
+  },
+  {
+    question: "What is the missing number: -5 - __ = -13?",
+    options: ["8", "-8", "18", "-18"],
+    answer: 0,
+  },
+  {
+    question: "What is the missing number: __ + (-14) = 6?",
+    options: ["8", "-8", "20", "-20"],
+    answer: 2,
+  },
+  {
+    question: "A number is 5 less than -2. What is the number?",
+    options: ["3", "-7", "7", "-3"],
+    answer: 1,
+  },
+  {
+    question: "A number is 8 greater than -13. What is the number?",
+    options: ["-21", "-5", "5", "21"],
+    answer: 1,
+  },
+  {
+    question: "A number is 12 less than 4. What is the number?",
+    options: ["16", "-8", "8", "-16"],
+    answer: 1,
+  },
+  {
+    question: "A number is 15 greater than -20. What is the number?",
+    options: ["-35", "-5", "5", "35"],
+    answer: 1,
+  },
+  {
+    question: "If the current temperature is -7°C and tomorrow is expected to be 10°C warmer, what will it be?",
+    options: ["-17°C", "3°C", "17°C", "-3°C"],
+    answer: 1,
+  },
+  {
+    question: "If a freezer is at -18°C and its temperature increases by 6°C, what is the new temperature?",
+    options: ["-24°C", "-12°C", "12°C", "24°C"],
+    answer: 1,
+  },
+  {
+    question: "A mountain climber is at 200 m above sea level and descends 350 m. What is the new position?",
+    options: ["550 m", "-150 m", "150 m", "-550 m"],
+    answer: 1,
+  },
+  {
+    question: "A diver at -80 m rises 35 m and then rises another 20 m. What is the final position?",
+    options: ["-25 m", "-125 m", "25 m", "-45 m"],
+    answer: 0,
+  },
+  {
+    question: "Which of these calculations gives -1?",
+    options: ["-5 + 4", "5 - 4", "-5 - 4", "4 - (-5)"],
+    answer: 0,
+  },
+  {
+    question: "Which of these calculations gives 1?",
+    options: ["-5 + 4", "5 - 4", "-5 - 4", "4 + 5"],
+    answer: 1,
+  },
+  {
+    question: "Which of these calculations gives -20?",
+    options: ["-12 - 8", "12 - 8", "-12 + 8", "20 + 0"],
+    answer: 0,
+  },
+  {
+    question: "Which of these calculations gives 20?",
+    options: ["-12 + 8", "12 + 8", "-20 + 0", "8 - 20"],
+    answer: 1,
+  },
+  {
+    question: "If two integers are equally far from zero but on opposite sides, their sum is:",
+    options: ["The positive integer", "The negative integer", "Zero", "Twice the positive integer"],
+    answer: 2,
+  },
+  {
+    question: "Which number line movement represents -7 + 10?",
+    options: ["Move 7 left from 0", "Move 7 right from 10", "Move 7 left from 10", "Move 10 right from -7"],
+    answer: 3,
+  },
+  {
+    question: "Which number line movement represents 5 - 9?",
+    options: ["Move 9 left from 5", "Move 9 right from 5", "Move 5 left from 9", "Move 5 right from -9"],
+    answer: 0,
+  },
+  {
+    question: "If you start at -12 and end at 4, in which direction did you move?",
+    options: ["Left", "Right", "Stayed still", "First left only"],
+    answer: 1,
+  },
+  {
+    question: "If you start at 8 and end at -6, how many units did you move?",
+    options: ["2", "14", "-14", "8"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -(-(-7))?",
+    options: ["7", "-7", "0", "14"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -(-(-(-5)))?",
+    options: ["5", "-5", "0", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is its own additive inverse?",
+    options: ["1", "-1", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "If x is negative, which of the following could be x?",
+    options: ["0", "7", "-4", "12"],
+    answer: 2,
+  },
+  {
+    question: "If x is positive, which of the following could be x?",
+    options: ["-9", "0", "6", "-2"],
+    answer: 2,
+  },
+  {
+    question: "Which statement is always true?",
+    options: ["Every negative integer is greater than zero", "Every positive integer is less than zero", "Every positive integer is greater than every negative integer", "Zero is less than every negative integer"],
+    answer: 2,
+  },
+  {
+    question: "Which number is greater than -100 but less than -90?",
+    options: ["-89", "-95", "-105", "95"],
+    answer: 1,
+  },
+  {
+    question: "Which number is less than 0 but greater than -1?",
+    options: ["No integer exists", "1", "-2", "0"],
+    answer: 0,
+  },
+  {
+    question: "What is the smallest integer greater than -1?",
+    options: ["-2", "-1", "0", "1"],
+    answer: 2,
+  },
+  {
+    question: "What is the greatest integer less than 1?",
+    options: ["0", "1", "-1", "2"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 100 units to the left of 25?",
+    options: ["125", "-75", "75", "-125"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 100 units to the right of -25?",
+    options: ["-125", "75", "125", "-75"],
+    answer: 1,
+  },
+  {
+    question: "The temperature was -5°C in the morning and 12°C in the afternoon. What was the increase?",
+    options: ["7°C", "17°C", "-17°C", "12°C"],
+    answer: 1,
+  },
+  {
+    question: "A person's bank balance changes from -₹1200 to -₹450. By how much did the balance increase?",
+    options: ["₹750", "-₹750", "₹1650", "₹450"],
+    answer: 0,
+  },
+  {
+    question: "A shopkeeper has a loss of ₹850 and then earns ₹1000. What is the net result?",
+    options: ["Loss of ₹150", "Profit of ₹150", "Profit of ₹1850", "Loss of ₹1850"],
+    answer: 1,
+  },
+  {
+    question: "A player loses 15 points, gains 22 points and then loses 9 points. What is the net score?",
+    options: ["-2", "2", "16", "-16"],
+    answer: 0,
+  },
+  {
+    question: "A game starts with 10 points. A player loses 18, gains 7 and loses 4. What is the final score?",
+    options: ["-5", "5", "-1", "1"],
+    answer: 2,
+  },
+  {
+    question: "If -3, 0, 3, 6, 9 are consecutive terms of a pattern, what is the next term?",
+    options: ["10", "11", "12", "13"],
+    answer: 2,
+  },
+  {
+    question: "If -20, -15, -10, -5, 0 are terms of a pattern, what is the next term?",
+    options: ["-10", "5", "10", "-5"],
+    answer: 1,
+  },
+  {
+    question: "Which number comes exactly midway between -20 and 10?",
+    options: ["-10", "-5", "5", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which number comes exactly midway between -30 and 20?",
+    options: ["-10", "-5", "5", "10"],
+    answer: 1,
+  },
+  {
+    question: "If the difference between two integers is 25 and one is -10, which could be the other integer?",
+    options: ["15", "-35", "15 or -35", "35 or -15"],
+    answer: 2,
+  },
+  {
+    question: "Which pair of integers has a sum of 5?",
+    options: ["-8 and 13", "-10 and 5", "12 and -8", "-3 and -2"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of integers has a sum of -5?",
+    options: ["8 and -13", "10 and -5", "12 and -8", "3 and 2"],
+    answer: 0,
+  },
+  {
+    question: "If the greatest of two integers is -2, which could be the other integer?",
+    options: ["5", "0", "-7", "3"],
+    answer: 2,
+  },
+  {
+    question: "If the smallest of two integers is 4, which could be the other integer?",
+    options: ["-2", "0", "3", "9"],
+    answer: 3,
+  },
+  {
+    question: "Which integer has a distance of 18 from -4?",
+    options: ["14 only", "-22 only", "14 and -22", "22 and -14"],
+    answer: 2,
+  },
+  {
+    question: "Which number is 30 greater than -45?",
+    options: ["-75", "-15", "15", "75"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 30 less than 45?",
+    options: ["75", "15", "-15", "-75"],
+    answer: 1,
+  },
+  {
+    question: "If -x = 0, what is x?",
+    options: ["1", "-1", "0", "Cannot be determined"],
+    answer: 2,
+  },
+  {
+    question: "If x + (-x) = 0, which value can x have?",
+    options: ["Only 0", "Only 1", "Any integer", "Only -1"],
+    answer: 2,
+  },
+  {
+    question: "Which expression represents moving 6 units left from 2?",
+    options: ["2 + 6", "2 - 6", "-2 + 6", "-2 - 6"],
+    answer: 1,
+  },
+  {
+    question: "Which expression represents moving 8 units right from -3?",
+    options: ["-3 - 8", "-3 + 8", "3 - 8", "3 + 8"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -4 + 9 - 12 + 7?",
+    options: ["0", "2", "-2", "10"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of 15 - 8 - 10 + 6?",
+    options: ["3", "-3", "13", "-13"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of -25 + 18 - 7 + 14?",
+    options: ["0", "5", "-5", "14"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 30 - 45 + 20 - 10?",
+    options: ["-5", "5", "-15", "15"],
+    answer: 0,
+  },
+  {
+    question: "Which number should replace the blank: -7, __, 1, 5, 9?",
+    options: ["-5", "-3", "-2", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which number should replace the blank: 15, 10, 5, __, -5?",
+    options: ["0", "-1", "1", "-10"],
+    answer: 0,
+  },
+  {
+    question: "Which number should replace the blank: -18, -12, -6, __, 6?",
+    options: ["0", "3", "-3", "12"],
+    answer: 0,
+  },
+  {
+    question: "Which number should replace the blank: 20, 12, 4, __, -12?",
+    options: ["-2", "-4", "-6", "0"],
+    answer: 1,
+  },
+  {
+    question: "A number is multiplied conceptually by -1 to find its opposite. What is the opposite of -31?",
+    options: ["-31", "0", "31", "62"],
+    answer: 2,
+  },
+  {
+    question: "Which statement about integers on a number line is correct?",
+    options: ["Numbers increase from right to left", "Numbers increase from left to right", "Zero is at the extreme right", "Negative numbers are always greater than positive numbers"],
+    answer: 1,
+  },
+  {
+    question: "If you move left on a number line, the numbers:",
+    options: ["Increase", "Decrease", "Remain equal", "Become positive"],
+    answer: 1,
+  },
+  {
+    question: "If you move right on a number line, the numbers:",
+    options: ["Decrease", "Increase", "Become negative", "Become zero"],
+    answer: 1,
+  },
+  {
+    question: "Which is greater, -100 or -101?",
+    options: ["-101", "-100", "Both are equal", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which is smaller, -50 or -49?",
+    options: ["-49", "-50", "Both are equal", "50"],
+    answer: 1,
+  },
+  {
+    question: "Which number is closest to -20?",
+    options: ["-18", "-25", "-10", "0"],
+    answer: 0,
+  },
+  {
+    question: "Which number is farthest from -20?",
+    options: ["-18", "-25", "10", "-30"],
+    answer: 2,
+  },
+  {
+    question: "What is the distance from -1 to 1?",
+    options: ["0", "1", "2", "-2"],
+    answer: 2,
+  },
+  {
+    question: "What is the distance from -10 to 0?",
+    options: ["-10", "0", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "What is the distance from 0 to 17?",
+    options: ["-17", "0", "17", "34"],
+    answer: 2,
+  },
+  {
+    question: "If one integer is -16 and its opposite is added to it, what is the result?",
+    options: ["-32", "32", "0", "16"],
+    answer: 2,
+  },
+  {
+    question: "If one integer is 24 and its opposite is subtracted from it, what is the result?",
+    options: ["0", "24", "48", "-48"],
+    answer: 2,
+  },
+  {
+    question: "A number line has points A = -9 and B = 11. What is the distance AB?",
+    options: ["2", "20", "-20", "11"],
+    answer: 1,
+  },
+  {
+    question: "A number line has points P = -15 and Q = -4. What is the distance PQ?",
+    options: ["11", "19", "-11", "9"],
+    answer: 0,
+  },
+  {
+    question: "If A = -7, B = 3 and C = 10, which point is closest to A?",
+    options: ["B", "C", "Zero", "A itself"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is between -20 and -10 and is closest to -10?",
+    options: ["-19", "-15", "-11", "-20"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is between 10 and 20 and is closest to 10?",
+    options: ["11", "15", "19", "20"],
+    answer: 0,
+  },
+  {
+    question: "If the temperature is -2°C and it drops by 9°C, what is the new temperature?",
+    options: ["7°C", "-7°C", "-11°C", "11°C"],
+    answer: 2,
+  },
+  {
+    question: "If the temperature is -2°C and it rises by 9°C, what is the new temperature?",
+    options: ["7°C", "-7°C", "11°C", "-11°C"],
+    answer: 0,
+  },
+  {
+    question: "A debt of ₹300 is followed by a payment of ₹500. What is the resulting balance?",
+    options: ["-₹800", "₹200", "-₹200", "₹800"],
+    answer: 1,
+  },
+  {
+    question: "A balance of ₹200 becomes a debt of ₹150. What is the total decrease?",
+    options: ["₹50", "₹350", "-₹350", "₹150"],
+    answer: 1,
+  },
+  {
+    question: "A diver moves from -100 m to -40 m. How far has the diver moved upward?",
+    options: ["40 m", "60 m", "140 m", "-60 m"],
+    answer: 1,
+  },
+  {
+    question: "A diver moves from -40 m to -90 m. How far has the diver moved downward?",
+    options: ["50 m", "130 m", "-50 m", "90 m"],
+    answer: 0,
+  },
+  {
+    question: "What is the final value of -5 + 10 - 15 + 20 - 25?",
+    options: ["-15", "15", "-5", "5"],
+    answer: 2,
+  },
+  {
+    question: "What is the final value of 10 - 20 + 30 - 40 + 50?",
+    options: ["20", "30", "40", "50"],
+    answer: 0,
+  },
+  {
+    question: "If x = -5, y = 8 and z = -3, what is x + y + z?",
+    options: ["0", "6", "-6", "16"],
+    answer: 0,
+  },
+  {
+    question: "If a = 12, b = -7 and c = -9, what is a + b - c?",
+    options: ["-4", "14", "28", "-28"],
+    answer: 1,
+  },
+  {
+    question: "If p = -15 and q = -5, what is p - q?",
+    options: ["-20", "20", "-10", "10"],
+    answer: 2,
+  },
+  {
+    question: "If m = 18 and n = -12, what is m + n?",
+    options: ["30", "-30", "6", "-6"],
+    answer: 2,
+  },
+  {
+    question: "Which of the following is NOT an integer?",
+    options: ["-7", "0", "12", "2.5"],
+    answer: 3,
+  },
+  {
+    question: "Which set contains only integers?",
+    options: ["-3, 0, 7", "-2.5, 1, 4", "1.5, -3, 0", "0.5, 2, -1"],
+    answer: 0,
+  },
+  {
+    question: "Which integer comes immediately after -100?",
+    options: ["-101", "-99", "99", "100"],
+    answer: 1,
+  },
+  {
+    question: "Which integer comes immediately before 0?",
+    options: ["1", "-1", "-2", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which integer comes immediately after 0?",
+    options: ["-1", "0", "1", "2"],
+    answer: 2,
+  },
+  {
+    question: "Which integer comes immediately before -1?",
+    options: ["0", "1", "-2", "-3"],
+    answer: 2,
+  },
+  {
+    question: "If a number is greater than -3 but less than 1, which integer cannot be it?",
+    options: ["-2", "-1", "0", "2"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is the greatest among -25, -17, -31 and -19?",
+    options: ["-25", "-17", "-31", "-19"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the smallest among -25, -17, -31 and -19?",
+    options: ["-25", "-17", "-31", "-19"],
+    answer: 2,
+  },
+  {
+    question: "If a number is decreased by 20 and becomes -35, what was the number?",
+    options: ["-55", "-15", "15", "55"],
+    answer: 1,
+  },
+  {
+    question: "If a number is increased by 25 and becomes 10, what was the number?",
+    options: ["35", "-15", "15", "-35"],
+    answer: 1,
+  },
+  {
+    question: "Which expression has the same value as -8?",
+    options: ["5 - 13", "13 - 5", "-3 + 5", "-10 + 3"],
+    answer: 0,
+  },
+  {
+    question: "Which expression has the same value as 9?",
+    options: ["-4 + 13", "-13 + 4", "4 - 13", "-9 + 0"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of (-20) - (-20) + (-5)?",
+    options: ["5", "-5", "0", "40"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of 30 + (-30) - (-8)?",
+    options: ["-8", "0", "8", "60"],
+    answer: 2,
+  },
+  {
+    question: "A number is its own opposite. Which number is it?",
+    options: ["-1", "1", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "If two integers are on the same side of zero, can their sum be zero?",
+    options: ["Always", "Never, except when both are zero", "Always positive", "Always negative"],
+    answer: 1,
+  },
+  {
+    question: "Which pair of negative integers has the greatest sum?",
+    options: ["-2 and -3", "-5 and -6", "-1 and -8", "-4 and -7"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of positive integers has the smallest sum?",
+    options: ["2 and 3", "1 and 8", "4 and 5", "2 and 7"],
+    answer: 1,
+  },
+  {
+    question: "If three integers are -5, 0 and 5, what is their average?",
+    options: ["5", "-5", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 13 units away from 4 on the number line?",
+    options: ["17 only", "-9 only", "17 and -9", "9 and -17"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 15 units away from -6?",
+    options: ["9 and -21", "21 and -9", "9 only", "-21 only"],
+    answer: 0,
+  },
+  {
+    question: "A point starts at -12 and moves 5 units right, 7 units left and 10 units right. Where does it finish?",
+    options: ["-4", "4", "-14", "10"],
+    answer: 0,
+  },
+  {
+    question: "A point starts at 20 and moves 15 units left, 8 units right and 10 units left. Where does it finish?",
+    options: ["3", "-3", "13", "5"],
+    answer: 0,
+  },
+  {
+    question: "What is the smallest possible sum of two different integers chosen from -3, -2, -1, 0 and 1?",
+    options: ["-5", "-4", "-3", "-2"],
+    answer: 0,
+  },
+  {
+    question: "What is the greatest possible sum of two different integers chosen from -3, -2, -1, 0 and 1?",
+    options: ["0", "1", "2", "3"],
+    answer: 1,
+  },
+  {
+    question: "What is the smallest possible difference when subtracting one of 5, 8, 12 from another?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which two integers have a sum of -1 and a difference of 9?",
+    options: ["4 and -5", "5 and -6", "3 and -4", "6 and -7"],
+    answer: 0,
+  },
+  {
+    question: "Which two integers have a sum of 3 and a difference of 7?",
+    options: ["5 and -2", "4 and -1", "6 and -3", "3 and 0"],
+    answer: 0,
+  },
+  {
+    question: "If x + y = 0 and x = -25, what is y?",
+    options: ["-25", "0", "25", "50"],
+    answer: 2,
+  },
+  {
+    question: "If x - y = 10 and y = -4, what is x?",
+    options: ["-14", "6", "14", "-6"],
+    answer: 2,
+  },
+  {
+    question: "If x + y = -10 and x = 7, what is y?",
+    options: ["-17", "17", "-3", "3"],
+    answer: 0,
+  },
+  {
+    question: "If x - y = -8 and y = 5, what is x?",
+    options: ["13", "-13", "-3", "3"],
+    answer: 2,
+  },
+  {
+    question: "Which number should be added to 100 to get -50?",
+    options: ["150", "-150", "50", "-50"],
+    answer: 1,
+  },
+  {
+    question: "Which number should be subtracted from -100 to get -20?",
+    options: ["80", "-80", "120", "-120"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -(-15) + (-5)?",
+    options: ["20", "-20", "10", "-10"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of -(-12) - 20?",
+    options: ["32", "-8", "8", "-32"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -(7) + 15?",
+    options: ["22", "-22", "8", "-8"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of -(-9) - (-4)?",
+    options: ["13", "5", "-5", "-13"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is correct about opposite integers?",
+    options: ["They are always on the same side of zero", "They have the same distance from zero", "They are always positive", "Their difference is always zero"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is correct about the number line?",
+    options: ["-5 is to the right of -2", "-2 is to the right of -5", "0 is left of every negative integer", "Positive integers are left of zero"],
+    answer: 1,
+  },
+  {
+    question: "If A is at -15 and B is at -5, which point is to the right?",
+    options: ["A", "B", "Both", "Neither"],
+    answer: 1,
+  },
+  {
+    question: "If A is at 8 and B is at -12, which point is to the left?",
+    options: ["A", "B", "Both", "Neither"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly 1 unit greater than -10?",
+    options: ["-11", "-9", "9", "11"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly 1 unit less than 10?",
+    options: ["11", "9", "-9", "-11"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of adding 1 repeatedly to -5 four times?",
+    options: ["-9", "-1", "1", "9"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of subtracting 2 repeatedly from 5 three times?",
+    options: ["11", "-1", "1", "-5"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 7 less than -10?",
+    options: ["-3", "-17", "17", "3"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 7 greater than -10?",
+    options: ["-17", "-3", "3", "17"],
+    answer: 1,
+  },
+  {
+    question: "If the difference between two numbers is 0, what can you conclude?",
+    options: ["They are opposites", "They are equal", "One is positive", "One is negative"],
+    answer: 1,
+  },
+  {
+    question: "If the sum of two integers is positive, which must be true?",
+    options: ["Both must be positive", "Both must be negative", "The positive contribution is greater in magnitude than the negative contribution", "One must be zero"],
+    answer: 2,
+  },
+  {
+    question: "If the sum of two integers is negative, which must be true?",
+    options: ["Both must be negative", "The negative contribution is greater in magnitude than the positive contribution", "Both must be positive", "Their difference is zero"],
+    answer: 1,
+  },
+  {
+    question: "What is the greatest value of x if x is an integer and x < 0?",
+    options: ["0", "1", "-1", "-2"],
+    answer: 2,
+  },
+  {
+    question: "What is the smallest value of x if x is an integer and x > 0?",
+    options: ["0", "1", "-1", "2"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is closest to zero among -20, -3, 5 and -7?",
+    options: ["-20", "-3", "5", "-7"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is farthest from zero among -20, -3, 5 and -7?",
+    options: ["-20", "-3", "5", "-7"],
+    answer: 0,
+  },
+  {
+    question: "If x = -4, what is x + x + x?",
+    options: ["-12", "12", "-4", "4"],
+    answer: 0,
+  },
+  {
+    question: "If x = 6, what is x + (-x) + 3?",
+    options: ["0", "3", "6", "-3"],
+    answer: 1,
+  },
+  {
+    question: "If x = -8, what is x - (-x)?",
+    options: ["0", "-16", "16", "8"],
+    answer: 1,
+  },
+  {
+    question: "If x = 9, what is x - (-x)?",
+    options: ["0", "9", "18", "-18"],
+    answer: 2,
+  },
+  {
+    question: "What is the sum of all integers from -10 to 10?",
+    options: ["0", "10", "-10", "20"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of all integers from -7 to 8?",
+    options: ["0", "8", "1", "7"],
+    answer: 2,
+  },
+  {
+    question: "What is the sum of all integers from -8 to 7?",
+    options: ["-8", "0", "7", "-1"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is missing in the pattern -16, -8, 0, 8, __?",
+    options: ["-8", "16", "24", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is missing in the pattern 25, 15, 5, -5, __?",
+    options: ["-10", "-15", "15", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is missing in the pattern -30, -20, -10, 0, __?",
+    options: ["-10", "5", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "A number line point moves from -50 to -10. How many units did it move?",
+    options: ["40", "-40", "60", "50"],
+    answer: 0,
+  },
+  {
+    question: "A number line point moves from 30 to -20. How many units did it move?",
+    options: ["10", "50", "-50", "30"],
+    answer: 1,
+  },
+  {
+    question: "What is the final position if you start at -25 and move 10 right, 20 right and 15 left?",
+    options: ["-10", "10", "-50", "20"],
+    answer: 0,
+  },
+  {
+    question: "What is the final position if you start at 25 and move 30 left, 10 right and 5 left?",
+    options: ["0", "-10", "10", "-20"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 12 units greater than -30?",
+    options: ["-42", "-18", "18", "42"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 12 units less than 30?",
+    options: ["42", "18", "-18", "-42"],
+    answer: 1,
+  },
+  {
+    question: "If x = -20, y = 15, what is x - y?",
+    options: ["-5", "5", "-35", "35"],
+    answer: 2,
+  },
+  {
+    question: "If x = 20, y = -15, what is x - y?",
+    options: ["5", "-5", "35", "-35"],
+    answer: 2,
+  },
+  {
+    question: "If x = -20 and y = 15, what is x + y?",
+    options: ["-35", "35", "-5", "5"],
+    answer: 2,
+  },
+  {
+    question: "If x = 20 and y = -15, what is x + y?",
+    options: ["35", "-35", "5", "-5"],
+    answer: 2,
+  },
+  {
+    question: "Which number must be added to -45 to reach 0?",
+    options: ["-45", "45", "0", "90"],
+    answer: 1,
+  },
+  {
+    question: "Which number must be added to 45 to reach 0?",
+    options: ["45", "-45", "0", "-90"],
+    answer: 1,
+  },
+  {
+    question: "What is the opposite of the opposite of -17?",
+    options: ["17", "-17", "0", "34"],
+    answer: 1,
+  },
+  {
+    question: "What is the opposite of the opposite of 22?",
+    options: ["-22", "22", "0", "44"],
+    answer: 1,
+  },
+  {
+    question: "If a = -7, what is a + 7?",
+    options: ["14", "-14", "0", "7"],
+    answer: 2,
+  },
+  {
+    question: "If b = 13, what is b + (-13)?",
+    options: ["26", "-26", "0", "13"],
+    answer: 2,
+  },
+  {
+    question: "Which is greater: -2 + 5 or -8 + 10?",
+    options: ["-2 + 5", "-8 + 10", "They are equal", "Cannot be determined"],
+    answer: 0,
+  },
+  {
+    question: "Which is smaller: -4 - 3 or -10 + 2?",
+    options: ["-4 - 3", "-10 + 2", "They are equal", "Cannot be determined"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -7 + 4 + 6 - 3?",
+    options: ["0", "2", "-2", "10"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of 9 - 14 + 8 - 6?",
+    options: ["-3", "3", "7", "-7"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of -12 + 20 - 5 - 8?",
+    options: ["-5", "5", "-15", "15"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 18 - 25 + 4 + 3?",
+    options: ["0", "-2", "2", "-10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is exactly halfway between -5 and 9?",
+    options: ["1", "2", "-2", "7"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly halfway between -12 and 6?",
+    options: ["-3", "3", "-6", "0"],
+    answer: 0,
+  },
+  {
+    question: "A number is 4 units from zero and negative. What is it?",
+    options: ["4", "-4", "0", "8"],
+    answer: 1,
+  },
+  {
+    question: "A number is 11 units from zero and positive. What is it?",
+    options: ["-11", "0", "11", "22"],
+    answer: 2,
+  },
+  {
+    question: "Which pair of integers is closest together?",
+    options: ["-2 and 3", "-10 and -8", "5 and 9", "-1 and 2"],
+    answer: 1,
+  },
+  {
+    question: "Which pair of integers is farthest apart?",
+    options: ["-2 and 3", "-10 and 8", "5 and 9", "-1 and 2"],
+    answer: 1,
+  },
+  {
+    question: "If a = -4 and b = 9, which is greater?",
+    options: ["a", "b", "They are equal", "0"],
+    answer: 1,
+  },
+  {
+    question: "If a = -14 and b = -6, which is greater?",
+    options: ["a", "b", "They are equal", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is greater than -15 and less than -10?",
+    options: ["-16", "-12", "-9", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is greater than 15 and less than 20?",
+    options: ["14", "16", "20", "21"],
+    answer: 1,
+  },
+  {
+    question: "If a number is increased by 12 and then decreased by 12, the final change is:",
+    options: ["12", "-12", "24", "0"],
+    answer: 3,
+  },
+  {
+    question: "If a number is decreased by 15 and then increased by 10, the net change is:",
+    options: ["25", "-25", "-5", "5"],
+    answer: 2,
+  },
+  {
+    question: "If a number is increased by 20 and then decreased by 35, the net change is:",
+    options: ["15", "-15", "55", "-55"],
+    answer: 1,
+  },
+  {
+    question: "A temperature starts at 5°C, decreases by 12°C and increases by 4°C. What is the final temperature?",
+    options: ["-3°C", "3°C", "-11°C", "11°C"],
+    answer: 0,
+  },
+  {
+    question: "A bank balance starts at ₹100, becomes a debt of ₹250 and then ₹400 is deposited. What is the final balance?",
+    options: ["₹150", "-₹150", "₹750", "-₹750"],
+    answer: 0,
+  },
+  {
+    question: "A lift starts at floor 3, goes down 9 floors and then up 4 floors. Where does it stop?",
+    options: ["-2", "2", "-10", "10"],
+    answer: 0,
+  },
+  {
+    question: "A diver starts at -30 m, descends 20 m and then rises 35 m. What is the final position?",
+    options: ["-45 m", "-15 m", "15 m", "25 m"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of the greatest and smallest integer among -18, 7, -25 and 12?",
+    options: ["-13", "13", "-18", "18"],
+    answer: 0,
+  },
+  {
+    question: "What is the difference between the greatest and smallest integer among -18, 7, -25 and 12?",
+    options: ["32", "37", "43", "-37"],
+    answer: 2,
+  },
+  {
+    question: "If the smallest integer is -20 and the greatest is 15, what is the distance between them?",
+    options: ["5", "35", "-35", "20"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 25 units to the left of 0?",
+    options: ["25", "-25", "0", "-50"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 25 units to the right of 0?",
+    options: ["-25", "0", "25", "50"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of (-100) + 75?",
+    options: ["175", "-175", "25", "-25"],
+    answer: 3,
+  },
+  {
+    question: "What is the result of 100 + (-75)?",
+    options: ["25", "-25", "175", "-175"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of (-100) - (-75)?",
+    options: ["-175", "175", "-25", "25"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of 100 - (-75)?",
+    options: ["25", "-25", "175", "-175"],
+    answer: 2,
+  },
+  {
+    question: "Which number is exactly 50 units away from 0 and negative?",
+    options: ["50", "-50", "0", "100"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly 50 units away from 0 and positive?",
+    options: ["-50", "0", "50", "100"],
+    answer: 2,
+  },
+  {
+    question: "If x is an integer and -5 < x < 5, how many possible values can x have?",
+    options: ["8", "9", "10", "11"],
+    answer: 1,
+  },
+  {
+    question: "If x is an integer and -3 <= x <= 3, how many possible values can x have?",
+    options: ["6", "7", "8", "5"],
+    answer: 1,
+  },
+  {
+    question: "If x is an integer and -10 < x <= 0, how many possible values can x have?",
+    options: ["9", "10", "11", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the median of -8, -3, 0, 4 and 9?",
+    options: ["-3", "0", "4", "9"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the median of -10, -5, 2, 7 and 12?",
+    options: ["-5", "2", "7", "12"],
+    answer: 1,
+  },
+  {
+    question: "The numbers -6, -2, 3 and 8 are given. What is the sum of the two middle numbers?",
+    options: ["1", "-1", "5", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 3 less than the additive inverse of 5?",
+    options: ["8", "-8", "-2", "2"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 4 greater than the additive inverse of -6?",
+    options: ["2", "10", "-2", "-10"],
+    answer: 1,
+  },
+  {
+    question: "If x = -3, which expression gives a value of 5?",
+    options: ["x + 8", "x - 8", "-x + 8", "x + 3"],
+    answer: 0,
+  },
+  {
+    question: "If x = 4, which expression gives a value of -6?",
+    options: ["x - 10", "x + 10", "-x + 10", "10 - x"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of consecutive integers has a sum of -1?",
+    options: ["-3 and 2", "-2 and 1", "-1 and 0", "0 and 1"],
+    answer: 1,
+  },
+  {
+    question: "Which pair of consecutive integers has a sum of 1?",
+    options: ["0 and 1", "1 and 2", "-1 and 2", "-2 and 3"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of consecutive negative integers has the greatest sum?",
+    options: ["-2 and -1", "-3 and -2", "-4 and -3", "-5 and -4"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of consecutive integers has a difference of 1?",
+    options: ["-5 and 5", "-3 and -2", "0 and 2", "4 and 6"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of the three integers immediately before 0?",
+    options: ["-6", "-3", "3", "6"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of the three integers immediately after 0?",
+    options: ["3", "6", "-3", "-6"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of the five integers -2, -1, 0, 1 and 2?",
+    options: ["-5", "5", "0", "2"],
+    answer: 2,
+  },
+  {
+    question: "Which statement is true about adding a negative integer?",
+    options: ["It always increases the number", "It always decreases the number", "It always makes the result zero", "It changes the number to positive"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is true about subtracting a negative integer?",
+    options: ["It is equivalent to adding its positive opposite", "It always decreases the number", "It always gives zero", "It makes every number negative"],
+    answer: 0,
+  },
+  {
+    question: "What is -6 - (-10)?",
+    options: ["-16", "16", "4", "-4"],
+    answer: 2,
+  },
+  {
+    question: "What is -6 + (-10)?",
+    options: ["4", "-4", "16", "-16"],
+    answer: 3,
+  },
+  {
+    question: "What is 6 - (-10)?",
+    options: ["-4", "4", "16", "-16"],
+    answer: 2,
+  },
+  {
+    question: "What is 6 + (-10)?",
+    options: ["16", "-16", "4", "-4"],
+    answer: 3,
+  },
+  {
+    question: "Which of these has the greatest value?",
+    options: ["-15 + 20", "-8 + 2", "10 - 6", "-2 + 7"],
+    answer: 0,
+  },
+  {
+    question: "Which of these has the smallest value?",
+    options: ["-15 + 20", "-8 + 2", "10 - 6", "-2 + 7"],
+    answer: 1,
+  },
+  {
+    question: "If a = -12, what is a - (-12)?",
+    options: ["-24", "24", "0", "12"],
+    answer: 2,
+  },
+  {
+    question: "If a = 12, what is a + (-12)?",
+    options: ["24", "-24", "0", "12"],
+    answer: 2,
+  },
+  {
+    question: "Which number is greater than -20 by exactly 7?",
+    options: ["-27", "-13", "13", "27"],
+    answer: 1,
+  },
+  {
+    question: "Which number is less than 20 by exactly 7?",
+    options: ["27", "13", "-13", "-27"],
+    answer: 1,
+  },
+  {
+    question: "A number is 9 units to the right of -20. What is it?",
+    options: ["-29", "-11", "11", "29"],
+    answer: 1,
+  },
+  {
+    question: "A number is 9 units to the left of 20. What is it?",
+    options: ["29", "11", "-11", "-29"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -1 - 2 - 3 - 4?",
+    options: ["10", "-10", "0", "-8"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of 1 + 2 + 3 + 4?",
+    options: ["10", "-10", "8", "12"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of -10 + 9 + 8 + 7?",
+    options: ["14", "4", "-14", "24"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 10 - 9 - 8 - 7?",
+    options: ["-14", "14", "-4", "4"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is closest to -100 among -98, -103, -90 and -110?",
+    options: ["-98", "-103", "-90", "-110"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is farthest from -100 among -98, -103, -90 and -110?",
+    options: ["-98", "-103", "-90", "-110"],
+    answer: 2,
+  },
+  {
+    question: "What is the distance between -100 and -90?",
+    options: ["10", "-10", "190", "90"],
+    answer: 0,
+  },
+  {
+    question: "What is the distance between -100 and 90?",
+    options: ["10", "190", "-190", "90"],
+    answer: 1,
+  },
+  {
+    question: "If the distance between A and B is 12 and A = -3, which could be B?",
+    options: ["9 or -15", "15 or -9", "9 only", "-15 only"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of integers has the same sum as -7 + 12?",
+    options: ["-4 + 9", "-3 + 7", "5 + 2", "-8 + 13"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of -7 + 12?",
+    options: ["-19", "19", "5", "-5"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of -12 + 7?",
+    options: ["5", "-5", "19", "-19"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of 7 - (-12)?",
+    options: ["-5", "5", "19", "-19"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of -7 - 12?",
+    options: ["5", "-5", "19", "-19"],
+    answer: 3,
+  },
+  {
+    question: "If the number line position is -5 and you add its opposite, where do you reach?",
+    options: ["-10", "10", "0", "5"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is exactly 7 units left of 3?",
+    options: ["10", "-4", "4", "-10"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly 7 units right of -3?",
+    options: ["-10", "4", "-4", "10"],
+    answer: 1,
+  },
+  {
+    question: "If a number is less than -5, which value could it be?",
+    options: ["-4", "-5", "-6", "0"],
+    answer: 2,
+  },
+  {
+    question: "If a number is greater than -5, which value could it be?",
+    options: ["-6", "-5", "-4", "-10"],
+    answer: 2,
+  },
+  {
+    question: "Which number is not between -10 and 10?",
+    options: ["-9", "0", "10", "11"],
+    answer: 3,
+  },
+  {
+    question: "Which number is between -10 and 10?",
+    options: ["-11", "12", "-7", "15"],
+    answer: 2,
+  },
+  {
+    question: "What is the sum of the smallest and greatest integers among -5, -2, 4 and 9?",
+    options: ["4", "0", "9", "-4"],
+    answer: 0,
+  },
+  {
+    question: "What is the difference between the greatest and smallest integers among -5, -2, 4 and 9?",
+    options: ["14", "9", "4", "-14"],
+    answer: 0,
+  },
+  {
+    question: "Which number must be added to -50 to obtain 25?",
+    options: ["-75", "75", "25", "-25"],
+    answer: 1,
+  },
+  {
+    question: "Which number must be subtracted from 50 to obtain -25?",
+    options: ["75", "-75", "25", "-25"],
+    answer: 0,
+  },
+  {
+    question: "If x + 20 = 5, what is x?",
+    options: ["15", "-15", "25", "-25"],
+    answer: 1,
+  },
+  {
+    question: "If x - 20 = -5, what is x?",
+    options: ["-25", "15", "25", "-15"],
+    answer: 1,
+  },
+  {
+    question: "If x + (-20) = -5, what is x?",
+    options: ["-25", "15", "25", "-15"],
+    answer: 1,
+  },
+  {
+    question: "If x - (-20) = -5, what is x?",
+    options: ["15", "-25", "-15", "25"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is the opposite of the greatest negative integer?",
+    options: ["-1", "0", "1", "2"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is the opposite of the smallest positive integer?",
+    options: ["1", "-1", "0", "-2"],
+    answer: 1,
+  },
+  {
+    question: "Which is greater: the opposite of -8 or the opposite of 5?",
+    options: ["Opposite of -8", "Opposite of 5", "They are equal", "Both are negative"],
+    answer: 0,
+  },
+  {
+    question: "Which is smaller: the opposite of 7 or the opposite of -4?",
+    options: ["Opposite of 7", "Opposite of -4", "They are equal", "Both are positive"],
+    answer: 0,
+  },
+  {
+    question: "What is the result when -15 is increased by 15?",
+    options: ["-30", "30", "0", "15"],
+    answer: 2,
+  },
+  {
+    question: "What is the result when 15 is decreased by 15?",
+    options: ["30", "-30", "0", "15"],
+    answer: 2,
+  },
+  {
+    question: "A number changes from -40 to -10. What is the change?",
+    options: ["-30", "30", "50", "-50"],
+    answer: 1,
+  },
+  {
+    question: "A number changes from 40 to 10. What is the change?",
+    options: ["30", "-30", "50", "-50"],
+    answer: 1,
+  },
+  {
+    question: "If x = -10, which expression gives the greatest value?",
+    options: ["x + 5", "x + 15", "x - 5", "x - 20"],
+    answer: 1,
+  },
+  {
+    question: "If x = 10, which expression gives the smallest value?",
+    options: ["x + 5", "x - 15", "x + 15", "x - 5"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 2 units away from -5?",
+    options: ["-7 and -3", "7 and 3", "-3 only", "-7 only"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 2 units away from 5?",
+    options: ["3 and 7", "-3 and -7", "3 only", "7 only"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of two integers that are opposites of each other?",
+    options: ["1", "-1", "0", "Their product"],
+    answer: 2,
+  },
+  {
+    question: "If one integer is 19 and the other is its opposite, what is their difference?",
+    options: ["0", "19", "38", "-38"],
+    answer: 2,
+  },
+  {
+    question: "If one integer is -19 and the other is its opposite, what is their difference?",
+    options: ["0", "19", "38", "-38"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is exactly halfway between -18 and 18?",
+    options: ["-18", "0", "9", "18"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly halfway between -25 and 15?",
+    options: ["-10", "-5", "5", "10"],
+    answer: 1,
+  },
+  {
+    question: "What is the final position after moving 6 units left from 2 and then 6 units right?",
+    options: ["-6", "0", "2", "8"],
+    answer: 2,
+  },
+  {
+    question: "What is the final position after moving 10 units right from -5 and then 10 units left?",
+    options: ["-5", "5", "0", "15"],
+    answer: 0,
+  },
+  {
+    question: "Which expression represents a decrease of 12 from -5?",
+    options: ["-5 + 12", "-5 - 12", "5 - 12", "12 - (-5)"],
+    answer: 1,
+  },
+  {
+    question: "Which expression represents an increase of 12 from -5?",
+    options: ["-5 + 12", "-5 - 12", "5 - 12", "12 - (-5)"],
+    answer: 0,
+  },
+  {
+    question: "Which of the following is the greatest?",
+    options: ["-2", "-2 + 5", "-2 - 5", "-2 + (-5)"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following is the smallest?",
+    options: ["3", "3 - 8", "3 + 8", "3 - 2"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of (-9) + (-8) + 17?",
+    options: ["0", "-34", "34", "-17"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 9 + 8 - 17?",
+    options: ["0", "17", "-17", "34"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of -20 + 30 - 10?",
+    options: ["0", "20", "-20", "40"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 20 - 30 + 10?",
+    options: ["0", "20", "-20", "40"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 1 unit to the left of -1?",
+    options: ["0", "-2", "1", "2"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 1 unit to the right of -1?",
+    options: ["-2", "0", "1", "2"],
+    answer: 1,
+  },
+  {
+    question: "What is the smallest integer greater than -10?",
+    options: ["-11", "-10", "-9", "0"],
+    answer: 2,
+  },
+  {
+    question: "What is the greatest integer less than 10?",
+    options: ["8", "9", "10", "11"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly 16 units to the right of -8?",
+    options: ["-24", "8", "24", "-8"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly 16 units to the left of 8?",
+    options: ["24", "-8", "8", "-24"],
+    answer: 1,
+  },
+  {
+    question: "A number line point starts at -2 and makes three moves: right 5, left 4, right 6. Where does it finish?",
+    options: ["5", "3", "7", "-3"],
+    answer: 2,
+  },
+  {
+    question: "A number line point starts at 10 and makes three moves: left 7, left 8, right 4. Where does it finish?",
+    options: ["-1", "-5", "1", "15"],
+    answer: 0,
+  },
+  {
+    question: "What is the net change if a value decreases by 18 and then increases by 25?",
+    options: ["-43", "43", "7", "-7"],
+    answer: 2,
+  },
+  {
+    question: "What is the net change if a value increases by 18 and then decreases by 25?",
+    options: ["7", "-7", "43", "-43"],
+    answer: 1,
+  },
+  {
+    question: "Which pair of integers has a product of zero?",
+    options: ["-3 and 5", "0 and -8", "2 and 4", "-1 and -6"],
+    answer: 1,
+  },
+  {
+    question: "Which statement about zero and integers is correct?",
+    options: ["Zero is greater than every positive integer", "Zero is less than every negative integer", "Zero lies between negative and positive integers", "Zero is a negative integer"],
+    answer: 2,
+  },
+  {
+    question: "If the number line position of A is -6 and B is 6, what is the midpoint of AB?",
+    options: ["-6", "0", "6", "12"],
+    answer: 1,
+  },
+  {
+    question: "If the number line position of A is -14 and B is 4, what is the midpoint?",
+    options: ["-10", "-5", "-4", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 3 units closer to zero than -10?",
+    options: ["-13", "-7", "7", "13"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 4 units farther from zero than 6 on the negative side?",
+    options: ["-2", "-10", "10", "-6"],
+    answer: 1,
+  },
+  {
+    question: "If x is an integer and |x| < 3, which values are possible?",
+    options: ["-2, -1, 0, 1, 2", "-3, -2, -1, 0, 1, 2, 3", "0, 1, 2, 3", "-2, -1, 1, 2"],
+    answer: 0,
+  },
+  {
+    question: "If x is an integer and |x| <= 2, how many possible values are there?",
+    options: ["4", "5", "6", "3"],
+    answer: 1,
+  },
+  {
+    question: "Which integer has absolute distance 0 from zero?",
+    options: ["-1", "1", "0", "10"],
+    answer: 2,
+  },
+  {
+    question: "Which integer has absolute distance 15 from zero and is negative?",
+    options: ["15", "-15", "0", "-30"],
+    answer: 1,
+  },
+  {
+    question: "If x is negative and |x| = 20, what is x + 5?",
+    options: ["25", "-25", "-15", "15"],
+    answer: 2,
+  },
+  {
+    question: "If x is positive and |x| = 20, what is x - 5?",
+    options: ["25", "-25", "15", "-15"],
+    answer: 2,
+  },
+  {
+    question: "Which number is closest to zero: -4, 3, -2, 5?",
+    options: ["-4", "3", "-2", "5"],
+    answer: 2,
+  },
+  {
+    question: "Which number is farthest from zero: -4, 3, -2, 5?",
+    options: ["-4", "3", "-2", "5"],
+    answer: 3,
+  },
+  {
+    question: "What is the value of (-5) - (-5) + (-5)?",
+    options: ["5", "-5", "0", "10"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of 5 - 5 + 5?",
+    options: ["5", "-5", "0", "10"],
+    answer: 0,
+  },
+  {
+    question: "If x = -2, y = -3 and z = 7, what is x + y + z?",
+    options: ["2", "-2", "12", "-12"],
+    answer: 0,
+  },
+  {
+    question: "If x = 2, y = 3 and z = -7, what is x + y + z?",
+    options: ["12", "-2", "2", "-12"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -50 + 20 + 30?",
+    options: ["0", "100", "-100", "10"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 50 - 20 - 30?",
+    options: ["50", "0", "-50", "20"],
+    answer: 1,
+  },
+  {
+    question: "Which expression is equal to -25?",
+    options: ["-40 + 15", "40 - 15", "-10 + 15", "25 + 0"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to 25?",
+    options: ["-40 + 15", "40 - 15", "-10 + 15", "-25 + 0"],
+    answer: 1,
+  },
+  {
+    question: "A temperature of -10°C increases by 3°C every hour. What is it after 4 hours?",
+    options: ["2°C", "-22°C", "-7°C", "12°C"],
+    answer: 0,
+  },
+  {
+    question: "A temperature of 10°C decreases by 4°C every hour. What is it after 3 hours?",
+    options: ["22°C", "-2°C", "2°C", "-10°C"],
+    answer: 2,
+  },
+  {
+    question: "A lift starts at -2 and moves down 5 floors every trip for 3 trips. Where is it?",
+    options: ["13", "-17", "-7", "17"],
+    answer: 1,
+  },
+  {
+    question: "A lift starts at 2 and moves up 4 floors every trip for 3 trips. Where is it?",
+    options: ["10", "14", "-10", "6"],
+    answer: 1,
+  },
+  {
+    question: "If a number is -30 and its opposite is added twice, what is the result?",
+    options: ["30", "60", "90", "-30"],
+    answer: 0,
+  },
+  {
+    question: "If a number is 30 and its opposite is added twice, what is the result?",
+    options: ["30", "-30", "-90", "90"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 5 units greater than the midpoint of -10 and 4?",
+    options: ["-3", "2", "5", "-2"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 5 units less than the midpoint of -10 and 4?",
+    options: ["-8", "-3", "2", "8"],
+    answer: 0,
+  },
+  {
+    question: "If the smallest number is -12 and the largest number is 8, what is their midpoint?",
+    options: ["-4", "-2", "2", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 2 units greater than the midpoint of -12 and 8?",
+    options: ["0", "2", "4", "-2"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 2 units less than the midpoint of -12 and 8?",
+    options: ["-4", "-2", "2", "4"],
+    answer: 1,
+  },
+  {
+    question: "If x + 5 = -10, then x is:",
+    options: ["15", "-15", "5", "-5"],
+    answer: 1,
+  },
+  {
+    question: "If x - 5 = -10, then x is:",
+    options: ["-15", "-5", "15", "5"],
+    answer: 1,
+  },
+  {
+    question: "If x + (-5) = 10, then x is:",
+    options: ["5", "15", "-15", "-5"],
+    answer: 1,
+  },
+  {
+    question: "If x - (-5) = 10, then x is:",
+    options: ["5", "15", "-15", "-5"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is exactly 3 units from both -6 and 0?",
+    options: ["-3", "3", "Both -3 and 3", "0"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is exactly 5 units from both -10 and 0?",
+    options: ["-5", "5", "Both -5 and 5", "0"],
+    answer: 2,
+  },
+  {
+    question: "Which pair of integers has zero as their average?",
+    options: ["-5 and 5", "2 and 5", "-3 and 2", "0 and 5"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of integers has average -2?",
+    options: ["-5 and 1", "-4 and 0", "-6 and 2", "0 and 4"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of the first five negative integers?",
+    options: ["-10", "-15", "15", "10"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of the first five positive integers?",
+    options: ["10", "15", "-15", "20"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of -1, -2, -3, -4 and -5?",
+    options: ["15", "-15", "-10", "10"],
+    answer: 1,
+  },
+  {
+    question: "Which number should replace the blank: -5, -2, 1, 4, __?",
+    options: ["6", "7", "-7", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which number should replace the blank: 9, 5, 1, -3, __?",
+    options: ["-7", "7", "-5", "5"],
+    answer: 0,
+  },
+  {
+    question: "Which number should replace the blank: -2, 2, -2, 2, __?",
+    options: ["2", "-2", "0", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which number should replace the blank: 6, -6, 6, -6, __?",
+    options: ["-6", "0", "6", "12"],
+    answer: 2,
+  },
+  {
+    question: "A number is increased by 7 and then decreased by 10. If the starting number was -5, what is the final number?",
+    options: ["-8", "2", "-2", "8"],
+    answer: 0,
+  },
+  {
+    question: "A number is decreased by 7 and then increased by 10. If the starting number was -5, what is the final number?",
+    options: ["-12", "-2", "2", "12"],
+    answer: 1,
+  },
+  {
+    question: "A number is -20. It is first increased by 30 and then decreased by 15. What is the result?",
+    options: ["-5", "5", "25", "-25"],
+    answer: 1,
+  },
+  {
+    question: "A number is 20. It is first decreased by 30 and then increased by 15. What is the result?",
+    options: ["5", "-5", "35", "-35"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is false?",
+    options: ["-5 < 0", "5 > 0", "-8 < -3", "-2 > 4"],
+    answer: 3,
+  },
+  {
+    question: "Which statement is false?",
+    options: ["-10 < -5", "0 > -1", "8 > -3", "-7 > -2"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is greater than -100 and closest to -100?",
+    options: ["-99", "-98", "-90", "-101"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is less than 100 and closest to 100?",
+    options: ["99", "98", "90", "101"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of adding the opposite of 13 to -7?",
+    options: ["6", "-20", "20", "-6"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of adding the opposite of -13 to -7?",
+    options: ["6", "-20", "20", "-6"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of subtracting the opposite of 8 from -2?",
+    options: ["-10", "10", "6", "-6"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of subtracting the opposite of -8 from 2?",
+    options: ["-6", "6", "10", "-10"],
+    answer: 0,
+  },
+  {
+    question: "If a = -3, b = 5 and c = -7, what is a - b - c?",
+    options: ["-15", "9", "-1", "1"],
+    answer: 2,
+  },
+  {
+    question: "If a = 3, b = -5 and c = 7, what is a - b - c?",
+    options: ["1", "15", "-9", "-1"],
+    answer: 0,
+  },
+  {
+    question: "Which number is 10 units farther from zero than -5 on the negative side?",
+    options: ["-15", "5", "15", "-10"],
+    answer: 0,
+  },
+  {
+    question: "Which number is 10 units closer to zero than -25?",
+    options: ["-35", "-15", "15", "35"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 10 units farther from zero than 15 on the positive side?",
+    options: ["5", "-25", "25", "-5"],
+    answer: 2,
+  },
+  {
+    question: "Which number is 10 units closer to zero than 15?",
+    options: ["5", "-5", "25", "-25"],
+    answer: 0,
+  },
+  {
+    question: "If the temperature is -25°C and rises to -10°C, what is the change?",
+    options: ["15°C", "-15°C", "35°C", "-35°C"],
+    answer: 0,
+  },
+  {
+    question: "If the temperature is -10°C and falls to -25°C, what is the change?",
+    options: ["15°C", "-15°C", "35°C", "-35°C"],
+    answer: 1,
+  },
+  {
+    question: "A bank balance changes from ₹500 to -₹200. What is the change in balance?",
+    options: ["₹300", "-₹300", "₹700", "-₹700"],
+    answer: 3,
+  },
+  {
+    question: "A bank balance changes from -₹200 to ₹500. What is the change in balance?",
+    options: ["₹300", "-₹300", "₹700", "-₹700"],
+    answer: 2,
+  },
+  {
+    question: "Which integer represents a loss of 75 points?",
+    options: ["75", "-75", "0", "750"],
+    answer: 1,
+  },
+  {
+    question: "Which integer represents a gain of 75 points?",
+    options: ["-75", "0", "75", "-750"],
+    answer: 2,
+  },
+  {
+    question: "If a game score is -10 and the player gains 25 points, what is the score?",
+    options: ["-35", "15", "-15", "35"],
+    answer: 1,
+  },
+  {
+    question: "If a game score is 10 and the player loses 25 points, what is the score?",
+    options: ["35", "-15", "15", "-35"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the additive inverse of the smallest number among -3, -8, 2 and 5?",
+    options: ["-8", "8", "-5", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the additive inverse of the greatest number among -3, -8, 2 and 5?",
+    options: ["5", "-5", "8", "-8"],
+    answer: 1,
+  },
+  {
+    question: "If x is the smallest of -2, 0, 4 and -7, what is -x?",
+    options: ["-7", "7", "2", "-2"],
+    answer: 1,
+  },
+  {
+    question: "If x is the greatest of -2, 0, 4 and -7, what is -x?",
+    options: ["4", "-4", "7", "-7"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of (-3) + (-4) + (-5) + 12?",
+    options: ["0", "12", "-12", "2"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 3 + 4 + 5 - 12?",
+    options: ["0", "12", "-12", "2"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of -20 + 5 + 5 + 5?",
+    options: ["-5", "5", "-15", "15"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 20 - 5 - 5 - 5?",
+    options: ["5", "-5", "15", "-15"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 4 times 5 units to the left of 0?",
+    options: ["20", "-20", "0", "-25"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 3 times 7 units to the right of 0?",
+    options: ["-21", "21", "10", "-10"],
+    answer: 1,
+  },
+  {
+    question: "A point starts at -5 and moves 4 units right repeatedly 5 times. Where does it end?",
+    options: ["15", "-25", "25", "5"],
+    answer: 0,
+  },
+  {
+    question: "A point starts at 20 and moves 6 units left repeatedly 4 times. Where does it end?",
+    options: ["44", "-4", "4", "-44"],
+    answer: 2,
+  },
+  {
+    question: "If x = -10 and y = 4, which is greater: x + 15 or y - 2?",
+    options: ["x + 15", "y - 2", "They are equal", "Cannot be determined"],
+    answer: 2,
+  },
+  {
+    question: "If x = -10 and y = 4, which is smaller: x - 2 or y + 3?",
+    options: ["x - 2", "y + 3", "They are equal", "Cannot be determined"],
+    answer: 0,
+  },
+  {
+    question: "Which number is exactly halfway between -100 and 0?",
+    options: ["-25", "-50", "50", "-100"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly halfway between 0 and 100?",
+    options: ["25", "50", "-50", "100"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly halfway between -100 and 100?",
+    options: ["-100", "0", "50", "100"],
+    answer: 1,
+  },
+  {
+    question: "If a number is halfway between -20 and 10, what is it?",
+    options: ["-10", "-5", "5", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following represents a movement of 15 units left?",
+    options: ["+15", "-15", "0", "+5"],
+    answer: 1,
+  },
+  {
+    question: "Which of the following represents a movement of 15 units right?",
+    options: ["-15", "+15", "0", "-5"],
+    answer: 1,
+  },
+  {
+    question: "If a point moves 10 units left from -2, what is its new position?",
+    options: ["8", "-12", "12", "-8"],
+    answer: 1,
+  },
+  {
+    question: "If a point moves 10 units right from -2, what is its new position?",
+    options: ["8", "-12", "12", "-8"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of all integers from -3 to 6?",
+    options: ["12", "15", "18", "9"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of all integers from -6 to 3?",
+    options: ["-12", "-9", "0", "9"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the average of -6, -2 and 5?",
+    options: ["-1", "1", "-3", "3"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the average of -8, 2 and 9?",
+    options: ["1", "-1", "3", "0"],
+    answer: 0,
+  },
+  {
+    question: "If two integers are -12 and 8, what is their average?",
+    options: ["-10", "-2", "2", "10"],
+    answer: 1,
+  },
+  {
+    question: "If two integers are -15 and 5, what is their average?",
+    options: ["-10", "-5", "5", "10"],
+    answer: 1,
+  },
+  {
+    question: "Which pair of integers has a midpoint of 0?",
+    options: ["-8 and 8", "-8 and 4", "2 and 6", "-5 and 2"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of integers has a midpoint of 5?",
+    options: ["2 and 8", "-2 and 12", "0 and 8", "5 and 10"],
+    answer: 0,
+  },
+  {
+    question: "If the midpoint of two integers is -3 and one integer is 5, what is the other?",
+    options: ["-11", "11", "-8", "8"],
+    answer: 0,
+  },
+  {
+    question: "If the midpoint of two integers is 4 and one integer is -6, what is the other?",
+    options: ["2", "10", "-10", "14"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly 9 units away from -2?",
+    options: ["7 and -11", "11 and -7", "7 only", "-11 only"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is exactly 12 units away from 5?",
+    options: ["17 and -7", "7 and -17", "17 only", "-7 only"],
+    answer: 0,
+  },
+  {
+    question: "A number is 20 units from zero. If it is greater than zero, what is it?",
+    options: ["-20", "0", "20", "40"],
+    answer: 2,
+  },
+  {
+    question: "A number is 20 units from zero. If it is less than zero, what is it?",
+    options: ["20", "0", "-20", "-40"],
+    answer: 2,
+  },
+  {
+    question: "Which number is 2 units greater than -100?",
+    options: ["-102", "-98", "98", "102"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 2 units less than -100?",
+    options: ["-102", "-98", "98", "102"],
+    answer: 0,
+  },
+  {
+    question: "Which number is 2 units greater than 100?",
+    options: ["98", "-98", "102", "-102"],
+    answer: 2,
+  },
+  {
+    question: "Which number is 2 units less than 100?",
+    options: ["98", "-98", "102", "-102"],
+    answer: 0,
+  },
+  {
+    question: "If x = -25, y = 25, what is x + y?",
+    options: ["50", "-50", "0", "25"],
+    answer: 2,
+  },
+  {
+    question: "If x = -25, y = 25, what is x - y?",
+    options: ["50", "-50", "0", "25"],
+    answer: 1,
+  },
+  {
+    question: "If x = 25, y = -25, what is x + y?",
+    options: ["50", "-50", "0", "25"],
+    answer: 2,
+  },
+  {
+    question: "If x = 25, y = -25, what is x - y?",
+    options: ["50", "-50", "0", "25"],
+    answer: 0,
+  },
+  {
+    question: "Which number should replace the blank: -1, -4, -7, -10, __?",
+    options: ["-12", "-13", "13", "13"],
+    answer: 1,
+  },
+  {
+    question: "Which number should replace the blank: 2, -2, -6, -10, __?",
+    options: ["-14", "14", "-12", "12"],
+    answer: 0,
+  },
+  {
+    question: "Which number should replace the blank: -15, -10, -5, 0, __?",
+    options: ["-5", "5", "10", "-10"],
+    answer: 1,
+  },
+  {
+    question: "Which number should replace the blank: 18, 12, 6, 0, __?",
+    options: ["6", "-6", "-12", "12"],
+    answer: 1,
+  },
+  {
+    question: "If a number is -7 and its distance from zero is increased by 5 while remaining negative, what is the new number?",
+    options: ["-2", "-12", "12", "2"],
+    answer: 1,
+  },
+  {
+    question: "If a number is 7 and its distance from zero is decreased by 5 while remaining positive, what is the new number?",
+    options: ["12", "2", "-2", "-12"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 5 units closer to zero than -12?",
+    options: ["-17", "-7", "7", "17"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 5 units farther from zero than 12 on the positive side?",
+    options: ["7", "-17", "17", "-7"],
+    answer: 2,
+  },
+  {
+    question: "What is the final value of a number that starts at -10, increases by 5, decreases by 8, and increases by 6?",
+    options: ["-7", "7", "-17", "1"],
+    answer: 0,
+  },
+  {
+    question: "What is the final value of a number that starts at 10, decreases by 5, increases by 8, and decreases by 6?",
+    options: ["7", "-7", "17", "-1"],
+    answer: 0,
+  },
+  {
+    question: "If the temperature is -4°C at midnight, rises 7°C, falls 10°C and rises 5°C, what is it finally?",
+    options: ["-2°C", "2°C", "-12°C", "8°C"],
+    answer: 0,
+  },
+  {
+    question: "A diver is at -25 m, rises 10 m, descends 15 m and rises 20 m. What is the final position?",
+    options: ["-10 m", "10 m", "-30 m", "0 m"],
+    answer: 1,
+  },
+  {
+    question: "A bank balance is -₹1000. ₹600 is deposited, ₹250 withdrawn, and ₹500 deposited. What is the final balance?",
+    options: ["-₹150", "₹150", "-₹250", "₹250"],
+    answer: 1,
+  },
+  {
+    question: "A game score is -20. The player gains 15, loses 12, gains 25 and loses 3. What is the final score?",
+    options: ["5", "-5", "15", "-15"],
+    answer: 0,
+  },
+  {
+    question: "Which expression has the greatest value?",
+    options: ["-20 + 15", "-10 + 8", "-5 + 12", "-30 + 20"],
+    answer: 2,
+  },
+  {
+    question: "Which expression has the smallest value?",
+    options: ["-20 + 15", "-10 + 8", "-5 + 12", "-30 + 20"],
+    answer: 3,
+  },
+  {
+    question: "What is the value of (-2) - (-5) + (-8)?",
+    options: ["-5", "5", "11", "-11"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 2 - 5 + 8?",
+    options: ["5", "-5", "11", "-11"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of (-10) - (-3) - (-4)?",
+    options: ["-11", "-3", "3", "11"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of 10 - 3 - 4?",
+    options: ["3", "-3", "11", "-11"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 7 greater than -20 and 7 less than -6?",
+    options: ["-13", "-7", "13", "7"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 6 greater than -15 and 6 less than -3?",
+    options: ["-9", "-8", "9", "8"],
+    answer: 0,
+  },
+  {
+    question: "If two integers differ by 1, they are called:",
+    options: ["Opposite integers", "Consecutive integers", "Equal integers", "Prime integers"],
+    answer: 1,
+  },
+  {
+    question: "Which pair consists of consecutive integers?",
+    options: ["-5 and -3", "-4 and -3", "2 and 4", "-1 and 1"],
+    answer: 1,
+  },
+  {
+    question: "Which pair consists of opposite integers?",
+    options: ["-4 and 4", "-4 and -3", "4 and 5", "-4 and 5"],
+    answer: 0,
+  },
+  {
+    question: "Which pair consists of neither consecutive nor opposite integers?",
+    options: ["-5 and -4", "-7 and 7", "-3 and 2", "4 and 5"],
+    answer: 2,
+  },
+  {
+    question: "If the sum of two consecutive integers is -9, what are they?",
+    options: ["-4 and -5", "-5 and -6", "4 and 5", "-3 and -6"],
+    answer: 0,
+  },
+  {
+    question: "If the sum of two consecutive integers is 9, what are they?",
+    options: ["3 and 6", "4 and 5", "2 and 7", "0 and 9"],
+    answer: 1,
+  },
+  {
+    question: "If three consecutive integers have a sum of 0, what is the middle integer?",
+    options: ["-1", "0", "1", "3"],
+    answer: 1,
+  },
+  {
+    question: "If three consecutive integers have a sum of -12, what is the middle integer?",
+    options: ["-3", "-4", "-5", "-6"],
+    answer: 1,
+  },
+  {
+    question: "If three consecutive integers have a sum of 15, what is the greatest integer?",
+    options: ["4", "5", "6", "7"],
+    answer: 2,
+  },
+  {
+    question: "Which number is the additive inverse of the sum of -8 and 3?",
+    options: ["-5", "5", "11", "-11"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the additive inverse of the difference 7 - 12?",
+    options: ["-5", "5", "19", "-19"],
+    answer: 1,
+  },
+  {
+    question: "If x = -9, what is the additive inverse of x + 4?",
+    options: ["-5", "5", "13", "-13"],
+    answer: 1,
+  },
+  {
+    question: "If x = 9, what is the additive inverse of x - 4?",
+    options: ["-5", "5", "13", "-13"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of moving from -10 to 10 and then back to -5?",
+    options: ["5 units right", "15 units left", "25 units total movement", "15 units right"],
+    answer: 2,
+  },
+  {
+    question: "A point moves from -8 to 6. What is its total movement?",
+    options: ["2", "14", "-14", "8"],
+    answer: 1,
+  },
+  {
+    question: "A point moves from 6 to -8. What is its total movement?",
+    options: ["14", "-14", "2", "8"],
+    answer: 0,
+  },
+  {
+    question: "If a point moves from -8 to 6 and then back to 0, what total distance did it travel?",
+    options: ["14", "20", "8", "6"],
+    answer: 1,
+  },
+  {
+    question: "If a point moves from 5 to -7 and then to -2, what total distance did it travel?",
+    options: ["10", "17", "12", "15"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 4 units to the right of -9 and 4 units to the left of -1?",
+    options: ["-5", "-13", "3", "5"],
+    answer: 0,
+  },
+  {
+    question: "Which number is 6 units to the right of -10 and 6 units to the left of 2?",
+    options: ["-4", "4", "-16", "8"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of the integers from -2 to 8?",
+    options: ["33", "35", "30", "28"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of the integers from -8 to 2?",
+    options: ["-33", "-35", "-30", "-28"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of all integers from -9 to 9?",
+    options: ["0", "9", "-9", "18"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of all integers from -12 to 12?",
+    options: ["12", "0", "-12", "24"],
+    answer: 1,
+  },
+  {
+    question: "If x is the greatest integer less than 0 and y is the smallest integer greater than 0, what is x + y?",
+    options: ["-2", "2", "0", "1"],
+    answer: 2,
+  },
+  {
+    question: "If x = -1 and y = 1, what is x - y?",
+    options: ["0", "2", "-2", "1"],
+    answer: 2,
+  },
+  {
+    question: "If x = -1 and y = 1, what is x + y?",
+    options: ["0", "2", "-2", "1"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 1 unit away from zero on the negative side?",
+    options: ["1", "-1", "0", "-2"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 1 unit away from zero on the positive side?",
+    options: ["-1", "0", "1", "2"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of 0 + (-25) + 25?",
+    options: ["25", "-25", "0", "50"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of 0 - (-25) - 25?",
+    options: ["25", "-25", "0", "50"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is the additive inverse of -100?",
+    options: ["-100", "0", "100", "200"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is the additive inverse of 100?",
+    options: ["100", "0", "-100", "-200"],
+    answer: 2,
+  },
+  {
+    question: "If x = -100, what is x + 50?",
+    options: ["-50", "50", "-150", "150"],
+    answer: 0,
+  },
+  {
+    question: "If x = 100, what is x - 150?",
+    options: ["50", "-50", "250", "-250"],
+    answer: 1,
+  },
+  {
+    question: "A number starts at -100, moves 75 units right and then 20 units left. What is its final position?",
+    options: ["-45", "-55", "55", "45"],
+    answer: 1,
+  },
+  {
+    question: "A number starts at 100, moves 75 units left and then 20 units right. What is its final position?",
+    options: ["45", "55", "-55", "-45"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly halfway between -50 and -10?",
+    options: ["-20", "-30", "-40", "30"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly halfway between 20 and 60?",
+    options: ["30", "40", "50", "20"],
+    answer: 1,
+  },
+  {
+    question: "If a number is 10 units left of the midpoint of -20 and 40, what is it?",
+    options: ["0", "10", "-10", "20"],
+    answer: 2,
+  },
+  {
+    question: "If a number is 10 units right of the midpoint of -20 and 40, what is it?",
+    options: ["0", "10", "20", "-10"],
+    answer: 2,
+  },
+  {
+    question: "Which number is closer to -5: -4 or -7?",
+    options: ["-4", "-7", "Both equally", "0"],
+    answer: 0,
+  },
+  {
+    question: "Which number is farther from 3: -5 or 10?",
+    options: ["-5", "10", "Both equally", "3"],
+    answer: 0,
+  },
+  {
+    question: "If x = -4 and y = 9, what is |x| + |y|?",
+    options: ["5", "13", "9", "4"],
+    answer: 1,
+  },
+  {
+    question: "If x = -12 and y = -8, what is the sum of their distances from zero?",
+    options: ["4", "20", "-20", "96"],
+    answer: 1,
+  },
+  {
+    question: "Which number has the same distance from zero as -18?",
+    options: ["8", "18", "-8", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which number has a smaller distance from zero than -18?",
+    options: ["-20", "20", "-15", "19"],
+    answer: 2,
+  },
+  {
+    question: "Which number has a greater distance from zero than 18?",
+    options: ["-17", "17", "-20", "10"],
+    answer: 2,
+  },
+  {
+    question: "If x is negative and x + 18 = 0, what is x?",
+    options: ["18", "-18", "0", "-36"],
+    answer: 1,
+  },
+  {
+    question: "If x is positive and x - 18 = 0, what is x?",
+    options: ["-18", "0", "18", "36"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 18 units to the left of 18?",
+    options: ["0", "36", "-36", "-18"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 18 units to the right of -18?",
+    options: ["0", "36", "-36", "18"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of -18 + 18 + (-18)?",
+    options: ["18", "-18", "0", "36"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of 18 - 18 - (-18)?",
+    options: ["-18", "0", "18", "36"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is the result of moving 50 units left from 20?",
+    options: ["70", "-30", "30", "-70"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the result of moving 50 units right from -20?",
+    options: ["-70", "30", "70", "-30"],
+    answer: 1,
+  },
+  {
+    question: "If a number changes from -30 to 15, what is the increase?",
+    options: ["15", "45", "-45", "30"],
+    answer: 1,
+  },
+  {
+    question: "If a number changes from 15 to -30, what is the decrease?",
+    options: ["15", "45", "-45", "30"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the result of -40 + 17?",
+    options: ["-23", "23", "-57", "57"],
+    answer: 0,
+  },
+  {
+    question: "Which number is the result of 40 + (-17)?",
+    options: ["-23", "23", "-57", "57"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the result of -40 - (-17)?",
+    options: ["-23", "23", "-57", "57"],
+    answer: 0,
+  },
+  {
+    question: "Which number is the result of 40 - (-17)?",
+    options: ["-23", "23", "-57", "57"],
+    answer: 2,
+  },
+  {
+    question: "If a = -20, b = 5 and c = 10, what is a + b - c?",
+    options: ["-25", "-15", "15", "35"],
+    answer: 0,
+  },
+  {
+    question: "If a = 20, b = -5 and c = -10, what is a + b - c?",
+    options: ["5", "15", "25", "35"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of (-6) + 14 + (-3) + (-5)?",
+    options: ["0", "2", "-2", "10"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 6 - 14 + 3 + 5?",
+    options: ["0", "2", "-2", "10"],
+    answer: 0,
+  },
+  {
+    question: "If a number is -8 and you add 3 times its opposite, what is the result?",
+    options: ["16", "8", "-16", "-32"],
+    answer: 0,
+  },
+  {
+    question: "If a number is 8 and you add 3 times its opposite, what is the result?",
+    options: ["16", "8", "-16", "-32"],
+    answer: 2,
+  },
+  {
+    question: "Which number is obtained by subtracting the opposite of -10 from 5?",
+    options: ["15", "-5", "-15", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which number is obtained by subtracting the opposite of 10 from -5?",
+    options: ["5", "-15", "15", "-5"],
+    answer: 0,
+  },
+  {
+    question: "If x = -6, what is x - (-x) + 2?",
+    options: ["-10", "2", "-14", "14"],
+    answer: 0,
+  },
+  {
+    question: "If x = 6, what is x - (-x) + 2?",
+    options: ["14", "2", "-10", "-14"],
+    answer: 0,
+  },
+  {
+    question: "What is the smallest value among -3 + 2, -3 - 2, 3 + (-2), and 3 - (-2)?",
+    options: ["-1", "-5", "1", "5"],
+    answer: 1,
+  },
+  {
+    question: "What is the greatest value among -3 + 2, -3 - 2, 3 + (-2), and 3 - (-2)?",
+    options: ["-1", "-5", "1", "5"],
+    answer: 3,
+  },
+  {
+    question: "Which expression has value 0?",
+    options: ["-9 + 8", "-9 + 9", "9 + 8", "-9 - 9"],
+    answer: 1,
+  },
+  {
+    question: "Which expression has value -18?",
+    options: ["-9 + 9", "-9 - 9", "9 - 9", "18 + 0"],
+    answer: 1,
+  },
+  {
+    question: "Which expression has value 18?",
+    options: ["-9 - 9", "9 + 9", "-18 + 0", "9 - 18"],
+    answer: 1,
+  },
+  {
+    question: "A number line point is at -7. It moves 7 units right. Where does it reach?",
+    options: ["-14", "0", "7", "14"],
+    answer: 1,
+  },
+  {
+    question: "A number line point is at 7. It moves 7 units left. Where does it reach?",
+    options: ["-14", "0", "7", "14"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 10 units away from both -5 and 15?",
+    options: ["5", "10", "0", "-10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 5 units away from both -10 and 0?",
+    options: ["-5", "5", "Both -5 and -15", "0"],
+    answer: 0,
+  },
+  {
+    question: "If the distance between two integers is 30 and their midpoint is 5, what are the integers?",
+    options: ["-10 and 20", "-15 and 25", "0 and 10", "-20 and 30"],
+    answer: 0,
+  },
+  {
+    question: "If the distance between two integers is 20 and their midpoint is -5, what are the integers?",
+    options: ["-15 and 5", "-10 and 0", "-20 and 10", "5 and -15"],
+    answer: 0,
+  },
+  {
+    question: "If two integers have midpoint 0 and one is -13, what is the other?",
+    options: ["-13", "0", "13", "26"],
+    answer: 2,
+  },
+  {
+    question: "If two integers have midpoint 7 and one is 2, what is the other?",
+    options: ["5", "12", "14", "-12"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 4 units greater than -3 and 4 units less than 5?",
+    options: ["0", "1", "-1", "4"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 5 units greater than -8 and 5 units less than 2?",
+    options: ["-3", "-2", "3", "7"],
+    answer: 0,
+  },
+  {
+    question: "If x is an integer greater than -4 and less than 4, what is the greatest possible x?",
+    options: ["3", "4", "-3", "0"],
+    answer: 0,
+  },
+  {
+    question: "If x is an integer greater than -4 and less than 4, what is the smallest possible x?",
+    options: ["-4", "-3", "0", "3"],
+    answer: 1,
+  },
+  {
+    question: "How many integers are strictly between -7 and 8?",
+    options: ["14", "15", "16", "13"],
+    answer: 0,
+  },
+  {
+    question: "How many integers are strictly between -12 and 12?",
+    options: ["23", "24", "25", "22"],
+    answer: 0,
+  },
+  {
+    question: "How many integers are from -12 to 12 inclusive?",
+    options: ["24", "25", "23", "26"],
+    answer: 1,
+  },
+  {
+    question: "How many negative integers are there between -10 and 10?",
+    options: ["9", "10", "19", "20"],
+    answer: 0,
+  },
+  {
+    question: "How many positive integers are there between -10 and 10?",
+    options: ["9", "10", "19", "20"],
+    answer: 0,
+  },
+  {
+    question: "How many non-zero integers are there from -5 to 5 inclusive?",
+    options: ["9", "10", "11", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the greatest among all integers less than -5?",
+    options: ["-4", "-5", "-6", "0"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is the smallest among all integers greater than 5?",
+    options: ["4", "5", "6", "7"],
+    answer: 2,
+  },
+  {
+    question: "If x is an integer and x <= -2, which value cannot be x?",
+    options: ["-2", "-3", "-10", "-1"],
+    answer: 3,
+  },
+  {
+    question: "If x is an integer and x >= 2, which value cannot be x?",
+    options: ["2", "3", "10", "1"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is exactly 1 more than the opposite of 9?",
+    options: ["-10", "-8", "8", "10"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly 1 less than the opposite of 9?",
+    options: ["-10", "-8", "8", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is exactly 2 more than the opposite of -6?",
+    options: ["-8", "4", "8", "-4"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is exactly 2 less than the opposite of -6?",
+    options: ["-8", "4", "8", "-4"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of adding the opposites of 7 and -3?",
+    options: ["-4", "4", "10", "-10"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of subtracting the opposite of 7 from the opposite of -3?",
+    options: ["-4", "4", "10", "-10"],
+    answer: 0,
+  },
+  {
+    question: "If x = -5, y = 8 and z = 2, what is x + y - z?",
+    options: ["1", "-1", "11", "-11"],
+    answer: 0,
+  },
+  {
+    question: "If x = 5, y = -8 and z = -2, what is x + y - z?",
+    options: ["-5", "5", "-1", "1"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of -1 + (-2) + (-3) + 10?",
+    options: ["4", "-4", "10", "-10"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 1 + 2 + 3 - 10?",
+    options: ["4", "-4", "10", "-10"],
+    answer: 1,
+  },
+  {
+    question: "A number is -15. Its opposite is added and then 8 is subtracted. What is the result?",
+    options: ["8", "-8", "0", "-23"],
+    answer: 1,
+  },
+  {
+    question: "A number is 15. Its opposite is added and then 8 is subtracted. What is the result?",
+    options: ["8", "-8", "0", "23"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is obtained by adding 25 to -40?",
+    options: ["-65", "-15", "15", "65"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is obtained by subtracting 25 from -40?",
+    options: ["-15", "15", "-65", "65"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is obtained by adding -25 to 40?",
+    options: ["65", "-65", "15", "-15"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is obtained by subtracting -25 from 40?",
+    options: ["15", "-15", "65", "-65"],
+    answer: 2,
+  },
+  {
+    question: "If x = -30 and y = 12, what is y - x?",
+    options: ["-18", "18", "42", "-42"],
+    answer: 2,
+  },
+  {
+    question: "If x = 30 and y = -12, what is y - x?",
+    options: ["18", "-18", "42", "-42"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is the midpoint of -40 and 20?",
+    options: ["-20", "-10", "10", "20"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the midpoint of -30 and 10?",
+    options: ["-20", "-10", "10", "20"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 5 units to the right of the midpoint of -30 and 10?",
+    options: ["-10", "-5", "5", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 5 units to the left of the midpoint of -30 and 10?",
+    options: ["-15", "-10", "-5", "5"],
+    answer: 0,
+  },
+  {
+    question: "If a number is at -2 and its opposite is at 2, how far apart are they?",
+    options: ["2", "4", "0", "-4"],
+    answer: 1,
+  },
+  {
+    question: "If a number is at -15 and its opposite is at 15, how far apart are they?",
+    options: ["15", "30", "0", "-30"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 10 units from both -15 and 5?",
+    options: ["-5", "0", "5", "-10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 5 units from both -10 and 0?",
+    options: ["-5", "5", "Both -5 and -15", "0"],
+    answer: 0,
+  },
+  {
+    question: "If the temperature changes from -30°C to 0°C, by how many degrees does it rise?",
+    options: ["30°C", "-30°C", "0°C", "60°C"],
+    answer: 0,
+  },
+  {
+    question: "If the temperature changes from 0°C to -30°C, by how many degrees does it fall?",
+    options: ["30°C", "-30°C", "0°C", "60°C"],
+    answer: 0,
+  },
+  {
+    question: "A submarine rises from -120 m to -75 m. What is the change in position?",
+    options: ["45 m upward", "45 m downward", "195 m upward", "-45 m"],
+    answer: 0,
+  },
+  {
+    question: "A submarine descends from -75 m to -120 m. What is the change in position?",
+    options: ["45 m upward", "45 m downward", "195 m downward", "-195 m"],
+    answer: 1,
+  },
+  {
+    question: "A balance is -₹600. A deposit of ₹250 is made, followed by a withdrawal of ₹100. What is the final balance?",
+    options: ["-₹450", "₹450", "-₹950", "₹750"],
+    answer: 0,
+  },
+  {
+    question: "A balance is ₹600. A withdrawal of ₹850 is made, followed by a deposit of ₹100. What is the final balance?",
+    options: ["₹350", "-₹150", "₹150", "-₹350"],
+    answer: 2,
+  },
+  {
+    question: "Which expression gives the greatest value?",
+    options: ["-10 - 5", "-10 + 5", "10 - 15", "5 - 10"],
+    answer: 1,
+  },
+  {
+    question: "Which expression gives the smallest value?",
+    options: ["-10 - 5", "-10 + 5", "10 - 15", "5 - 10"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of -2 - 3 + 4 - 5 + 6?",
+    options: ["0", "2", "-2", "10"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 2 + 3 - 4 + 5 - 6?",
+    options: ["0", "2", "-2", "10"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is exactly halfway between -1 and 7?",
+    options: ["2", "3", "4", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly halfway between -7 and 1?",
+    options: ["-4", "-3", "-2", "0"],
+    answer: 1,
+  },
+  {
+    question: "If x is the midpoint of -8 and 4, what is x?",
+    options: ["-4", "-2", "2", "6"],
+    answer: 1,
+  },
+  {
+    question: "If x is the midpoint of -6 and 10, what is x?",
+    options: ["-2", "2", "4", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 3 units greater than the midpoint of -8 and 4?",
+    options: ["0", "1", "2", "3"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 3 units less than the midpoint of -8 and 4?",
+    options: ["-5", "-4", "-3", "0"],
+    answer: 2,
+  },
+  {
+    question: "If x = -10, what is x + 2x?",
+    options: ["-20", "20", "-30", "30"],
+    answer: 2,
+  },
+  {
+    question: "If x = 10, what is x + 2(-x)?",
+    options: ["30", "-30", "10", "-10"],
+    answer: 3,
+  },
+  {
+    question: "If x = -4, what is x - 2x?",
+    options: ["-4", "4", "8", "-8"],
+    answer: 1,
+  },
+  {
+    question: "If x = 4, what is x - 2x?",
+    options: ["-4", "4", "8", "-8"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the opposite of the result of -12 + 5?",
+    options: ["-7", "7", "17", "-17"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the opposite of the result of 12 - 5?",
+    options: ["-7", "7", "17", "-17"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of adding -8 to its opposite and then subtracting 3?",
+    options: ["-3", "3", "0", "5"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of adding 8 to its opposite and then adding 3?",
+    options: ["-3", "3", "0", "11"],
+    answer: 1,
+  },
+  {
+    question: "If a number is 4 and you subtract its opposite, what do you get?",
+    options: ["0", "4", "8", "-8"],
+    answer: 2,
+  },
+  {
+    question: "If a number is -4 and you subtract its opposite, what do you get?",
+    options: ["0", "4", "8", "-8"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is 20 less than the opposite of 5?",
+    options: ["-15", "-25", "15", "25"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 20 greater than the opposite of -5?",
+    options: ["15", "25", "-15", "-25"],
+    answer: 1,
+  },
+  {
+    question: "A point is at -10. It moves 4 units right repeatedly 6 times. What is its final position?",
+    options: ["14", "-14", "24", "10"],
+    answer: 0,
+  },
+  {
+    question: "A point is at 10. It moves 4 units left repeatedly 6 times. What is its final position?",
+    options: ["14", "-14", "-10", "10"],
+    answer: 1,
+  },
+  {
+    question: "A sequence starts at -10 and increases by 3. What is the fifth term?",
+    options: ["2", "-2", "5", "-5"],
+    answer: 0,
+  },
+  {
+    question: "A sequence starts at 10 and decreases by 3. What is the fifth term?",
+    options: ["-2", "2", "-5", "5"],
+    answer: 0,
+  },
+  {
+    question: "A sequence starts at -2 and increases by 5. What is the sixth term?",
+    options: ["18", "23", "28", "13"],
+    answer: 1,
+  },
+  {
+    question: "A sequence starts at 20 and decreases by 5. What is the sixth term?",
+    options: ["-5", "0", "5", "-10"],
+    answer: 0,
+  },
+  {
+    question: "Which number is the additive inverse of the midpoint of -16 and 8?",
+    options: ["-4", "4", "8", "-8"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the additive inverse of the midpoint of -10 and 4?",
+    options: ["-3", "3", "7", "-7"],
+    answer: 0,
+  },
+  {
+    question: "If two integers have a sum of -20 and are opposites, what can you conclude?",
+    options: ["Both are -10", "Both are 10", "They cannot be opposites", "One is zero"],
+    answer: 2,
+  },
+  {
+    question: "If two integers have a sum of 0 and are opposite, which pair could they be?",
+    options: ["-7 and 7", "-7 and -7", "7 and 7", "0 and 7"],
+    answer: 0,
+  },
+  {
+    question: "Which statement is always true for any integer n?",
+    options: ["n + (-n) = 0", "n + (-n) = 2n", "n - n = 1", "n + 0 = 0"],
+    answer: 0,
+  },
+  {
+    question: "Which statement is always true for any integer n?",
+    options: ["n - 0 = 0", "n + 0 = n", "n - n = n", "0 - n = n"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is always true for any integer n?",
+    options: ["0 - n = -n", "0 - n = n", "n - n = 1", "n + n = 0"],
+    answer: 0,
+  },
+  {
+    question: "If n is negative, what is -n?",
+    options: ["Negative", "Positive", "Always zero", "Cannot be determined"],
+    answer: 1,
+  },
+  {
+    question: "If n is positive, what is -n?",
+    options: ["Positive", "Negative", "Always zero", "Cannot be determined"],
+    answer: 1,
+  },
+  {
+    question: "If n = 0, what is -n?",
+    options: ["1", "-1", "0", "Cannot be determined"],
+    answer: 2,
+  },
+  {
+    question: "Which number is greater than -50 but less than -40?",
+    options: ["-39", "-45", "-55", "45"],
+    answer: 1,
+  },
+  {
+    question: "Which number is greater than 40 but less than 50?",
+    options: ["39", "45", "50", "55"],
+    answer: 1,
+  },
+  {
+    question: "Which number is less than -40 but greater than -50?",
+    options: ["-35", "-45", "-55", "45"],
+    answer: 1,
+  },
+  {
+    question: "Which number is less than 50 but greater than 40?",
+    options: ["35", "45", "55", "-45"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -45 + 20 + 15 + 10?",
+    options: ["0", "-20", "20", "45"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 45 - 20 - 15 - 10?",
+    options: ["0", "20", "-20", "45"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 25 units away from -5 on the right?",
+    options: ["-30", "20", "30", "-20"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 25 units away from 5 on the left?",
+    options: ["30", "-20", "20", "-30"],
+    answer: 1,
+  },
+  {
+    question: "If a point starts at -5 and travels 25 units right, how far is it from zero?",
+    options: ["20 units", "25 units", "30 units", "5 units"],
+    answer: 0,
+  },
+  {
+    question: "If a point starts at 5 and travels 25 units left, how far is it from zero?",
+    options: ["20 units", "25 units", "30 units", "5 units"],
+    answer: 0,
+  },
+  {
+    question: "Which number is closer to zero: -20 or 15?",
+    options: ["-20", "15", "Both equally", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which number is farther from zero: -20 or 15?",
+    options: ["-20", "15", "Both equally", "0"],
+    answer: 0,
+  },
+  {
+    question: "If a number is -15 and another is 20, what is the distance between them?",
+    options: ["5", "35", "-35", "20"],
+    answer: 1,
+  },
+  {
+    question: "If a number is -20 and another is 15, what is the distance between them?",
+    options: ["5", "35", "-35", "20"],
+    answer: 1,
+  },
+  {
+    question: "Which pair has the same distance between numbers?",
+    options: ["-5 and 5", "-2 and 3", "-10 and 0", "4 and 9"],
+    answer: 2,
+  },
+  {
+    question: "Which pair has distance 7?",
+    options: ["-3 and 4", "-4 and 4", "-5 and 3", "0 and 8"],
+    answer: 0,
+  },
+  {
+    question: "Which pair has distance 9?",
+    options: ["-4 and 5", "-5 and 3", "0 and 8", "-2 and 6"],
+    answer: 0,
+  },
+  {
+    question: "If x = -4, which expression gives 12?",
+    options: ["x + 8", "x - 8", "-x + 8", "x + 4"],
+    answer: 2,
+  },
+  {
+    question: "If x = 4, which expression gives -12?",
+    options: ["x - 8", "-x - 8", "x + 8", "-x + 8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 6 units greater than -20?",
+    options: ["-26", "-14", "14", "26"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 6 units less than -20?",
+    options: ["-26", "-14", "14", "26"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 6 units greater than 20?",
+    options: ["14", "-14", "26", "-26"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 6 units less than 20?",
+    options: ["14", "-14", "26", "-26"],
+    answer: 0,
+  },
+  {
+    question: "If x = -10 and y = -20, which is greater?",
+    options: ["x", "y", "Both equal", "0"],
+    answer: 0,
+  },
+  {
+    question: "If x = 10 and y = -20, which is greater?",
+    options: ["x", "y", "Both equal", "0"],
+    answer: 0,
+  },
+  {
+    question: "If x = -10 and y = 20, what is x + y?",
+    options: ["-30", "30", "10", "-10"],
+    answer: 2,
+  },
+  {
+    question: "If x = 10 and y = -20, what is x + y?",
+    options: ["30", "-30", "10", "-10"],
+    answer: 3,
+  },
+  {
+    question: "Which expression is equal to -30?",
+    options: ["-10 - 20", "10 - 20", "-10 + 20", "30 + 0"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to 30?",
+    options: ["-10 - 20", "10 + 20", "-10 + 20", "-30 + 0"],
+    answer: 1,
+  },
+  {
+    question: "If the temperature is -30°C and increases by 20°C, what is the new temperature?",
+    options: ["-50°C", "-10°C", "10°C", "50°C"],
+    answer: 1,
+  },
+  {
+    question: "If the temperature is 30°C and decreases by 20°C, what is the new temperature?",
+    options: ["-10°C", "10°C", "50°C", "-50°C"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 10 units away from -10 on the positive side?",
+    options: ["-20", "0", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 10 units away from 10 on the negative side?",
+    options: ["-20", "0", "20", "-10"],
+    answer: 3,
+  },
+  {
+    question: "What is the sum of -15 and 25?",
+    options: ["-40", "40", "10", "-10"],
+    answer: 2,
+  },
+  {
+    question: "What is the sum of 15 and -25?",
+    options: ["-40", "40", "10", "-10"],
+    answer: 3,
+  },
+  {
+    question: "What is 25 - (-15)?",
+    options: ["10", "-10", "40", "-40"],
+    answer: 2,
+  },
+  {
+    question: "What is -25 - 15?",
+    options: ["40", "-40", "10", "-10"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 40 units greater than -25?",
+    options: ["-65", "15", "65", "-15"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 40 units less than 25?",
+    options: ["65", "-15", "15", "-65"],
+    answer: 1,
+  },
+  {
+    question: "A point starts at -25 and moves 40 units right. Where is it?",
+    options: ["-65", "15", "65", "-15"],
+    answer: 1,
+  },
+  {
+    question: "A point starts at 25 and moves 40 units left. Where is it?",
+    options: ["65", "-15", "15", "-65"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the opposite of the greatest integer among -10, -2, 0 and 7?",
+    options: ["7", "-7", "0", "2"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the opposite of the smallest integer among -10, -2, 0 and 7?",
+    options: ["10", "-10", "2", "-2"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of adding the smallest and greatest integers among -10, -2, 0 and 7?",
+    options: ["-17", "17", "-3", "3"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of subtracting the smallest integer from the greatest integer among -10, -2, 0 and 7?",
+    options: ["3", "17", "-17", "10"],
+    answer: 1,
+  },
+  {
+    question: "If x is the midpoint of -20 and 30, what is x?",
+    options: ["-5", "5", "10", "-10"],
+    answer: 1,
+  },
+  {
+    question: "If x is the midpoint of -30 and 20, what is x?",
+    options: ["-10", "-5", "5", "10"],
+    answer: 1,
+  },
+  {
+    question: "If x is 10 greater than the midpoint of -20 and 30, what is x?",
+    options: ["5", "10", "15", "20"],
+    answer: 2,
+  },
+  {
+    question: "If x is 10 less than the midpoint of -20 and 30, what is x?",
+    options: ["-15", "-5", "5", "15"],
+    answer: 0,
+  },
+  {
+    question: "Which number is exactly halfway between -5 and 15?",
+    options: ["0", "5", "10", "-10"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly halfway between -15 and 5?",
+    options: ["-10", "-5", "0", "5"],
+    answer: 1,
+  },
+  {
+    question: "If two integers are equally distant from 0, what must be true about them?",
+    options: ["They must be equal", "They must be opposites or equal", "They must both be positive", "They must both be negative"],
+    answer: 1,
+  },
+  {
+    question: "Which pair of integers is equally distant from 0 but not equal?",
+    options: ["5 and 5", "-6 and 6", "-3 and -3", "0 and 0"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is closest to zero among -100, -20, 15 and 25?",
+    options: ["-100", "-20", "15", "25"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is farthest from zero among -100, -20, 15 and 25?",
+    options: ["-100", "-20", "15", "25"],
+    answer: 0,
+  },
+  {
+    question: "If x = -100, what is x + 100?",
+    options: ["-200", "200", "0", "100"],
+    answer: 2,
+  },
+  {
+    question: "If x = 100, what is x - 100?",
+    options: ["-200", "200", "0", "100"],
+    answer: 2,
+  },
+  {
+    question: "Which expression always gives a non-negative result?",
+    options: ["n - n", "n + n", "n - 1", "n + 1"],
+    answer: 0,
+  },
+  {
+    question: "If n is any integer, which expression gives its opposite?",
+    options: ["n + 1", "n - 1", "-n", "n + n"],
+    answer: 2,
+  },
+  {
+    question: "If n is any integer, which expression always gives zero?",
+    options: ["n + n", "n - n", "n + 1", "n - 1"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -(-(-10))?",
+    options: ["10", "-10", "0", "20"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -(-(-(-10)))?",
+    options: ["10", "-10", "0", "20"],
+    answer: 0,
+  },
+  {
+    question: "A number is -7. Its opposite is 7. What is the distance between the two numbers?",
+    options: ["0", "7", "14", "-14"],
+    answer: 2,
+  },
+  {
+    question: "A number is -12. Its opposite is 12. What is their average?",
+    options: ["-12", "12", "0", "24"],
+    answer: 2,
+  },
+  {
+    question: "If two opposite integers have a distance of 50, what are they?",
+    options: ["-25 and 25", "-50 and 50", "-10 and 40", "-20 and 30"],
+    answer: 0,
+  },
+  {
+    question: "If two opposite integers have a distance of 100, what is the positive integer?",
+    options: ["25", "50", "100", "200"],
+    answer: 1,
+  },
+  {
+    question: "If two opposite integers have a distance of 36, what is the negative integer?",
+    options: ["-36", "-18", "18", "36"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 9 units to the left of 0 and 18 units to the right of -27?",
+    options: ["-9", "9", "-18", "18"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 9 units to the right of 0 and 18 units to the left of 27?",
+    options: ["-9", "9", "-18", "18"],
+    answer: 1,
+  },
+  {
+    question: "A point starts at -27, moves 18 units right and then 9 units right. Where does it end?",
+    options: ["0", "-18", "9", "-9"],
+    answer: 0,
+  },
+  {
+    question: "A point starts at 27, moves 18 units left and then 9 units left. Where does it end?",
+    options: ["0", "18", "-9", "9"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of -27 + 18 + 9?",
+    options: ["0", "-36", "36", "-9"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 27 - 18 - 9?",
+    options: ["0", "36", "-36", "9"],
+    answer: 0,
+  },
+  {
+    question: "If x = -27, what is x + 18?",
+    options: ["-9", "9", "-45", "45"],
+    answer: 0,
+  },
+  {
+    question: "If x = 27, what is x - 18?",
+    options: ["-9", "9", "-45", "45"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the midpoint of -27 and 9?",
+    options: ["-9", "-18", "9", "18"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the midpoint of -9 and 27?",
+    options: ["0", "9", "18", "-18"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of -27 and 9?",
+    options: ["-18", "18", "-36", "36"],
+    answer: 0,
+  },
+  {
+    question: "What is the difference between 9 and -27?",
+    options: ["18", "36", "-36", "27"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 18 units greater than -27?",
+    options: ["-45", "-9", "9", "45"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 18 units less than 27?",
+    options: ["9", "-9", "45", "-45"],
+    answer: 0,
+  },
+  {
+    question: "If a number is -18 and increases by 36, what is the result?",
+    options: ["18", "-18", "54", "-54"],
+    answer: 0,
+  },
+  {
+    question: "If a number is 18 and decreases by 36, what is the result?",
+    options: ["18", "-18", "54", "-54"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is exactly halfway between -18 and 54?",
+    options: ["18", "36", "-36", "0"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is exactly halfway between -54 and 18?",
+    options: ["-18", "18", "-36", "36"],
+    answer: 0,
+  },
+  {
+    question: "If x is the midpoint of -18 and 54, what is x + 5?",
+    options: ["23", "13", "18", "28"],
+    answer: 0,
+  },
+  {
+    question: "If x is the midpoint of -54 and 18, what is x - 5?",
+    options: ["-23", "-13", "-18", "-28"],
+    answer: 3,
+  },
+  {
+    question: "Which pair of integers has midpoint 0 and distance 40?",
+    options: ["-20 and 20", "-40 and 40", "-10 and 30", "-15 and 25"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of integers has midpoint 5 and distance 20?",
+    options: ["-5 and 15", "-10 and 20", "0 and 10", "-15 and 25"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of integers has midpoint -5 and distance 30?",
+    options: ["-20 and 10", "-15 and 5", "-10 and 0", "-25 and 15"],
+    answer: 0,
+  },
+  {
+    question: "If two integers have midpoint 10 and one is -5, what is the other?",
+    options: ["15", "20", "25", "5"],
+    answer: 2,
+  },
+  {
+    question: "If two integers have midpoint -10 and one is 5, what is the other?",
+    options: ["-15", "-20", "-25", "-5"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 7 units farther from zero than -3 on the negative side?",
+    options: ["-10", "4", "10", "-4"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 7 units farther from zero than 3 on the positive side?",
+    options: ["-10", "4", "10", "-4"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 7 units closer to zero than -12?",
+    options: ["-19", "-5", "5", "19"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 7 units closer to zero than 12?",
+    options: ["-5", "5", "19", "-19"],
+    answer: 1,
+  },
+  {
+    question: "If x = -12 and y = 5, what is the distance between x and y?",
+    options: ["7", "17", "-17", "12"],
+    answer: 1,
+  },
+  {
+    question: "If x = -5 and y = 12, what is the distance between x and y?",
+    options: ["7", "17", "-17", "12"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -12 + 5 + 7?",
+    options: ["0", "-14", "14", "-7"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 12 - 5 - 7?",
+    options: ["0", "14", "-14", "7"],
+    answer: 0,
+  },
+  {
+    question: "Which number is 17 units greater than -12?",
+    options: ["5", "-5", "29", "-29"],
+    answer: 0,
+  },
+  {
+    question: "Which number is 17 units less than 12?",
+    options: ["5", "-5", "29", "-29"],
+    answer: 1,
+  },
+  {
+    question: "A point moves from -12 to 5. How many units does it move?",
+    options: ["7", "17", "-17", "12"],
+    answer: 1,
+  },
+  {
+    question: "A point moves from 12 to -5. How many units does it move?",
+    options: ["7", "17", "-17", "12"],
+    answer: 1,
+  },
+  {
+    question: "If x = -12, which expression gives 5?",
+    options: ["x + 17", "x - 17", "-x + 17", "x + 12"],
+    answer: 0,
+  },
+  {
+    question: "If x = 12, which expression gives -5?",
+    options: ["x - 17", "-x + 17", "x + 17", "x - 12"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of -12, 5 and 7?",
+    options: ["0", "24", "-24", "10"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of 12, -5 and -7?",
+    options: ["0", "24", "-24", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which number is the additive inverse of -12 + 5 + 7?",
+    options: ["0", "24", "-24", "12"],
+    answer: 0,
+  },
+  {
+    question: "Which number is the additive inverse of 12 - 5 - 7?",
+    options: ["0", "24", "-24", "12"],
+    answer: 0,
+  },
+  {
+    question: "A temperature starts at -12°C and rises 5°C, then rises 7°C. What is the final temperature?",
+    options: ["0°C", "-24°C", "24°C", "12°C"],
+    answer: 0,
+  },
+  {
+    question: "A temperature starts at 12°C and falls 5°C, then falls 7°C. What is the final temperature?",
+    options: ["0°C", "24°C", "-24°C", "12°C"],
+    answer: 0,
+  },
+  {
+    question: "A diver starts at -12 m and rises 17 m. What is the new position?",
+    options: ["5 m", "-5 m", "29 m", "-29 m"],
+    answer: 0,
+  },
+  {
+    question: "A diver starts at 12 m and descends 17 m. What is the new position?",
+    options: ["5 m", "-5 m", "29 m", "-29 m"],
+    answer: 1,
+  },
+  {
+    question: "Which statement correctly compares -12 and 5?",
+    options: ["-12 > 5", "-12 < 5", "-12 = 5", "Both are positive"],
+    answer: 1,
+  },
+  {
+    question: "Which statement correctly compares -12 and -5?",
+    options: ["-12 > -5", "-12 < -5", "-12 = -5", "Both are positive"],
+    answer: 1,
+  },
+  {
+    question: "Which statement correctly compares 12 and -5?",
+    options: ["12 < -5", "12 > -5", "12 = -5", "Both are negative"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -12 - (-5)?",
+    options: ["-17", "17", "-7", "7"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of 12 - (-5)?",
+    options: ["7", "-7", "17", "-17"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of -12 + (-5)?",
+    options: ["-17", "17", "-7", "7"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 12 + (-5)?",
+    options: ["-17", "17", "7", "-7"],
+    answer: 2,
+  },
+  {
+    question: "If x = -12, what is -x - 5?",
+    options: ["7", "-7", "17", "-17"],
+    answer: 0,
+  },
+  {
+    question: "If x = 12, what is -x + 5?",
+    options: ["7", "-7", "17", "-17"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly 7 units from -12 toward zero?",
+    options: ["-19", "-5", "5", "19"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly 7 units from 12 toward zero?",
+    options: ["-5", "5", "19", "-19"],
+    answer: 1,
+  },
+  {
+    question: "If a number is -12 and moves 7 units away from zero, where can it be?",
+    options: ["-5", "-19", "5", "19"],
+    answer: 1,
+  },
+  {
+    question: "If a number is 12 and moves 7 units away from zero, where can it be?",
+    options: ["5", "-5", "19", "-19"],
+    answer: 2,
+  },
+  {
+    question: "What is the sum of the two integers closest to zero on opposite sides?",
+    options: ["-2", "2", "0", "1"],
+    answer: 2,
+  },
+  {
+    question: "What is the difference between the two integers closest to zero on opposite sides?",
+    options: ["0", "1", "2", "-2"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is immediately to the left of the additive inverse of 5?",
+    options: ["-4", "-5", "-6", "6"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is immediately to the right of the additive inverse of 5?",
+    options: ["-4", "-5", "-6", "6"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is immediately to the left of the additive inverse of -5?",
+    options: ["4", "5", "6", "-6"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is immediately to the right of the additive inverse of -5?",
+    options: ["4", "5", "6", "-6"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of adding 0 to -100 and then adding 100?",
+    options: ["-100", "100", "0", "200"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of subtracting 0 from -100?",
+    options: ["100", "-100", "0", "200"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of 0 minus 100?",
+    options: ["100", "-100", "0", "-200"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of 0 minus (-100)?",
+    options: ["-100", "100", "0", "200"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 100 units to the right of -100?",
+    options: ["-200", "0", "100", "200"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 100 units to the left of 100?",
+    options: ["-200", "0", "100", "200"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 200 units to the right of -100?",
+    options: ["-300", "100", "300", "0"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 200 units to the left of 100?",
+    options: ["-100", "100", "-300", "300"],
+    answer: 2,
+  },
+  {
+    question: "What is the midpoint of -100 and 100?",
+    options: ["-100", "0", "100", "200"],
+    answer: 1,
+  },
+  {
+    question: "What is the distance between -100 and 100?",
+    options: ["100", "200", "-200", "0"],
+    answer: 1,
+  },
+  {
+    question: "If a point starts at -100 and ends at 100, in which direction was the net movement?",
+    options: ["Left", "Right", "No movement", "Cannot be determined"],
+    answer: 1,
+  },
+  {
+    question: "If a point starts at 100 and ends at -100, in which direction was the net movement?",
+    options: ["Left", "Right", "No movement", "Cannot be determined"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to zero?",
+    options: ["-100 + 100", "-100 - 100", "100 + 100", "0 - 100"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to -200?",
+    options: ["-100 + 100", "-100 - 100", "100 + 100", "0 - 100"],
+    answer: 1,
+  },
+  {
+    question: "Which expression is equal to 200?",
+    options: ["-100 + 100", "-100 - 100", "100 + 100", "0 - 100"],
+    answer: 2,
+  },
+  {
+    question: "Which expression is equal to -100?",
+    options: ["-50 - 50", "50 - 50", "100 + 0", "-50 + 50"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to 100?",
+    options: ["-50 - 50", "50 + 50", "100 + 0", "-100 + 0"],
+    answer: 2,
+  },
+  {
+    question: "If a number is -50 and its opposite is added three times, what is the result?",
+    options: ["50", "100", "-100", "150"],
+    answer: 0,
+  },
+  {
+    question: "If a number is 50 and its opposite is added three times, what is the result?",
+    options: ["50", "-50", "100", "-100"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 3 times as far from zero as -5, on the negative side?",
+    options: ["-15", "15", "-8", "8"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 3 times as far from zero as 5, on the positive side?",
+    options: ["-15", "15", "-8", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is twice as far from zero as -7, on the positive side?",
+    options: ["-14", "14", "7", "-7"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is twice as far from zero as 7, on the negative side?",
+    options: ["-14", "14", "7", "-7"],
+    answer: 0,
+  },
+  {
+    question: "A number starts at -5 and its distance from zero becomes three times as large while remaining negative. What is the number?",
+    options: ["-15", "15", "-8", "8"],
+    answer: 0,
+  },
+  {
+    question: "A number starts at 5 and its distance from zero becomes three times as large while remaining positive. What is the number?",
+    options: ["-15", "15", "-8", "8"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 4 times as far from zero as -3, on the negative side?",
+    options: ["-12", "12", "-7", "7"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 4 times as far from zero as 3, on the positive side?",
+    options: ["-12", "12", "-7", "7"],
+    answer: 1,
+  },
+  {
+    question: "If the temperature is -5°C and becomes twice as far below zero, what is the new temperature?",
+    options: ["-10°C", "10°C", "-7°C", "7°C"],
+    answer: 0,
+  },
+  {
+    question: "If the temperature is 5°C and becomes twice as far above zero, what is the new temperature?",
+    options: ["-10°C", "10°C", "-7°C", "7°C"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly halfway between -40 and 20?",
+    options: ["-20", "-10", "10", "20"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly halfway between -20 and 40?",
+    options: ["-10", "0", "10", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which number is 5 greater than the midpoint of -40 and 20?",
+    options: ["-5", "0", "5", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which number is 5 less than the midpoint of -20 and 40?",
+    options: ["0", "5", "10", "15"],
+    answer: 0,
+  },
+  {
+    question: "If two integers have a midpoint of 0 and one is 25, what is the other?",
+    options: ["25", "-25", "0", "50"],
+    answer: 1,
+  },
+  {
+    question: "If two integers have a midpoint of 0 and one is -25, what is the other?",
+    options: ["25", "-25", "0", "-50"],
+    answer: 0,
+  },
+  {
+    question: "If two integers have midpoint 10 and one is 0, what is the other?",
+    options: ["10", "20", "-10", "30"],
+    answer: 1,
+  },
+  {
+    question: "If two integers have midpoint -10 and one is 0, what is the other?",
+    options: ["10", "-10", "-20", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 10 units from both -20 and 0?",
+    options: ["-10", "10", "0", "-20"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 15 units from both -20 and 10?",
+    options: ["-5", "5", "0", "-10"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of -20 + 10?",
+    options: ["-10", "10", "30", "-30"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 20 + (-10)?",
+    options: ["-10", "10", "30", "-30"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of -20 - (-10)?",
+    options: ["-10", "10", "30", "-30"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 20 - (-10)?",
+    options: ["-10", "10", "30", "-30"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 10 units to the right of -20?",
+    options: ["-30", "-10", "10", "30"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 10 units to the left of 20?",
+    options: ["10", "-10", "30", "-30"],
+    answer: 0,
+  },
+  {
+    question: "If x = -20, which expression gives -10?",
+    options: ["x + 10", "x - 10", "-x + 10", "x + 20"],
+    answer: 0,
+  },
+  {
+    question: "If x = 20, which expression gives 10?",
+    options: ["x + 10", "x - 10", "-x + 10", "x - 20"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the opposite of -20 + 10?",
+    options: ["-10", "10", "30", "-30"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the opposite of 20 + (-10)?",
+    options: ["-10", "10", "30", "-30"],
+    answer: 0,
+  },
+  {
+    question: "If x = -20, what is -x + x?",
+    options: ["-40", "40", "0", "20"],
+    answer: 2,
+  },
+  {
+    question: "If x = 20, what is -x + x?",
+    options: ["-40", "40", "0", "20"],
+    answer: 2,
+  },
+  {
+    question: "Which statement is always true?",
+    options: ["The opposite of a positive integer is positive", "The opposite of a negative integer is positive", "The opposite of zero is positive", "Every integer has a different opposite"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is always true?",
+    options: ["Negative integers lie to the right of zero", "Positive integers lie to the left of zero", "Negative integers lie to the left of zero", "Zero is a positive integer"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is nearest to -50?",
+    options: ["-49", "-45", "-55", "0"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is nearest to 50?",
+    options: ["49", "45", "55", "0"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is farthest from -50?",
+    options: ["-49", "-55", "0", "40"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is farthest from 50?",
+    options: ["49", "55", "0", "-40"],
+    answer: 3,
+  },
+  {
+    question: "What is the distance between -50 and 40?",
+    options: ["10", "90", "-90", "50"],
+    answer: 1,
+  },
+  {
+    question: "What is the distance between -40 and 50?",
+    options: ["10", "90", "-90", "50"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the midpoint of -50 and 40?",
+    options: ["-10", "-5", "5", "10"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the midpoint of -40 and 50?",
+    options: ["-5", "0", "5", "10"],
+    answer: 2,
+  },
+  {
+    question: "If x is the midpoint of -50 and 40, what is x + 5?",
+    options: ["0", "5", "10", "-10"],
+    answer: 0,
+  },
+  {
+    question: "If x is the midpoint of -40 and 50, what is x - 5?",
+    options: ["-10", "0", "5", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 5 units from both -10 and 0?",
+    options: ["-5", "5", "Both -5 and 5", "0"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 10 units from both -20 and 0?",
+    options: ["-10", "10", "Both -10 and 10", "0"],
+    answer: 0,
+  },
+  {
+    question: "If two integers have equal magnitude but opposite signs, their sum is:",
+    options: ["Positive", "Negative", "Zero", "Twice the magnitude"],
+    answer: 2,
+  },
+  {
+    question: "If two integers have equal magnitude but opposite signs, their distance on the number line is:",
+    options: ["Zero", "The magnitude", "Twice the magnitude", "Half the magnitude"],
+    answer: 2,
+  },
+  {
+    question: "If an integer has magnitude 17 and is negative, what is its opposite?",
+    options: ["-17", "0", "17", "34"],
+    answer: 2,
+  },
+  {
+    question: "If an integer has magnitude 17 and is positive, what is its opposite?",
+    options: ["-17", "0", "17", "34"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 17 units to the left of 0?",
+    options: ["17", "-17", "0", "-34"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 17 units to the right of 0?",
+    options: ["-17", "0", "17", "34"],
+    answer: 2,
+  },
+  {
+    question: "If x = -17, what is x + 17?",
+    options: ["-34", "34", "0", "17"],
+    answer: 2,
+  },
+  {
+    question: "If x = 17, what is x - 17?",
+    options: ["-34", "34", "0", "17"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of -17 + 10?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 0,
+  },
+  {
+    question: "What is the value of 17 - 10?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of -17 - 10?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of 17 + (-10)?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 7 greater than -17?",
+    options: ["-24", "-10", "10", "24"],
+    answer: 1,
+  },
+  {
+    question: "Which number is 7 less than 17?",
+    options: ["10", "-10", "24", "-24"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the midpoint of -17 and 7?",
+    options: ["-5", "5", "-10", "10"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the midpoint of -7 and 17?",
+    options: ["-5", "5", "-10", "10"],
+    answer: 1,
+  },
+  {
+    question: "If x is the midpoint of -17 and 7, what is x + 10?",
+    options: ["5", "10", "15", "-15"],
+    answer: 0,
+  },
+  {
+    question: "If x is the midpoint of -7 and 17, what is x - 10?",
+    options: ["-5", "5", "15", "-15"],
+    answer: 0,
+  },
+  {
+    question: "A temperature is -17°C and rises 10°C. What is the new temperature?",
+    options: ["-27°C", "-7°C", "7°C", "27°C"],
+    answer: 1,
+  },
+  {
+    question: "A temperature is 17°C and falls 10°C. What is the new temperature?",
+    options: ["-7°C", "7°C", "27°C", "-27°C"],
+    answer: 1,
+  },
+  {
+    question: "A diver is at -17 m and rises 10 m. What is the new position?",
+    options: ["-27 m", "-7 m", "7 m", "27 m"],
+    answer: 1,
+  },
+  {
+    question: "A diver is at 17 m and descends 10 m. What is the new position?",
+    options: ["-7 m", "7 m", "27 m", "-27 m"],
+    answer: 1,
+  },
+  {
+    question: "Which expression is equal to -7?",
+    options: ["-17 + 10", "17 - 10", "-17 - 10", "10 - (-17)"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to 7?",
+    options: ["-17 + 10", "17 - 10", "-17 - 10", "10 - 17"],
+    answer: 1,
+  },
+  {
+    question: "Which expression is equal to -27?",
+    options: ["-17 + 10", "17 - 10", "-17 - 10", "10 + 17"],
+    answer: 2,
+  },
+  {
+    question: "Which expression is equal to 27?",
+    options: ["-17 + 10", "17 - 10", "-17 - 10", "10 + 17"],
+    answer: 3,
+  },
+  {
+    question: "If x = -17, what is -x - 10?",
+    options: ["7", "-7", "27", "-27"],
+    answer: 0,
+  },
+  {
+    question: "If x = 17, what is -x + 10?",
+    options: ["7", "-7", "27", "-27"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the opposite of -17 + 10?",
+    options: ["-7", "7", "27", "-27"],
+    answer: 1,
+  },
+  {
+    question: "Which number is the opposite of 17 - 10?",
+    options: ["-7", "7", "27", "-27"],
+    answer: 0,
+  },
+  {
+    question: "If a number starts at -17 and moves 10 units right, how far is it from zero?",
+    options: ["7 units", "10 units", "17 units", "27 units"],
+    answer: 0,
+  },
+  {
+    question: "If a number starts at 17 and moves 10 units left, how far is it from zero?",
+    options: ["7 units", "10 units", "17 units", "27 units"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 7 units closer to zero than -17?",
+    options: ["-24", "-10", "10", "24"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 7 units closer to zero than 17?",
+    options: ["-10", "10", "24", "-24"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 7 units farther from zero than -17?",
+    options: ["-10", "-24", "24", "10"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 7 units farther from zero than 17?",
+    options: ["10", "-10", "24", "-24"],
+    answer: 2,
+  },
+  {
+    question: "If x = -17 and y = 10, what is x + y?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 0,
+  },
+  {
+    question: "If x = 17 and y = -10, what is x + y?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 1,
+  },
+  {
+    question: "If x = -17 and y = 10, what is x - y?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 2,
+  },
+  {
+    question: "If x = 17 and y = -10, what is x - y?",
+    options: ["-7", "7", "-27", "27"],
+    answer: 3,
+  },
+  {
+    question: "What is the sum of -17, 10 and 7?",
+    options: ["0", "20", "-20", "34"],
+    answer: 0,
+  },
+  {
+    question: "What is the sum of 17, -10 and -7?",
+    options: ["0", "20", "-20", "34"],
+    answer: 0,
+  },
+  {
+    question: "A point starts at -17, moves 10 right and then 7 right. Where does it end?",
+    options: ["0", "-14", "14", "-34"],
+    answer: 0,
+  },
+  {
+    question: "A point starts at 17, moves 10 left and then 7 left. Where does it end?",
+    options: ["0", "14", "-14", "34"],
+    answer: 0,
+  },
+  {
+    question: "What is the total distance traveled by a point moving from -17 to 10 and then to 0?",
+    options: ["17", "27", "37", "10"],
+    answer: 2,
+  },
+  {
+    question: "What is the total distance traveled by a point moving from 17 to -10 and then to 0?",
+    options: ["17", "27", "37", "10"],
+    answer: 2,
+  },
+  {
+    question: "Which pair of moves has net change zero?",
+    options: ["10 right and 10 left", "10 right and 5 left", "5 right and 10 left", "20 left and 10 right"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of moves has net change -5?",
+    options: ["10 right and 15 left", "15 right and 10 left", "5 right and 5 left", "20 right and 10 left"],
+    answer: 0,
+  },
+  {
+    question: "Which pair of moves has net change +5?",
+    options: ["10 right and 15 left", "15 right and 10 left", "5 right and 10 left", "10 left and 5 right"],
+    answer: 1,
+  },
+  {
+    question: "A point at -5 moves 12 right and 7 left. Where does it end?",
+    options: ["0", "10", "-10", "14"],
+    answer: 0,
+  },
+  {
+    question: "A point at 5 moves 12 left and 7 right. Where does it end?",
+    options: ["0", "10", "-10", "14"],
+    answer: 2,
+  },
+  {
+    question: "If a number is -5 and its distance from zero increases by 12 while remaining negative, what is it?",
+    options: ["7", "-17", "17", "-7"],
+    answer: 1,
+  },
+  {
+    question: "If a number is 5 and its distance from zero increases by 12 while remaining positive, what is it?",
+    options: ["7", "-17", "17", "-7"],
+    answer: 2,
+  },
+  {
+    question: "If a number is -5 and its distance from zero decreases by 3 while remaining negative, what is it?",
+    options: ["-2", "-8", "2", "8"],
+    answer: 0,
+  },
+  {
+    question: "If a number is 5 and its distance from zero decreases by 3 while remaining positive, what is it?",
+    options: ["-2", "-8", "2", "8"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is the result of moving 8 units left from 5?",
+    options: ["13", "-3", "3", "-13"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is the result of moving 8 units right from -5?",
+    options: ["13", "-3", "3", "-13"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of -5 - 8?",
+    options: ["13", "-13", "3", "-3"],
+    answer: 1,
+  },
+  {
+    question: "What is the value of 5 + (-8)?",
+    options: ["13", "-13", "3", "-3"],
+    answer: 3,
+  },
+  {
+    question: "What is the value of -5 + 8?",
+    options: ["13", "-13", "3", "-3"],
+    answer: 2,
+  },
+  {
+    question: "What is the value of 5 - (-8)?",
+    options: ["13", "-13", "3", "-3"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the opposite of the result of -5 - 8?",
+    options: ["13", "-13", "3", "-3"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the opposite of the result of 5 - (-8)?",
+    options: ["13", "-13", "3", "-3"],
+    answer: 1,
+  },
+  {
+    question: "Which statement is true?",
+    options: ["-5 + 8 = 3", "-5 + 8 = -13", "5 - (-8) = -3", "-5 - 8 = 13"],
+    answer: 0,
+  },
+  {
+    question: "Which statement is true?",
+    options: ["-5 - 8 = 13", "5 + (-8) = -3", "-5 + 8 = -13", "5 - (-8) = -3"],
+    answer: 1,
+  },
+  {
+    question: "A temperature changes from 5°C to -8°C. What is the change?",
+    options: ["13°C decrease", "13°C increase", "3°C decrease", "8°C increase"],
+    answer: 0,
+  },
+  {
+    question: "A temperature changes from -8°C to 5°C. What is the change?",
+    options: ["13°C decrease", "13°C increase", "3°C decrease", "8°C increase"],
+    answer: 1,
+  },
+  {
+    question: "A diver changes position from 5 m to -8 m. How far downward did the diver move?",
+    options: ["3 m", "8 m", "13 m", "5 m"],
+    answer: 2,
+  },
+  {
+    question: "A diver changes position from -8 m to 5 m. How far upward did the diver move?",
+    options: ["3 m", "8 m", "13 m", "5 m"],
+    answer: 2,
+  },
+  {
+    question: "A bank balance changes from ₹5 to a debt of ₹8. What is the change?",
+    options: ["₹3", "₹13 decrease", "₹13 increase", "₹8"],
+    answer: 1,
+  },
+  {
+    question: "A bank balance changes from a debt of ₹8 to ₹5. What is the change?",
+    options: ["₹3 decrease", "₹13 increase", "₹13 decrease", "₹8"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly halfway between -8 and 2?",
+    options: ["-5", "-3", "3", "5"],
+    answer: 1,
+  },
+  {
+    question: "Which number is exactly halfway between -2 and 8?",
+    options: ["-5", "3", "5", "2"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 2 greater than the midpoint of -8 and 2?",
+    options: ["-1", "1", "3", "-3"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 2 less than the midpoint of -2 and 8?",
+    options: ["1", "3", "5", "7"],
+    answer: 0,
+  },
+  {
+    question: "If x = -8, y = 2 and z = 6, what is x + y + z?",
+    options: ["0", "16", "-16", "4"],
+    answer: 0,
+  },
+  {
+    question: "If x = 8, y = -2 and z = -6, what is x + y + z?",
+    options: ["0", "16", "-16", "4"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of -8 + 2 + 6?",
+    options: ["0", "16", "-16", "4"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 8 - 2 - 6?",
+    options: ["0", "16", "-16", "4"],
+    answer: 0,
+  },
+  {
+    question: "If x = -8, what is x + 16?",
+    options: ["-24", "8", "24", "-8"],
+    answer: 1,
+  },
+  {
+    question: "If x = 8, what is x - 16?",
+    options: ["-24", "8", "24", "-8"],
+    answer: 3,
+  },
+  {
+    question: "Which integer is the opposite of the result of -8 + 16?",
+    options: ["-8", "8", "24", "-24"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is the opposite of the result of 8 - 16?",
+    options: ["-8", "8", "24", "-24"],
+    answer: 1,
+  },
+  {
+    question: "A point starts at -8 and moves 16 units right. Where is it?",
+    options: ["-24", "8", "24", "-8"],
+    answer: 1,
+  },
+  {
+    question: "A point starts at 8 and moves 16 units left. Where is it?",
+    options: ["-24", "8", "24", "-8"],
+    answer: 3,
+  },
+  {
+    question: "Which pair of integers has a sum of 8?",
+    options: ["-8 and 16", "-4 and 12", "3 and 5", "All of these"],
+    answer: 3,
+  },
+  {
+    question: "Which pair of integers has a sum of -8?",
+    options: ["-4 and -4", "-12 and 4", "-10 and 2", "All of these"],
+    answer: 3,
+  },
+  {
+    question: "Which pair has a difference of 8?",
+    options: ["0 and 8", "-4 and 4", "-10 and -2", "All of these"],
+    answer: 3,
+  },
+  {
+    question: "Which pair has a difference of 16?",
+    options: ["-8 and 8", "-5 and 11", "-10 and 6", "All of these"],
+    answer: 3,
+  },
+  {
+    question: "If two integers have sum 0 and one is -8, what is the other?",
+    options: ["-8", "0", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "If two integers have difference 16 and one is -8 and the other is greater, what is the other?",
+    options: ["-24", "8", "24", "-8"],
+    answer: 1,
+  },
+  {
+    question: "If two integers have difference 16 and one is 8 and the other is smaller, what is the other?",
+    options: ["24", "-8", "8", "-24"],
+    answer: 1,
+  },
+  {
+    question: "What is the sum of -8 and its opposite?",
+    options: ["-16", "16", "0", "8"],
+    answer: 2,
+  },
+  {
+    question: "What is the difference between -8 and its opposite?",
+    options: ["-16", "16", "0", "8"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is exactly halfway between -8 and 8?",
+    options: ["-8", "0", "8", "16"],
+    answer: 1,
+  },
+  {
+    question: "What is the distance between -8 and 8?",
+    options: ["8", "16", "-16", "0"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 4 units from both -8 and 0?",
+    options: ["-4", "4", "Both -4 and 4", "0"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 4 units from both 0 and 8?",
+    options: ["-4", "4", "Both -4 and 4", "0"],
+    answer: 1,
+  },
+  {
+    question: "If x = -8, what is |x|?",
+    options: ["-8", "0", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "If x = 8, what is |x|?",
+    options: ["-8", "0", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "Which integer has absolute value 8 and is negative?",
+    options: ["8", "-8", "0", "16"],
+    answer: 1,
+  },
+  {
+    question: "Which integer has absolute value 8 and is positive?",
+    options: ["-8", "0", "8", "16"],
+    answer: 2,
+  },
+  {
+    question: "If x = -8 and y = 8, what is |x| - |y|?",
+    options: ["-16", "16", "0", "8"],
+    answer: 2,
+  },
+  {
+    question: "If x = -8 and y = 8, what is |x| + |y|?",
+    options: ["0", "8", "16", "-16"],
+    answer: 2,
+  },
+  {
+    question: "Which integer is 8 units greater than -16?",
+    options: ["-24", "-8", "8", "24"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 8 units less than 16?",
+    options: ["8", "-8", "24", "-24"],
+    answer: 0,
+  },
+  {
+    question: "Which integer is 8 units greater than -8?",
+    options: ["-16", "0", "8", "16"],
+    answer: 1,
+  },
+  {
+    question: "Which integer is 8 units less than 8?",
+    options: ["-16", "0", "8", "16"],
+    answer: 1,
+  },
+  {
+    question: "If a point starts at -16 and moves 8 units right, where is it?",
+    options: ["-24", "-8", "8", "24"],
+    answer: 1,
+  },
+  {
+    question: "If a point starts at 16 and moves 8 units left, where is it?",
+    options: ["-24", "-8", "8", "24"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of -16 + 8?",
+    options: ["-24", "-8", "8", "24"],
+    answer: 1,
+  },
+  {
+    question: "What is the result of 16 - 8?",
+    options: ["-24", "-8", "8", "24"],
+    answer: 2,
+  },
+  {
+    question: "What is the result of -16 - 8?",
+    options: ["-24", "-8", "8", "24"],
+    answer: 0,
+  },
+  {
+    question: "What is the result of 16 + (-8)?",
+    options: ["-24", "-8", "8", "24"],
+    answer: 2,
+  },
+  {
+    question: "Which expression is equal to -8?",
+    options: ["-16 + 8", "16 - 8", "-16 - 8", "8 + 16"],
+    answer: 0,
+  },
+  {
+    question: "Which expression is equal to 8?",
+    options: ["-16 + 8", "16 - 8", "-16 - 8", "8 - 16"],
+    answer: 1,
+  },
+  {
+    question: "Which expression is equal to -24?",
+    options: ["-16 + 8", "16 - 8", "-16 - 8", "8 + 16"],
+    answer: 2,
+  },
+  {
+    question: "Which expression is equal to 24?",
+    options: ["-16 + 8", "16 - 8", "-16 - 8", "8 + 16"],
+    answer: 3,
+  },
+  {
+    question: "What is the midpoint of -16 and 8?",
+    options: ["-8", "-4", "4", "8"],
+    answer: 1,
+  },
+  {
+    question: "What is the distance between -16 and 8?",
+    options: ["8", "24", "-24", "16"],
+    answer: 1,
+  },
+],
 };
 
 export default mathematicsClass7;

@@ -147,6 +147,14 @@ function Quiz() {
   if (questions.length === 0) {
     return (
       <div className="container py-5">
+        <button
+          type="button"
+          className="btn btn-secondary mb-3"
+          onClick={() => navigate(-1)}
+        >
+          ← Back
+        </button>
+
         <div className="alert alert-warning text-center">
           <h4>📚 Questions Coming Soon</h4>
 
@@ -185,12 +193,10 @@ function Quiz() {
           ? Math.round((finalScore / total) * 100)
           : 0;
 
-      // Existing progress
       const oldProgress = JSON.parse(
         localStorage.getItem("olympiadProgress") || "[]"
       );
 
-      // New result
       const newResult = {
         id: Date.now(),
 
@@ -218,7 +224,6 @@ function Quiz() {
         ])
       );
 
-      // Send complete result to Result page
       navigate("/result", {
         state: {
           score: finalScore,
@@ -256,6 +261,14 @@ function Quiz() {
         <p className="text-muted">
           Class {classNumber} • {subject} • Chapter {chapter}
         </p>
+
+        <button
+          type="button"
+          className="btn btn-secondary mb-3"
+          onClick={() => navigate(-1)}
+        >
+          ← Back
+        </button>
 
       </div>
 
