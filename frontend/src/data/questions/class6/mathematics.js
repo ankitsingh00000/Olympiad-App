@@ -1,4 +1,4 @@
-const mathClass6Chapter1 = {
+const mathematicsClass6 = {
 1:  [
   {
     question: "The sequence 4, 9, 16, 25, 36, ... is formed by squares of consecutive integers. What is the 15th term?",
@@ -19044,546 +19044,577 @@ const mathClass6Chapter1 = {
 
 10: [
   {
-    question: "Which of the following is an integer?",
-    options: ["3.5", "-7", "2/3", "0.25"],
-    answer: 1,
+    question: "Which integer represents 5 units to the left of 0 on a number line?",
+    options: ["5", "-5", "0", "-1"],
+    answer: 1
   },
   {
-    question: "What is the opposite of +8?",
-    options: ["+8", "0", "-8", "8/1"],
-    answer: 2,
+    question: "Which integer represents 8 units to the right of 0?",
+    options: ["-8", "0", "8", "-1"],
+    answer: 2
   },
   {
-    question: "What is the opposite of -15?",
-    options: ["-15", "0", "+15", "-1"],
-    answer: 2,
+    question: "What is the opposite of -12?",
+    options: ["-12", "0", "12", "1"],
+    answer: 2
   },
   {
-    question: "Which number is greater?",
-    options: ["-9", "-4", "-12", "-15"],
-    answer: 1,
+    question: "What is the opposite of 19?",
+    options: ["19", "-19", "0", "1"],
+    answer: 1
   },
   {
-    question: "Which number is smaller?",
-    options: ["-3", "-8", "2", "5"],
-    answer: 1,
+    question: "Which is greater: -7 or -3?",
+    options: ["-7", "-3", "Both are equal", "0"],
+    answer: 1
   },
   {
-    question: "What is the value of |-12|?",
-    options: ["-12", "0", "12", "24"],
-    answer: 2,
+    question: "Which is smaller: -11 or -15?",
+    options: ["-11", "-15", "Both are equal", "11"],
+    answer: 1
   },
   {
-    question: "What is the value of |7|?",
-    options: ["-7", "0", "7", "14"],
-    answer: 2,
+    question: "Which integer lies exactly between -6 and -4?",
+    options: ["-5", "5", "-10", "0"],
+    answer: 0
   },
   {
-    question: "Which integer lies between -5 and -3?",
-    options: ["-7", "-4", "-2", "0"],
-    answer: 1,
+    question: "Which integer is 6 units away from 0 on the negative side?",
+    options: ["6", "-6", "-12", "0"],
+    answer: 1
   },
   {
-    question: "Which integer lies immediately to the left of -2 on a number line?",
-    options: ["-1", "0", "-3", "2"],
-    answer: 2,
+    question: "Arrange -2, 5, -7, 3 in ascending order.",
+    options: ["-7, -2, 3, 5", "-2, -7, 3, 5", "5, 3, -2, -7", "-7, 3, -2, 5"],
+    answer: 0
   },
   {
-    question: "Which integer lies immediately to the right of -6?",
-    options: ["-7", "-5", "5", "6"],
-    answer: 1,
+    question: "Arrange 4, -6, 0, -2 in descending order.",
+    options: ["-6, -2, 0, 4", "4, 0, -2, -6", "4, -2, 0, -6", "0, 4, -2, -6"],
+    answer: 1
   },
   {
-    question: "What is -7 + 12?",
-    options: ["-19", "-5", "5", "19"],
-    answer: 2,
+    question: "What is -8 + 5?",
+    options: ["13", "-13", "-3", "3"],
+    answer: 2
   },
   {
-    question: "What is 9 + (-14)?",
-    options: ["23", "5", "-5", "-23"],
-    answer: 2,
+    question: "What is 7 + (-11)?",
+    options: ["18", "-4", "4", "-18"],
+    answer: 1
   },
   {
-    question: "What is -11 + (-8)?",
-    options: ["19", "-3", "3", "-19"],
-    answer: 3,
+    question: "What is -9 + (-6)?",
+    options: ["15", "-15", "-3", "3"],
+    answer: 1
   },
   {
-    question: "What is -25 + 17?",
-    options: ["-42", "-8", "8", "42"],
-    answer: 1,
+    question: "What is -14 + 20?",
+    options: ["-34", "34", "6", "-6"],
+    answer: 2
   },
   {
     question: "What is 18 + (-25)?",
     options: ["7", "-7", "43", "-43"],
-    answer: 1,
+    answer: 1
   },
   {
-    question: "What is -32 + 45?",
-    options: ["-77", "-13", "13", "77"],
-    answer: 2,
+    question: "What is -16 + 9?",
+    options: ["25", "-25", "-7", "7"],
+    answer: 2
   },
   {
-    question: "What is -18 - 7?",
-    options: ["-11", "11", "-25", "25"],
-    answer: 2,
+    question: "What is -21 + 13?",
+    options: ["-8", "8", "-34", "34"],
+    answer: 0
   },
   {
-    question: "What is 15 - 23?",
-    options: ["8", "-8", "38", "-38"],
-    answer: 1,
+    question: "What is 24 + (-17)?",
+    options: ["-7", "7", "41", "-41"],
+    answer: 1
   },
   {
-    question: "What is -14 - (-9)?",
-    options: ["-23", "-5", "5", "23"],
-    answer: 1,
+    question: "What is -30 + 12?",
+    options: ["18", "-18", "42", "-42"],
+    answer: 1
   },
   {
-    question: "What is -20 - (-35)?",
-    options: ["-55", "-15", "15", "55"],
-    answer: 2,
+    question: "What is -27 + (-8)?",
+    options: ["35", "-35", "-19", "19"],
+    answer: 1
   },
   {
-    question: "What is 27 - (-13)?",
-    options: ["14", "-14", "40", "-40"],
-    answer: 2,
+    question: "What is 15 - 22?",
+    options: ["7", "-7", "37", "-37"],
+    answer: 1
   },
   {
-    question: "What is -45 + 18?",
-    options: ["-63", "-27", "27", "63"],
-    answer: 1,
+    question: "What is -6 - 9?",
+    options: ["3", "-15", "15", "-3"],
+    answer: 1
   },
   {
-    question: "What is 36 + (-49)?",
-    options: ["-13", "13", "-85", "85"],
-    answer: 0,
+    question: "What is -18 - (-7)?",
+    options: ["-25", "25", "-11", "11"],
+    answer: 2
   },
   {
-    question: "What is -56 + 31?",
-    options: ["-87", "-25", "25", "87"],
-    answer: 1,
+    question: "What is 13 - (-9)?",
+    options: ["4", "-4", "22", "-22"],
+    answer: 2
   },
   {
-    question: "What is -72 + 50?",
-    options: ["-122", "-22", "22", "122"],
-    answer: 1,
+    question: "What is -25 - (-14)?",
+    options: ["-39", "39", "-11", "11"],
+    answer: 2
   },
   {
-    question: "What is 64 + (-81)?",
-    options: ["17", "-17", "145", "-145"],
-    answer: 1,
+    question: "What is 31 - (-12)?",
+    options: ["19", "43", "-43", "-19"],
+    answer: 1
   },
   {
-    question: "What is -90 + 125?",
-    options: ["-215", "-35", "35", "215"],
-    answer: 2,
+    question: "What is -40 - 15?",
+    options: ["-25", "25", "55", "-55"],
+    answer: 3
   },
   {
-    question: "What is -100 - 25?",
-    options: ["-75", "75", "-125", "125"],
-    answer: 2,
+    question: "What is -32 - (-20)?",
+    options: ["-52", "52", "-12", "12"],
+    answer: 2
   },
   {
-    question: "What is 75 - 120?",
-    options: ["45", "-45", "195", "-195"],
-    answer: 1,
+    question: "What is 45 + (-60)?",
+    options: ["15", "-15", "105", "-105"],
+    answer: 1
   },
   {
-    question: "What is -85 - (-40)?",
-    options: ["-125", "-45", "45", "125"],
-    answer: 1,
+    question: "What is -55 + 28?",
+    options: ["27", "-27", "83", "-83"],
+    answer: 1
   },
   {
-    question: "What is -125 - (-150)?",
-    options: ["-275", "-25", "25", "275"],
-    answer: 2,
+    question: "A temperature is -4°C and rises by 9°C. What is the new temperature?",
+    options: ["-13°C", "13°C", "5°C", "-5°C"],
+    answer: 2
   },
   {
-    question: "Which expression has a negative result?",
-    options: ["8 - 3", "12 - 5", "-4 + 10", "7 - 15"],
-    answer: 3,
+    question: "The temperature is 6°C and falls by 14°C. What is the new temperature?",
+    options: ["20°C", "-8°C", "8°C", "-20°C"],
+    answer: 1
   },
   {
-    question: "Which expression has a positive result?",
-    options: ["-8 + 3", "-12 + 5", "4 - 10", "15 - 7"],
-    answer: 3,
+    question: "A submarine is 25 m below sea level and rises 9 m. What is its new position?",
+    options: ["-34 m", "-16 m", "16 m", "34 m"],
+    answer: 1
   },
   {
-    question: "Which expression equals zero?",
-    options: ["-8 + 8", "7 - 5", "-3 + 2", "4 + 1"],
-    answer: 0,
+    question: "A diver is at -18 m and moves down 7 m. Where is the diver now?",
+    options: ["-11 m", "11 m", "-25 m", "25 m"],
+    answer: 2
   },
   {
-    question: "A temperature is -6°C and rises by 11°C. What is the new temperature?",
-    options: ["-17°C", "-5°C", "5°C", "17°C"],
-    answer: 2,
+    question: "A lift is on floor -3 and moves up 8 floors. Which floor does it reach?",
+    options: ["-11", "5", "11", "-5"],
+    answer: 1
   },
   {
-    question: "A temperature is 8°C and falls by 15°C. What is the new temperature?",
-    options: ["23°C", "7°C", "-7°C", "-23°C"],
-    answer: 2,
+    question: "A lift is on floor 4 and moves down 9 floors. Which floor does it reach?",
+    options: ["13", "-5", "5", "-13"],
+    answer: 1
   },
   {
-    question: "A diver is 18 m below sea level and rises 7 m. What is the new position?",
-    options: ["-25 m", "-11 m", "11 m", "25 m"],
-    answer: 1,
+    question: "Which integer is 9 less than 3?",
+    options: ["12", "-6", "6", "-12"],
+    answer: 1
   },
   {
-    question: "A lift is at floor -3 and moves up 8 floors. Which floor does it reach?",
-    options: ["-11", "-5", "5", "11"],
-    answer: 2,
+    question: "Which integer is 7 more than -10?",
+    options: ["-17", "17", "-3", "3"],
+    answer: 2
   },
   {
-    question: "A lift is at floor 4 and moves down 9 floors. Which floor does it reach?",
-    options: ["13", "5", "-5", "-13"],
-    answer: 2,
+    question: "Which is greater: -14 or -9?",
+    options: ["-14", "-9", "Both", "0"],
+    answer: 1
   },
   {
-    question: "Which is the greatest integer?",
-    options: ["-18", "-5", "-1", "-9"],
-    answer: 2,
+    question: "Which is smaller: 6 or -6?",
+    options: ["6", "-6", "Both", "0"],
+    answer: 1
   },
   {
-    question: "Which is the least integer?",
-    options: ["-18", "-5", "-1", "-9"],
-    answer: 0,
-  },
-  {
-    question: "Arrange -3, 5, -8, 2 in ascending order.",
-    options: ["5, 2, -3, -8", "-8, -3, 2, 5", "-3, -8, 2, 5", "2, 5, -3, -8"],
-    answer: 1,
-  },
-  {
-    question: "Arrange 7, -4, -9, 3 in descending order.",
-    options: ["-9, -4, 3, 7", "7, 3, -4, -9", "3, 7, -4, -9", "7, -4, 3, -9"],
-    answer: 1,
-  },
-  {
-    question: "Which number is 6 units away from zero?",
-    options: ["Only 6", "Only -6", "6 and -6", "0 and 6"],
-    answer: 2,
-  },
-  {
-    question: "Which pair consists of opposite integers?",
-    options: ["5 and 5", "-7 and 7", "3 and 4", "-2 and -3"],
-    answer: 1,
-  },
-  {
-    question: "What is the sum of an integer and its opposite?",
-    options: ["The integer", "1", "-1", "0"],
-    answer: 3,
-  },
-  {
-    question: "What is -15 + 15?",
-    options: ["-30", "-15", "0", "30"],
-    answer: 2,
-  },
-  {
-    question: "What is 28 + (-28)?",
-    options: ["-56", "0", "28", "56"],
-    answer: 1,
-  },
-  {
-    question: "What is -42 - 18?",
-    options: ["-24", "24", "-60", "60"],
-    answer: 2,
-  },
-  {
-    question: "What is 42 - (-18)?",
-    options: ["24", "-24", "60", "-60"],
-    answer: 2,
-  },
-  {
-    question: "What is -64 + (-16)?",
-    options: ["-48", "48", "-80", "80"],
-    answer: 2,
-  },
-  {
-    question: "What is -64 - (-16)?",
-    options: ["-80", "-48", "48", "80"],
-    answer: 1,
-  },
-  {
-    question: "What is 100 + (-135)?",
-    options: ["35", "-35", "235", "-235"],
-    answer: 1,
-  },
-  {
-    question: "What is -100 + 135?",
-    options: ["-35", "35", "235", "-235"],
-    answer: 1,
-  },
-  {
-    question: "What is -150 + 75?",
-    options: ["-225", "-75", "75", "225"],
-    answer: 1,
-  },
-  {
-    question: "What is 150 + (-75)?",
-    options: ["-225", "-75", "75", "225"],
-    answer: 2,
-  },
-  {
-    question: "What is -200 - (-125)?",
-    options: ["-325", "-75", "75", "325"],
-    answer: 1,
-  },
-  {
-    question: "What is 200 - (-125)?",
-    options: ["75", "-75", "325", "-325"],
-    answer: 2,
-  },
-  {
-    question: "Which statement is true?",
-    options: ["-7 > -3", "-4 < -9", "-5 < -2", "3 < -3"],
-    answer: 2,
-  },
-  {
-    question: "Which statement is false?",
-    options: ["-2 < 3", "-8 < -4", "5 > -1", "-7 > -3"],
-    answer: 3,
-  },
-  {
-    question: "If a = -8 and b = 5, what is a + b?",
-    options: ["-13", "-3", "3", "13"],
-    answer: 1,
-  },
-  {
-    question: "If a = -8 and b = 5, what is a - b?",
-    options: ["-13", "-3", "3", "13"],
-    answer: 0,
-  },
-  {
-    question: "If x = 12 and y = -7, what is x + y?",
-    options: ["-19", "-5", "5", "19"],
-    answer: 2,
-  },
-  {
-    question: "If x = 12 and y = -7, what is x - y?",
-    options: ["5", "-5", "19", "-19"],
-    answer: 2,
-  },
-  {
-    question: "If p = -15 and q = -6, what is p + q?",
-    options: ["-21", "-9", "9", "21"],
-    answer: 0,
-  },
-  {
-    question: "If p = -15 and q = -6, what is p - q?",
-    options: ["-21", "-9", "9", "21"],
-    answer: 1,
-  },
-  {
-    question: "A number is 9 units to the left of zero. What is the number?",
-    options: ["9", "-9", "0", "18"],
-    answer: 1,
-  },
-  {
-    question: "A number is 14 units to the right of zero. What is the number?",
-    options: ["-14", "0", "14", "28"],
-    answer: 2,
-  },
-  {
-    question: "Starting at -10, move 13 units to the right. Where do you land?",
-    options: ["-23", "-3", "3", "23"],
-    answer: 2,
-  },
-  {
-    question: "Starting at 10, move 17 units to the left. Where do you land?",
-    options: ["-27", "-7", "7", "27"],
-    answer: 1,
-  },
-  {
-    question: "Starting at -15, move 20 units to the right and then 8 units left. Where do you land?",
-    options: ["-23", "-3", "3", "13"],
-    answer: 1,
-  },
-  {
-    question: "Starting at 12, move 18 units left and then 9 units right. Where do you land?",
-    options: ["-15", "-3", "3", "21"],
-    answer: 2,
-  },
-  {
-    question: "The temperature is -12°C. It increases by 18°C and then decreases by 7°C. What is the final temperature?",
-    options: ["-1°C", "1°C", "13°C", "23°C"],
-    answer: 0,
-  },
-  {
-    question: "The temperature is 15°C. It decreases by 24°C and then increases by 6°C. What is the final temperature?",
-    options: ["-15°C", "-3°C", "3°C", "45°C"],
-    answer: 1,
-  },
-  {
-    question: "A submarine is at -40 m. It goes down 25 m and then rises 30 m. What is its final position?",
-    options: ["-95 m", "-35 m", "-5 m", "15 m"],
-    answer: 1,
-  },
-  {
-    question: "A mountain climber is at 120 m and descends 175 m. What is the new position relative to the starting reference level?",
-    options: ["-55 m", "55 m", "295 m", "-295 m"],
-    answer: 0,
-  },
-  {
-    question: "Which integer has an absolute value of 20?",
-    options: ["Only 20", "Only -20", "20 and -20", "0 and 20"],
-    answer: 2,
-  },
-  {
-    question: "Which number has the greatest absolute value?",
-    options: ["-15", "12", "-20", "18"],
-    answer: 2,
-  },
-  {
-    question: "Which number has the smallest absolute value?",
-    options: ["-6", "4", "-2", "5"],
-    answer: 2,
-  },
-  {
-    question: "What is |-25| + |15|?",
-    options: ["-40", "-10", "10", "40"],
-    answer: 3,
-  },
-  {
-    question: "What is |-18| - |7|?",
-    options: ["-25", "-11", "11", "25"],
-    answer: 2,
-  },
-  {
-    question: "What is |−30| + |−12|?",
-    options: ["-42", "-18", "18", "42"],
-    answer: 3,
-  },
-  {
-    question: "What is |−50| − |20|?",
-    options: ["-70", "-30", "30", "70"],
-    answer: 2,
-  },
-  {
-    question: "If a number is negative, its opposite is always:",
-    options: ["Negative", "Positive", "Zero", "Fractional"],
-    answer: 1,
-  },
-  {
-    question: "The opposite of zero is:",
-    options: ["1", "-1", "10", "0"],
-    answer: 3,
-  },
-  {
-    question: "Which integer is closest to -10?",
-    options: ["-12", "-11", "-8", "0"],
-    answer: 1,
-  },
-  {
-    question: "Which integer is farthest from zero?",
-    options: ["-9", "7", "-12", "10"],
-    answer: 2,
-  },
-  {
-    question: "What is the distance between -8 and 5 on a number line?",
-    options: ["3", "8", "13", "15"],
-    answer: 2,
+    question: "What is the distance between -8 and 3 on a number line?",
+    options: ["5", "8", "11", "13"],
+    answer: 2
   },
   {
     question: "What is the distance between -15 and -4?",
-    options: ["9", "11", "19", "21"],
-    answer: 1,
+    options: ["9", "10", "11", "19"],
+    answer: 2
   },
   {
-    question: "What is the distance between 7 and -9?",
-    options: ["2", "9", "16", "18"],
-    answer: 2,
+    question: "What is the distance between 12 and -7?",
+    options: ["5", "12", "19", "20"],
+    answer: 2
   },
   {
-    question: "Which pair of integers is 10 units apart?",
-    options: ["-5 and 5", "-2 and 7", "3 and 12", "-8 and 1"],
-    answer: 0,
+    question: "Which pair consists of opposite integers?",
+    options: ["7 and 7", "-8 and 8", "-5 and -5", "0 and 1"],
+    answer: 1
   },
   {
-    question: "If x is 5 units left of -2, what is x?",
-    options: ["-7", "-3", "3", "7"],
-    answer: 0,
+    question: "Which integer has no different opposite?",
+    options: ["1", "-1", "5", "0"],
+    answer: 3
   },
   {
-    question: "If x is 8 units right of -5, what is x?",
-    options: ["-13", "-3", "3", "13"],
-    answer: 2,
+    question: "What is -13 + 13?",
+    options: ["-26", "26", "0", "13"],
+    answer: 2
   },
   {
-    question: "What is the result of adding three consecutive integers -4, -3 and -2?",
-    options: ["-12", "-9", "9", "12"],
-    answer: 1,
+    question: "What is 25 + (-25)?",
+    options: ["50", "-50", "25", "0"],
+    answer: 3
   },
   {
-    question: "What is the sum of -10, 15 and -5?",
-    options: ["-30", "-10", "0", "30"],
-    answer: 2,
+    question: "What is -17 - (-17)?",
+    options: ["34", "-34", "0", "17"],
+    answer: 2
   },
   {
-    question: "What is the sum of -25, 40 and -15?",
-    options: ["-80", "0", "10", "30"],
-    answer: 1,
+    question: "What is 0 - 14?",
+    options: ["14", "-14", "0", "-1"],
+    answer: 1
   },
   {
-    question: "What is the sum of -35, -20 and 50?",
-    options: ["-105", "-55", "-5", "5"],
-    answer: 2,
+    question: "What is 0 + (-23)?",
+    options: ["23", "-23", "0", "-46"],
+    answer: 1
   },
   {
-    question: "What is the value of -5 + 8 - 12 + 15?",
-    options: ["-6", "6", "16", "30"],
-    answer: 1,
+    question: "Which expression has the greatest value?",
+    options: ["-8 + 3", "-2 + 7", "-10 + 4", "-1 + 2"],
+    answer: 1
   },
   {
-    question: "What is the value of 20 - 35 + 18 - 7?",
-    options: ["-4", "-2", "2", "4"],
-    answer: 0,
+    question: "Which expression has the smallest value?",
+    options: ["-4 + 2", "-8 + 1", "-5 + 3", "-2 + 0"],
+    answer: 1
   },
   {
-    question: "What is the value of -30 + 45 - 20 + 15?",
-    options: ["0", "10", "20", "30"],
-    answer: 1,
+    question: "What is (-9) + (-11) + 15?",
+    options: ["-35", "-5", "5", "35"],
+    answer: 1
   },
   {
-    question: "Which expression gives the greatest result?",
-    options: ["-5 + 10", "8 - 2", "-3 + 12", "15 - 4"],
-    answer: 2,
+    question: "What is 18 + (-7) + (-15)?",
+    options: ["-4", "4", "26", "-26"],
+    answer: 0
   },
   {
-    question: "Which expression gives the smallest result?",
-    options: ["-8 + 3", "-15 + 9", "5 - 12", "-4 - 6"],
-    answer: 1,
+    question: "What is -20 + 8 + 17?",
+    options: ["-29", "-5", "5", "45"],
+    answer: 2
   },
   {
-    question: "If the first integer is -20 and each next integer increases by 6, what is the fourth integer?",
-    options: ["-8", "-2", "2", "8"],
-    answer: 1,
+    question: "What is -30 + 12 + 9?",
+    options: ["-51", "-9", "9", "51"],
+    answer: 1
   },
   {
-    question: "If the first integer is 15 and each next integer decreases by 7, what is the fifth integer?",
-    options: ["-6", "-13", "1", "8"],
-    answer: 0,
+    question: "What is 40 - 18 - 25?",
+    options: ["-3", "3", "47", "83"],
+    answer: 0
   },
   {
-    question: "A bank account has a balance of -₹500. A deposit of ₹750 is made. What is the new balance?",
-    options: ["-₹1250", "-₹250", "₹250", "₹1250"],
-    answer: 2,
+    question: "What is -12 - 8 + 25?",
+    options: ["-45", "-5", "5", "45"],
+    answer: 2
   },
   {
-    question: "A bank account has ₹300 and ₹475 is withdrawn. What is the new balance?",
-    options: ["₹175", "-₹175", "₹775", "-₹775"],
-    answer: 1,
+    question: "What is -35 + 20 - 10?",
+    options: ["-25", "-5", "5", "25"],
+    answer: 0
   },
   {
-    question: "A player gains 15 points, loses 22 points, then gains 10 points. What is the net score?",
-    options: ["-17", "-7", "3", "47"],
-    answer: 2,
+    question: "What is 50 - 32 + (-9)?",
+    options: ["9", "18", "27", "77"],
+    answer: 0
   },
   {
-    question: "A player starts with -10 points, gains 25 points, then loses 18 points. What is the final score?",
-    options: ["-53", "-3", "-1", "7"],
-    answer: 3,
+    question: "A bank account has a balance of -₹500. ₹300 is deposited. What is the new balance?",
+    options: ["-₹800", "-₹200", "₹200", "₹800"],
+    answer: 2
+  },
+  {
+    question: "A bank account has a balance of ₹700. ₹950 is withdrawn. What is the new balance?",
+    options: ["₹250", "-₹250", "₹1650", "-₹1650"],
+    answer: 1
+  },
+  {
+    question: "A mountain climber is at 120 m and descends 175 m. What is the new position relative to the starting level?",
+    options: ["295 m", "-55 m", "55 m", "-295 m"],
+    answer: 1
+  },
+  {
+    question: "A person moves 12 steps left and then 19 steps right from 0. Where are they?",
+    options: ["-31", "-7", "7", "31"],
+    answer: 2
+  },
+  {
+    question: "A person moves 20 steps right and then 27 steps left from 0. Where are they?",
+    options: ["-7", "7", "-47", "47"],
+    answer: 0
+  },
+  {
+    question: "Starting at -5, a point moves 13 units right and then 4 units left. Where does it stop?",
+    options: ["-14", "4", "8", "-8"],
+    answer: 1
+  },
+  {
+    question: "Starting at 7, a point moves 15 units left and then 6 units right. Where does it stop?",
+    options: ["-2", "2", "-14", "14"],
+    answer: 0
+  },
+  {
+    question: "Which number should replace the box: -6 + □ = 4?",
+    options: ["-10", "-2", "10", "2"],
+    answer: 2
+  },
+  {
+    question: "Which number should replace the box: 8 + □ = -5?",
+    options: ["13", "-13", "3", "-3"],
+    answer: 1
+  },
+  {
+    question: "Which number should replace the box: □ - 7 = -12?",
+    options: ["-19", "-5", "5", "19"],
+    answer: 1
+  },
+  {
+    question: "Which number should replace the box: -4 - □ = -10?",
+    options: ["6", "-6", "14", "-14"],
+    answer: 0
+  },
+  {
+    question: "Which number should replace the box: □ + (-9) = -2?",
+    options: ["-11", "-7", "7", "11"],
+    answer: 2
+  },
+  {
+    question: "Which number should replace the box: -15 + □ = -23?",
+    options: ["8", "-8", "38", "-38"],
+    answer: 1
+  },
+  {
+    question: "Which statement is true?",
+    options: ["-8 > -3", "-12 < -15", "-7 < -2", "5 < -5"],
+    answer: 2
+  },
+  {
+    question: "Which statement is false?",
+    options: ["-4 < 2", "-9 < -3", "7 > -8", "-2 > -1"],
+    answer: 3
+  },
+  {
+    question: "Which integer is closest to zero?",
+    options: ["-9", "-2", "5", "7"],
+    answer: 1
+  },
+  {
+    question: "Which integer is farthest from zero?",
+    options: ["-13", "9", "-7", "11"],
+    answer: 0
+  },
+  {
+    question: "Which is the greatest integer among -20, -3, -15 and -8?",
+    options: ["-20", "-3", "-15", "-8"],
+    answer: 1
+  },
+  {
+    question: "Which is the least integer among 12, -6, -19 and 4?",
+    options: ["12", "-6", "-19", "4"],
+    answer: 2
+  },
+  {
+    question: "Which integer lies between -10 and -5?",
+    options: ["-12", "-8", "-3", "5"],
+    answer: 1
+  },
+  {
+    question: "How many integers are there strictly between -4 and 4?",
+    options: ["6", "7", "8", "9"],
+    answer: 2
+  },
+  {
+    question: "How many integers are there from -3 to 5, including both endpoints?",
+    options: ["7", "8", "9", "10"],
+    answer: 2
+  },
+  {
+    question: "Which number is 10 units to the left of 6?",
+    options: ["16", "-16", "-4", "4"],
+    answer: 2
+  },
+  {
+    question: "Which number is 15 units to the right of -9?",
+    options: ["-24", "-6", "6", "24"],
+    answer: 2
+  },
+  {
+    question: "What is the result of moving 18 units left from 10 on a number line?",
+    options: ["28", "-28", "8", "-8"],
+    answer: 3
+  },
+  {
+    question: "What is the result of moving 21 units right from -14?",
+    options: ["-35", "-7", "7", "35"],
+    answer: 2
+  },
+  {
+    question: "A temperature changes from -12°C to 7°C. By how many degrees did it increase?",
+    options: ["5°C", "17°C", "19°C", "21°C"],
+    answer: 2
+  },
+  {
+    question: "A temperature changes from 15°C to -9°C. By how many degrees did it decrease?",
+    options: ["6°C", "24°C", "26°C", "−24°C"],
+    answer: 1
+  },
+  {
+    question: "At 6 AM the temperature was -3°C. By noon it increased by 11°C. What was the noon temperature?",
+    options: ["-14°C", "8°C", "14°C", "-8°C"],
+    answer: 1
+  },
+  {
+    question: "A freezer is at -18°C. Its temperature rises by 5°C and then falls by 9°C. What is the final temperature?",
+    options: ["-22°C", "-14°C", "-4°C", "4°C"],
+    answer: 0
+  },
+  {
+    question: "A lift starts at floor -6, goes up 10 floors, then down 3 floors. Where does it stop?",
+    options: ["-1", "1", "7", "-19"],
+    answer: 0
+  },
+  {
+    question: "A lift starts at floor 5, goes down 12 floors, then up 4 floors. Where does it stop?",
+    options: ["-3", "3", "-11", "11"],
+    answer: 0
+  },
+  {
+    question: "A submarine is at -40 m. It rises 15 m and then descends 8 m. What is its final position?",
+    options: ["-33 m", "-17 m", "−63 m", "33 m"],
+    answer: 0
+  },
+  {
+    question: "A diver is at -30 m and moves up 12 m twice. What is the final position?",
+    options: ["-54 m", "-6 m", "6 m", "54 m"],
+    answer: 1
+  },
+  {
+    question: "Which calculation gives a result of -10?",
+    options: ["-7 + 3", "4 - 14", "10 + 2", "-15 - 5"],
+    answer: 1
+  },
+  {
+    question: "Which calculation gives a result of 12?",
+    options: ["-5 + 17", "-20 + 8", "5 - 17", "-12 + 0"],
+    answer: 0
+  },
+  {
+    question: "If a = -7 and b = 12, what is a + b?",
+    options: ["-19", "-5", "5", "19"],
+    answer: 2
+  },
+  {
+    question: "If x = -15 and y = -8, what is x - y?",
+    options: ["-23", "-7", "7", "23"],
+    answer: 1
+  },
+  {
+    question: "If p = 18 and q = -25, what is p - q?",
+    options: ["-7", "7", "43", "-43"],
+    answer: 2
+  },
+  {
+    question: "If m = -20 and n = 13, what is m + n?",
+    options: ["-33", "-7", "7", "33"],
+    answer: 1
+  },
+  {
+    question: "Which expression is equal to -18?",
+    options: ["-10 + (-8)", "10 - 8", "-25 + 8", "25 - 7"],
+    answer: 0
+  },
+  {
+    question: "Which expression is equal to 18?",
+    options: ["-10 + (-8)", "-25 + 7", "30 - 12", "-5 - 13"],
+    answer: 2
+  },
+  {
+    question: "Which pair has the same sum?",
+    options: ["-8 + 5 and -10 + 7", "-6 + 2 and 5 - 8", "9 + (-4) and -9 + 4", "-7 + 3 and 7 - 3"],
+    answer: 0
+  },
+  {
+    question: "What is the sum of all integers from -3 to 3?",
+    options: ["-3", "0", "3", "6"],
+    answer: 1
+  },
+  {
+    question: "What is the sum of all integers from -5 to 5?",
+    options: ["-5", "0", "5", "10"],
+    answer: 1
+  },
+  {
+    question: "What is the sum of -10, -8, -6, 6, 8 and 10?",
+    options: ["-2", "0", "2", "20"],
+    answer: 1
+  },
+  {
+    question: "A number is 7 units from zero and lies on the negative side. What is the number?",
+    options: ["7", "-7", "0", "-14"],
+    answer: 1
+  },
+  {
+    question: "The opposite of a number is -16. What is the number?",
+    options: ["-16", "0", "8", "16"],
+    answer: 3
+  },
+  {
+    question: "If the temperature is -5°C and it falls by 8°C, what is the new temperature?",
+    options: ["3°C", "-3°C", "13°C", "-13°C"],
+    answer: 3
+  },
+  {
+    question: "If the temperature is -5°C and it rises by 8°C, what is the new temperature?",
+    options: ["3°C", "-3°C", "13°C", "-13°C"],
+    answer: 0
+  },
+  {
+    question: "Which number must be added to -24 to get 0?",
+    options: ["-24", "24", "0", "48"],
+    answer: 1
+  },
+  {
+    question: "Which number must be subtracted from 17 to get -6?",
+    options: ["11", "23", "-23", "-11"],
+    answer: 1
+  },
+  {
+    question: "What is -100 + 45?",
+    options: ["-145", "-55", "55", "145"],
+    answer: 1
+  },
+  {
+    question: "What is 100 + (-45)?",
+    options: ["-145", "-55", "55", "145"],
+    answer: 2
   },
 ],
+
 };
 
 export default mathematicsClass6;
