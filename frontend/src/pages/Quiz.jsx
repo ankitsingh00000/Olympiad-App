@@ -1,5 +1,6 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useSearchParams, useNavigate } from "react-router-dom";
+import { App as CapacitorApp } from "@capacitor/app";
 import { getQuestionBank } from "../data/questionGenerator";
 
 import mathematicsClass1 from "../data/questions/class1/mathematics";
@@ -132,14 +133,11 @@ function Quiz() {
   const subject = searchParams.get("subject") || "Mathematics";
   const chapter = searchParams.get("chapter") || "1";
 
-  const classBank = questionBanks[classNumber]?.[subject];
-
-  const chapterQuestions = Array.isArray(classBank)
-    ? classBank[chapter]
-    : null;
-
   const generatedQuestions =
     getQuestionBank(classNumber)?.[subject] || [];
+
+  const chapterQuestions =
+    questionBanks[classNumber]?.[subject]?.[chapter];
 
   const questions =
     Array.isArray(chapterQuestions) && chapterQuestions.length > 0
@@ -150,12 +148,55 @@ function Quiz() {
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [score, setScore] = useState(0);
 
+  /*
+    Android / Capacitor Back Button
+
+    Quiz page:
+    Back → previous page
+
+    If there is no previous page,
+    go to Subjects/Chapters instead of closing the app.
+  */
+  useEffect(() => {
+    let backListener;
+
+    const setupBackButton = async () => {
+      try {
+        backListener = await CapacitorApp.addListener(
+          "backButton",
+          ({ canGoBack }) => {
+            if (canGoBack) {
+              navigate(-1);
+            } else {
+              navigate(
+                `/chapters?class=${classNumber}&subject=${encodeURIComponent(
+                  subject
+                )}`,
+                { replace: true }
+              );
+            }
+          }
+        );
+      } catch (error) {
+        console.log("Capacitor back button listener unavailable.");
+      }
+    };
+
+    setupBackButton();
+
+    return () => {
+      if (backListener) {
+        backListener.remove();
+      }
+    };
+  }, [navigate, classNumber, subject]);
+
   if (questions.length === 0) {
     return (
       <div className="container py-5">
         <button
           type="button"
-          className="btn btn-outline-secondary mb-4"
+          className="btn btn-secondary mb-4"
           onClick={() => navigate(-1)}
         >
           ← Back
@@ -254,20 +295,27 @@ function Quiz() {
     setSelectedAnswer(null);
   };
 
+  const handleBack = () => {
+    navigate(-1);
+  };
+
   return (
     <div className="container py-5">
 
       {/* Back Button */}
-      <button
-        type="button"
-        className="btn btn-outline-secondary mb-4"
-        onClick={() => navigate(-1)}
-      >
-        ← Back
-      </button>
+      <div className="mb-4">
+        <button
+          type="button"
+          className="btn btn-secondary"
+          onClick={handleBack}
+        >
+          ← Back to Chapters
+        </button>
+      </div>
 
       {/* Header */}
       <div className="text-center mb-4">
+
         <h1 className="fw-bold">
           🏆 Olympiad Quiz
         </h1>
@@ -275,6 +323,7 @@ function Quiz() {
         <p className="text-muted">
           Class {classNumber} • {subject} • Chapter {chapter}
         </p>
+
       </div>
 
       {/* Quiz Card */}
@@ -282,6 +331,7 @@ function Quiz() {
 
         {/* Question Info */}
         <div className="d-flex justify-content-between mb-4">
+
           <strong>
             Question {currentQuestion + 1} / {questions.length}
           </strong>
@@ -289,6 +339,7 @@ function Quiz() {
           <strong className="text-success">
             Score: {score}
           </strong>
+
         </div>
 
         {/* Question */}
@@ -300,16 +351,22 @@ function Quiz() {
         <div className="d-grid gap-3">
 
           {question.options.map((option, index) => {
+
             let buttonClass =
               "btn btn-outline-primary text-start";
 
             if (selectedAnswer !== null) {
+
               if (index === question.answer) {
+
                 buttonClass =
                   "btn btn-success text-start";
+
               } else if (index === selectedAnswer) {
+
                 buttonClass =
                   "btn btn-danger text-start";
+
               }
             }
 
@@ -330,6 +387,7 @@ function Quiz() {
 
         {/* Next / Finish */}
         {selectedAnswer !== null && (
+
           <button
             type="button"
             className="btn btn-primary mt-4"
@@ -339,9 +397,11 @@ function Quiz() {
               ? "🏁 Finish Quiz"
               : "➡️ Next Question"}
           </button>
+
         )}
 
       </div>
+
     </div>
   );
 }
