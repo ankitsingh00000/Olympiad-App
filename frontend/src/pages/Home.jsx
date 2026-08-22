@@ -1,6 +1,26 @@
 import { Link } from "react-router-dom";
 
 function Home() {
+
+  const handleShare = async () => {
+    const shareData = {
+      title: "Olympiad Learning",
+      text: "🏆 Try Olympiad Learning — Practice Math, Science, English & GK!",
+      url: window.location.origin,
+    };
+
+    try {
+      if (navigator.share) {
+        await navigator.share(shareData);
+      } else {
+        await navigator.clipboard.writeText(shareData.url);
+        alert("📋 App link copied!");
+      }
+    } catch (error) {
+      console.log("Share cancelled");
+    }
+  };
+
   return (
     <div className="min-vh-100 bg-light">
 
@@ -11,12 +31,21 @@ function Home() {
             🏆 Olympiad Learning
           </span>
 
-          <Link
-            to="/classes"
-            className="btn btn-light"
-          >
-            Start Learning
-          </Link>
+          <div className="d-flex gap-2">
+            <button
+              onClick={handleShare}
+              className="btn btn-warning"
+            >
+              📤 Share App
+            </button>
+
+            <Link
+              to="/classes"
+              className="btn btn-light"
+            >
+              Start Learning
+            </Link>
+          </div>
         </div>
       </nav>
 
@@ -77,12 +106,14 @@ function Home() {
         </h2>
 
         <div className="text-center mb-5">
+
           <Link
             to="/dashboard"
             className="btn btn-primary btn-lg"
           >
             📊 View My Progress
           </Link>
+
         </div>
 
         <div className="row g-4">
