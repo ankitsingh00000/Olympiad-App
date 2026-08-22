@@ -1,23 +1,95 @@
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
 function Home() {
+  const [installPrompt, setInstallPrompt] = useState(null);
+  const [isInstalled, setIsInstalled] = useState(false);
+
+  const APP_URL = "https://olympiad-app-msws.onrender.com/";
+
+  useEffect(() => {
+    const handleBeforeInstallPrompt = (event) => {
+      event.preventDefault();
+      setInstallPrompt(event);
+    };
+
+    const handleAppInstalled = () => {
+      setIsInstalled(true);
+      setInstallPrompt(null);
+    };
+
+    window.addEventListener(
+      "beforeinstallprompt",
+      handleBeforeInstallPrompt
+    );
+
+    window.addEventListener("appinstalled", handleAppInstalled);
+
+    // Check if app is already installed
+    if (window.matchMedia("(display-mode: standalone)").matches) {
+      setIsInstalled(true);
+    }
+
+    return () => {
+      window.removeEventListener(
+        "beforeinstallprompt",
+        handleBeforeInstallPrompt
+      );
+
+      window.removeEventListener("appinstalled", handleAppInstalled);
+    };
+  }, []);
 
   const handleShare = async () => {
     const shareData = {
       title: "Olympiad Learning",
       text: "🏆 Try Olympiad Learning — Practice Math, Science, English & GK!",
-      url: window.location.origin,
+      url: APP_URL,
     };
 
     try {
       if (navigator.share) {
         await navigator.share(shareData);
       } else {
-        await navigator.clipboard.writeText(shareData.url);
+        await navigator.clipboard.writeText(APP_URL);
         alert("📋 App link copied!");
       }
     } catch (error) {
       console.log("Share cancelled");
+    }
+  };
+
+  const handleInstall = async () => {
+    if (isInstalled) {
+      alert("✅ Olympiad Learning is already installed!");
+      return;
+    }
+
+    if (installPrompt) {
+      installPrompt.prompt();
+
+      const { outcome } = await installPrompt.userChoice;
+
+      if (outcome === "accepted") {
+        setInstallPrompt(null);
+      }
+
+      return;
+    }
+
+    // Fallback when browser does not provide install prompt
+    const isIOS =
+      /iPad|iPhone|iPod/.test(navigator.userAgent) &&
+      !window.MSStream;
+
+    if (isIOS) {
+      alert(
+        "📲 iPhone/iPad: Safari me Share button dabao → Add to Home Screen select karo."
+      );
+    } else {
+      alert(
+        "📲 Install option browser menu me milega. Chrome ke ⋮ menu par click karo → Install app / Add to Home screen select karo."
+      );
     }
   };
 
@@ -31,7 +103,8 @@ function Home() {
             🏆 Olympiad Learning
           </span>
 
-          <div className="d-flex gap-2">
+          <div className="d-flex gap-2 flex-wrap justify-content-end">
+
             <button
               onClick={handleShare}
               className="btn btn-warning"
@@ -39,12 +112,22 @@ function Home() {
               📤 Share App
             </button>
 
+            {!isInstalled && (
+              <button
+                onClick={handleInstall}
+                className="btn btn-success"
+              >
+                📲 Install App
+              </button>
+            )}
+
             <Link
               to="/classes"
               className="btn btn-light"
             >
               Start Learning
             </Link>
+
           </div>
         </div>
       </nav>
@@ -65,12 +148,23 @@ function Home() {
               and improve your knowledge step by step.
             </p>
 
-            <Link
-              to="/classes"
-              className="btn btn-primary btn-lg mt-3"
-            >
-              🚀 Start Practice
-            </Link>
+            <div className="d-flex gap-2 flex-wrap mt-3">
+
+              <Link
+                to="/classes"
+                className="btn btn-primary btn-lg"
+              >
+                🚀 Start Practice
+              </Link>
+
+              <button
+                onClick={handleInstall}
+                className="btn btn-success btn-lg"
+              >
+                📲 Install App
+              </button>
+
+            </div>
 
           </div>
 
